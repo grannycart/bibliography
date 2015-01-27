@@ -1,0 +1,31 @@
+\documentclass[12pt]{article}
+\usepackage{url} % I think I need this to format URLs in the bib
+%% Define a new 'leo' style for the package that will use a smaller font.
+\makeatletter
+\def\url@leostyle{%
+  \@ifundefined{selectfont}{\def\UrlFont{\sf}}{\def\UrlFont{\small\ttfamily}}}
+\makeatother
+%% Now actually use the newly defined style.
+\urlstyle{leo}
+
+
+\begin{document}
+\begin{center}
+   {\Large\textbf{Example Annotated Bibliography}}
+\medskip
+
+   {\large  Mark Torrey
+\medskip
+
+\medskip
+
+           \today
+   }
+\end{center}
+\nocite{*} % forces inclusion of all references
+
+\bibliographystyle{plain}
+% plain-annote is the style that includes annotations.
+\bibliography{urbanism_bibliography}
+% urbanism_bibliography refers to the .bib file
+\end{document}
