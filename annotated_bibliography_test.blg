@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: ./annotated_bibliography_test.aux
+The style file: plain.bst
+Database file #1: a-new-ark.bib
+Warning--to sort, need author or key in Blank-article-entry
+Warning--empty year in ukercenergy
+You've used 24 entries,
+            2118 wiz_defined-function locations,
+            613 strings with 6923 characters,
+and the built_in function-call counts, 5518 in all, are:
+= -- 518
+> -- 192
+< -- 1
++ -- 82
+- -- 56
+* -- 225
+:= -- 934
+add.period$ -- 70
+call.type$ -- 24
+change.case$ -- 89
+chr.to.int$ -- 0
+cite$ -- 26
+duplicate$ -- 240
+empty$ -- 540
+format.name$ -- 56
+if$ -- 1187
+int.to.chr$ -- 0
+int.to.str$ -- 24
+missing$ -- 23
+newline$ -- 121
+num.names$ -- 46
+pop$ -- 173
+preamble$ -- 1
+purify$ -- 75
+quote$ -- 0
+skip$ -- 187
+stack$ -- 0
+substring$ -- 204
+swap$ -- 33
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 78
+warning$ -- 2
+while$ -- 53
+width$ -- 26
+write$ -- 231
+(There were 2 warnings)
