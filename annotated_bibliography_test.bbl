@@ -1,23 +1,36 @@
 \begin{thebibliography}{10}
 
-\bibitem{Blank-article-entry}
+\bibitem{Blankmiscentry}
 \url{}.
+
+\bibitem{Blankarticleentry}
+
 
 \bibitem{alinsky1971rules}
 S.D. Alinsky.
 \newblock {\em {Rules for radicals}}.
 \newblock Vintage Books New York, 1971.
 
+\bibitem{AngottiULURP}
+Tom Angotti.
+\newblock Land use and the new york city charter.
+
+\bibitem{richpeople}
+Josh Barro.
+\newblock A 'rich’ person is someone who makes 50 percent more than you.
+
 \bibitem{bettencourt2010unified}
 L.~Bettencourt and G.~West.
 \newblock {A unified theory of urban living}.
 \newblock {\em Nature}, 467(7318):912--913, 2010.
 
+\bibitem{afghanwar}
+E.B. Boyd.
+\newblock http://www.fastcompany.com/3041147/getting-out-of-afghanistan#!
+
 \bibitem{MM-peak-travel}
 Melinda Burns.
 \newblock A road less traveled.
-\newblock
-  \url{http://www.miller-mccune.com/environment/a-road-less-traveled-26524/}.
 
 \bibitem{caro1975power}
 R.A. Caro.
@@ -27,7 +40,6 @@ R.A. Caro.
 \bibitem{Model-Miss}
 Kristi~Dykema Cheramie.
 \newblock The scale of nature: Modeling the mississippi river.
-\newblock \url{http://places.designobserver.com/entry.html?entry=25658}.
 
 \bibitem{davies2004planet}
 M.~Davies.
@@ -39,6 +51,14 @@ M.~Davis.
 \newblock {\em {City of quartz: Excavating the future in Los Angeles}}.
 \newblock Vintage, 1992.
 
+\bibitem{floridainequality}
+Richard Florida.
+\newblock Inequality and the growth of cities.
+
+\bibitem{nnt}
+Austin \& Aaron E.~Carroll Frakt.
+\newblock Can this treatment help me? there’s a statistic for that.
+
 \bibitem{gould1992bully}
 S.J. Gould.
 \newblock {\em {Bully for brontosaurus: Reflections in natural history}}.
@@ -47,12 +67,28 @@ S.J. Gould.
 \bibitem{JSK-NY-trans-comm}
 MICHAEL~M. GRYNBAUM.
 \newblock For city’s transportation chief, kudos and criticism.
-\newblock \url{http://www.nytimes.com/2011/03/06/nyregion/06sadik-khan.html}.
 
 \bibitem{gutheim1964urban}
 F.~Gutheim.
 \newblock {Urban space and urban design}.
 \newblock {\em Cities and Space}, pages 103--131, 1964.
+
+\bibitem{midwesturbanchangesliders}
+Shane Hampton.
+\newblock 60 years of urban change: Midwest.
+\newblock \url{http://iqc.ou.edu/2014/12/12/60yrsmidwest/}.
+
+\bibitem{koljonen2012spontaneous}
+Virve Koljonen and Nicolas Kluger.
+\newblock Spontaneous human combustion in the light of the 21st century.
+\newblock {\em Journal of Burn Care \& Research}, 33(3):e102--e108, 2012.
+
+\bibitem{lieberman2004effects}
+Daniel~E Lieberman, Gail~E Krovitz, Franklin~W Yates, Maureen Devlin, and
+  Marisa~St Claire.
+\newblock Effects of food processing on masticatory strain and craniofacial
+  growth in a retrognathic face.
+\newblock {\em Journal of Human Evolution}, 46(6):655--677, 2004.
 
 \bibitem{lynch1984site}
 K.~Lynch and G.~Hack.
@@ -79,19 +115,22 @@ H.W.J. Rittel and M.M. Webber.
 James~S. Russell.
 \newblock Biloxi clues: The gulf coast community design studio provides a model
   for rebuilding after katrina.
-\newblock
-  \url{http://archrecord.construction.com/features/humanitarianDesign/0810biloxi-1.asp}.
 
 \bibitem{nytimes-detroit-desertion}
 Katharine~Q. Seelye.
 \newblock Detroit census confirms a desertion like no other.
-\newblock
-  \url{http://www.nytimes.com/2011/03/23/us/23detroit.html?src=me&ref=homepage}.
+
+\bibitem{citylabsegregatonkey}
+Alana Semuels.
+\newblock Is ending segregation the key to ending poverty?
 
 \bibitem{shaer-not-cope}
 Matthew Shaer.
 \newblock Not quite copenhagen: Is new york too new york for bike lanes?
-\newblock \url{http://nymag.com/news/features/bike-wars-2011-3/}.
+
+\bibitem{heroinaddiction}
+Alix Spiegel.
+\newblock What heroin addiction tells us about changing bad habits.
 
 \bibitem{stein1973towards}
 CS~Stein.
@@ -109,7 +148,12 @@ UK~UKERC.
 \newblock {Energy Research Centre, 2007. The Rebound Effect--an assessment of
   the evidence for economy-wide energy savings from improved energy
   efficiency}.
-\newblock {\em Report. London}.
+\newblock {\em Report. London}, 2007.
+
+\bibitem{gentrificationreal}
+Kim Velsey.
+\newblock Gentrification may be complicated, but it’s not a myth and neither
+  is displacement.
 
 \bibitem{weizman2007hollow}
 E.~Weizman.
@@ -119,8 +163,6 @@ E.~Weizman.
 \bibitem{prop-tax-philly}
 Timothy Williams.
 \newblock Cities mobilize to help those threatened by gentrification.
-\newblock
-  \url{http://www.nytimes.com/2014/03/04/us/cities-helping-residents-resist-the-new-gentry.html}.
 
 \bibitem{wingo1963cities}
 L.~Wingo et~al.
