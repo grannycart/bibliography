@@ -1,10 +1,10 @@
 - Compiling biblatex is really dumb:
 pdflatex .tex file
-biber .aux file
+biber [the file name without an extension]
 pdflatex .tex file, again! (maybe one more time for good measure.)
 
 - Have to include the hyperref package in your .tex file for urls to render properly.
+It looks like I have to additionally put the URLs inside \url to render properly in pdflatex.
 
-- Use biber not bibtex in order to get more modern (you know, like newer than 1999) handling of urls as part of article citations.
-
+- you have to do \usepackage[biblatex] in your .tex file as well in order to switch to biblatex and get more modern formatting.
 
