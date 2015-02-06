@@ -1,0 +1,36 @@
+\documentclass{article}
+\usepackage{hyperref} % This is necessary to format urls correctly
+%% Define a new 'leo' style for the package that will use a smaller font.
+\usepackage[style=apa]{biblatex} % Including this line gives you more modern formatting. 
+%biber is the more modern backend instead of bibtex. style is the style you want to use.
+
+%\makeatletter
+% \def\url@leostyle{%
+%  \@ifundefined{selectfont}{\def\UrlFont{\sf}}{\def\UrlFont{\small\ttfamily}}}
+%\makeatother
+%% Now actually use the newly defined style.
+%\urlstyle{leo}
+% My guess the above 6 lines I got from some out-of-date latex help source, and they are unecessary.
+
+%\bibliographystyle{plain}
+% plain-annote is the style that includes annotations.
+% Not sure if the above 2 lines work with the biblatex option\ldots
+\addbibresource{a-new-ark.bib} %this is probably only going to work with biblatex. with old bibtex you have to use \bibliography{a-new-ark}
+
+\begin{document}
+\begin{center}
+   {\Large\textbf{Example Bibliography}}
+\medskip
+
+   {\large By Author
+\medskip
+
+\medskip
+
+           \today
+   }
+\end{center}
+This is just some filler text.\cite{caro1975power}
+\nocite{*} % forces inclusion of all references
+\printbibliography
+\end{document}
