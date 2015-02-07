@@ -1,32 +1,17 @@
-[1] Config.pm:321> INFO - This is Biber 1.9
+[0] Config.pm:321> INFO - This is Biber 1.9
 [1] Config.pm:324> INFO - Logfile is './bibliography_test.blg'
-[146] biber:277> INFO - === Thu Feb  5, 2015, 23:03:55
-[146] Biber.pm:334> INFO - Reading './bibliography_test.bcf'
-[532] Biber.pm:633> INFO - Using all citekeys in bib section 0
-[641] Biber.pm:3052> INFO - Processing section 0
-[770] Biber.pm:3190> INFO - Looking for bibtex format file 'a-new-ark.bib' for section 0
-[794] bibtex.pm:979> INFO - Decoding LaTeX character macros into UTF-8
-[813] bibtex.pm:853> INFO - Found BibTeX data source 'a-new-ark.bib'
-[917] Utils.pm:144> WARN - Datamodel: Entry 'Blankarticleentry' (a-new-ark.bib): Invalid format 'yyyy-mm-dd' of date field 'date' - ignoring
-[1002] Utils.pm:144> WARN - The field 'journaltitle' in entry 'AngottiULURP' cannot be null, deleting it
-[1002] Utils.pm:144> WARN - The field 'author' in entry 'Blankmiscentry' cannot be null, deleting it
-[1005] Utils.pm:144> WARN - The field 'title' in entry 'Blankmiscentry' cannot be null, deleting it
-[1006] Utils.pm:144> WARN - The field 'author' in entry 'Blankarticleentry' cannot be null, deleting it
-[1006] Utils.pm:144> WARN - The field 'journaltitle' in entry 'Blankarticleentry' cannot be null, deleting it
-[1006] Utils.pm:144> WARN - The field 'title' in entry 'Blankarticleentry' cannot be null, deleting it
-[1006] Utils.pm:144> WARN - The field 'url' in entry 'Blankarticleentry' cannot be null, deleting it
-[2543] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[2544] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[2545] Biber.pm:2929> INFO - Sorting list 'apa' of type 'entry' with scheme 'apa' and locale 'en-US'
-[2545] Biber.pm:2933> INFO - No sort tailoring available for locale 'en-US'
-[3156] bbl.pm:517> INFO - Writing './bibliography_test.bbl' with encoding 'ascii'
-[3161] Utils.pm:144> WARN - The entry 'richpeople' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
-[3175] Utils.pm:144> WARN - The entry 'Model-Miss' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
-[3178] Utils.pm:144> WARN - The entry 'nnt' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
-[3186] Utils.pm:144> WARN - The entry 'JSK-NY-trans-comm' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
-[3198] Utils.pm:144> WARN - The entry 'citylabsegregatonkey' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
-[3205] Utils.pm:144> WARN - The entry 'shaer-not-cope' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
-[3208] Utils.pm:144> WARN - The entry 'cohastra' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
-[3210] Utils.pm:144> WARN - The entry 'gentrificationreal' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
-[3221] bbl.pm:606> INFO - Output to ./bibliography_test.bbl
-[3226] Biber.pm:107> INFO - WARNINGS: 16
+[146] biber:277> INFO - === Sat Feb  7, 2015, 17:12:39
+[147] Biber.pm:334> INFO - Reading './bibliography_test.bcf'
+[508] Biber.pm:633> INFO - Using all citekeys in bib section 0
+[617] Biber.pm:3052> INFO - Processing section 0
+[747] Biber.pm:3190> INFO - Looking for bibtex format file 'a-new-ark.bib' for section 0
+[763] bibtex.pm:979> INFO - Decoding LaTeX character macros into UTF-8
+[785] bibtex.pm:853> INFO - Found BibTeX data source 'a-new-ark.bib'
+[971] Utils.pm:144> WARN - The field 'journaltitle' in entry 'AngottiULURP' cannot be null, deleting it
+[2304] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2305] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2305] Biber.pm:2929> INFO - Sorting list 'nty' of type 'entry' with scheme 'nty' and locale 'en-US'
+[2305] Biber.pm:2933> INFO - No sort tailoring available for locale 'en-US'
+[2804] bbl.pm:517> INFO - Writing './bibliography_test.bbl' with encoding 'UTF-8'
+[2813] bbl.pm:606> INFO - Output to ./bibliography_test.bbl
+[2813] Biber.pm:107> INFO - WARNINGS: 1

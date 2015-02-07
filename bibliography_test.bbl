@@ -18,13 +18,13 @@
 
 
 \refsection{0}
-  \sortlist{apa}{apa}
+  \sortlist{nty}{nty}
     \entry{alinsky1971rules}{book}{}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=65d13ff41939593974ed52c4ff54a4ab}{Alinsky}{A\bibinitperiod}{S.D.}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=65d13ff41939593974ed52c4ff54a4ab}{Alinsky}{A\bibinitperiod}{S.D.}{S\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{uniquename=0,hash=65d13ff41939593974ed52c4ff54a4ab}{Alinsky}{A\bibinitperiod}{S.D.}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=65d13ff41939593974ed52c4ff54a4ab}{Alinsky}{A\bibinitperiod}{S.D.}{S\bibinitperiod}{}{}{}{}}%
       }
       \list{publisher}{1}{%
         {Vintage Books New York}%
@@ -33,55 +33,72 @@
       \strng{fullhash}{65d13ff41939593974ed52c4ff54a4ab}
       \field{sortinit}{A}
       \field{sortinithash}{c8a29dea43e9d2645817723335a4dbe8}
-      \field{labelyear}{1971}
-      \field{datelabelsource}{year}
       \field{labeltitle}{{Rules for radicals}}
       \field{title}{{Rules for radicals}}
       \field{year}{1971}
     \endentry
-    \entry{AngottiULURP}{article}{}
+    \entry{allison1971essence}{book}{}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=8b06df158adf8f8f23c49be19c6976d6}{Angotti}{A\bibinitperiod}{Tom}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=976c278fcbedbc5497b397e60a7890cd}{Allison}{A\bibinitperiod}{G.T.}{G\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{uniquename=0,hash=8b06df158adf8f8f23c49be19c6976d6}{Angotti}{A\bibinitperiod}{Tom}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=976c278fcbedbc5497b397e60a7890cd}{Allison}{A\bibinitperiod}{G.T.}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Little, Brown}%
+      }
+      \strng{namehash}{976c278fcbedbc5497b397e60a7890cd}
+      \strng{fullhash}{976c278fcbedbc5497b397e60a7890cd}
+      \field{sortinit}{A}
+      \field{sortinithash}{c8a29dea43e9d2645817723335a4dbe8}
+      \field{labeltitle}{Essence of decisi{ó}n: explaining the Cuban missile crisis}
+      \field{title}{Essence of decisi{ó}n: explaining the Cuban missile crisis}
+      \field{year}{1971}
+      \verb{url}
+      \verb https://books.google.com/books?id=EZ94AAAAMAAJ
+      \endverb
+    \endentry
+    \entry{AngottiULURP}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=8b06df158adf8f8f23c49be19c6976d6}{Angotti}{A\bibinitperiod}{Tom}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=8b06df158adf8f8f23c49be19c6976d6}{Angotti}{A\bibinitperiod}{Tom}{T\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{8b06df158adf8f8f23c49be19c6976d6}
       \strng{fullhash}{8b06df158adf8f8f23c49be19c6976d6}
       \field{sortinit}{A}
       \field{sortinithash}{c8a29dea43e9d2645817723335a4dbe8}
-      \field{labelyear}{nodate}
       \field{labeltitle}{LAND USE AND THE NEW YORK CITY CHARTER}
       \field{howpublished}{\url{http://www.hunter.cuny.edu/ccpd/repository/files/charterreport-angotti-2.pdf}}
       \field{title}{LAND USE AND THE NEW YORK CITY CHARTER}
     \endentry
     \entry{richpeople}{article}{}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=cefd04942a7b934ceab7899d53caccb8}{Barro}{B\bibinitperiod}{Josh}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=cefd04942a7b934ceab7899d53caccb8}{Barro}{B\bibinitperiod}{Josh}{J\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{uniquename=0,hash=cefd04942a7b934ceab7899d53caccb8}{Barro}{B\bibinitperiod}{Josh}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=cefd04942a7b934ceab7899d53caccb8}{Barro}{B\bibinitperiod}{Josh}{J\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{cefd04942a7b934ceab7899d53caccb8}
       \strng{fullhash}{cefd04942a7b934ceab7899d53caccb8}
       \field{sortinit}{B}
       \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
-      \field{labelyear}{nodate}
-      \field{labeltitle}{A 'Rich\x{fffd}\x{fffd}\x{fffd} Person Is Someone Who Makes 50 Percent More Than You}
+      \field{labeltitle}{A 'Rich’ Person Is Someone Who Makes 50 Percent More Than You}
       \field{journaltitle}{New York Times}
-      \field{title}{A 'Rich\x{fffd}\x{fffd}\x{fffd} Person Is Someone Who Makes 50 Percent More Than You}
+      \field{title}{A 'Rich’ Person Is Someone Who Makes 50 Percent More Than You}
       \verb{url}
       \verb http://www.nytimes.com/2015/01/29/upshot/why-obamas-proposal-for-529s-had-no-chance.html
       \endverb
     \endentry
     \entry{bettencourt2010unified}{article}{}
       \name{labelname}{2}{}{%
-        {{uniquename=0,hash=00cd2c706130acdf6de05caaeeca0700}{Bettencourt}{B\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=25ed9825fbd7e2b48120f6108ee4b6e0}{West}{W\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=00cd2c706130acdf6de05caaeeca0700}{Bettencourt}{B\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=25ed9825fbd7e2b48120f6108ee4b6e0}{West}{W\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{2}{}{%
-        {{uniquename=0,hash=00cd2c706130acdf6de05caaeeca0700}{Bettencourt}{B\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=25ed9825fbd7e2b48120f6108ee4b6e0}{West}{W\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=00cd2c706130acdf6de05caaeeca0700}{Bettencourt}{B\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=25ed9825fbd7e2b48120f6108ee4b6e0}{West}{W\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
       }
       \list{publisher}{1}{%
         {Nature Publishing Group}%
@@ -90,8 +107,6 @@
       \strng{fullhash}{3b28c9af07af7da0983509b9e9d0778b}
       \field{sortinit}{B}
       \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
-      \field{labelyear}{2010}
-      \field{datelabelsource}{year}
       \field{labeltitle}{{A unified theory of urban living}}
       \field{issn}{0028-0836}
       \field{journaltitle}{Nature}
@@ -103,16 +118,15 @@
     \endentry
     \entry{afghanwar}{article}{}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=3f8e9b47c2b0f587fd4046844fa89af5}{Boyd}{B\bibinitperiod}{E.B.}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=3f8e9b47c2b0f587fd4046844fa89af5}{Boyd}{B\bibinitperiod}{E.B.}{E\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{uniquename=0,hash=3f8e9b47c2b0f587fd4046844fa89af5}{Boyd}{B\bibinitperiod}{E.B.}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=3f8e9b47c2b0f587fd4046844fa89af5}{Boyd}{B\bibinitperiod}{E.B.}{E\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{3f8e9b47c2b0f587fd4046844fa89af5}
       \strng{fullhash}{3f8e9b47c2b0f587fd4046844fa89af5}
       \field{sortinit}{B}
       \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
-      \field{labelyear}{nodate}
       \field{labeltitle}{Getting Out Of Afghanistan}
       \field{journaltitle}{Fast Company}
       \field{title}{Getting Out Of Afghanistan}
@@ -122,16 +136,15 @@
     \endentry
     \entry{MM-peak-travel}{article}{}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=f6613647834a62a50420b93636ecfa2c}{Burns}{B\bibinitperiod}{Melinda}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=f6613647834a62a50420b93636ecfa2c}{Burns}{B\bibinitperiod}{Melinda}{M\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{uniquename=0,hash=f6613647834a62a50420b93636ecfa2c}{Burns}{B\bibinitperiod}{Melinda}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=f6613647834a62a50420b93636ecfa2c}{Burns}{B\bibinitperiod}{Melinda}{M\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{f6613647834a62a50420b93636ecfa2c}
       \strng{fullhash}{f6613647834a62a50420b93636ecfa2c}
       \field{sortinit}{B}
       \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
-      \field{labelyear}{nodate}
       \field{labeltitle}{A Road Less Traveled}
       \field{journaltitle}{Pacific Standard}
       \field{title}{A Road Less Traveled}
@@ -141,10 +154,10 @@
     \endentry
     \entry{caro1975power}{book}{}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=769acead878746d02877362e40d6e617}{Caro}{C\bibinitperiod}{R.A.}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=769acead878746d02877362e40d6e617}{Caro}{C\bibinitperiod}{R.A.}{R\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{uniquename=0,hash=769acead878746d02877362e40d6e617}{Caro}{C\bibinitperiod}{R.A.}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=769acead878746d02877362e40d6e617}{Caro}{C\bibinitperiod}{R.A.}{R\bibinitperiod}{}{}{}{}}%
       }
       \list{publisher}{1}{%
         {Vintage}%
@@ -153,8 +166,6 @@
       \strng{fullhash}{769acead878746d02877362e40d6e617}
       \field{sortinit}{C}
       \field{sortinithash}{dd0e4ddd17488a6ebf12cd6de2f2c237}
-      \field{labelyear}{1975}
-      \field{datelabelsource}{year}
       \field{labeltitle}{{The power broker: Robert Moses and the fall of New York}}
       \field{annotation}{This is just a test of the annote tag, on my favorite book.}
       \field{isbn}{0394720245}
@@ -163,16 +174,15 @@
     \endentry
     \entry{Model-Miss}{article}{}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=6581a61bbb2242cc1700927eabf2ef6b}{Cheramie}{C\bibinitperiod}{Kristi\bibnamedelima Dykema}{K\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=6581a61bbb2242cc1700927eabf2ef6b}{Cheramie}{C\bibinitperiod}{Kristi\bibnamedelima Dykema}{K\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{uniquename=0,hash=6581a61bbb2242cc1700927eabf2ef6b}{Cheramie}{C\bibinitperiod}{Kristi\bibnamedelima Dykema}{K\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=6581a61bbb2242cc1700927eabf2ef6b}{Cheramie}{C\bibinitperiod}{Kristi\bibnamedelima Dykema}{K\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{6581a61bbb2242cc1700927eabf2ef6b}
       \strng{fullhash}{6581a61bbb2242cc1700927eabf2ef6b}
       \field{sortinit}{C}
       \field{sortinithash}{dd0e4ddd17488a6ebf12cd6de2f2c237}
-      \field{labelyear}{nodate}
       \field{labeltitle}{The Scale of Nature: Modeling the Mississippi River}
       \field{journaltitle}{Design Observer}
       \field{title}{The Scale of Nature: Modeling the Mississippi River}
@@ -180,19 +190,40 @@
       \verb http://places.designobserver.com/entry.html?entry=25658
       \endverb
     \endentry
-    \entry{davies2004planet}{article}{}
+    \entry{cronon1992nature}{book}{}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=bbf14f233ffa3419dda9df2e879c1e8d}{Davies}{D\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=3c745f56a11f443564ec3bbf797527c6}{Cronon}{C\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{uniquename=0,hash=bbf14f233ffa3419dda9df2e879c1e8d}{Davies}{D\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=3c745f56a11f443564ec3bbf797527c6}{Cronon}{C\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {W. W. Norton}%
+      }
+      \strng{namehash}{3c745f56a11f443564ec3bbf797527c6}
+      \strng{fullhash}{3c745f56a11f443564ec3bbf797527c6}
+      \field{sortinit}{C}
+      \field{sortinithash}{dd0e4ddd17488a6ebf12cd6de2f2c237}
+      \field{labeltitle}{Nature's Metropolis: Chicago and the Great West}
+      \field{isbn}{9780393308730}
+      \field{number}{pts. 2-3}
+      \field{title}{Nature's Metropolis: Chicago and the Great West}
+      \field{year}{1992}
+      \verb{url}
+      \verb http://books.google.com/books?id=jrX7XaSDnJEC
+      \endverb
+    \endentry
+    \entry{davies2004planet}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=bbf14f233ffa3419dda9df2e879c1e8d}{Davies}{D\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=bbf14f233ffa3419dda9df2e879c1e8d}{Davies}{D\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{bbf14f233ffa3419dda9df2e879c1e8d}
       \strng{fullhash}{bbf14f233ffa3419dda9df2e879c1e8d}
       \field{sortinit}{D}
       \field{sortinithash}{a01c54d1737685bc6dbf0ea0673fa44c}
-      \field{labelyear}{2004}
-      \field{datelabelsource}{year}
       \field{labeltitle}{{Planet of Slums}}
       \field{journaltitle}{New Left Review}
       \field{title}{{Planet of Slums}}
@@ -201,10 +232,10 @@
     \endentry
     \entry{davis1992city}{book}{}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=976f3309575ad3cc2803ad9ae3425bd0}{Davis}{D\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=976f3309575ad3cc2803ad9ae3425bd0}{Davis}{D\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{uniquename=0,hash=976f3309575ad3cc2803ad9ae3425bd0}{Davis}{D\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=976f3309575ad3cc2803ad9ae3425bd0}{Davis}{D\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
       }
       \list{publisher}{1}{%
         {Vintage}%
@@ -213,8 +244,6 @@
       \strng{fullhash}{976f3309575ad3cc2803ad9ae3425bd0}
       \field{sortinit}{D}
       \field{sortinithash}{a01c54d1737685bc6dbf0ea0673fa44c}
-      \field{labelyear}{1992}
-      \field{datelabelsource}{year}
       \field{labeltitle}{{City of quartz: Excavating the future in Los Angeles}}
       \field{isbn}{0679738061}
       \field{title}{{City of quartz: Excavating the future in Los Angeles}}
@@ -222,16 +251,15 @@
     \endentry
     \entry{floridainequality}{article}{}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=1c8f0b8eb45c2d49099ca87f2d41d7b4}{Florida}{F\bibinitperiod}{Richard}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=1c8f0b8eb45c2d49099ca87f2d41d7b4}{Florida}{F\bibinitperiod}{Richard}{R\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{uniquename=0,hash=1c8f0b8eb45c2d49099ca87f2d41d7b4}{Florida}{F\bibinitperiod}{Richard}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=1c8f0b8eb45c2d49099ca87f2d41d7b4}{Florida}{F\bibinitperiod}{Richard}{R\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{1c8f0b8eb45c2d49099ca87f2d41d7b4}
       \strng{fullhash}{1c8f0b8eb45c2d49099ca87f2d41d7b4}
       \field{sortinit}{F}
       \field{sortinithash}{9661cce5f16ac30b6b0c804d4583ed99}
-      \field{labelyear}{nodate}
       \field{labeltitle}{Inequality and the Growth of Cities}
       \field{journaltitle}{Citylab}
       \field{title}{Inequality and the Growth of Cities}
@@ -241,29 +269,28 @@
     \endentry
     \entry{nnt}{article}{}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=9bc8acd9415b5d733262ee60eeed12ec}{Frakt}{F\bibinitperiod}{Austin\bibnamedelimb \& Aaron\bibnamedelimb E.\bibnamedelimi Carroll}{A\bibinitperiod\bibinitdelim \~A\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=9bc8acd9415b5d733262ee60eeed12ec}{Frakt}{F\bibinitperiod}{Austin\bibnamedelimb \& Aaron\bibnamedelimb E.\bibnamedelimi Carroll}{A\bibinitperiod\bibinitdelim \~A\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{uniquename=0,hash=9bc8acd9415b5d733262ee60eeed12ec}{Frakt}{F\bibinitperiod}{Austin\bibnamedelimb \& Aaron\bibnamedelimb E.\bibnamedelimi Carroll}{A\bibinitperiod\bibinitdelim \~A\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=9bc8acd9415b5d733262ee60eeed12ec}{Frakt}{F\bibinitperiod}{Austin\bibnamedelimb \& Aaron\bibnamedelimb E.\bibnamedelimi Carroll}{A\bibinitperiod\bibinitdelim \~A\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{9bc8acd9415b5d733262ee60eeed12ec}
       \strng{fullhash}{9bc8acd9415b5d733262ee60eeed12ec}
       \field{sortinit}{F}
       \field{sortinithash}{9661cce5f16ac30b6b0c804d4583ed99}
-      \field{labelyear}{nodate}
-      \field{labeltitle}{Can This Treatment Help Me? There\x{fffd}\x{fffd}\x{fffd}s a Statistic for That}
+      \field{labeltitle}{Can This Treatment Help Me? There’s a Statistic for That}
       \field{journaltitle}{New York Times}
-      \field{title}{Can This Treatment Help Me? There\x{fffd}\x{fffd}\x{fffd}s a Statistic for That}
+      \field{title}{Can This Treatment Help Me? There’s a Statistic for That}
       \verb{url}
       \verb http://www.nytimes.com/2015/01/27/upshot/can-this-treatment-help-me-theres-a-statistic-for-that.html
       \endverb
     \endentry
     \entry{gould1992bully}{book}{}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=fc84f6495f0b62ebf387b1382f00c508}{Gould}{G\bibinitperiod}{S.J.}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=fc84f6495f0b62ebf387b1382f00c508}{Gould}{G\bibinitperiod}{S.J.}{S\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{uniquename=0,hash=fc84f6495f0b62ebf387b1382f00c508}{Gould}{G\bibinitperiod}{S.J.}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=fc84f6495f0b62ebf387b1382f00c508}{Gould}{G\bibinitperiod}{S.J.}{S\bibinitperiod}{}{}{}{}}%
       }
       \list{publisher}{1}{%
         {WW Norton \& Company}%
@@ -272,8 +299,6 @@
       \strng{fullhash}{fc84f6495f0b62ebf387b1382f00c508}
       \field{sortinit}{G}
       \field{sortinithash}{480ee01f9ffd559b3258d822f54a8ac2}
-      \field{labelyear}{1992}
-      \field{datelabelsource}{year}
       \field{labeltitle}{{Bully for brontosaurus: Reflections in natural history}}
       \field{isbn}{039330857X}
       \field{title}{{Bully for brontosaurus: Reflections in natural history}}
@@ -281,36 +306,33 @@
     \endentry
     \entry{JSK-NY-trans-comm}{article}{}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=007332cd5df072c6bcf2401bd4b2a174}{GRYNBAUM}{G\bibinitperiod}{MICHAEL\bibnamedelima M.}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=007332cd5df072c6bcf2401bd4b2a174}{GRYNBAUM}{G\bibinitperiod}{MICHAEL\bibnamedelima M.}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{uniquename=0,hash=007332cd5df072c6bcf2401bd4b2a174}{GRYNBAUM}{G\bibinitperiod}{MICHAEL\bibnamedelima M.}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=007332cd5df072c6bcf2401bd4b2a174}{GRYNBAUM}{G\bibinitperiod}{MICHAEL\bibnamedelima M.}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{007332cd5df072c6bcf2401bd4b2a174}
       \strng{fullhash}{007332cd5df072c6bcf2401bd4b2a174}
       \field{sortinit}{G}
       \field{sortinithash}{480ee01f9ffd559b3258d822f54a8ac2}
-      \field{labelyear}{nodate}
-      \field{labeltitle}{For City\x{fffd}\x{fffd}\x{fffd}s Transportation Chief, Kudos and Criticism}
+      \field{labeltitle}{For City’s Transportation Chief, Kudos and Criticism}
       \field{journaltitle}{New York Times}
-      \field{title}{For City\x{fffd}\x{fffd}\x{fffd}s Transportation Chief, Kudos and Criticism}
+      \field{title}{For City’s Transportation Chief, Kudos and Criticism}
       \verb{url}
       \verb http://www.nytimes.com/2011/03/06/nyregion/06sadik-khan.html
       \endverb
     \endentry
     \entry{gutheim1964urban}{article}{}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=90100ee7895ef62a823f02ef2af9ee26}{Gutheim}{G\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=90100ee7895ef62a823f02ef2af9ee26}{Gutheim}{G\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{uniquename=0,hash=90100ee7895ef62a823f02ef2af9ee26}{Gutheim}{G\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=90100ee7895ef62a823f02ef2af9ee26}{Gutheim}{G\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{90100ee7895ef62a823f02ef2af9ee26}
       \strng{fullhash}{90100ee7895ef62a823f02ef2af9ee26}
       \field{sortinit}{G}
       \field{sortinithash}{480ee01f9ffd559b3258d822f54a8ac2}
-      \field{labelyear}{1964}
-      \field{datelabelsource}{year}
       \field{labeltitle}{{Urban space and urban design}}
       \field{journaltitle}{Cities and Space}
       \field{title}{{Urban space and urban design}}
@@ -319,28 +341,27 @@
     \endentry
     \entry{midwesturbanchangesliders}{misc}{}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=edf46df98e4eec482eebd6bf503965a4}{Hampton}{H\bibinitperiod}{Shane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=edf46df98e4eec482eebd6bf503965a4}{Hampton}{H\bibinitperiod}{Shane}{S\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{uniquename=0,hash=edf46df98e4eec482eebd6bf503965a4}{Hampton}{H\bibinitperiod}{Shane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=edf46df98e4eec482eebd6bf503965a4}{Hampton}{H\bibinitperiod}{Shane}{S\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{edf46df98e4eec482eebd6bf503965a4}
       \strng{fullhash}{edf46df98e4eec482eebd6bf503965a4}
       \field{sortinit}{H}
       \field{sortinithash}{95b2cb08933fe649b7e9f8beee2132b4}
-      \field{labelyear}{nodate}
       \field{labeltitle}{60 Years of Urban Change: Midwest}
       \field{howpublished}{\url{http://iqc.ou.edu/2014/12/12/60yrsmidwest/}}
       \field{title}{60 Years of Urban Change: Midwest}
     \endentry
     \entry{koljonen2012spontaneous}{article}{}
       \name{labelname}{2}{}{%
-        {{uniquename=0,hash=ea0e8de383898932a4d4dd8a78763f2f}{Koljonen}{K\bibinitperiod}{Virve}{V\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=ae0b63494f20d819f78ea8300e41aca2}{Kluger}{K\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=ea0e8de383898932a4d4dd8a78763f2f}{Koljonen}{K\bibinitperiod}{Virve}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=ae0b63494f20d819f78ea8300e41aca2}{Kluger}{K\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{2}{}{%
-        {{uniquename=0,hash=ea0e8de383898932a4d4dd8a78763f2f}{Koljonen}{K\bibinitperiod}{Virve}{V\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=ae0b63494f20d819f78ea8300e41aca2}{Kluger}{K\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=ea0e8de383898932a4d4dd8a78763f2f}{Koljonen}{K\bibinitperiod}{Virve}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=ae0b63494f20d819f78ea8300e41aca2}{Kluger}{K\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
       }
       \list{publisher}{1}{%
         {LWW}%
@@ -349,8 +370,6 @@
       \strng{fullhash}{518f366d5788cfcb7b9f460cf8e340b2}
       \field{sortinit}{K}
       \field{sortinithash}{33bf4c961fa093ee6a297ccbd88eacc0}
-      \field{labelyear}{2012}
-      \field{datelabelsource}{year}
       \field{labeltitle}{Spontaneous human combustion in the light of the 21st century}
       \field{journaltitle}{Journal of Burn Care \& Research}
       \field{number}{3}
@@ -361,18 +380,18 @@
     \endentry
     \entry{lieberman2004effects}{article}{}
       \name{labelname}{5}{}{%
-        {{uniquename=0,hash=fdf3a7a77a4fd67364c14cac3ac7ba62}{Lieberman}{L\bibinitperiod}{Daniel\bibnamedelima E}{D\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=ac4bc972696944dd6503c6a8178ce94c}{Krovitz}{K\bibinitperiod}{Gail\bibnamedelima E}{G\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=fc2bacb63bc50577371230751a2b3620}{Yates}{Y\bibinitperiod}{Franklin\bibnamedelima W}{F\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=04c8f32957e34f0f39294e1bc9f7c465}{Devlin}{D\bibinitperiod}{Maureen}{M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=4a9151e1e36ebd5f80a211faaf1fd71a}{Claire}{C\bibinitperiod}{Marisa\bibnamedelima St}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=fdf3a7a77a4fd67364c14cac3ac7ba62}{Lieberman}{L\bibinitperiod}{Daniel\bibnamedelima E}{D\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=ac4bc972696944dd6503c6a8178ce94c}{Krovitz}{K\bibinitperiod}{Gail\bibnamedelima E}{G\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=fc2bacb63bc50577371230751a2b3620}{Yates}{Y\bibinitperiod}{Franklin\bibnamedelima W}{F\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=04c8f32957e34f0f39294e1bc9f7c465}{Devlin}{D\bibinitperiod}{Maureen}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=4a9151e1e36ebd5f80a211faaf1fd71a}{Claire}{C\bibinitperiod}{Marisa\bibnamedelima St}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{5}{}{%
-        {{uniquename=0,hash=fdf3a7a77a4fd67364c14cac3ac7ba62}{Lieberman}{L\bibinitperiod}{Daniel\bibnamedelima E}{D\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=ac4bc972696944dd6503c6a8178ce94c}{Krovitz}{K\bibinitperiod}{Gail\bibnamedelima E}{G\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=fc2bacb63bc50577371230751a2b3620}{Yates}{Y\bibinitperiod}{Franklin\bibnamedelima W}{F\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=04c8f32957e34f0f39294e1bc9f7c465}{Devlin}{D\bibinitperiod}{Maureen}{M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=4a9151e1e36ebd5f80a211faaf1fd71a}{Claire}{C\bibinitperiod}{Marisa\bibnamedelima St}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=fdf3a7a77a4fd67364c14cac3ac7ba62}{Lieberman}{L\bibinitperiod}{Daniel\bibnamedelima E}{D\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=ac4bc972696944dd6503c6a8178ce94c}{Krovitz}{K\bibinitperiod}{Gail\bibnamedelima E}{G\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=fc2bacb63bc50577371230751a2b3620}{Yates}{Y\bibinitperiod}{Franklin\bibnamedelima W}{F\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=04c8f32957e34f0f39294e1bc9f7c465}{Devlin}{D\bibinitperiod}{Maureen}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=4a9151e1e36ebd5f80a211faaf1fd71a}{Claire}{C\bibinitperiod}{Marisa\bibnamedelima St}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
       }
       \list{publisher}{1}{%
         {Elsevier}%
@@ -381,8 +400,6 @@
       \strng{fullhash}{ca31236340ae15b04f2aa6bd06294b01}
       \field{sortinit}{L}
       \field{sortinithash}{c41a2b5886eeae464e75d1a9df4cd13e}
-      \field{labelyear}{2004}
-      \field{datelabelsource}{year}
       \field{labeltitle}{Effects of food processing on masticatory strain and craniofacial growth in a retrognathic face}
       \field{journaltitle}{Journal of Human Evolution}
       \field{number}{6}
@@ -393,12 +410,12 @@
     \endentry
     \entry{lynch1984site}{book}{}
       \name{labelname}{2}{}{%
-        {{uniquename=0,hash=ad795bd187307a7ced16c4ea67a69a24}{Lynch}{L\bibinitperiod}{K.}{K\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=0878ebe74a50b191685f4f1f1709dc87}{Hack}{H\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=ad795bd187307a7ced16c4ea67a69a24}{Lynch}{L\bibinitperiod}{K.}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=0878ebe74a50b191685f4f1f1709dc87}{Hack}{H\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{2}{}{%
-        {{uniquename=0,hash=ad795bd187307a7ced16c4ea67a69a24}{Lynch}{L\bibinitperiod}{K.}{K\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=0878ebe74a50b191685f4f1f1709dc87}{Hack}{H\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=ad795bd187307a7ced16c4ea67a69a24}{Lynch}{L\bibinitperiod}{K.}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=0878ebe74a50b191685f4f1f1709dc87}{Hack}{H\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
       }
       \list{publisher}{1}{%
         {The MIT Press}%
@@ -407,8 +424,6 @@
       \strng{fullhash}{d2b3816d0ce7c6b023df7ea1a5de77ec}
       \field{sortinit}{L}
       \field{sortinithash}{c41a2b5886eeae464e75d1a9df4cd13e}
-      \field{labelyear}{1984}
-      \field{datelabelsource}{year}
       \field{labeltitle}{{Site planning}}
       \field{isbn}{0262121069}
       \field{title}{{Site planning}}
@@ -416,63 +431,48 @@
     \endentry
     \entry{mcharg1992design}{book}{}
       \name{labelname}{2}{}{%
-        {{uniquename=0,hash=c3990355fc8c32b904d908c8caadadc5}{McHarg}{M\bibinitperiod}{I.L.}{I\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=1450b95ddae6796285e7ae0175c846b8}{Natural\bibnamedelima History}{N\bibinitperiod\bibinitdelim H\bibinitperiod}{American\bibnamedelima Museum}{A\bibinitperiod\bibinitdelim M\bibinitperiod}{of}{o\bibinitperiod}{}{}}%
+        {{hash=c3990355fc8c32b904d908c8caadadc5}{McHarg}{M\bibinitperiod}{I.L.}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=2cec01c2acaf51f8b300745b8d599766}{Natural\bibnamedelima History}{N\bibinitperiod\bibinitdelim H\bibinitperiod}{American\bibnamedelima Museum}{A\bibinitperiod\bibinitdelim M\bibinitperiod}{of}{o\bibinitperiod}{}{}}%
       }
       \name{author}{2}{}{%
-        {{uniquename=0,hash=c3990355fc8c32b904d908c8caadadc5}{McHarg}{M\bibinitperiod}{I.L.}{I\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=1450b95ddae6796285e7ae0175c846b8}{Natural\bibnamedelima History}{N\bibinitperiod\bibinitdelim H\bibinitperiod}{American\bibnamedelima Museum}{A\bibinitperiod\bibinitdelim M\bibinitperiod}{of}{o\bibinitperiod}{}{}}%
+        {{hash=c3990355fc8c32b904d908c8caadadc5}{McHarg}{M\bibinitperiod}{I.L.}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=2cec01c2acaf51f8b300745b8d599766}{Natural\bibnamedelima History}{N\bibinitperiod\bibinitdelim H\bibinitperiod}{American\bibnamedelima Museum}{A\bibinitperiod\bibinitdelim M\bibinitperiod}{of}{o\bibinitperiod}{}{}}%
       }
       \list{publisher}{1}{%
         {J. Wiley}%
       }
-      \strng{namehash}{aad7767d222d7dbb49e7e529b9831a4f}
-      \strng{fullhash}{aad7767d222d7dbb49e7e529b9831a4f}
+      \strng{namehash}{6f8bf040612010a4256726f388cf4498}
+      \strng{fullhash}{6f8bf040612010a4256726f388cf4498}
       \field{sortinit}{M}
       \field{sortinithash}{4203d16473bc940d4ac780773cb7c5dd}
-      \field{labelyear}{1992}
-      \field{datelabelsource}{year}
       \field{labeltitle}{{Design with nature}}
       \field{isbn}{0471557978}
       \field{title}{{Design with nature}}
       \field{year}{1992}
     \endentry
-    \entry{Blankmiscentry}{misc}{}
-      \field{sortinit}{o}
-      \field{sortinithash}{59512cfd31be1dcef4def024230bdc1d}
-      \field{labelyear}{nodate}
-      \field{howpublished}{\url{}}
-    \endentry
-    \entry{Blankarticleentry}{article}{}
-      \field{sortinit}{o}
-      \field{sortinithash}{59512cfd31be1dcef4def024230bdc1d}
-      \field{labelyear}{nodate}
-      \warn{\item Datamodel: Entry 'Blankarticleentry' (a-new-ark.bib): Invalid format 'yyyy-mm-dd' of date field 'date' - ignoring}
-    \endentry
     \entry{am-rentstab}{misc}{}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=9fe820cd2ec76de3fe6e04a582276ac7}{Pereira}{P\bibinitperiod}{Ivan}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=9fe820cd2ec76de3fe6e04a582276ac7}{Pereira}{P\bibinitperiod}{Ivan}{I\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{uniquename=0,hash=9fe820cd2ec76de3fe6e04a582276ac7}{Pereira}{P\bibinitperiod}{Ivan}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=9fe820cd2ec76de3fe6e04a582276ac7}{Pereira}{P\bibinitperiod}{Ivan}{I\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{9fe820cd2ec76de3fe6e04a582276ac7}
       \strng{fullhash}{9fe820cd2ec76de3fe6e04a582276ac7}
       \field{sortinit}{P}
       \field{sortinithash}{b8af9282ac256b81613dc9012a0ac921}
-      \field{labelyear}{nodate}
       \field{labeltitle}{Battle looms over NYC rent stabilization law}
       \field{howpublished}{\url{http://www.amny.com/news/nyc-rent-stabilization-a-battle-looms-1.9796335}}
       \field{title}{Battle looms over NYC rent stabilization law}
     \endentry
     \entry{rittel1973dilemmas}{article}{}
       \name{labelname}{2}{}{%
-        {{uniquename=0,hash=b31b30c93db96d4cc5c12f40e8606be6}{Rittel}{R\bibinitperiod}{H.W.J.}{H\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=b60912ed7e45d098fddf669777f6db1b}{Webber}{W\bibinitperiod}{M.M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=b31b30c93db96d4cc5c12f40e8606be6}{Rittel}{R\bibinitperiod}{H.W.J.}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=b60912ed7e45d098fddf669777f6db1b}{Webber}{W\bibinitperiod}{M.M.}{M\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{2}{}{%
-        {{uniquename=0,hash=b31b30c93db96d4cc5c12f40e8606be6}{Rittel}{R\bibinitperiod}{H.W.J.}{H\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=b60912ed7e45d098fddf669777f6db1b}{Webber}{W\bibinitperiod}{M.M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=b31b30c93db96d4cc5c12f40e8606be6}{Rittel}{R\bibinitperiod}{H.W.J.}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=b60912ed7e45d098fddf669777f6db1b}{Webber}{W\bibinitperiod}{M.M.}{M\bibinitperiod}{}{}{}{}}%
       }
       \list{publisher}{1}{%
         {Springer}%
@@ -481,8 +481,6 @@
       \strng{fullhash}{3f31b920a357ae39acd29c52163804c5}
       \field{sortinit}{R}
       \field{sortinithash}{ff5a3533ecf9d5a03ff60b1e1389b63d}
-      \field{labelyear}{1973}
-      \field{datelabelsource}{year}
       \field{labeltitle}{{Dilemmas in a general theory of planning}}
       \field{issn}{0032-2687}
       \field{journaltitle}{Policy sciences}
@@ -494,16 +492,15 @@
     \endentry
     \entry{GCCDS-arch-record}{article}{}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=6c44f6cbdb99abc67826df3112210688}{Russell}{R\bibinitperiod}{James\bibnamedelima S.}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=6c44f6cbdb99abc67826df3112210688}{Russell}{R\bibinitperiod}{James\bibnamedelima S.}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{uniquename=0,hash=6c44f6cbdb99abc67826df3112210688}{Russell}{R\bibinitperiod}{James\bibnamedelima S.}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=6c44f6cbdb99abc67826df3112210688}{Russell}{R\bibinitperiod}{James\bibnamedelima S.}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{6c44f6cbdb99abc67826df3112210688}
       \strng{fullhash}{6c44f6cbdb99abc67826df3112210688}
       \field{sortinit}{R}
       \field{sortinithash}{ff5a3533ecf9d5a03ff60b1e1389b63d}
-      \field{labelyear}{nodate}
       \field{labeltitle}{Biloxi Clues: The Gulf Coast Community Design Studio provides a model for rebuilding after Katrina.}
       \field{journaltitle}{Architectural Record}
       \field{title}{Biloxi Clues: The Gulf Coast Community Design Studio provides a model for rebuilding after Katrina.}
@@ -513,16 +510,15 @@
     \endentry
     \entry{nytimes-detroit-desertion}{article}{}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=36befa78782e7b61641e43c58493c267}{Seelye}{S\bibinitperiod}{Katharine\bibnamedelima Q.}{K\bibinitperiod\bibinitdelim Q\bibinitperiod}{}{}{}{}}%
+        {{hash=36befa78782e7b61641e43c58493c267}{Seelye}{S\bibinitperiod}{Katharine\bibnamedelima Q.}{K\bibinitperiod\bibinitdelim Q\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{uniquename=0,hash=36befa78782e7b61641e43c58493c267}{Seelye}{S\bibinitperiod}{Katharine\bibnamedelima Q.}{K\bibinitperiod\bibinitdelim Q\bibinitperiod}{}{}{}{}}%
+        {{hash=36befa78782e7b61641e43c58493c267}{Seelye}{S\bibinitperiod}{Katharine\bibnamedelima Q.}{K\bibinitperiod\bibinitdelim Q\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{36befa78782e7b61641e43c58493c267}
       \strng{fullhash}{36befa78782e7b61641e43c58493c267}
       \field{sortinit}{S}
       \field{sortinithash}{4125bb4c3a0eb3eaee3ea6da32eb70c8}
-      \field{labelyear}{nodate}
       \field{labeltitle}{Detroit Census Confirms a Desertion Like No Other}
       \field{journaltitle}{New York Times}
       \field{title}{Detroit Census Confirms a Desertion Like No Other}
@@ -532,19 +528,15 @@
     \endentry
     \entry{citylabsegregatonkey}{article}{}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=59867c0e362a8d178e53f5ecd619137d}{Semuels}{S\bibinitperiod}{Alana}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=59867c0e362a8d178e53f5ecd619137d}{Semuels}{S\bibinitperiod}{Alana}{A\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{uniquename=0,hash=59867c0e362a8d178e53f5ecd619137d}{Semuels}{S\bibinitperiod}{Alana}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=59867c0e362a8d178e53f5ecd619137d}{Semuels}{S\bibinitperiod}{Alana}{A\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{59867c0e362a8d178e53f5ecd619137d}
       \strng{fullhash}{59867c0e362a8d178e53f5ecd619137d}
       \field{sortinit}{S}
       \field{sortinithash}{4125bb4c3a0eb3eaee3ea6da32eb70c8}
-      \field{labelyear}{2015}
-      \field{labelmonth}{02}
-      \field{labelday}{03}
-      \field{datelabelsource}{year}
       \field{labeltitle}{Is Ending Segregation the Key to Ending Poverty?}
       \field{day}{03}
       \field{journaltitle}{Citylab}
@@ -557,16 +549,15 @@
     \endentry
     \entry{shaer-not-cope}{article}{}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=4cd23673c57179da1d2587fd9cf21f6b}{Shaer}{S\bibinitperiod}{Matthew}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=4cd23673c57179da1d2587fd9cf21f6b}{Shaer}{S\bibinitperiod}{Matthew}{M\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{uniquename=0,hash=4cd23673c57179da1d2587fd9cf21f6b}{Shaer}{S\bibinitperiod}{Matthew}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=4cd23673c57179da1d2587fd9cf21f6b}{Shaer}{S\bibinitperiod}{Matthew}{M\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{4cd23673c57179da1d2587fd9cf21f6b}
       \strng{fullhash}{4cd23673c57179da1d2587fd9cf21f6b}
       \field{sortinit}{S}
       \field{sortinithash}{4125bb4c3a0eb3eaee3ea6da32eb70c8}
-      \field{labelyear}{nodate}
       \field{labeltitle}{Not Quite Copenhagen: Is New York too New York for bike lanes?}
       \field{journaltitle}{New York Magazine}
       \field{title}{Not Quite Copenhagen: Is New York too New York for bike lanes?}
@@ -576,16 +567,15 @@
     \endentry
     \entry{heroinaddiction}{article}{}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=81a34d79c51e6828b70c53f5bca88032}{Spiegel}{S\bibinitperiod}{Alix}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=81a34d79c51e6828b70c53f5bca88032}{Spiegel}{S\bibinitperiod}{Alix}{A\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{uniquename=0,hash=81a34d79c51e6828b70c53f5bca88032}{Spiegel}{S\bibinitperiod}{Alix}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=81a34d79c51e6828b70c53f5bca88032}{Spiegel}{S\bibinitperiod}{Alix}{A\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{81a34d79c51e6828b70c53f5bca88032}
       \strng{fullhash}{81a34d79c51e6828b70c53f5bca88032}
       \field{sortinit}{S}
       \field{sortinithash}{4125bb4c3a0eb3eaee3ea6da32eb70c8}
-      \field{labelyear}{nodate}
       \field{labeltitle}{What Heroin Addiction Tells Us About Changing Bad Habits}
       \field{journaltitle}{NPR}
       \field{title}{What Heroin Addiction Tells Us About Changing Bad Habits}
@@ -595,10 +585,10 @@
     \endentry
     \entry{stein1973towards}{book}{}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=912a0e1d590715fc55928497198fa474}{Stein}{S\bibinitperiod}{CS}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=912a0e1d590715fc55928497198fa474}{Stein}{S\bibinitperiod}{CS}{C\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{uniquename=0,hash=912a0e1d590715fc55928497198fa474}{Stein}{S\bibinitperiod}{CS}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=912a0e1d590715fc55928497198fa474}{Stein}{S\bibinitperiod}{CS}{C\bibinitperiod}{}{}{}{}}%
       }
       \list{publisher}{1}{%
         {Cambridge: MIT Press}%
@@ -607,41 +597,36 @@
       \strng{fullhash}{912a0e1d590715fc55928497198fa474}
       \field{sortinit}{S}
       \field{sortinithash}{4125bb4c3a0eb3eaee3ea6da32eb70c8}
-      \field{labelyear}{1973}
-      \field{datelabelsource}{year}
       \field{labeltitle}{{Towards New Towns for America (Fifth Printing, November 1973 ed.)}}
       \field{title}{{Towards New Towns for America (Fifth Printing, November 1973 ed.)}}
       \field{year}{1973}
     \endentry
     \entry{cohastra}{misc}{}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=75f824d2e99cb648c51ceef5228b0ee8}{Strategies}{S\bibinitperiod}{Cohabitation}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=75f824d2e99cb648c51ceef5228b0ee8}{Strategies}{S\bibinitperiod}{Cohabitation}{C\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{uniquename=0,hash=75f824d2e99cb648c51ceef5228b0ee8}{Strategies}{S\bibinitperiod}{Cohabitation}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=75f824d2e99cb648c51ceef5228b0ee8}{Strategies}{S\bibinitperiod}{Cohabitation}{C\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{75f824d2e99cb648c51ceef5228b0ee8}
       \strng{fullhash}{75f824d2e99cb648c51ceef5228b0ee8}
       \field{sortinit}{S}
       \field{sortinithash}{4125bb4c3a0eb3eaee3ea6da32eb70c8}
-      \field{labelyear}{nodate}
       \field{labeltitle}{Uneven Growth}
       \field{howpublished}{\url{http://www.cohstra.org/?portfolio=uneven-growth}}
       \field{title}{Uneven Growth}
     \endentry
     \entry{ukercenergy}{article}{}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=92ecfdc15a29136d5705fe51190fa00d}{UKERC}{U\bibinitperiod}{UK}{U\bibinitperiod}{}{}{}{}}%
+        {{hash=92ecfdc15a29136d5705fe51190fa00d}{UKERC}{U\bibinitperiod}{UK}{U\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{uniquename=0,hash=92ecfdc15a29136d5705fe51190fa00d}{UKERC}{U\bibinitperiod}{UK}{U\bibinitperiod}{}{}{}{}}%
+        {{hash=92ecfdc15a29136d5705fe51190fa00d}{UKERC}{U\bibinitperiod}{UK}{U\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{92ecfdc15a29136d5705fe51190fa00d}
       \strng{fullhash}{92ecfdc15a29136d5705fe51190fa00d}
       \field{sortinit}{U}
       \field{sortinithash}{311bb924dfb84a64dcdd01c5b07d40b0}
-      \field{labelyear}{2007}
-      \field{datelabelsource}{year}
       \field{labeltitle}{{Energy Research Centre, 2007. The Rebound Effect--an assessment of the evidence for economy-wide energy savings from improved energy efficiency}}
       \field{journaltitle}{Report. London}
       \field{title}{{Energy Research Centre, 2007. The Rebound Effect--an assessment of the evidence for economy-wide energy savings from improved energy efficiency}}
@@ -649,29 +634,28 @@
     \endentry
     \entry{gentrificationreal}{article}{}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=2503b226f47009060c09da3457aef9ae}{Velsey}{V\bibinitperiod}{Kim}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=2503b226f47009060c09da3457aef9ae}{Velsey}{V\bibinitperiod}{Kim}{K\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{uniquename=0,hash=2503b226f47009060c09da3457aef9ae}{Velsey}{V\bibinitperiod}{Kim}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=2503b226f47009060c09da3457aef9ae}{Velsey}{V\bibinitperiod}{Kim}{K\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{2503b226f47009060c09da3457aef9ae}
       \strng{fullhash}{2503b226f47009060c09da3457aef9ae}
       \field{sortinit}{V}
       \field{sortinithash}{63562d1af2cd68fb37e2e14e0c6d5c96}
-      \field{labelyear}{nodate}
-      \field{labeltitle}{Gentrification May Be Complicated, But It\x{fffd}\x{fffd}\x{fffd}s Not a Myth and Neither Is Displacement}
+      \field{labeltitle}{Gentrification May Be Complicated, But It’s Not a Myth and Neither Is Displacement}
       \field{journaltitle}{Observer}
-      \field{title}{Gentrification May Be Complicated, But It\x{fffd}\x{fffd}\x{fffd}s Not a Myth and Neither Is Displacement}
+      \field{title}{Gentrification May Be Complicated, But It’s Not a Myth and Neither Is Displacement}
       \verb{url}
       \verb http://observer.com/2015/01/gentrification-may-be-complicated-but-its-not-a-myth-and-neither-is-displacement/
       \endverb
     \endentry
     \entry{weizman2007hollow}{book}{}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=be32295163a4f1d1057de938996dc84f}{Weizman}{W\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=be32295163a4f1d1057de938996dc84f}{Weizman}{W\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{uniquename=0,hash=be32295163a4f1d1057de938996dc84f}{Weizman}{W\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=be32295163a4f1d1057de938996dc84f}{Weizman}{W\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
       }
       \list{publisher}{1}{%
         {Verso Books}%
@@ -680,24 +664,21 @@
       \strng{fullhash}{be32295163a4f1d1057de938996dc84f}
       \field{sortinit}{W}
       \field{sortinithash}{e560dae78a85a037c3da51c61467873a}
-      \field{labelyear}{2007}
-      \field{datelabelsource}{year}
       \field{labeltitle}{{Hollow land: Israel's architecture of occupation}}
       \field{title}{{Hollow land: Israel's architecture of occupation}}
       \field{year}{2007}
     \endentry
     \entry{prop-tax-philly}{article}{}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=ee32b19ba701514d8afad59e93fc9f20}{Williams}{W\bibinitperiod}{Timothy}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=ee32b19ba701514d8afad59e93fc9f20}{Williams}{W\bibinitperiod}{Timothy}{T\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{uniquename=0,hash=ee32b19ba701514d8afad59e93fc9f20}{Williams}{W\bibinitperiod}{Timothy}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=ee32b19ba701514d8afad59e93fc9f20}{Williams}{W\bibinitperiod}{Timothy}{T\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{ee32b19ba701514d8afad59e93fc9f20}
       \strng{fullhash}{ee32b19ba701514d8afad59e93fc9f20}
       \field{sortinit}{W}
       \field{sortinithash}{e560dae78a85a037c3da51c61467873a}
-      \field{labelyear}{nodate}
       \field{labeltitle}{Cities Mobilize to Help Those Threatened by Gentrification}
       \field{journaltitle}{New York Times}
       \field{title}{Cities Mobilize to Help Those Threatened by Gentrification}
@@ -708,11 +689,11 @@
     \entry{wingo1963cities}{book}{}
       \true{morelabelname}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=56a026589f3869041d129e9a2157cc1e}{Wingo}{W\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=56a026589f3869041d129e9a2157cc1e}{Wingo}{W\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
       }
       \true{moreauthor}
       \name{author}{1}{}{%
-        {{uniquename=0,hash=56a026589f3869041d129e9a2157cc1e}{Wingo}{W\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=56a026589f3869041d129e9a2157cc1e}{Wingo}{W\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
       }
       \list{publisher}{1}{%
         {HeinOnline}%
@@ -721,8 +702,6 @@
       \strng{fullhash}{2ec3f36786ea3239aff7e9b43aeaef49}
       \field{sortinit}{W}
       \field{sortinithash}{e560dae78a85a037c3da51c61467873a}
-      \field{labelyear}{1963}
-      \field{datelabelsource}{year}
       \field{labeltitle}{{Cities and space: The future use of urban land}}
       \field{title}{{Cities and space: The future use of urban land}}
       \field{year}{1963}
