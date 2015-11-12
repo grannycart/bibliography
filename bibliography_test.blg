@@ -1,17 +1,4 @@
-[0] Config.pm:321> INFO - This is Biber 1.9
-[1] Config.pm:324> INFO - Logfile is './bibliography_test.blg'
-[146] biber:277> INFO - === Sat Feb  7, 2015, 17:12:39
-[147] Biber.pm:334> INFO - Reading './bibliography_test.bcf'
-[508] Biber.pm:633> INFO - Using all citekeys in bib section 0
-[617] Biber.pm:3052> INFO - Processing section 0
-[747] Biber.pm:3190> INFO - Looking for bibtex format file 'a-new-ark.bib' for section 0
-[763] bibtex.pm:979> INFO - Decoding LaTeX character macros into UTF-8
-[785] bibtex.pm:853> INFO - Found BibTeX data source 'a-new-ark.bib'
-[971] Utils.pm:144> WARN - The field 'journaltitle' in entry 'AngottiULURP' cannot be null, deleting it
-[2304] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[2305] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[2305] Biber.pm:2929> INFO - Sorting list 'nty' of type 'entry' with scheme 'nty' and locale 'en-US'
-[2305] Biber.pm:2933> INFO - No sort tailoring available for locale 'en-US'
-[2804] bbl.pm:517> INFO - Writing './bibliography_test.bbl' with encoding 'UTF-8'
-[2813] bbl.pm:606> INFO - Output to ./bibliography_test.bbl
-[2813] Biber.pm:107> INFO - WARNINGS: 1
+[0] Config.pm:325> INFO - This is Biber 2.1
+[0] Config.pm:328> INFO - Logfile is 'bibliography_test.blg'
+[26] biber:276> INFO - === Wed Nov 11, 2015, 19:43:50
+[26] Biber.pm:334> INFO - Reading 'bibliography_test.bcf'
