@@ -1,4 +1,22 @@
 [0] Config.pm:325> INFO - This is Biber 2.1
-[0] Config.pm:328> INFO - Logfile is 'bibliography_test.blg'
-[26] biber:276> INFO - === Wed Nov 11, 2015, 19:43:50
-[26] Biber.pm:334> INFO - Reading 'bibliography_test.bcf'
+[0] Config.pm:328> INFO - Logfile is './bibliography_test.blg'
+[27] biber:276> INFO - === Wed Nov 11, 2015, 19:58:46
+[27] Biber.pm:334> INFO - Reading './bibliography_test.bcf'
+[94] Biber.pm:643> INFO - Using all citekeys in bib section 0
+[104] Biber.pm:2978> INFO - Processing section 0
+[114] Biber.pm:3116> INFO - Looking for bibtex format file 'a-new-ark.bib' for section 0
+[151] bibtex.pm:1010> INFO - Decoding LaTeX character macros into UTF-8
+[189] bibtex.pm:884> INFO - Found BibTeX data source 'a-new-ark.bib'
+[392] Utils.pm:146> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[392] Utils.pm:146> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[393] Utils.pm:146> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[393] Utils.pm:146> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[393] Utils.pm:146> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[394] Utils.pm:146> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[2623] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2623] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2623] Biber.pm:2855> INFO - Sorting list 'nty' of type 'entry' with scheme 'nty' and locale 'en-US'
+[2623] Biber.pm:2859> INFO - No sort tailoring available for locale 'en-US'
+[3379] bbl.pm:505> INFO - Writing './bibliography_test.bbl' with encoding 'UTF-8'
+[3407] bbl.pm:596> INFO - Output to ./bibliography_test.bbl
+[3407] Biber.pm:107> INFO - WARNINGS: 6
