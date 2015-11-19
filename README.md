@@ -2,6 +2,9 @@
 
 This repository contains a bibliography of anything I've read that I find interesting. 
 As a result it covers a very broad range of material.
+
+The bibliography file itself is "a-new-ark.bib" - so really that's the only file that matters on this repository.
+
 I make a very cursory effort to group stuff by topic. 
 There's no hard rules about that, except that the top-level topics are listed in the comments at the beginning of the file, and where each topic starts in the bibliography.
 For most entries I add a "comment" tag that has a summary of what the article is about (written by me or pulled from the abstract), possibly some comments about the article by me, and sometimes quotes pulled from the article.
