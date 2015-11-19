@@ -19,21 +19,15 @@
 %\bibliographystyle{plain}
 % plain-annote is the style that includes annotations.
 % Not sure if the above 2 lines work with the biblatex option\ldots
-\addbibresource{a-new-ark.bib} %this is probably only going to work with biblatex. with old bibtex you have to use \bibliography{a-new-ark}
+%\addbibresource{a-new-ark.bib} %this is probably only going to work with biblatex. with old bibtex you have to use 
+\bibliography{a-new-ark}
+
+\title{Test Bibliography Print}
+\author{Me}
+\date{\today}
 
 \begin{document}
-\begin{center}
-   {\Large\textbf{Example Bibliography}}
-\medskip
-
-   {\large By Author
-\medskip
-
-\medskip
-
-           \today
-   }
-\end{center}
+\maketitle
 This is just some filler text.\cite{caro1975power}
 \nocite{*} % forces inclusion of all references
 \printbibliography
