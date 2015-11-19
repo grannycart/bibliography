@@ -1,6 +1,6 @@
 # A Bibliography
 
-This repository contains a bibliography of anything I find interesting. 
+This repository contains a bibliography of anything I've read that I find interesting. 
 As a result it covers a very broad range of material.
 I make a very cursory effort to group stuff by topic. 
 There's no hard rules about that, except that the top-level topics are listed in the comments at the beginning of the file, and where each topic starts in the bibliography.
