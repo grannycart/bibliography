@@ -1,33 +1,27 @@
-\documentclass{article}
+
+\documentclass[letterpaper]{article}
+
 \usepackage{hyperref} % This is necessary to format urls correctly
 %% Define a new 'leo' style for the package that will use a smaller font.
 \usepackage[url=true, backend=biber]{biblatex} % Including this line gives you more modern formatting. 
 %biber is the more modern backend instead of bibtex. style= is the style you want to use, but 'apa' choked and died.
+% This requires you to do:pdflatex -> biber -> pdflatex. See extra-compilation-notes 
 
 \usepackage[utf8]{inputenc}    % utf8 support       %!!!!!!!!!!!!!!!!!!!!
 \usepackage[T1]{fontenc}       % code for pdf file  %!!!!!!!!!!!!!!!!!!!!
 % Maybe these lines will get rid of the ascii encoding warning during compilation?
 
-%\makeatletter
-% \def\url@leostyle{%
-%  \@ifundefined{selectfont}{\def\UrlFont{\sf}}{\def\UrlFont{\small\ttfamily}}}
-%\makeatother
-%% Now actually use the newly defined style.
-%\urlstyle{leo}
-% My guess the above 6 lines I got from some out-of-date latex help source, and they are unecessary.
-
 %\bibliographystyle{plain}
 % plain-annote is the style that includes annotations.
-% Not sure if the above 2 lines work with the biblatex option\ldots
-%\addbibresource{a-new-ark.bib} %this is probably only going to work with biblatex. with old bibtex you have to use 
-% \bibliography{a-new-ark}
-\bibliography{small-bib-compilation-test}
+% Not sure if the above 2 lines work with the biblatex package
+\addbibresource{small-bib-compilation-test.bib} %this is probably only going to work with biblatex. with old bibtex you have to use:
+% \bibliography{small-bib-compilation-test}
 
+
+\begin{document}
 \title{Test Bibliography Print}
 \author{Me}
 \date{\today}
-
-\begin{document}
 \maketitle
 This is just some filler text.\cite{caro1975power}
 \nocite{*} % forces inclusion of all references

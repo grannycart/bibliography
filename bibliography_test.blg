@@ -1,5 +1,0 @@
-[1] Config.pm:340> INFO - This is Biber 2.4
-[1] Config.pm:343> INFO - Logfile is 'bibliography_test.blg'
-[156] biber:287> INFO - === Sat May 13, 2017, 11:58:48
-[419] Utils.pm:163> ERROR - bibliography_test.bcf is malformed, last biblatex run probably failed. Deleted 
-[419] Biber.pm:113> INFO - ERRORS: 1
