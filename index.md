@@ -3,27 +3,27 @@ layout: default
 ---
 
 
-## Bibliography
+# Bibliography
 This is a bibliography of everything I've ever read that has any kind of resonance with me.
 
-### Topics:
-#### [Urbanism](Urbanism.md)
-#### [Housing](Housing.md) 
-#### [ULURP](ULURP.md) 
-#### [Zoning](Zoning.md) 
-#### [Transportation](Transportation.md) 
-#### [Sport](Sport.md) 
-#### [Health](Health.md) 
-#### [Music](Music.md) 
-#### [The Art](The Art.md) 
-#### [Criticality](Criticality.md) 
-#### [Politics](Politics.md) (And Public Policy)
-#### [Humanity](Humanity.md) 
-#### [Science](Science.md) 
-#### [Economics](Economics.md) 
-#### [Other Stuff](Other Stuff.md) 
-#### [Novels](Novels.md) 
-#### [Long Entries](Long Entries.md) 
+## Topics:
+* [Urbanism](Urbanism.md)
+* [Housing](Housing.md) 
+* [ULURP](ULURP.md) 
+* [Zoning](Zoning.md) 
+* [Transportation](Transportation.md) 
+* [Sport](Sport.md) 
+* [Health](Health.md) 
+* [Music](Music.md) 
+* [The Art](The Art.md) 
+* [Criticality](Criticality.md) 
+* [Politics](Politics.md) (And Public Policy)
+* [Humanity](Humanity.md) 
+* [Science](Science.md) 
+* [Economics](Economics.md) 
+* [Other Stuff](Other Stuff.md) 
+* [Novels](Novels.md) 
+* [Long Entries](Long Entries.md) 
 
 
 --------------------------------------------------------------------------------
