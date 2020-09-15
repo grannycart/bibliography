@@ -7,6 +7,15 @@ html {
   -webkit-font-smoothing: antialiased;
 }
 
+a:link, a:visited {
+  color: #8fa5d1;
+  text-decoration: none;
+}
+
+a:hover, a:active {
+  color: darkred;
+}
+
 h2, h3, h4, h5, h6 { margin-top: 3rem; }
 
 hr { margin: 2rem 0; }
