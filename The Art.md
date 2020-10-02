@@ -1,5 +1,5 @@
 dynohub.github.io/The Art.md  
-Last modified: Sun Sep 13, 2020  03:16PM
+Last modified: Thu Oct 01, 2020  09:41PM
 
 ## The Art
 --------------------------------------------------------------------------------
@@ -105,6 +105,8 @@ Last modified: Sun Sep 13, 2020  03:16PM
 "Quietly the broad-sworded warriors [of clan-Brian-Rua], many in number, in closest order, came hard by loch Rask; all together they looked on the shining mere, and there they saw the monstrous and distorted form of a lone ancient hideous hag that stooped over the bright loch's shore. The loathly creature's semblance was this: she was thatched with elf-locks foxy-grey and rough as heather, long as sea-wrack, inextricably tangled; had a bossy wrinkled foully ulcerated forehead; every hair of her eyebrows was like a strong fish-hook and, from under them, bleary dripping eyes peered with malignant fire between lids all rawly crimson-edged; she had a great blueish nose, flattened and wide, copiously and snortingly catarrhous; lips livid, white-rimmed, pustulous, that outwards turned up to her snout, and downwards to a stubby beard...  The crone had a cairn of heads, a pile of arms and legs, a load, of spoils, all which she rinsed and diligently washed, so that by her labour the water in its whole extension was covered with hair and gory brains."  
 from: https://celt.ucc.ie//published/T100062/index.html  
 Page 72: The Twelve Bens overlook everything, instilling daily ways with a certain thoughtfulness, like a great cathedral among busy streets  
+Page 186: "Tailoring, I am told, was the easiest trade to take up in the old days, for all you needed was scissors, tame-measure and thimble. Tailors were often despised as being unfit for hard physical work." (Related to Xala's observation that sewing is extremely skilled, and extremely underpaid work.)
+Page 187: "A peculiarity of these old songs is that, to make any sense of them, one has to know circumstances of their composition not explicit in the song itself; the song is the kernel of a nut, the shell of which is a dense fabric of personal histories and place-names -- not always the most digestible of stuff, but without it the kernel loses its savour." (This is, of course, true of ALL songs not just old Irish ones.)
   
   
 @article{ramm2017cathedral,  
