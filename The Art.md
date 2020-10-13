@@ -1,8 +1,23 @@
 dynohub.github.io/The Art.md  
-Last modified: Thu Oct 01, 2020  09:41PM
+Last modified: Tue Oct 13, 2020  04:21PM
 
 ## The Art
 --------------------------------------------------------------------------------
+
+
+@book{charters1997literature,
+  title={Literature and Its Writers: An Introduction to Fiction, Poetry, and Drama},
+  author={Charters, A. and Charters, S.},
+  number={v. 1},
+  isbn={9780312137700},
+  lccn={96086766},
+  url={https://books.google.com/books?id=S2RbGwAACAAJ},
+  year={1997},
+  publisher={Bedford Books},
+  comment={My giant literature textbook from college.}
+  category={The Art, literature, robert frost}
+}
+% Page 1098: The Road Not Taken was actually intended as a joke for Robert Frost's friend Edward Thomas. Thomas could never make up his mind about anything, and Frost teased him by saying, "No matter which road you take, you'll always sigh and wish you'd taken another." Frost sent the poem to Thomas in a letter, but his friend missed the joke entirely, thining it was a poem about decisions Frost had made in his own life. According to bographer Lawrence Thompson, Frost could never bring himself to confess that the poem had not worked as he had intended.
 
   
 @article{wells2019peterluger,  

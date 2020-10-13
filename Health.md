@@ -1,5 +1,5 @@
 dynohub.github.io/Health.md  
-Last modified: Sun Sep 13, 2020  03:16PM
+Last modified: Fri Oct 09, 2020  07:36PM
 
 ## Health
 --------------------------------------------------------------------------------
@@ -868,7 +868,7 @@ category = {Health, Criticality, time, time famine, work, protestant work ethic}
   Title={Why Everything We Know About Salt May Be Wrong},  
   journal={The New York Times},  
   date={2017-05-08},  
-  comment={New studies suggest that the way the body processes salt could be much more complex than we thought. Eating large amounts of salt does raise blood pressure, but it also makes us \emph{less} thirsty because with more salt the body starts breaking down fat and releasing water. But it also makes us hungrier, so it's probably not a goo weight loss strategy.},  
+  comment={New studies suggest that the way the body processes salt could be much more complex than we thought. Eating large amounts of salt does raise blood pressure, but it also makes us \emph{less} thirsty because with more salt the body starts breaking down fat and releasing water. But it also makes us hungrier, so it's probably not a good weight loss strategy.},  
   category={Health, salt, thirst, hunger}  
 }  
   
