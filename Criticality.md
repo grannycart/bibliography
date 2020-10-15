@@ -1,8 +1,79 @@
 dynohub.github.io/Criticality.md  
-Last modified: Sun Sep 13, 2020  03:19PM
+Last modified: Thu Oct 15, 2020  06:46PM
 
 ## Criticality
 --------------------------------------------------------------------------------
+
+
+@article{curtis2016documentaries,  
+  Author={Curtis, Adam},  
+  url={https://www.theguardian.com/film/2016/nov/14/adam-curtis-documentary-south-park-american-honey},  
+  Title={Adam Curtis: why South Park is the best documentary of them all},  
+  journal={The Guardian},  
+  date={2020-07-dd},  
+  comment={Curtis argues that South Park's 3-part Imaginationland episode is better for exposing the truth of the world than any documentary.},  
+  category={Criticality, politics, adam curtis, south park, documentaries}  
+}
+% This was referenced in the Adam Curtis / Alan Moore panel talk: \url{https://www.youtube.com/watch?v=Lmhq-TYyRcY}
+% Notes from that talk:
+% * Counter-culture:
+% 	* counter-culture is the way culture criticizes itself, and renews itself
+% 	* stamping out counter-culture will lead to culture dying
+% 	* counter-culture came of the 1960s failure to use politics to change the world
+% 	* Individualism became big in the 60s because the generation before that said DON'T believe in mythologies --- look what happens: fascism, totalitarianism
+% 	* Individualism cannot be put back in the bottle, but to achieve anything we need someone with a vision that people will follow
+% 		* (This may not be relevant to argument here)
+% 		* It lead to a great deal of selfishness and narcissim
+% 		* We need something new, though based on the individual, because the opposite of that is fascism
+% * Individualism:
+% 	* what replaced it was you the individual use culture as a way to challenge culture.
+% 		* you trust your own instincts, you are authentic, the man is fake
+% 	* Being true to your individualism is the conformity of our time
+% 	* It died in the 90s because it became the norm
+% 	* we need a new kind of counterculture that goes the next step:
+% 		* some kind of story that can unite us all, but also allows us to feel like we're in control of our destiny
+% 		* that we're not going to be doing what the man tells us to do
+% 	* Every individual needs to be their own leader: this is the only way we'll get the counter-culture we are looking for
+% * The created reality:
+% 	* See Adam Curtis article in the Guardian about South Park 
+% 	* Reality can be whatever you want it to be (some of the most important figures in our world have reinvented characters)
+% 	* computers disempower us by simplifying us: if you like this then you'll like that
+% 		* they know nothing of our dreams
+% 	* Places need to have mythos/stories told about them
+% 	* Journalism is failing to tell those stories for lack of imagination. (Even on the left.)
+% 	* It's just chaos, completely random events that are edited into the news studio until they find some sort of narrative, and then they call that 'reality'
+% 	* It's not just the internet, there is no imagination in the way the world is told to us
+% 		* It's not just about telling story, it's about telling you what it means.
+% 			* That telling you what it means is controlled by think tanks now -- and they destroy everything
+% 		* South Park (particularly imaginationland) tells you about what's happening in the world in a new way
+% * The elites have been completely wrong about everything
+% 	* The Trump election and Brexit was a big fuck-off button being pressed by the voters
+% 	* But at least it showed elections DO have consequences
+% 	* (This may not be relevant to argument here)
+% * Conspiracy theories at least offer a vision/story that makes sense
+% 	* That's a better alternative to us living in a bunch of random chaotic events and nobody understanding anything! 
+% 	* The liberal disdain for conspiracy theories (only stupid people believe them) misses the point that conspiracy theories reveal that we don't understand the world --- in a way that the normal think-tank pushed "rational" journalism completely fails to do.
+% 	* It is also reassuring to believe that monsters or gray aliens are running the world rather than that nobody is
+% 	* Even though many who follow conspiracy theories know they aren't true, they are fascinated because they are a wonderfully entertaining dark alternative to the banality of the conventional media
+% * Occupy and arab spring failed because while they knew how to organize, they didn't have a vision for what they wanted
+% * We could get rid of the idea of nations now, and focus on our local communities, as a few hundred years ago people didn't know what country they lived in, only what village they came from
+% * People create reality in their head, by putting together all the things around them.
+% * If you live in a place that's a shithole, sooner or later you will feel like you are a shit
+% * If you live in a place with a rich mythological landscape, you will feel empowered
+% * Enrich places with their meaning --- meaning is the most important currency. It's what we lose when we don't have mythologies anymore. The meaning bleeds out of everything. Meaning has a half life. We need to restore meaning to things. Find meaning in everything, it will reempower the landscape around us
+% * Does that sense of place lead to enmity against others?
+% * Curtis holds out Rojava Syria as an example
+% * Our media, politicians, those in power, are drama queens who push a continual sense of crisis, and this puts off any thought about the future
+% * Whereas in Rojava, where there is REAL crisis, they actually spend their time thinking about the future
+% * (And now, with covid, is that different?)
+% * New journalism: no objectivity is impossible, so accepting subjectivity is more honest. We need some of that.
+% 	* It was part of the rise of individualism, but it petered out sometime in the 1990s.
+% * Now we're just waiting for a new kind of journalism. People want stories. We want to know what's going on. But nobody tells us.
+% * It used to be that journalists tell stories about terrible things, everyone gets mad about it, and the politicians do something about it.
+% 	* But this broke in the 90s sometime --- now journalists tells stories about something awful and all the individuals shrug and nothing happens.
+% * Everything is up for grabs now, it's wide open for powerful emotional stories that make sense of everything, we should be optimistic about the future.
+
+
 
 @article{FENTON2010485,  
 title = {Comparing risks of alternative medical diagnosis using Bayesian arguments},  
