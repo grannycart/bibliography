@@ -1,8 +1,21 @@
 dynohub.github.io/Politics.md  
-Last modified: Sun Sep 13, 2020  03:20PM
+Last modified: Wed Oct 21, 2020  05:04PM
 
 ## Politics
 --------------------------------------------------------------------------------
+
+
+
+@article{nolan2020immigration,  
+  Author={Nolan, Rachel},  
+  url={https://harpers.org/archive/2020/09/cage-of-gold-deportation-history-bracero-program/},  
+  Title={Cage of Gold},  
+  journal={Harper's},  
+  year={2020},
+  month={09},
+  comment={A review of The Deportation Machine by Adam Goodman. The US is not a nation of immigrants, it's a nation of deportation. That has been true for its entire history. Like plea bargaining where 90% of federal cases are plea bargained (making the question of innocence irrelevant) 90% of immigration cases never have a hearing, people take the "voluntary departure" option in exchange for paying their own way out of the US and not having a record (so they could potentially try to enter again another time).Between 1920 and 2018, the latest year for which data was available, the country deported 56.3 million people, more than the 51.7 million who were granted lawful status. Roughly nine out of ten deportees were Mexican. (Goodman does not include self-deportations in this number, since he acknowledges that they are “unquantifiable.”) In the 1990s Democrats supported "expedited deportation" which made actual deportation more like voluntary departure -- hearings are not longer required.},  
+  category={Politics, Criticality, immigration}  
+}  
 
 @article{baselon2020originalism,  
   Author={Bazelon, Emily},  

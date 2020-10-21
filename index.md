@@ -66,7 +66,7 @@ article{Blankarticleentry,
   url={},  
   Title={},  
   journal={},  
-  date={2020-07-dd},  
+  date={2020-10-dd},  
   comment={},  
   category={}  
 }  
@@ -77,7 +77,7 @@ article{Blanknytimes,
   url={},  
   Title={},  
   journal={The New York Times},  
-  date={2020-07-dd},  
+  date={2020-10-dd},  
   comment={},  
   category={}  
 }  
