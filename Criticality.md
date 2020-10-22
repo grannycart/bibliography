@@ -1,8 +1,20 @@
 dynohub.github.io/Criticality.md  
-Last modified: Thu Oct 15, 2020  06:46PM
+Last modified: Thu Oct 22, 2020  10:57AM
 
 ## Criticality
 --------------------------------------------------------------------------------
+
+
+
+@article{Blanknytimes,  
+  Author={Fountain, Henry},  
+  url={https://www.nytimes.com/2020/10/21/climate/beef-cattle-methane.html},  
+  Title={Belching Cows and Endless Feedlots: Fixing Cattle’s Climate Issues},  
+  journal={The New York Times},  
+  date={2020-10-21},  
+  comment={Calculating the carbon impact of beef production is not straightforward. Beef produce methane, which is a more potent greenhouse gas that CO2, but they produce it by consuming grass which has recently captured CO2 --- in effect they are converting CO2 into methane. Unlike fossil fuels, it's a short-cycle loop, (akin to the argument for burning wood as fuel instead of oil). Also grass-fed beef produces more methane than corn/grain-fed beef, and grain-fed beef grow faster, so they are producing methane for less time. In terms of scale, the US meat industry/number of cows is drastically reduced since its peak in the 1970s. However, there are far more beef cows in other countries.},  
+  category={Criticality, Health, cattle, meat, food, climate change, methane}  
+}  
 
 
 @article{curtis2016documentaries,  
