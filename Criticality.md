@@ -1,8 +1,19 @@
 dynohub.github.io/Criticality.md  
-Last modified: Thu Oct 22, 2020  10:57AM
+Last modified: Sat Oct 24, 2020  06:42PM
 
 ## Criticality
 --------------------------------------------------------------------------------
+
+
+@article{mildenberger2019commons,  
+  Author={Mildenberger, Matto},  
+  url={https://blogs.scientificamerican.com/voices/the-tragedy-of-the-tragedy-of-the-commons/},  
+  Title={The Tragedy of the Tragedy of the Commons},  
+  journal={Scientific American},  
+  date={2019-04-23},  
+  comment={The man who coined the concept and term "The Tragedy of the Commons", Garrett Hardin, was a racist, eugenicist, and nativist. He promoted the idea of "lifeboat ethics" --- that the rich should take resources from the poor because global resources are limited. These views colored all his ideas, including the tragedy of the commons, and there is little evidence that he was right about the whole concept of tragedy of the commons, including being very literally wrong about how historical commons actually worked.},  
+  category={Criticality, tragedy of the commons, racism}  
+}  
 
 
 
