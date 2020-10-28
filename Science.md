@@ -1,11 +1,33 @@
 dynohub.github.io/Science.md  
-Last modified: Sun Sep 13, 2020  03:25PM
+Last modified: Wed Oct 28, 2020  02:15PM
 
 ## Science
 --------------------------------------------------------------------------------
 
 _Some thoughts of my own:_  
 _We live in the age of empiricism, but no one can know vast empirical knowledge beyond their own field. And so, we continue to *understand* as in the age of romanticism. This makes us vulnerable to propaganda (of the heart) but at the same time invests our world with rich meaning._  
+
+
+@article{sokol2020sharksvsswords,  
+  Author={Sokol, Joshua},  
+  url={https://www.nytimes.com/2020/10/27/science/swordfish-stabbing-sharks.html},  
+  Title={Sharks Wash Up on Beaches, Stabbed by Swordfish},  
+  journal={The New York Times},  
+  date={2020-10-27},  
+  comment={A half dozen or so sharks have washed up on beaches in the Mediterranean killed by being impaled on the broken-off swords of swordfish. Previously this behavior was only the stuff of fishermen's tales.},  
+  category={Science, sharks, swordfish, mediterranean}  
+}  
+
+
+article{kornel2020footprints,  
+  Author={Kornel, Katherine},  
+  url={https://www.nytimes.com/2020/10/23/science/ancient-footprints.html},  
+  Title={Footprints Mark a Toddler’s Perilous Prehistoric Journey},  
+  journal={The New York Times},  
+  date={2020-10-23},  
+  comment={More than a mile of tracks found in the White Sands area of the US show a young woman carrying a toddler through a Pleistocene-era landscape. The tracks are cross by mammoth tracks and giant sloth tracks.},  
+  category={Science, pleistocene, white sands, prehistoric, mammoth, giant sloth, footprints, prehistoric}  
+}  
 
   
 @article{wu2020blackfish,  
