@@ -1,8 +1,29 @@
 dynohub.github.io/Humanity.md  
-Last modified: Sun Sep 13, 2020  03:22PM
+Last modified: Wed Oct 28, 2020  08:55PM
 
 ## Humanity
 --------------------------------------------------------------------------------
+  
+ 
+@article{10.1111/1467-9213.00309,  
+    author = {Bostrom, Nick},  
+    title = "{Are We Living in a Computer Simulation?}",  
+    journal = {The Philosophical Quarterly},  
+    volume = {53},  
+    number = {211},  
+    pages = {243-255},  
+    year = {2003},  
+    month = {04},  
+    abstract = "{I argue that at least one of the following propositions is true: (1) the human species is very likely to become extinct before reaching a ‘posthuman’ stage; (2) any posthuman civilization is extremely unlikely to run a significant number of simulations of its evolutionary history (or variations thereof); (3) we are almost certainly living in a computer simulation. It follows that the belief that there is a significant chance that we shall one day become posthumans who run ancestor‐simulations is false, unless we are currently living in a simulation. I discuss some consequences of this result.}",  
+    issn = {0031-8094},  
+    doi = {10.1111/1467-9213.00309},  
+    url = {https://doi.org/10.1111/1467-9213.00309},  
+    eprint = {https://academic.oup.com/pq/article-pdf/53/211/243/4567213/pq53-0243.pdf},  
+    comment = {A logical argument underlying the chances that we live in a simulation.},  
+    category = {Humanity, Science, simulation, life the universe and everything}   
+}  
+% See also: \url{https://www.scientificamerican.com/article/do-we-live-in-a-simulation-chances-are-about-50-50/}  
+  
   
 @article{zimmer2020polynesians,  
   Author={Zimmer, Carl},  
