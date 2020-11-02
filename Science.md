@@ -1,11 +1,19 @@
 dynohub.github.io/Science.md  
-Last modified: Wed Oct 28, 2020  02:15PM
+Last modified: Mon Nov 02, 2020  05:07PM
 
 ## Science
 --------------------------------------------------------------------------------
 
-_Some thoughts of my own:_  
-_We live in the age of empiricism, but no one can know vast empirical knowledge beyond their own field. And so, we continue to *understand* as in the age of romanticism. This makes us vulnerable to propaganda (of the heart) but at the same time invests our world with rich meaning._  
+
+article{giamimo2020remora,  
+  Author={Giaimo, Cara},  
+  url={https://www.nytimes.com/2020/10/29/science/remoras-suckerfish-whales.html},  
+  Title={How Suckerfish Surf Across Blue Whales Without Falling Off},  
+  journal={The New York Times},  
+  date={2020-10-29},  
+  comment={Remoras (suckerfish) have the ability to move around on the surface of blue whales, eating parasites, dead skin, and leftovers. Part of this is done by sticking close to the body, where there is a zone of slower-moving water the remora can hang out in.},  
+  category={Science, remoras, suckerfish, fluid dynmaics}  
+}  
 
 
 @article{sokol2020sharksvsswords,  
@@ -2048,6 +2056,8 @@ category={trees, Science},
 % While this covers much of the lesser-known problems with plastic, it doesn't cover the fact that it is cheap because it is a byproduct of the fossil fuel industry.   
 % Also doesn't mention that plastic is lightweight, but that doesn't really matter much.  
 % See also: \url{https://theintercept.com/2019/07/20/plastics-industry-plastic-recycling/} which points out that there is a market only for recycled plastics #1 and 2. 3-7 are virtually worthless.  
+% See also: \url{https://www.nytimes.com/2020/10/30/climate/plastic-pollution-oceans.html}
+% which says that the US contribution to plastic pollution worldwide is significantly larger thant previously thought.
   
   
 @article{foderaroplasticNYC2016,  
