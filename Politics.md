@@ -1,9 +1,21 @@
 dynohub.github.io/Politics.md  
-Last modified: Wed Oct 21, 2020  05:04PM
+Last modified: Fri Nov 06, 2020  01:35PM
 
 ## Politics
 --------------------------------------------------------------------------------
 
+@article{gelman2012probability,
+  title={What is the probability your vote will make a difference?},
+  author={Gelman, Andrew and Silver, Nate and Edlin, Aaron},
+  journal={Economic Inquiry},
+  volume={50},
+  number={2},
+  pages={321--326},
+  year={2012},
+  publisher={Wiley Online Library},
+  comment={A calculation of the probability that any individual's vote will determine the outcome of a presidential election (in a 2008 election environment). ``In a presidential election, the probability that your vote is decisive is equal to the probability that your state is necessary for an electoral college win, times the probability the vote in your state is tied, conditional on your state being necessary.'' They find that there is a 1 in 60 million chance of a randomly selected voter having an impact on the presidential election. In a battleground state it is more like 1 in 10 million. In New York it is about 1 in a billion. They suggest that the argument for voting is could be something like ``it's like you have a chance at winning the lottery of having say over national policy.'' Though they point out that would be moot in a state with 1 in a billion chance of impact.},
+  category={Politics, Science, voting, presidential elections, probability}
+}
 
 
 @article{nolan2020immigration,  
