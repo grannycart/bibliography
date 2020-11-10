@@ -1,8 +1,24 @@
 dynohub.github.io/Criticality.md  
-Last modified: Sat Oct 24, 2020  06:42PM
+Last modified: Tue Nov 10, 2020  05:19PM
 
 ## Criticality
 --------------------------------------------------------------------------------
+
+
+@article{fadiman2020pronouns,  
+  Author={Fadiman, Anne},  
+  url={https://harpers.org/archive/2020/08/all-my-pronouns-the-singular-they/},  
+  Title={All My Prounouns},  
+  journal={Harper's Magazine},  
+  year={2020},  
+  month={08},
+  comment={A strict grammarian works her way around to arguing for using 'they' as a singular gender non-specific pronoun. Covers the interesting history of plural 'you' --- which used to be thou and thee for singular, and ye and you for plural, but shifted over time, for many of the same reasons as using singular they, to you meaning either singular or plural. Also The King James version of the Bible, Chaucer, Shakespeare, Shaw, and Jane Austen all used singular they.},  
+  category={Criticality, grammar, they, you, gender neutral, trans}  
+}  
+% Also see Farhad Manjoo's similar argument in the Times: \url{https://www.nytimes.com/2019/07/10/opinion/pronoun-they-gender.html}
+% At one point in the essay Fadiman says "Once a new usage becomes widespread on campus, in a few years it's widespread everywhere."
+% But she fails to acknowledge the problem with that: much unique language usage on campus is nothing more than signifiers of youth culture, that rapidly fade away. Think of "groovy" "rad" or "square". I'm not aruguing that this applies to singular 'they' --- that feels like it is so deeply embedded now that it isn't going anywhere. But some of the more out-there gender identifiers ("ze") seem unlikely to ever jump off campus, or beyond our current decade. 
+% I also question the constantly naming your pronouns along this line. I feel like that is so cumbersome, politicized, and possibly youth-culturized that it has little chance of permanently being embedded in our culture.
 
 
 @article{mildenberger2019commons,  
