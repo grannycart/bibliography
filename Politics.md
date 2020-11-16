@@ -1,8 +1,19 @@
 dynohub.github.io/Politics.md  
-Last modified: Fri Nov 06, 2020  01:35PM
+Last modified: Mon Nov 16, 2020  11:05AM
 
 ## Politics
 --------------------------------------------------------------------------------
+
+
+@article{bellafante2020demdonors,  
+  Author={Bellafante, Ginia},  
+  url={https://www.nytimes.com/2020/11/13/nyregion/election-2020-nyc-donations.html},  
+  Title={Liberal New Yorkers Threw Money at Doomed Candidates All Over the U.S.},  
+  journal={The New York Times},  
+  date={2020-11-13},  
+  comment={Weatlyh Democratic donors from NYC poured money into long-shot races around the country because those are the ones that get media attention: "so begins a precarious feedback loop: the more Rachel Maddow talks about you, the more money you raise and then the more you have to spend buying ads on Rachel Maddow.” Sara Gideon, challenging Susan Collins in Maine, raised 100,000 dollars from a nine-block radius on the Upper East Side. Bloomberg put down 100 million against Trump in Florida, Texas, and Ohio all of which went to Trump. Meanwhile progressives are losing races in NYC (like in Coney Island) because nobody pays attention to those down-ticket races.},  
+  category={Politics, donations, nyc, democrats}  
+}  
 
 @article{gelman2012probability,
   title={What is the probability your vote will make a difference?},
