@@ -1,5 +1,5 @@
 dynohub.github.io/Novels.md
-Last modified: Sun Sep 13, 2020  03:28PM
+Last modified: Mon Nov 23, 2020  09:13PM
 
 ## Novels
 --------------------------------------------------------------------------------
@@ -76,8 +76,53 @@ Last modified: Sun Sep 13, 2020  03:28PM
 %  
 % On page 25 he says his brain is full, and adding something makes something else pop out  
   
+@book{doyle2020sign,  
+  title={The Sign of the Four Illustrated},  
+  author={Doyle, A.C.},  
+  isbn={9798674536635},  
+  url={https://books.google.com/books?id=DpPAzQEACAAJ},  
+  year={2020},  
+  publisher={Independently Published}  
+}  
+    
+@book{doyle1992adventures,  
+  title={The Adventures of Sherlock Holmes},  
+  author={Doyle, A.C. and Wolfreys, J.},  
+  isbn={9781853260339},  
+  series={Classics Library},  
+  url={https://books.google.com/books?id=oqkC3PTplRsC},  
+  year={1992},  
+  publisher={Wordsworth}  
+}  
   
+@book{doyle2012memoirs,  
+  title={The Memoirs of Sherlock Holmes},  
+  author={Doyle, A.C.},  
+  isbn={9780486114354},  
+  series={Dover Thrift Editions},  
+  url={https://books.google.com/books?id=5s7FycWq59gC},  
+  year={2012},  
+  publisher={Dover Publications}  
+}  
   
+@book{doyle1902hound,  
+  title={The Hound of the Baskervilles: Another Adventure of Sherlock Holmes},  
+  author={Doyle, A.C.},  
+  url={https://books.google.com/books?id=5l8rUHN9STcC},  
+  year={1902},  
+  publisher={Grosset \& Dunlap}  
+}  
+  
+@book{doyle1905return,  
+  title={The Return of Sherlock Holmes},  
+  author={Doyle, A.C.},  
+  lccn={36029320},  
+  url={https://books.google.com/books?id=SdYQAAAAYAAJ},  
+  year={1905},  
+  publisher={A. Wessels Company}  
+}  
+  
+    
 @book{gaddis2012recognitions,  
   title={The Recognitions},  
   author={Gaddis, W. and Gass, W.H.},  
