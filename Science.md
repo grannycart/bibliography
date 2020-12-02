@@ -1,8 +1,43 @@
 dynohub.github.io/Science.md  
-Last modified: Mon Nov 02, 2020  05:07PM
+Last modified: Wed Dec 02, 2020  12:22PM
 
 ## Science
 --------------------------------------------------------------------------------
+
+@book{wolfe2008right,  
+  title={The Right Stuff},  
+  author={Wolfe, T.},  
+  isbn={9780312427566},  
+  lccn={79013901},  
+  url={https://books.google.com/books?id=Y9I1mQEACAAJ},  
+  year={2008},  
+  publisher={Picador},  
+  comment={The classic "new-journalism" book covering the attempt to break the sound barrier with experimental jets, and the early days of the American and Soviet space age.},  
+  category={Science, space, rocket planes, sound barrier, hypersonic, chimpanzees, john glenn},  
+}  
+% (I think I took notes on the first half of this book on my phone. I don't know where they are now.)  
+% Page 142: A paper is presented saying the sole purpose of having a human on board the spacecraft was biomedical research.  
+% Page 143: The Mercury rocket-capsule vehicle was a fully automated system in which "the astronaut does not need to turn a hand." They would say, "The astronaut has been added to the system as a redundant component."  
+% Page 152: The original design of the Mercury capsule had no window. The astronauts demanded that one be put in.  
+% Page 154: Description of the chimpanzee training program, begun at the same time as the training program for the men, the chimps had nearly the same capabilities and reaction times as the humans, and were just as grumpy about being test subjects, and constantly tried to escape.  
+% Page 161: The J.C. maneuver: take your hands off the controls and put the mother in the lap of a super natural power.   
+% Page 175: The story of chimp Number 61 who did the first ape flight. Through training, he remained completely calm throughout the flight --- just like the humans. And because of his training did all the things he was required to do in the cockpit (to avoid being electrically shocked).  
+% Page 178: Number 61 flips out when confronted with the press.  
+% Page 245: 'operant conditioning' --- the training that the apes and the astronauts went through --- gave chimp Number 85 high blood pressure.  
+% Page 256: fuel is burned at one ton per second.  
+% Page 300: Scott (picked up after his flight by the aircraft carrier Intrepid) was proud to have figured out a weird little scientific mystery while in space, and more importantly created the role of scientist in space, kind of an upgrade from test pilot.  
+% Page 304: Carpenter was very serious about doing the science experiments. AS a result he fell behind in his flight checklist and then started to panic because he had been messing around with other people's priorities for science rather than focusing on operational flight priorities.   
+% Page 306: the secret of a successful mission lay in a simplified checklist with white space between tasks. The fewer tasks you had, the better chance you had for 100 percent performance. If you could control the checklist, then you could give your flight a clear-cut goal that everyone could immediately appreciate, and respond to.  
+% Page 324: Gordo falls asleep while strapped in on top of the rocket waiting for launch.  
+% Page 339: Wolfe's telling of how Ed Dwight, who would have been the first African-American astronaut, was held back by Chuck Yeager.  
+% Page 349: Meanwhile while Americans became obsessed with a moon landing, the Soviets put the first woman into space in 1963. (See wikipedia for more about how the Soviets also put the first black man into space, and achieved many many other milestones ahead of the Americans.)  
+% Page 351: Wolfe claims the cold war ends with the Kennedy Assassination "as anyone could plainly see."  
+
+
+
+
+
+
 
 
 article{giamimo2020remora,  

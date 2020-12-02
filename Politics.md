@@ -1,8 +1,19 @@
 dynohub.github.io/Politics.md  
-Last modified: Mon Nov 16, 2020  11:05AM
+Last modified: Wed Dec 02, 2020  12:21PM
 
 ## Politics
 --------------------------------------------------------------------------------
+
+
+@article{beaumont2020dems,  
+  Author={Beaumont, Thomas},  
+  url={https://apnews.com/article/election-2020-donald-trump-tom-bakk-iowa-minnesota-01881b095d7a8b0d7b61923c4a93627d},  
+  Title={Biden’s win hides a dire warning for Democrats in rural U.S.},  
+  journal={AP News},  
+  date={2020-11-27},  
+  comment={Even though Democrats are doing better in red states like Georgia, it's not by winning over rural voters who still find them too far to the left. It's by winning more of the urban centers in those states. This is true both in the south and the north. In rural areas Trump did BETTER in 2020 than he did in 2016. This defies the idea that some red states are trending towards Democrats. Rural voters are actually being more and more left behind by the Democrats.},  
+  category={Politics, democrats}  
+}  
 
 
 @article{bellafante2020demdonors,  
