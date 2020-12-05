@@ -1,8 +1,19 @@
 dynohub.github.io/Criticality.md  
-Last modified: Tue Nov 10, 2020  05:19PM
+Last modified: Sat Dec 05, 2020  10:19AM
 
 ## Criticality
 --------------------------------------------------------------------------------
+
+
+@article{ligaya2020fugu,  
+  Author={Mishan, Ligaya},  
+  url={https://www.nytimes.com/2020/12/04/t-magazine/fugu-blowfish-deadly-food.html},  
+  Title={The Appealing and Potentially Lethal Delicacy That Is Fugu},  
+  journal={The New York Times},  
+  date={2020-12-i04},  
+  comment={An argument that the West doesn't understand fugu --- Japanese blowfish sushi. Eating it is seen in the West as akin to an adventure sport, like skydiving, because of the deadly toxins in wild fugu. But most Japanese see it as sublimely delicious, and don't think about the toxins --- though the Japanese government has strictly regulated and tested fugu preparers in an effort to reduce the deaths caused by eating the fish. More interestingly, the article also talks about 'artisanal' food preparation. As farmed non-poisonous fugu brings fugu to more people, the art of preparing the deadly fish may fade away somewhat. But the article quotes American anthropologist Susan J. Terrio: "raft can serve as a metaphor for an alternative set of cultural values and work practices in contrast to the dominant norm, it becomes an ideological stance, a way for people to assert themselves against an increasingly corporatized, monocultural world. Still, it takes a certain amount of privilege to indulge in nostalgia for a more labor-intensive time. Much of this longing is for an imagined past in which every task in the production of food was intentional and joyous, rather than a matter of necessity. Such work only earned the label “artisanal” when it became a choice."},  
+  category={Criticality, sushi, fugu, sashimi, craft, artisinal, food, japan}  
+}  
 
 
 @article{fadiman2020pronouns,  

@@ -1,8 +1,29 @@
 dynohub.github.io/Science.md  
-Last modified: Wed Dec 02, 2020  12:22PM
+Last modified: Sat Dec 05, 2020  10:31AM
 
 ## Science
 --------------------------------------------------------------------------------
+
+article{jabr2020woodwideweb,  
+  Author={Jabr, Ferris},  
+  url={https://www.nytimes.com/interactive/2020/12/02/magazine/tree-communication-mycorrhiza.html},  
+  Title={The Social Life of Forests},  
+  journal={The New York Times},  
+  date={2020-12-02},  
+  comment={A recounting of how Suzanne Simard developed and proved the idea of the Wood-Wide Web: that fungus connect trees in a forest and the trees share resources among each other, even among many different species. Simard does good science, but also puts forth a public narrative akin to hippiedom: that all the woods are connected and cooperating to survive by sharing resources in an almost socialist way. This notion of cooperation instead of competition goes against most basic tenets of Darwinism, though it is of course acknowledged that certain species benefit evolutionarily from social cooperation. What is less well accepted is that a whole broad range of communities of species would benefit from cooperating together. This is the idealistic view that Simard proposes. Briefly mentioned in the article is an opposing view (that seems a little more clear-cut and simple to me): the network of fungus is not just unthinking infrastructure, in fact the fungus are the one making all these decisions about how to share resources, and they are doing it purely for the selfish reason of their own survival. The science that shows this is pretty convincing.},  
+  category={Science, wood-wide web, forests, fungus, trees}  
+}  
+% So really, if you read between the lines of this article, you find
+% that while the hippie scientists want the forest to be one big magical
+% connected place, what they are actually finding is that the trees
+% might be just dumb reservoirs of resources for the fungus. The fungus
+% might well be the major players in the forest, not the trees. The
+% network is what matters, not the nodes. This doesn't jibe with the
+% lens the hippies want to bring to it, and doesn't read as well as
+% a pop news article (at least not at just this moment, it might after
+% the Wood-Wide Web becomes more widely distributed as a meme, and the
+% entertaining part is poking holes in in). 
+
 
 @book{wolfe2008right,  
   title={The Right Stuff},  

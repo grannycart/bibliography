@@ -51,7 +51,7 @@ Because it lets me pull the entries as bibtex. Long-term viability, etc.
 % Add @ sign at beginning to activate  
   
 % (7 lines)  
-misc{Blankmiscentry,  
+@misc{Blankmiscentry,  
   Author={},  
   Howpublished={\url{}},  
   Title={},  
@@ -61,7 +61,7 @@ misc{Blankmiscentry,
   
 % Line below is 20 lines up  
 % (9 lines)  
-article{Blankarticleentry,  
+@article{Blankarticleentry,  
   Author={},  
   url={},  
   Title={},  
@@ -72,7 +72,7 @@ article{Blankarticleentry,
 }  
   
 % (9 lines)  
-article{Blanknytimes,  
+@article{Blanknytimes,  
   Author={},  
   url={},  
   Title={},  
