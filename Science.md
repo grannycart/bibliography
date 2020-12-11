@@ -1,10 +1,22 @@
 dynohub.github.io/Science.md  
-Last modified: Sat Dec 05, 2020  10:31AM
+Last modified: Fri Dec 11, 2020  11:32AM
 
 ## Science
 --------------------------------------------------------------------------------
 
-article{jabr2020woodwideweb,  
+
+
+@article{kumar2018tiger,  
+  Author={Kumar, Hari and Gettleman, Jeffrey},  
+  url={https://www.nytimes.com/2018/11/03/world/asia/india-tiger-dead.html},  
+  Title={Man-Eating Tiger Is Shot Dead in India},  
+  journal={The New York Times},  
+  date={2018-11-03},  
+  comment={A Tiger that killed 13 people and learned to be very smart at avoiding hunters and capture because of all the missed attempts at her, was lured to her death by a bottle of Calvin Klein's Obsession perfume. Cats are attracted to the scent of the perfume. The tiger was known to have killed a man standing in the middle of a herd of cattle --- and not touched any of the cattle. Wildlife activists were dismayed at the killing of the tiger. Local villagers rejoiced.},  
+  category={Science, tiger, calvin klein, obsession, perfume, man-eater}  
+
+
+@article{jabr2020woodwideweb,  
   Author={Jabr, Ferris},  
   url={https://www.nytimes.com/interactive/2020/12/02/magazine/tree-communication-mycorrhiza.html},  
   Title={The Social Life of Forests},  
