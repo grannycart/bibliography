@@ -1,8 +1,24 @@
 dynohub.github.io/Novels.md
-Last modified: Mon Nov 23, 2020  09:13PM
+Last modified: Sat Dec 12, 2020  03:07PM
 
 ## Novels
 --------------------------------------------------------------------------------
+
+@book{asimov1977robot,
+  title={I, Robot},
+  author={Asimov, I.},
+  url={https://books.google.com/books?id=4VFuzQEACAAJ},
+  year={1977},
+  publisher={Fawcett Crest},
+  comment={Classic sci fi book where Asimov extrapolates stories from the "three laws of robotics" that he lays out at the beginning. The whole book is framed around interviews with an aging female "robopsychiatrist" whose career followed the rise of robots from non-speaking machines to president of the world. },
+  category={Novels, sci fi, robots, asimov}
+}
+% It's a neat idea to set up a set of rules for your stories and then work them up.
+% Though it doesn't always work: there's a number of places where you're like "why don't they just _ask_ the robot what the hell it's doing?" or some other super simple solution that Asimov side-steps to make his point in the story.
+% Also many of the characters are extremely weak. I can't even tell the difference between the two main male characters when they are speaking.
+% page 158: A human who lives by the three laws of robotics would make an extremely _good_ human --- perhaps (it's indicated) better than any human actially is. (This is implied about the robot who becomes president of the world.)
+
+
 
 @book{adams2005ultimate,  
   title={The Ultimate Hitchhiker's Guide: Five Complete Novels and One Story},  
