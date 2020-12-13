@@ -1,8 +1,21 @@
 dynohub.github.io/Novels.md
-Last modified: Sat Dec 12, 2020  03:07PM
+Last modified: Sun Dec 13, 2020  09:36AM
 
 ## Novels
 --------------------------------------------------------------------------------
+
+@book{pynchon1967crying,
+  title={The Crying of Lot 49},
+  author={Pynchon, T.},
+  isbn={9780553138887},
+  series={A Bantam Book},
+  url={https://books.google.com/books?id=cXuqPwAACAAJ},
+  year={1967},
+  publisher={Bantam Books}
+}
+% Page 14: "What the road really was, she fancied, was this hypodermic needle, inserted somewhere ahead into the vein of a freeway, a vein nourishing the mainlined L.A., keeping it happy, cohered, protected from pain, or whatever passes, within a city, for pain."
+% Page 18: The little submarine in the movie they are watching is named the "Justine"
+
 
 @book{asimov1977robot,
   title={I, Robot},
