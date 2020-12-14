@@ -1,5 +1,5 @@
 dynohub.github.io/Novels.md
-Last modified: Sun Dec 13, 2020  09:36AM
+Last modified: Mon Dec 14, 2020  10:58AM
 
 ## Novels
 --------------------------------------------------------------------------------
@@ -15,6 +15,7 @@ Last modified: Sun Dec 13, 2020  09:36AM
 }
 % Page 14: "What the road really was, she fancied, was this hypodermic needle, inserted somewhere ahead into the vein of a freeway, a vein nourishing the mainlined L.A., keeping it happy, cohered, protected from pain, or whatever passes, within a city, for pain."
 % Page 18: The little submarine in the movie they are watching is named the "Justine"
+% Page 31: They go to the bar The Scope (named after oscilloscope) where all the engineers from nearby Yoyodyne industries hang out. The music playing is by Stockhausen and The Scope is the only bar in the area with a strictly electronic music policy. They have a live jam session and extra electronic junk stored for anyone who wants to sit in, but forgot to bring their ax. (This book was written a decade before Kraftwerk.)
 
 
 @book{asimov1977robot,
