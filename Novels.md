@@ -1,5 +1,5 @@
 dynohub.github.io/Novels.md
-Last modified: Mon Dec 14, 2020  10:58AM
+Last modified: Wed Dec 16, 2020  10:30AM
 
 ## Novels
 --------------------------------------------------------------------------------
@@ -16,6 +16,8 @@ Last modified: Mon Dec 14, 2020  10:58AM
 % Page 14: "What the road really was, she fancied, was this hypodermic needle, inserted somewhere ahead into the vein of a freeway, a vein nourishing the mainlined L.A., keeping it happy, cohered, protected from pain, or whatever passes, within a city, for pain."
 % Page 18: The little submarine in the movie they are watching is named the "Justine"
 % Page 31: They go to the bar The Scope (named after oscilloscope) where all the engineers from nearby Yoyodyne industries hang out. The music playing is by Stockhausen and The Scope is the only bar in the area with a strictly electronic music policy. They have a live jam session and extra electronic junk stored for anyone who wants to sit in, but forgot to bring their ax. (This book was written a decade before Kraftwerk.)
+% Page 34: the muted horn symbol
+% Page 61, 64: the myth of the american inventor: an individual genius, Edison with his lightbulb, Bell with his telephone. Then they grow up and sign all their rights over to some monst corporation, and they get put on some 'project' or 'task force' or 'team' and ground into anonymity. Nobody wanted them to invent.
 
 
 @book{asimov1977robot,
@@ -151,6 +153,18 @@ Last modified: Mon Dec 14, 2020  10:58AM
   year={1905},  
   publisher={A. Wessels Company}  
 }  
+
+@book{doyle1993valley,
+  title={The Valley of Fear},
+  author={Doyle, A.C. and Edwards, O.D.},
+  isbn={9780192123145},
+  lccn={93025387},
+  series={Oxford Sherlock Holmes},
+  url={https://books.google.com/books?id=0zT-rQEACAAJ},
+  year={1993},
+  publisher={Oxford University Press}
+}
+% A Pinkerton agent goes undercover and breaks up a secret society of organized crime in a US coal town.
   
     
 @book{gaddis2012recognitions,  
