@@ -1,8 +1,20 @@
 dynohub.github.io/Music.md  
-Last modified: Sun Sep 13, 2020  03:16PM
+Last modified: Wed Dec 16, 2020  03:40PM
 
 ## Music
 --------------------------------------------------------------------------------
+
+@article{stephenson2020wendycarlos,  
+  Author={Stephenson, Will},  
+  url={https://harpers.org/archive/2020/10/the-well-tempered-synthesizer-wendy-carlos-amanda-swell/},  
+  Title={The Well-Tempered Synthesizer},  
+  journal={Harper's},  
+  year={2020},  
+  month={10},  
+  comment={Review of Wendy Carlos: A Biography, by Amanda Sewell. Claims that electronic music predated hip-hop, rock, doo-wop, bluegrass, big-band, and jazz. Mark Twain saw a demonstration of a telharmonium in 1906 that created electric music. Mentions a paper by Milton Babbit called Who Cares If You Listen where he argues for the obscure and complex in music. Terry Riley was there at the release of Switched-On Bach. It outsold the Who's Tommy, and Hohnny Cash at San Quentin. It was the first classical album to sell a million copies. Giorgio Moroder was listening to Wendy Carlos, not Stockhausen or Subotnik. "The very frailness of the instrument --- the way the Moog can sound, to modern ears, occasionally tinny or pitiful --- has the effect of enhancing the poignancy of its performace of sacred music, as if making literal, in the contrast itself, our weakness in relation to God." Carlos said: "Every parameter that you can control, you must control." The article ends with a painful recounting of how wendy has been treated in the press, even recently.},  
+  category={Music, electronic music, wendy carlos, switched-on bach, moog}  
+}  
+
 
 @article{rees2016dopesmoker,  
   Author={Rees, David},  

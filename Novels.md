@@ -1,39 +1,39 @@
 dynohub.github.io/Novels.md
-Last modified: Wed Dec 16, 2020  10:30AM
+Last modified: Wed Dec 16, 2020  03:41PM
 
 ## Novels
 --------------------------------------------------------------------------------
 
-@book{pynchon1967crying,
-  title={The Crying of Lot 49},
-  author={Pynchon, T.},
-  isbn={9780553138887},
-  series={A Bantam Book},
-  url={https://books.google.com/books?id=cXuqPwAACAAJ},
-  year={1967},
-  publisher={Bantam Books}
-}
-% Page 14: "What the road really was, she fancied, was this hypodermic needle, inserted somewhere ahead into the vein of a freeway, a vein nourishing the mainlined L.A., keeping it happy, cohered, protected from pain, or whatever passes, within a city, for pain."
-% Page 18: The little submarine in the movie they are watching is named the "Justine"
-% Page 31: They go to the bar The Scope (named after oscilloscope) where all the engineers from nearby Yoyodyne industries hang out. The music playing is by Stockhausen and The Scope is the only bar in the area with a strictly electronic music policy. They have a live jam session and extra electronic junk stored for anyone who wants to sit in, but forgot to bring their ax. (This book was written a decade before Kraftwerk.)
-% Page 34: the muted horn symbol
-% Page 61, 64: the myth of the american inventor: an individual genius, Edison with his lightbulb, Bell with his telephone. Then they grow up and sign all their rights over to some monst corporation, and they get put on some 'project' or 'task force' or 'team' and ground into anonymity. Nobody wanted them to invent.
+@book{pynchon1967crying,  
+  title={The Crying of Lot 49},  
+  author={Pynchon, T.},  
+  isbn={9780553138887},  
+  series={A Bantam Book},  
+  url={https://books.google.com/books?id=cXuqPwAACAAJ},  
+  year={1967},  
+  publisher={Bantam Books}  
+}  
+% Page 14: "What the road really was, she fancied, was this hypodermic needle, inserted somewhere ahead into the vein of a freeway, a vein nourishing the mainlined L.A., keeping it happy, cohered, protected from pain, or whatever passes, within a city, for pain."  
+% Page 18: The little submarine in the movie they are watching is named the "Justine"  
+% Page 31: They go to the bar The Scope (named after oscilloscope) where all the engineers from nearby Yoyodyne industries hang out. The music playing is by Stockhausen and The Scope is the only bar in the area with a strictly electronic music policy. They have a live jam session and extra electronic junk stored for anyone who wants to sit in, but forgot to bring their ax. (This book was written a decade before Kraftwerk.)  
+% Page 34: the muted horn symbol  
+% Page 61, 64: the myth of the american inventor: an individual genius, Edison with his lightbulb, Bell with his telephone. Then they grow up and sign all their rights over to some monst corporation, and they get put on some 'project' or 'task force' or 'team' and ground into anonymity. Nobody wanted them to invent.  
 
 
-@book{asimov1977robot,
-  title={I, Robot},
-  author={Asimov, I.},
-  url={https://books.google.com/books?id=4VFuzQEACAAJ},
-  year={1977},
-  publisher={Fawcett Crest},
-  comment={Classic sci fi book where Asimov extrapolates stories from the "three laws of robotics" that he lays out at the beginning. The whole book is framed around interviews with an aging female "robopsychiatrist" whose career followed the rise of robots from non-speaking machines to president of the world. },
-  category={Novels, sci fi, robots, asimov}
-}
-% It's a neat idea to set up a set of rules for your stories and then work them up.
-% Though it doesn't always work: there's a number of places where you're like "why don't they just _ask_ the robot what the hell it's doing?" or some other super simple solution that Asimov side-steps to make his point in the story.
-% Also many of the characters are extremely weak. I can't even tell the difference between the two main male characters when they are speaking.
-% page 158: A human who lives by the three laws of robotics would make an extremely _good_ human --- perhaps (it's indicated) better than any human actially is. (This is implied about the robot who becomes president of the world.)
-
+@book{asimov1977robot,  
+  title={I, Robot},  
+  author={Asimov, I.},  
+  url={https://books.google.com/books?id=4VFuzQEACAAJ},  
+  year={1977},  
+  publisher={Fawcett Crest},  
+  comment={Classic sci fi book where Asimov extrapolates stories from the "three laws of robotics" that he lays out at the beginning. The whole book is framed around interviews with an aging female "robopsychiatrist" whose career followed the rise of robots from non-speaking machines to president of the world. },  
+  category={Novels, sci fi, robots, asimov}  
+}  
+% It's a neat idea to set up a set of rules for your stories and then work them up.  
+% Though it doesn't always work: there's a number of places where you're like "why don't they just _ask_ the robot what the hell it's doing?" or some other super simple solution that Asimov side-steps to make his point in the story.  
+% Also many of the characters are extremely weak. I can't even tell the difference between the two main male characters when they are speaking.  
+% page 158: A human who lives by the three laws of robotics would make an extremely _good_ human --- perhaps (it's indicated) better than any human actially is. (This is implied about the robot who becomes president of the world.)  
+  
 
 
 @book{adams2005ultimate,  
@@ -154,17 +154,17 @@ Last modified: Wed Dec 16, 2020  10:30AM
   publisher={A. Wessels Company}  
 }  
 
-@book{doyle1993valley,
-  title={The Valley of Fear},
-  author={Doyle, A.C. and Edwards, O.D.},
-  isbn={9780192123145},
-  lccn={93025387},
-  series={Oxford Sherlock Holmes},
-  url={https://books.google.com/books?id=0zT-rQEACAAJ},
-  year={1993},
-  publisher={Oxford University Press}
-}
-% A Pinkerton agent goes undercover and breaks up a secret society of organized crime in a US coal town.
+@book{doyle1993valley,  
+  title={The Valley of Fear},  
+  author={Doyle, A.C. and Edwards, O.D.},  
+  isbn={9780192123145},  
+  lccn={93025387},  
+  series={Oxford Sherlock Holmes},  
+  url={https://books.google.com/books?id=0zT-rQEACAAJ},  
+  year={1993},  
+  publisher={Oxford University Press}  
+}  
+% A Pinkerton agent goes undercover and breaks up a secret society of organized crime in a US coal town.  
   
     
 @book{gaddis2012recognitions,  
