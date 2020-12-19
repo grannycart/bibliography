@@ -1,5 +1,5 @@
 dynohub.github.io/Novels.md
-Last modified: Wed Dec 16, 2020  03:41PM
+Last modified: Sat Dec 19, 2020  10:44AM
 
 ## Novels
 --------------------------------------------------------------------------------
@@ -18,6 +18,8 @@ Last modified: Wed Dec 16, 2020  03:41PM
 % Page 31: They go to the bar The Scope (named after oscilloscope) where all the engineers from nearby Yoyodyne industries hang out. The music playing is by Stockhausen and The Scope is the only bar in the area with a strictly electronic music policy. They have a live jam session and extra electronic junk stored for anyone who wants to sit in, but forgot to bring their ax. (This book was written a decade before Kraftwerk.)  
 % Page 34: the muted horn symbol  
 % Page 61, 64: the myth of the american inventor: an individual genius, Edison with his lightbulb, Bell with his telephone. Then they grow up and sign all their rights over to some monst corporation, and they get put on some 'project' or 'task force' or 'team' and ground into anonymity. Nobody wanted them to invent.  
+% Page 116: "The illustrations were woodcuts, executed with that crude haste to see the finished product that marks the amateur. True pornography is given us by vastly patient professionals."
+% Page 118: "a mail coach belonging to the 'Torre and Tassis' system, which Oedipa figured must be Italian for Thurn and Taxis."
 
 
 @book{asimov1977robot,  
