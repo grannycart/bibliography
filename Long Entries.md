@@ -1,8 +1,22 @@
 dynohub.github.io/Long Entries.md  
-Last modified: Sun Sep 13, 2020  03:29PM
+Last modified: Tue Jan 12, 2021  10:26AM
 
 ## Long Entries
 --------------------------------------------------------------------------------
+
+
+@book{holldobler1990ants,  
+  title={The ants},  
+  author={H{\"o}lldobler, Bert and Wilson, Edward O and others},  
+  year={1990},  
+  publisher={Harvard University Press}  
+}  
+% Cartoon: The Ants is hard to read. How to read The Ants? In bed with your knees up and the book resting on your raised lap.
+% Page 1: In 1979 an ant colony was found in Japan with more than 300 million workers and 1 million queens in 47,000 interconnected nests over nearly 3 square kilometers.
+% Page 2: The Ants of the Amazon rain forest are responsible for much of the formic acid in the atmosphere over the rain forest.
+% Plate 1: the sole example of the missing link ant between wasps and ants. Would make a good record cover.
+
+
 
 
 @book{shirer2011rise,  
