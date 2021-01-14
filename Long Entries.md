@@ -1,5 +1,5 @@
 dynohub.github.io/Long Entries.md  
-Last modified: Tue Jan 12, 2021  10:26AM
+Last modified: Thu Jan 14, 2021  09:48AM
 
 ## Long Entries
 --------------------------------------------------------------------------------
@@ -15,6 +15,7 @@ Last modified: Tue Jan 12, 2021  10:26AM
 % Page 1: In 1979 an ant colony was found in Japan with more than 300 million workers and 1 million queens in 47,000 interconnected nests over nearly 3 square kilometers.
 % Page 2: The Ants of the Amazon rain forest are responsible for much of the formic acid in the atmosphere over the rain forest.
 % Plate 1: the sole example of the missing link ant between wasps and ants. Would make a good record cover.
+% If you see the whole colony as the organism, rather than the individual, then the males are nothing more than winged penises. Page 150: the males are active during their mating flight hour, but do nothing else but groom themselves, solicit food from the female workers, and walk sluggishly around the nest.
 
 
 
