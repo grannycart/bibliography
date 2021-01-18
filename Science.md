@@ -1,9 +1,21 @@
 dynohub.github.io/Science.md  
-Last modified: Fri Dec 11, 2020  11:32AM
+Last modified: Mon Jan 18, 2021  12:37PM
 
 ## Science
 --------------------------------------------------------------------------------
 
+
+@article{Ferreira2019caveart,  
+  Author={Ferreira, Becky},  
+  url={https://www.nytimes.com/2019/12/11/science/cave-art-indonesia.html},  
+  Title={Mythical Beings May Be Earliest Imaginative Cave Art by Humans},  
+  journal={The New York Times},  
+  date={2019-12-19},  
+  comment={On the Indonesian island of Sulawesi, cave art was discovered dating back nearly 45,000 years --- among the oldest known cave paintings. The figures painted there include therianthropes, characters with a mix of human and animal features like tails and beaks.},  
+  category={Science, indonesia, cave art, therianthropes}  
+}  
+% See also this article about an even older image of a pig discovered on the same island: \url{https://www.nytimes.com/2021/01/13/science/cave-painting-indonesia.html}  
+% That article includes discussion that the images might be by species other than modern humans.  
 
 
 @article{kumar2018tiger,  
