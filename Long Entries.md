@@ -1,5 +1,5 @@
 dynohub.github.io/Long Entries.md  
-Last modified: Sun Jan 17, 2021  10:31AM
+Last modified: Mon Jan 18, 2021  10:56AM
 
 ## Long Entries
 --------------------------------------------------------------------------------
@@ -20,6 +20,7 @@ Last modified: Sun Jan 17, 2021  10:31AM
 % Page 178: "It can be said that a principal different between human beings and ants is that whereas we send out young men to war, they send their old ladies"
 % Page 180: kin selection --- this theory of how altruistic behavior evolved in ants jibes with Darwinian evolution. There is some sense implied that it must apply at some level to humans too. But whereas in ants it can be codified and literally formulated, in humans it seems like it must be far more complex, if it exists. I'm sure there's further reading on it somewhere.
 % Page 184: prediction of a 3:1 ratio of energy investment in queens as opposed to males during the production of reproductives. "a rare instance of quantitative prediction in evolutionary biology." This is because ants have a reproductive system where only half the genetic material is passed on to males, and all genetic material is passed on to females. This is also why females end up being workers. While this supports kin selection theory in ants, humans pass all their genetic material on to both males and females so kin selection is not nearly so straightforward.
+% Page 185: eusociality: the "highest" form of social interaction. To be classified as eusocial, an animal has to exhibit three characteristics: brood care, overlap of at least two generations, division of group into reproductive and sterile castes. Later, in the mid-2000s, Wilson would claim that human beings are eusocial, and that is what led to our dominance.
 
 
 
