@@ -1,9 +1,18 @@
 dynohub.github.io/Urbanism.wiki  
-Last modified: Fri Sep 11, 2020  10:49PM
+Last modified: Thu Jan 21, 2021  04:02PM
 
 ## Urbanism
 --------------------------------------------------------------------------------
   
+@article{engler2021preschoolplanners,  
+  Author={Engler, Christina},  
+  url={https://theconversation.com/young-children-are-intuitive-urban-planners-we-would-all-benefit-from-living-in-their-care-full-cities-151365},  
+  Title={Young children are intuitive urban planners — we would all benefit from living in their ‘care-full’ cities},  
+  journal={The Conversation},  
+  date={2021-01-03},  
+  comment={The input of pre-schoolers on the urbban planning process can have important outcomes for improving the health and qulaity of cities.},  
+  category={Urbanism, Criticality, pre-schoolers, childern, planning}  
+}  
   
 @article{badger2020planning,  
   Author={Badger, Emily},  
