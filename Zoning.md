@@ -1,8 +1,23 @@
 dynohub.github.io/Zoning.md  
-Last modified: Fri Sep 11, 2020  10:49PM
+Last modified: Thu Jan 21, 2021  04:10PM
 
 ## Zoning
 --------------------------------------------------------------------------------
+  
+   
+@article{fulton2020houston,  
+  Author={Fulton, William},  
+  url={https://www.planning.org/planning/2020/jan/the-z-word/},  
+  Title={The 'Z' Word},  
+  journal={Planning},  
+  year={2020},  
+  month={01},  
+  comment={An analysis of the lack of zoning in Houston. Even without zoning, Houston still has controls on development, like deed restrictions. (Despite that, the crazy examples of porn-next-to-school kind of things still happpen.},  
+  category={Urbanism, zoning, Houston}  
+}  
+  
+
+  
   
 @article{freemark2019upzoning,  
   title={Upzoning Chicago: Impacts of a zoning reform on property values and housing construction},  

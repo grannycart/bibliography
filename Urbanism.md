@@ -1,5 +1,5 @@
 dynohub.github.io/Urbanism.wiki  
-Last modified: Thu Jan 21, 2021  04:02PM
+Last modified: Thu Jan 21, 2021  04:09PM
 
 ## Urbanism
 --------------------------------------------------------------------------------
@@ -517,6 +517,7 @@ previous estimates, and that nearly 41 million Americans live within the 1% annu
 ``But what does “affordable” really mean if residents have to pay hefty transportation costs and rebuild, time and again, after floods? Houston’s affordability leans on loosely regulated, low-cost immigrant labor providing an abundance of cheaply made, slab-on-grade, single-family houses that sprawl on all that open land, in areas like the Katy Prairie.  And it relies heavily on American taxpayers providing government tax credits, mortgage interest deductions, gas subsidies, artificially low flood insurance rates, highway construction money — and emergency relief, including buying out homeowners to remove their properties from harm’s way.''  
   
   
+   
 @article{dollinger2017farms,  
   Author={Dollinger, Arielle},  
   url={https://www.nytimes.com/2017/07/23/nyregion/farmers-long-island-lawns.html},  
