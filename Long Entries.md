@@ -1,5 +1,5 @@
 dynohub.github.io/Long Entries.md  
-Last modified: Mon Jan 18, 2021  10:56AM
+Last modified: Fri Jan 22, 2021  01:28PM
 
 ## Long Entries
 --------------------------------------------------------------------------------
@@ -9,7 +9,9 @@ Last modified: Mon Jan 18, 2021  10:56AM
   title={The ants},  
   author={H{\"o}lldobler, Bert and Wilson, Edward O and others},  
   year={1990},  
-  publisher={Harvard University Press}  
+  publisher={Harvard University Press},  
+  comment={The classic in-depth look at the lives of ants},  
+  category={Long entires, Science, ants},  
 }  
 % Cartoon: The Ants is hard to read. How to read The Ants? In bed with your knees up and the book resting on your raised lap.
 % Page 1: In 1979 an ant colony was found in Japan with more than 300 million workers and 1 million queens in 47,000 interconnected nests over nearly 3 square kilometers.
@@ -21,6 +23,7 @@ Last modified: Mon Jan 18, 2021  10:56AM
 % Page 180: kin selection --- this theory of how altruistic behavior evolved in ants jibes with Darwinian evolution. There is some sense implied that it must apply at some level to humans too. But whereas in ants it can be codified and literally formulated, in humans it seems like it must be far more complex, if it exists. I'm sure there's further reading on it somewhere.
 % Page 184: prediction of a 3:1 ratio of energy investment in queens as opposed to males during the production of reproductives. "a rare instance of quantitative prediction in evolutionary biology." This is because ants have a reproductive system where only half the genetic material is passed on to males, and all genetic material is passed on to females. This is also why females end up being workers. While this supports kin selection theory in ants, humans pass all their genetic material on to both males and females so kin selection is not nearly so straightforward.
 % Page 185: eusociality: the "highest" form of social interaction. To be classified as eusocial, an animal has to exhibit three characteristics: brood care, overlap of at least two generations, division of group into reproductive and sterile castes. Later, in the mid-2000s, Wilson would claim that human beings are eusocial, and that is what led to our dominance.
+% Page 216: Unicolonial ants (a colony with many queens, each in their own nest) totally dominate their environment and become the largest of ant colonies. Typically they wipe out nearly all the other ant species in the area. (Also see graphic on page 215 of nest sites and the networks between them that looks uncannily like a map of cities in a country and the networks between them.)
 
 
 
