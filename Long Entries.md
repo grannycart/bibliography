@@ -1,5 +1,5 @@
 dynohub.github.io/Long Entries.md  
-Last modified: Fri Jan 22, 2021  01:28PM
+Last modified: Sat Jan 23, 2021  10:44AM
 
 ## Long Entries
 --------------------------------------------------------------------------------
@@ -24,6 +24,8 @@ Last modified: Fri Jan 22, 2021  01:28PM
 % Page 184: prediction of a 3:1 ratio of energy investment in queens as opposed to males during the production of reproductives. "a rare instance of quantitative prediction in evolutionary biology." This is because ants have a reproductive system where only half the genetic material is passed on to males, and all genetic material is passed on to females. This is also why females end up being workers. While this supports kin selection theory in ants, humans pass all their genetic material on to both males and females so kin selection is not nearly so straightforward.
 % Page 185: eusociality: the "highest" form of social interaction. To be classified as eusocial, an animal has to exhibit three characteristics: brood care, overlap of at least two generations, division of group into reproductive and sterile castes. Later, in the mid-2000s, Wilson would claim that human beings are eusocial, and that is what led to our dominance.
 % Page 216: Unicolonial ants (a colony with many queens, each in their own nest) totally dominate their environment and become the largest of ant colonies. Typically they wipe out nearly all the other ant species in the area. (Also see graphic on page 215 of nest sites and the networks between them that looks uncannily like a map of cities in a country and the networks between them.)
+% Page 223: who is in charge queens or workers? There is a lot of control of queens by using chemicals that stimulate the workers to do things for her and the colony. However its not clear-cut domination, the workers express choices about which queen will be the primary queen in many species.
+% Page 224: in certain species the queen feeds exclusively on the blood of her growing larvae, by slitting their skin and drinking the pooling liquid.
 
 
 
