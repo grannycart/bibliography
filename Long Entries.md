@@ -1,5 +1,5 @@
 dynohub.github.io/Long Entries.md  
-Last modified: Sat Jan 23, 2021  10:44AM
+Last modified: Mon Jan 25, 2021  10:36AM
 
 ## Long Entries
 --------------------------------------------------------------------------------
@@ -26,6 +26,8 @@ Last modified: Sat Jan 23, 2021  10:44AM
 % Page 216: Unicolonial ants (a colony with many queens, each in their own nest) totally dominate their environment and become the largest of ant colonies. Typically they wipe out nearly all the other ant species in the area. (Also see graphic on page 215 of nest sites and the networks between them that looks uncannily like a map of cities in a country and the networks between them.)
 % Page 223: who is in charge queens or workers? There is a lot of control of queens by using chemicals that stimulate the workers to do things for her and the colony. However its not clear-cut domination, the workers express choices about which queen will be the primary queen in many species.
 % Page 224: in certain species the queen feeds exclusively on the blood of her growing larvae, by slitting their skin and drinking the pooling liquid.
+Page 246: ants are so sensitive to their pheromones that one milligram of the trail pheromone substance (about what is in a colony) would be enough to lead a trail of ants three times around the world.
+Page 250: the dance of the honeybee explained. It's pretty straightforward actually, the bee dances in a direction that indicates a direction to fly for food, and then for a distance to show how far to fly. This is 'ritualization' where flying movements were evolutionarily adapted to a secondary communication signal.
 
 
 
