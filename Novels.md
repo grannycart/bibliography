@@ -1,9 +1,25 @@
 dynohub.github.io/Novels.md
-Last modified: Sat Dec 19, 2020  10:44AM
+Last modified: Mon Jan 25, 2021  09:10PM
 
 ## Novels
 --------------------------------------------------------------------------------
 
+@book{spillane2001mike,  
+  title={The Mike Hammer Collection},  
+  author={Spillane, M.},  
+  number={v. 1},  
+  isbn={9780451203526},  
+  lccn={00052728},  
+  series={The Mike Hammer Collection Volume 1 Series},  
+  url={https://books.google.com/books?id=SnP8sISBNZMC},  
+  year={2001},  
+  publisher={New American Library},  
+  comment={Mickey Spillane's gritty mid-century detective Novels about Detective Mike Hammer. Set in NYC, hyper-masculinity rules the day. I read \emph{I, the Jury} and \emph{Vengeance is Mine!} but not \emph{My Gun is Quick}. Vengeance is Mine is particularly ridiculous when the the whole twist revolves around how the only way a woman can run a crime empire is by secretly being a man --- revleaed only in the last line of the novel.},
+  category={Novels, mysteries, crime, detectives, mid-century, nyc},  
+}  
+% Mickey Spillane was definitely not the quality of writer that Raymond Chandler was. These stories are totally readable, and it's nice that they are set in NYC instead of LA, but they aren't aging well.
+  
+  
 @book{pynchon1967crying,  
   title={The Crying of Lot 49},  
   author={Pynchon, T.},  
