@@ -1,5 +1,5 @@
 dynohub.github.io/Long Entries.md  
-Last modified: Mon Jan 25, 2021  10:36AM
+Last modified: Tue Jan 26, 2021  09:47AM
 
 ## Long Entries
 --------------------------------------------------------------------------------
@@ -28,6 +28,8 @@ Last modified: Mon Jan 25, 2021  10:36AM
 % Page 224: in certain species the queen feeds exclusively on the blood of her growing larvae, by slitting their skin and drinking the pooling liquid.
 Page 246: ants are so sensitive to their pheromones that one milligram of the trail pheromone substance (about what is in a colony) would be enough to lead a trail of ants three times around the world.
 Page 250: the dance of the honeybee explained. It's pretty straightforward actually, the bee dances in a direction that indicates a direction to fly for food, and then for a distance to show how far to fly. This is 'ritualization' where flying movements were evolutionarily adapted to a secondary communication signal.
+Page 256: some ants have a stridulation/scraping organ that allows them to produce a 'chirp,' characterized as the shortest unitary rhythm element distinguishable by the human ear.
+Page 257: generally ants can't hear sounds transmitted through the air, rather the stridulations are heard through the ground or nest material. The chirps are often used by ants who are trapped by a cave-in or some other thing, to summon help to dig them out.
 
 
 
