@@ -1,5 +1,5 @@
 dynohub.github.io/Novels.md
-Last modified: Mon Jan 25, 2021  09:10PM
+Last modified: Wed Jan 27, 2021  05:41PM
 
 ## Novels
 --------------------------------------------------------------------------------
@@ -17,7 +17,7 @@ Last modified: Mon Jan 25, 2021  09:10PM
   comment={Mickey Spillane's gritty mid-century detective Novels about Detective Mike Hammer. Set in NYC, hyper-masculinity rules the day. I read \emph{I, the Jury} and \emph{Vengeance is Mine!} but not \emph{My Gun is Quick}. Vengeance is Mine is particularly ridiculous when the the whole twist revolves around how the only way a woman can run a crime empire is by secretly being a man --- revleaed only in the last line of the novel.},
   category={Novels, mysteries, crime, detectives, mid-century, nyc},  
 }  
-% Mickey Spillane was definitely not the quality of writer that Raymond Chandler was. These stories are totally readable, and it's nice that they are set in NYC instead of LA, but they aren't aging well.
+% Mickey Spillane was definitely not the quality of writer that Raymond Chandler was. These stories are totally readable, and it's nice that they are set in NYC instead of LA, but they aren't aging well.  
   
   
 @book{pynchon1967crying,  

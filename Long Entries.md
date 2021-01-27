@@ -1,10 +1,79 @@
 dynohub.github.io/Long Entries.md  
-Last modified: Tue Jan 26, 2021  09:47AM
+Last modified: Wed Jan 27, 2021  05:40PM
 
 ## Long Entries
 --------------------------------------------------------------------------------
 
 
+@book{eliot2003middlemarch,  
+  title={Middlemarch},  
+  author={Eliot, G. and McDaniel, M. and Schwartz, L.S.},  
+  isbn={9781593080235},  
+  lccn={2003100588},  
+  series={Barnes \& Noble Classics},  
+  url={https://books.google.com/books?id=rTuCTr1pdc4C},  
+  year={2003},  
+  publisher={Barnes \& Noble Classics},  
+  comment={The classic 19th Century epic costume drama about a small town in the English countryside.},  
+  category={Long Entries, Novels, 19th century novels, costume drama}  
+}  
+% General notes   
+% * Page 5: Sane people did what their neighbors did, so that if any lunatics were at large, one might know and avoid them.  
+% * Page 9: "How very beautiful these gems are! said Dorothea, under a new current of feeling, as sudden as the gleam. "It is strange how deeply colours seem to penetrate one, like scent. I suppose that is the reason why gems are used as spiritual emblems in the Revelation of St. John. They look like fragments of heaven. I think that emerald is more beautiful than any of them."  
+	% * I wonder if we lost something from the world before industrial dyes. The world must have been a much less intensely colored place then. More greens, grays, and beiges. And now, with industrial colors, it is full of all manner of color --- false colors, in their way (not so false in others). It has certainly, like the coming of prevalence of aluminum, devalued color. We live now in a world surrounded by a king's richness of color, and nobody really cares.  
+	% * That makes sense too, why should anyone care about what is common? But it must also have been, it its way, such a richer world when the sparkle of some small glowing red jewel could hold your attention, entertain you, satisfy you, move you.  
+	% * For these people, it seems like the diamond would hold little interest. Just like a dull chip of colorless glass, what's good about that? Is it also possible (putting aside the well-documented commercial machinations of deBeers) that the rise of industrial dyes meant that people started looking to the diamond as a more valuable thing because it DIDN'T have a color?  
+	% * Personally, maybe my wardrobe is an attempt to get back to that more colorless world, and maybe through that to appreciate color more? It would be interesting to insist on sticking to natural dyes!  
+% * Page 27: Dorothea wants to be an architect/designer. She designs cottages for the poor in her spare time.  
+% * Page 37: In short, woman was a problem which, since Mr. Brooke's mind felt blank before it, could be hardly less complicated than the revolutions of an irregular solid.  
+% * Page 64: He did not usually find it easy to give his reasons: it seemed to him strange that people should not know them without being told, since he only felt what was reasonable <-- the core of all mansplaining!  
+% * Page 65: It is a very good quality in a man to have a trout stream.  
+% * Page 79: Genius consisting neigh in self-conceit nor in humility, but in a power to make or do, not anything in general, but something in particular.  
+% * 85 pages in and this book has not passed the Bechtel test yet --- except one brief conversation between two ladies about chickens, and half a page about quack medicines. Lots of women talking to each other, but only about who men would marry.  
+% * Page 84: her complaint, which puzzled the doctors, and seemed clearly a case wherein the fulness of professional knowledge might need the supplement of quackery.  
+% * Page 86: Mr. Lydgate has the medical accomplishment of looking perfectly grave whatever nonsense was talked to him.  
+% * Page 385: There are a number of anti-semetic allusions in the book. Here: And now I'm going to be as rich as a Jew. But in other places even more strongly anti-Jew. See also:  
+	% * https://www.jstor.org/stable/10.5325/georelioghlstud.70.2.0143?seq=1  
+	% * https://www.newyorker.com/magazine/2011/02/14/middlemarch-and-me  
+% * Chapter 56: This chapter has a lot about the railway coming to town:   
+	% * Page 525: Women both old and young considered traveling by steam as presumptuous and dangerous.  
+	% * Page 527: "Why, they're Lunnon chaps I reckon," said Hiram, who had a dim notion of London as a centre of hostility to to country.  
+	% * Page 532: Caleb was in a difficulty known to any person attempting in dark times and unassisted by miracle to reason with rustics who are in possession of an undeniable truth which they know through a hard process of feeling, and can let it fall like a giant's club on your neatly-carved argument for a social benefit which they do _not_ feel.  
+% * Page 680, top: Lydgate doesn't even consider interviewing the housekeeper about Raffles death. This whole book has this interesting 19th century relationship to the servants: they are always implied to be there in the background, but they are barely seen as human so they only come to the foreground on the rare occasions that their actions directly interact with an upper-class character, much like a pet in a modern novel. This isn't so much a criticism as pointing out this interesting shift in the culture. If someone, even someone without deep resources of vision or analysis of human behavior, just a 'casual' author, were writing this story today, they would, by default, make the servants real people, and would make the main characters interact with them as real people. It is amazing to me that a mere 100+ years ago people could be intimately part of one's life, but (at least in the novelistic view of the world) essentially treated as furniture.  
+% * Page 710: "Poor Mrs. Bulstrode." --- In the later parts of the novel Eliot more and more uses this construction. She by this point she has described nearly _all_ the characters with a sympathetic 'poor'! Is it possible that Eliot was starting to feel sorry for the miseries she put all these characters through?  
+%  
+% Why Middlemarch is a novel about male domination:  
+% * Page 82: "Surely I am in a strangely selfish weak state of mind," she said to herself. "How can I have a husband who is so much above me without knowing that he needs me less than I need him?"  
+% * Page 84: "Yes, but not my style of woman: I like a woman who lays herself out a little more to please us. There should be a little filigree about a woman---something of the coquette. A man likes a sort of challenge. The more dead set she makes at you the better."  
+% * Page 84: "Ay, to be sure, there should be a little devil in a woman," said Mr. Chinchely, whose study of the fair sex seemed to have been detrimental to his theology. "And I like them blond, with a certain gait, and a swan neck."  
+% * Page 190: "I hope you are thoroughly satisfied with our stay---I mean, with the result so far as your studies are concerned," said Dorothea, trying to keep her mind fixed on what most affected her husband.  
+% * Page 190: "I hope when we get to Lowick, I shall be more useful to you, and be able to enter a little more into what interests you."  
+% * Page 254: He held it one of the prettiest attitudes of the feminine mind to adore a man's pre-eminence without too precise a knowledge of what it consisted in.  
+% * Page 261: When would the days begin of that active wifely devotion which was to strengthen her husband's life and exalt her own?  
+% * Page 261: In this solemnly pledged union of her life, duty would present itself in some new form of inspiration and give new meaning to wifely love.  
+% * Page 271: Her little hands were clasped, and enclosed by Sir James's as a bud is enfolded by a liberal calyx.  
+% * Page 336: He felt as if already breathed upon by exquisite wedded affection such as would be bestowed by an accomplished creature who venerated his high musings and momentous labours and would never interfere with them; who would create order in the home and accounts with still magic, yet keep her fingers ready to touch the lute and transform life into romance at any moment; who was instructed to the true womanly limit and not a hair's-breadth beyond--docile, therefore, and ready to carry out behests which came from beyond that limit.  
+% * Page 340: He relied much on the psychological difference between what for the sake of variety I will call goose and gander: especially on the innate submissiveness of the goose as beautifully corresponding to the strength of the gander.  
+% * Page 370: "We must not have you getting too learned for a woman, you know."  
+% * Page 389: Will any one guess towards which of these widely different men Mary had a peculiar women's tenderness? -- the one she was most inclined to be severe on? Or the contrary?  
+% * Page 414: How delightful to make captives from the throne of marriage with a husband as crown-prince by your side -- himself in fact a subject -- while the captives look up for ever hopeless, losing their rest probably, and if their appetites too, so much the better!  
+% * Page 433: "Is that enough music for you, my lord?" she said, folding her hands before her and putting on a little air of meekness.  
+% * Page 552: Her baby had been born prematurely, and all the embroidered robes and caps had to be laid by in darkness. This misfortune was attributed entirely to her having persisted in going out on horseback one day when her husband had desired her not to do so; but is must not be supposed that she had shown temper on the occasion, or rudely told him that she  would do as she liked.  
+% * Really, this book could be read as being ABOUT male domination of women:  
+	% * Dorothea is absolutely servile to Casaubon, but he isn't worthy of her service; she needs to find someone who is  
+	% * Mary holds out her service to Fred as a carrot to improve his character, and will only give it to him when he is worthy of it  
+	% * Rosamond doesn't do as the worthy Lydgate tells her, and she loses her baby  
+	% * Celia is a perfect wife to the good Sir James and is rewarded with a healthy baby she and Dorothea sit around and admire.  
+	% * This book came out in 1871, Frankenstein was written in 1818 --- so it's not like there weren't other female authors addressing bigger topics than who the women in town will marry, and who will get the inheritance. This book would really have benefited by having a war in it. It feels a little like such a talented writer as George Eliot was wasted on such mundane subjects.  
+	% * George Eliot was in an open marriage --- it's possible she really had a very specific vision of what relationships between men and women should be.  
+% * Page 618: He was prepared to be indulgent towards feminine weakness, but not towards feminine dictation. The shallowness of a waternixies's soul may have a charm until she becomes didactic.  
+% * Page 628: Lydgate sat paralysed by opposing impulses: since no reasoning he could apply to Rosamond seemed likely to conquer her assent, he wanted to smash and grind some object on which he could at least produce an impression, or else to tell her brutally that he was master, and she must obey. But he not only dreaded the effect of such extremeties on their mutual life --- he had a growing dread of Rosamond's quiet elusive obstinancy, which would not allow any asssertion of power to be final; and again, she had touched him in a spot of keenest feeling by implying that she had been deluded with a false vision of happiness in marrying him.  
+% * Page 635: He told himself that it was ten times harder for her than for him: he had a life away from home, and constant appeals to his activitiy on behalf of others. He wished to excuse everything in her if he could --- but it was inevitable that in that excusing mood he should think of her as if she were an animal of another and feebeler species. Nevertheless she had mastered him.  
+% * Page 701: "You used to submit to Mr. Casaubon quite shamefully: I think you would have given up ever coming to see me if he had asked you." "Of course I submitted to him, because it was my duty; it was my feeling for him," said Dorothea, looking through the prism of her tears. "They why can't you think it your duty to submit a little to what James wishes?" said Celia, with a sense of stringency in her argument. "Because he only wishes what is for your own good. And, of course, men know best about everything, except what women know better." Dorothea laughed and forgot her tears. "Well, I mean about babies and those things," explained Celia.  
+% * Page 789: "Because I've always loved him. I should never like scolding any one else so well; and that is a point to be thought of in a husband."  
+% * Page 796: He once called her his basil plant; and when she asked for an explanation, said that basil was a plant which had flourished wonderfully on a murdered man's brains.  
+  
+  
 @book{holldobler1990ants,  
   title={The ants},  
   author={H{\"o}lldobler, Bert and Wilson, Edward O and others},  
@@ -13,27 +82,25 @@ Last modified: Tue Jan 26, 2021  09:47AM
   comment={The classic in-depth look at the lives of ants},  
   category={Long entires, Science, ants},  
 }  
-% Cartoon: The Ants is hard to read. How to read The Ants? In bed with your knees up and the book resting on your raised lap.
-% Page 1: In 1979 an ant colony was found in Japan with more than 300 million workers and 1 million queens in 47,000 interconnected nests over nearly 3 square kilometers.
-% Page 2: The Ants of the Amazon rain forest are responsible for much of the formic acid in the atmosphere over the rain forest.
-% Plate 1: the sole example of the missing link ant between wasps and ants. Would make a good record cover.
-% If you see the whole colony as the organism, rather than the individual, then the males are nothing more than winged penises. Page 150: the males are active during their mating flight hour, but do nothing else but groom themselves, solicit food from the female workers, and walk sluggishly around the nest.
-% Page 178: a common Japanese ant species has eliminated the queen caste entirely, and the colony reproduced parthenogenically. They are essentially asexual.
-% Page 178: "It can be said that a principal different between human beings and ants is that whereas we send out young men to war, they send their old ladies"
-% Page 180: kin selection --- this theory of how altruistic behavior evolved in ants jibes with Darwinian evolution. There is some sense implied that it must apply at some level to humans too. But whereas in ants it can be codified and literally formulated, in humans it seems like it must be far more complex, if it exists. I'm sure there's further reading on it somewhere.
-% Page 184: prediction of a 3:1 ratio of energy investment in queens as opposed to males during the production of reproductives. "a rare instance of quantitative prediction in evolutionary biology." This is because ants have a reproductive system where only half the genetic material is passed on to males, and all genetic material is passed on to females. This is also why females end up being workers. While this supports kin selection theory in ants, humans pass all their genetic material on to both males and females so kin selection is not nearly so straightforward.
-% Page 185: eusociality: the "highest" form of social interaction. To be classified as eusocial, an animal has to exhibit three characteristics: brood care, overlap of at least two generations, division of group into reproductive and sterile castes. Later, in the mid-2000s, Wilson would claim that human beings are eusocial, and that is what led to our dominance.
-% Page 216: Unicolonial ants (a colony with many queens, each in their own nest) totally dominate their environment and become the largest of ant colonies. Typically they wipe out nearly all the other ant species in the area. (Also see graphic on page 215 of nest sites and the networks between them that looks uncannily like a map of cities in a country and the networks between them.)
-% Page 223: who is in charge queens or workers? There is a lot of control of queens by using chemicals that stimulate the workers to do things for her and the colony. However its not clear-cut domination, the workers express choices about which queen will be the primary queen in many species.
-% Page 224: in certain species the queen feeds exclusively on the blood of her growing larvae, by slitting their skin and drinking the pooling liquid.
-Page 246: ants are so sensitive to their pheromones that one milligram of the trail pheromone substance (about what is in a colony) would be enough to lead a trail of ants three times around the world.
-Page 250: the dance of the honeybee explained. It's pretty straightforward actually, the bee dances in a direction that indicates a direction to fly for food, and then for a distance to show how far to fly. This is 'ritualization' where flying movements were evolutionarily adapted to a secondary communication signal.
-Page 256: some ants have a stridulation/scraping organ that allows them to produce a 'chirp,' characterized as the shortest unitary rhythm element distinguishable by the human ear.
-Page 257: generally ants can't hear sounds transmitted through the air, rather the stridulations are heard through the ground or nest material. The chirps are often used by ants who are trapped by a cave-in or some other thing, to summon help to dig them out.
-
-
-
-
+% Cartoon: The Ants is hard to read. How to read The Ants? In bed with your knees up and the book resting on your raised lap.  
+% Page 1: In 1979 an ant colony was found in Japan with more than 300 million workers and 1 million queens in 47,000 interconnected nests over nearly 3 square kilometers.  
+% Page 2: The Ants of the Amazon rain forest are responsible for much of the formic acid in the atmosphere over the rain forest.  
+% Plate 1: the sole example of the missing link ant between wasps and ants. Would make a good record cover.  
+% If you see the whole colony as the organism, rather than the individual, then the males are nothing more than winged penises. Page 150: the males are active during their mating flight hour, but do nothing else but groom themselves, solicit food from the female workers, and walk sluggishly around the nest.  
+% Page 178: a common Japanese ant species has eliminated the queen caste entirely, and the colony reproduced parthenogenically. They are essentially asexual.  
+% Page 178: "It can be said that a principal different between human beings and ants is that whereas we send out young men to war, they send their old ladies"  
+% Page 180: kin selection --- this theory of how altruistic behavior evolved in ants jibes with Darwinian evolution. There is some sense implied that it must apply at some level to humans too. But whereas in ants it can be codified and literally formulated, in humans it seems like it must be far more complex, if it exists. I'm sure there's further reading on it somewhere.  
+% Page 184: prediction of a 3:1 ratio of energy investment in queens as opposed to males during the production of reproductives. "a rare instance of quantitative prediction in evolutionary biology." This is because ants have a reproductive system where only half the genetic material is passed on to males, and all genetic material is passed on to females. This is also why females end up being workers. While this supports kin selection theory in ants, humans pass all their genetic material on to both males and females so kin selection is not nearly so straightforward.  
+% Page 185: eusociality: the "highest" form of social interaction. To be classified as eusocial, an animal has to exhibit three characteristics: brood care, overlap of at least two generations, division of group into reproductive and sterile castes. Later, in the mid-2000s, Wilson would claim that human beings are eusocial, and that is what led to our dominance.  
+% Page 216: Unicolonial ants (a colony with many queens, each in their own nest) totally dominate their environment and become the largest of ant colonies. Typically they wipe out nearly all the other ant species in the area. (Also see graphic on page 215 of nest sites and the networks between them that looks uncannily like a map of cities in a country and the networks between them.)  
+% Page 223: who is in charge queens or workers? There is a lot of control of queens by using chemicals that stimulate the workers to do things for her and the colony. However its not clear-cut domination, the workers express choices about which queen will be the primary queen in many species.  
+% Page 224: in certain species the queen feeds exclusively on the blood of her growing larvae, by slitting their skin and drinking the pooling liquid.  
+Page 246: ants are so sensitive to their pheromones that one milligram of the trail pheromone substance (about what is in a colony) would be enough to lead a trail of ants three times around the world.  
+Page 250: the dance of the honeybee explained. It's pretty straightforward actually, the bee dances in a direction that indicates a direction to fly for food, and then for a distance to show how far to fly. This is 'ritualization' where flying movements were evolutionarily adapted to a secondary communication signal.  
+Page 256: some ants have a stridulation/scraping organ that allows them to produce a 'chirp,' characterized as the shortest unitary rhythm element distinguishable by the human ear.  
+Page 257: generally ants can't hear sounds transmitted through the air, rather the stridulations are heard through the ground or nest material. The chirps are often used by ants who are trapped by a cave-in or some other thing, to summon help to dig them out.  
+  
+  
 @book{shirer2011rise,  
   title={The Rise and Fall of the Third Reich},  
   author={Shirer, W.L.},  

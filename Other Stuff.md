@@ -1,5 +1,5 @@
 dynohub.github.io/Other Stuff.md  
-Last modified: Tue Jan 26, 2021  04:58PM
+Last modified: Wed Jan 27, 2021  05:42PM
 
 ## Other Stuff
 --------------------------------------------------------------------------------
@@ -13,21 +13,21 @@ Last modified: Tue Jan 26, 2021  04:58PM
   year={1980},  
   publisher={Pocket Books},  
   comment={A series of essays capturing the zeitgeist of California in the 1960s.},  
-  category={Other Stuff, essays, california, planning, malls, jerry brown, ronald reagan, sam peckinpah, huey newton, black panthers, hov lanes, getty museum}
-}
-% These essays are a mixed bag. Some are excellent, some are dated, and some border on offensive in they way they expose Didion's class privilege in that the lens she writes from doesn't seem to be able to escape from the world of rich celebrities who surround her.
-% page 31 - the black panthers believe that political power begins at the end of a gun, and go so far as to specify their exact weapons.
-% page 32 - huey newton is shot and fighting over insurance with the kaisers when he shows up at the hospital
-% page 62 - she talks about water systems in CA, and sam peckinpah needing water to sink a truck - Convoy
-% page 70 - Jerry Brown refused to live in the governors mansion Ronald Reagan built, living in an apartment instead. In his later life as governor, he moved back into the old mansion that Reagan and others had abandoned. Didion points out it has a marble counter top - which people on her 1977 tour didn't know what it was for.
-% page 75 - The art collection at the Getty reminds people of all they were supposed to learn, but never did.
-% page 79 - an entire essay about HOV lanes written in a critical style - and a good example of the trap of essay writing - time is likely to prove you wrong.
-% page 127 - the common assumption that the art work shows the character of the artist - style is character. (in a pretty good essay about Georgia O'Keefe)
-% page 163 - A finished movie defies all attempts to analyze what makes it work or not work. Responsibility is clouded by accidents, compromise, and clauses of its financing.
-% page 179 - a history of malls
-
-
-
+  category={Other Stuff, essays, california, planning, malls, jerry brown, ronald reagan, sam peckinpah, huey newton, black panthers, hov lanes, getty museum}  
+}  
+% These essays are a mixed bag. Some are excellent, some are dated, and some border on offensive in they way they expose Didion's class privilege in that the lens she writes from doesn't seem to be able to escape from the world of rich celebrities who surround her.  
+% page 31 - the black panthers believe that political power begins at the end of a gun, and go so far as to specify their exact weapons.  
+% page 32 - huey newton is shot and fighting over insurance with the kaisers when he shows up at the hospital  
+% page 62 - she talks about water systems in CA, and sam peckinpah needing water to sink a truck - Convoy  
+% page 70 - Jerry Brown refused to live in the governors mansion Ronald Reagan built, living in an apartment instead. In his later life as governor, he moved back into the old mansion that Reagan and others had abandoned. Didion points out it has a marble counter top - which people on her 1977 tour didn't know what it was for.  
+% page 75 - The art collection at the Getty reminds people of all they were supposed to learn, but never did.  
+% page 79 - an entire essay about HOV lanes written in a critical style - and a good example of the trap of essay writing - time is likely to prove you wrong.  
+% page 127 - the common assumption that the art work shows the character of the artist - style is character. (in a pretty good essay about Georgia O'Keefe)  
+% page 163 - A finished movie defies all attempts to analyze what makes it work or not work. Responsibility is clouded by accidents, compromise, and clauses of its financing.  
+% page 179 - a history of malls  
+  
+  
+  
 @article{perlow2017meetings,  
   Author={Perlow, Leslie A. and Hadley, Constance Noonan and Eun, Eunice},  
   url={https://hbr.org/2017/07/stop-the-meeting-madness},  
