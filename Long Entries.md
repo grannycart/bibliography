@@ -1,10 +1,38 @@
 dynohub.github.io/Long Entries.md  
-Last modified: Wed Jan 27, 2021  05:40PM
+Last modified: Thu Jan 28, 2021  11:17AM
 
 ## Long Entries
 --------------------------------------------------------------------------------
 
-
+@book{holldobler1990ants,  
+  title={The ants},  
+  author={H{\"o}lldobler, Bert and Wilson, Edward O and others},  
+  year={1990},  
+  publisher={Harvard University Press},  
+  comment={The classic in-depth look at the lives of ants},  
+  category={Long entires, Science, ants},  
+}  
+% Cartoon: The Ants is hard to read. How to read The Ants? In bed with your knees up and the book resting on your raised lap.  
+% Page 1: In 1979 an ant colony was found in Japan with more than 300 million workers and 1 million queens in 47,000 interconnected nests over nearly 3 square kilometers.  
+% Page 2: The Ants of the Amazon rain forest are responsible for much of the formic acid in the atmosphere over the rain forest.  
+% Plate 1: the sole example of the missing link ant between wasps and ants. Would make a good record cover.  
+% If you see the whole colony as the organism, rather than the individual, then the males are nothing more than winged penises. Page 150: the males are active during their mating flight hour, but do nothing else but groom themselves, solicit food from the female workers, and walk sluggishly around the nest.  
+% Page 178: a common Japanese ant species has eliminated the queen caste entirely, and the colony reproduced parthenogenically. They are essentially asexual.  
+% Page 178: "It can be said that a principal different between human beings and ants is that whereas we send out young men to war, they send their old ladies"  
+% Page 180: kin selection --- this theory of how altruistic behavior evolved in ants jibes with Darwinian evolution. There is some sense implied that it must apply at some level to humans too. But whereas in ants it can be codified and literally formulated, in humans it seems like it must be far more complex, if it exists. I'm sure there's further reading on it somewhere.  
+% Page 184: prediction of a 3:1 ratio of energy investment in queens as opposed to males during the production of reproductives. "a rare instance of quantitative prediction in evolutionary biology." This is because ants have a reproductive system where only half the genetic material is passed on to males, and all genetic material is passed on to females. This is also why females end up being workers. While this supports kin selection theory in ants, humans pass all their genetic material on to both males and females so kin selection is not nearly so straightforward.  
+% Page 185: eusociality: the "highest" form of social interaction. To be classified as eusocial, an animal has to exhibit three characteristics: brood care, overlap of at least two generations, division of group into reproductive and sterile castes. Later, in the mid-2000s, Wilson would claim that human beings are eusocial, and that is what led to our dominance.  
+% Page 216: Unicolonial ants (a colony with many queens, each in their own nest) totally dominate their environment and become the largest of ant colonies. Typically they wipe out nearly all the other ant species in the area. (Also see graphic on page 215 of nest sites and the networks between them that looks uncannily like a map of cities in a country and the networks between them.)  
+% Page 223: who is in charge queens or workers? There is a lot of control of queens by using chemicals that stimulate the workers to do things for her and the colony. However its not clear-cut domination, the workers express choices about which queen will be the primary queen in many species.  
+% Page 224: in certain species the queen feeds exclusively on the blood of her growing larvae, by slitting their skin and drinking the pooling liquid.  
+Page 246: ants are so sensitive to their pheromones that one milligram of the trail pheromone substance (about what is in a colony) would be enough to lead a trail of ants three times around the world.  
+Page 250: the dance of the honeybee explained. It's pretty straightforward actually, the bee dances in a direction that indicates a direction to fly for food, and then for a distance to show how far to fly. This is 'ritualization' where flying movements were evolutionarily adapted to a secondary communication signal.  
+Page 256: some ants have a stridulation/scraping organ that allows them to produce a 'chirp,' characterized as the shortest unitary rhythm element distinguishable by the human ear.  
+Page 257: generally ants can't hear sounds transmitted through the air, rather the stridulations are heard through the ground or nest material. The chirps are often used by ants who are trapped by a cave-in or some other thing, to summon help to dig them out.  
+Page 271: Complexity arises from simplicity: Individual ants laying a trail reinforce the quality/size of a food item by having more and more ants lay trails together, making the trail scent stronger and indicating the quality/size/distance of food. At the same time the maximum number of ants at the food will start to turn away uneeded extras, so the right number of ants needs is self-correcting.   
+Page 272: At the same time ants don't want to be TOO specific with their information, because scattering around a target is useful (think of a moving prey target, older trails become less accurate). See note on naval gunnery. (See note on page 272 though about alterntative possibility for quantity on ant trails.)  
+  
+   
 @book{eliot2003middlemarch,  
   title={Middlemarch},  
   author={Eliot, G. and McDaniel, M. and Schwartz, L.S.},  
@@ -74,32 +102,7 @@ Last modified: Wed Jan 27, 2021  05:40PM
 % * Page 796: He once called her his basil plant; and when she asked for an explanation, said that basil was a plant which had flourished wonderfully on a murdered man's brains.  
   
   
-@book{holldobler1990ants,  
-  title={The ants},  
-  author={H{\"o}lldobler, Bert and Wilson, Edward O and others},  
-  year={1990},  
-  publisher={Harvard University Press},  
-  comment={The classic in-depth look at the lives of ants},  
-  category={Long entires, Science, ants},  
-}  
-% Cartoon: The Ants is hard to read. How to read The Ants? In bed with your knees up and the book resting on your raised lap.  
-% Page 1: In 1979 an ant colony was found in Japan with more than 300 million workers and 1 million queens in 47,000 interconnected nests over nearly 3 square kilometers.  
-% Page 2: The Ants of the Amazon rain forest are responsible for much of the formic acid in the atmosphere over the rain forest.  
-% Plate 1: the sole example of the missing link ant between wasps and ants. Would make a good record cover.  
-% If you see the whole colony as the organism, rather than the individual, then the males are nothing more than winged penises. Page 150: the males are active during their mating flight hour, but do nothing else but groom themselves, solicit food from the female workers, and walk sluggishly around the nest.  
-% Page 178: a common Japanese ant species has eliminated the queen caste entirely, and the colony reproduced parthenogenically. They are essentially asexual.  
-% Page 178: "It can be said that a principal different between human beings and ants is that whereas we send out young men to war, they send their old ladies"  
-% Page 180: kin selection --- this theory of how altruistic behavior evolved in ants jibes with Darwinian evolution. There is some sense implied that it must apply at some level to humans too. But whereas in ants it can be codified and literally formulated, in humans it seems like it must be far more complex, if it exists. I'm sure there's further reading on it somewhere.  
-% Page 184: prediction of a 3:1 ratio of energy investment in queens as opposed to males during the production of reproductives. "a rare instance of quantitative prediction in evolutionary biology." This is because ants have a reproductive system where only half the genetic material is passed on to males, and all genetic material is passed on to females. This is also why females end up being workers. While this supports kin selection theory in ants, humans pass all their genetic material on to both males and females so kin selection is not nearly so straightforward.  
-% Page 185: eusociality: the "highest" form of social interaction. To be classified as eusocial, an animal has to exhibit three characteristics: brood care, overlap of at least two generations, division of group into reproductive and sterile castes. Later, in the mid-2000s, Wilson would claim that human beings are eusocial, and that is what led to our dominance.  
-% Page 216: Unicolonial ants (a colony with many queens, each in their own nest) totally dominate their environment and become the largest of ant colonies. Typically they wipe out nearly all the other ant species in the area. (Also see graphic on page 215 of nest sites and the networks between them that looks uncannily like a map of cities in a country and the networks between them.)  
-% Page 223: who is in charge queens or workers? There is a lot of control of queens by using chemicals that stimulate the workers to do things for her and the colony. However its not clear-cut domination, the workers express choices about which queen will be the primary queen in many species.  
-% Page 224: in certain species the queen feeds exclusively on the blood of her growing larvae, by slitting their skin and drinking the pooling liquid.  
-Page 246: ants are so sensitive to their pheromones that one milligram of the trail pheromone substance (about what is in a colony) would be enough to lead a trail of ants three times around the world.  
-Page 250: the dance of the honeybee explained. It's pretty straightforward actually, the bee dances in a direction that indicates a direction to fly for food, and then for a distance to show how far to fly. This is 'ritualization' where flying movements were evolutionarily adapted to a secondary communication signal.  
-Page 256: some ants have a stridulation/scraping organ that allows them to produce a 'chirp,' characterized as the shortest unitary rhythm element distinguishable by the human ear.  
-Page 257: generally ants can't hear sounds transmitted through the air, rather the stridulations are heard through the ground or nest material. The chirps are often used by ants who are trapped by a cave-in or some other thing, to summon help to dig them out.  
-  
+ 
   
 @book{shirer2011rise,  
   title={The Rise and Fall of the Third Reich},  
