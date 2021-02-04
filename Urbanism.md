@@ -1,8 +1,33 @@
 dynohub.github.io/Urbanism.wiki  
-Last modified: Thu Jan 21, 2021  04:09PM
+Last modified: Thu Feb 04, 2021  06:29PM
 
 ## Urbanism
 --------------------------------------------------------------------------------
+  
+  
+@Article{Gurney2021,  
+  author={Gurney, Kevin Robert  
+  and Liang, Jianming  
+  and Roest, Geoffrey  
+  and Song, Yang  
+  and Mueller, Kimberly  
+  and Lauvaux, Thomas},  
+  title={Under-reporting of greenhouse gas emissions in U.S. cities},  
+  journal={Nature Communications},  
+  year={2021},  
+  month={Feb},  
+  day={02},  
+  volume={12},  
+  number={1},  
+  pages={553},  
+  abstract={Cities dominate greenhouse gas emissions. Many have generated self-reported emission inventories, but their value to emissions mitigation depends on their accuracy, which remains untested. Here, we compare self-reported inventories from 48 US cities to independent estimates from the Vulcan carbon dioxide emissions data product, which is consistent with atmospheric measurements. We found that cities under-report their own greenhouse gas emissions, on average, by 18.3{\%} (range: −145.5{\%} to +63.5{\%}) -- a difference which if extrapolated to all U.S. cities, exceeds California's total emissions by 23.5{\%}. Differences arise because city inventories omit particular fuels and source types and estimate transportation emissions differently. These results raise concerns about self-reported inventories in planning or assessing emissions, and warrant consideration of the new urban greenhouse gas information system recently developed by the scientific community.},  
+  issn={2041-1723},  
+  doi={10.1038/s41467-020-20871-0},  
+  url={https://doi.org/10.1038/s41467-020-20871-0},   
+  comment={Do to inconsistencies in methods, US cities are generally under-reporting their greenhouse gas emission, by 18 percent on average.},
+  category={Urbanism, Science, greenhouse gasses, climate change, cities}  
+}  
+  
   
 @article{engler2021preschoolplanners,  
   Author={Engler, Christina},  
