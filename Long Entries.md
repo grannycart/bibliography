@@ -1,6 +1,6 @@
 d
 nohub.github.io/Long Entries.md  
-Last modified: Mon Feb 08, 2021  12:58PM
+Last modified: Wed Feb 10, 2021  11:34AM
 
 ## Long Entries
 --------------------------------------------------------------------------------
@@ -37,6 +37,9 @@ Last modified: Mon Feb 08, 2021  12:58PM
 % Page 307: Adaptive demography: ants will deliberately change their population size based on their colony life cycle stage. Vertebrates don't do this at all. It is yet another powerful result of eusocial behavior. It also, I think, is one of those ways that humans are not at _all_ like ants. Ants are facinating because they are at once both _so_ alien, and also have uncanny characteristics akin to human hebavior that _must_ have some revealing insights into our own behavior. I think Wilson understood this, but at the same time it's dangerous work to try and cut where it is that we can learn about ourselves from ants from where it is that they are insanely alien lifeforms that seem like they arrived from another planet.  
 % Page 323: Some ants use "alloethism" --- caste distinctions by large size differences --- to create workers who can handle a wide range of tasks and thus exploit a wide-ranging generalized set of food sources. "Hunter-gatherers."
 % Page 325-326: Leaf-cutter ants (genus: Atta) use the same huge size differences to _specialize_ in food: the largeest cut tough leaves, smaller one shred them into small pieces, and even smaller ones mush them up and place them as a substrate to grow fungus on. The tinest tend the crops and harvest fungus heads to feed to other ants in the colony. They are using both assembly line processing and agriculture/farming to feed the colony.  
+% Page 342: most ants spend most of their time doing absolutely nothing at all. In one species up to 78 percent of the time is idle. This is widely common among animals in general. They cite work by Herbers (1981) that showed most animals gather fuel until they hit a certain level of energy, and then just idle out.  
+% Page 345: pusatile activity --- ant nests have been observed breaking up their idleness with regularly periodic bursts of activity. This is speculated to be regular communicative "check-ins" across the colony, where it is more efficient to communicate all at once and rapidly in or that information doesn't change as it might during a slow spreading system.  
+	% I think this could have interesting implications for organizational management. Imagine an office where the workers spend most of their day idle (or at least working on their own) punctuated by designated communication times at specific times, a few times during the day. Say you use chat software, that you leave quiet for the group until a specific time, and then have a rapid reporting of anything affecting the team. The periodicity of the reporting could be changed depending on what the team does, but the idea that there would be mostly time of 'idleness' punctuated by a colony-wide fast report-out is interesting.  
 
   
    
