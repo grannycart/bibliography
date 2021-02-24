@@ -1,6 +1,6 @@
 d
 nohub.github.io/Long Entries.md  
-Last modified: Sat Feb 13, 2021  10:44AM
+Last modified: Wed Feb 24, 2021  10:01AM
 
 ## Long Entries
 --------------------------------------------------------------------------------
@@ -44,6 +44,8 @@ Last modified: Sat Feb 13, 2021  10:44AM
 % Page 358: Rules of thumb --- any individual ant operates on nothing more than a few rules of thumb. Complex behavior arises from these simple rules.  
 % Page 358-359: the superorgamism --- Wilson recounts how Wheeler first popularized the whole any colong as a superorganism in his paper "The Ant Colony as an Organism." And this blew up until it entered pop culture, and doses of mysticism were applied ("spirit of the hive"). By the 1960s scientists weren't using the concept anymore. But Wilson here is arguing that all of the sophisticated tools they have to stuf ants now (that is, the 1990s when this book was written) mean that the concept of the superorganism is once again useful. Mainly, that is the ability to measure ant colonies at a far more fine-grained level to deduce it's _quantitative_ relationship to other organisms. Essentially, Wilson is saying that all the complex statistical analysis they have been presenting so far in the book have led to this argument that it is now time to think about the superorganism again. (This little section on the superorganism really feels like an inflection point in the book to me.)  
 % Page 363: different species of ants have different tempos. Some are slow and deliberate and careful in their movements. Others are fast, random, and chaotic and take risks. It seems that the fast-tempo ants occur in species in large colonies. Those colonies are labor saturated with many many workers, so it is more efficient (for the colony) for individual workers to work themselves to death or die taking risks because there's always another ant to pick up the job. Slow tempo colonies are smaller and the individual ants live longer.  
+% Page 398: The common pavement ants in North America carry out some of the most dramatic battles between colonies of the same species. Huge wars between hundreds or even thousands of ants.  
+% Page 400: "Invasive" species tend to settle into a niche: in the 1500s a fire ant (then called F. omnivora) invaded Carribean islands in huge numbers. The people of the islands called on their saints and leaders to protect them. By the 20th century the ant had settled down into a commone "native" fire ant with very modest numbers.  
   
    
 @book{eliot2003middlemarch,  
