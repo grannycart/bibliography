@@ -1,9 +1,48 @@
 dynohub.github.io/Other Stuff.md  
-Last modified: Wed Jan 27, 2021  05:42PM
+Last modified: Thu Mar 04, 2021  03:45PM
 
 ## Other Stuff
 --------------------------------------------------------------------------------
 
+@book{doyle2009story,  
+  title={The Story of Jack and the Giants},  
+  author={Doyle, R.},  
+  isbn={9781582180922},  
+  url={https://books.google.com/books?id=JbbkHb0\_gIMC},  
+  year={2009},  
+  publisher={Digital Scanning, Incorporated}  
+}  
+% Ancient stories of Jack slaying giants. With lots of good violence and gore, and picking up cool D&D style equiment like an ultra-sharp sword, an invisbility cloak, and boots of swiftness.  
+    
+@book{grimm1903grimm,  
+  title={Grimm's Fairy Tales},  
+  author={Grimm, J. and Grimm, W.},  
+  isbn={9781438158952},  
+  series={Graded supplementary reading series},  
+  url={https://books.google.com/books?id=5KEAAAAAYAAJ},  
+  year={1903},  
+  publisher={Maynard, Merrill}  
+}  
+% These are awful. Sooooooo boring. Soooooo incongruous. MANY of the stories end with characters randomly dying for no reason. Or conversely living happily ever after for no reason. It's like a study in non-sequitor doldrums.  
+% And the story that's called snow white isn't the one that Disney made a movie out of.  
+% And the story called cinderella isn't the one Disney made a movie out of.  
+    
+@book{watterson2005complete,  
+  title={The Complete Calvin and Hobbes},  
+  author={Watterson, B.},  
+  number={bk. 1},  
+  isbn={9780740748479},  
+  lccn={2004062709},  
+  series={Calvin and Hobbes Series},  
+  url={https://books.google.com/books?id=wmjG5g4Yx7gC},  
+  year={2005},  
+  publisher={Andrews McMeel Publishing}  
+}  
+% Calvin's dad in bike gear frame (vol 2 page 472 of complete c+h)  
+% C&H vol III page 259: mrs. wormwood "PAY ATTENTION" drawing  
+% Ice Cream Sandwiches --- towards end of Volume III  
+  
+  
 @book{didion1980white,  
   title={The White Album},  
   author={Didion, J.},  

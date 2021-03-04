@@ -1,5 +1,5 @@
 dynohub.github.io/Novels.md
-Last modified: Wed Jan 27, 2021  05:41PM
+Last modified: Thu Mar 04, 2021  03:38PM
 
 ## Novels
 --------------------------------------------------------------------------------
@@ -184,7 +184,17 @@ Last modified: Wed Jan 27, 2021  05:41PM
 }  
 % A Pinkerton agent goes undercover and breaks up a secret society of organized crime in a US coal town.  
   
-    
+@book{doyle1917his,  
+  title={His Last Bow: Some Reminiscences of Sherlock Holmes},  
+  author={Doyle, A.C.},  
+  lccn={17028603},  
+  series={Standard Collection of British and American authors},  
+  url={https://books.google.com/books?id=OHAoAAAAMAAJ},  
+  year={1917},  
+  publisher={J. Murray}  
+}  
+% The Adventure of the Bruce-Partington Plans is the basis for the Sherlock BBC episode with the body found on the railroad tracks. It is a _really_ good Sherlock Holmes story, and in the original version the plans are for a secret submarine.  
+   
 @book{gaddis2012recognitions,  
   title={The Recognitions},  
   author={Gaddis, W. and Gass, W.H.},  
