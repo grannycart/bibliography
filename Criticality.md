@@ -13,14 +13,14 @@ Last modified: Fri Mar 12, 2021  10:57AM
   month={12},  
   comment={A broad overview of the history of capitalism in the west ala Adam Curtis. He suggests that the notion that capital is answerable to democracy is a result only of a short-lived and unique period in the first half to the 20th Century when capital needed nationalized labor due to the rise of the industrial revolution, and so allowed democracy to rise as a counterpoint to capital. He suggests that now democracy is well on the way to returning to a 17th-18th Century western style of structure: where capital is global (it was in the overseas companies like the Dutch East India Company then) and held almost exclusively by a few oligarchs. Those people reshaped the local government and economy to fit their needs, while not being answerable in any way to the people. This resulted in two economies: the local economy of everyday people and the global economy of the oligarchs. He calls these first and second economies respectively, and the second economy is almost entirely unanswerable to the first.},   
   category={Critcality, Economics, capitalism, democracy}  
-}
-% THe 17th and 18th Century Enclosure efforts in England were the privitizing of ancient public lands. 
-% The second economies valued property, and so part of the effort to make people believe that they should be invested in property was the pushing of home-ownership as a way of neutralizing social opposition --- and indeed neither party offered an option to vote against that. 
-% The result of the Tiananmen Square protests was not that democracy shown in China, but that the crackdown of the protests were a signal to global capital that demoracy would NOT take hold in China --- and global capital flooded in.
-% The middle class is still inclined to believe that the system exists to serve them.
-% Big auto and big oil bully and bend the state, but ultimately share its organizing principles. This is not true of big data.
-
-
+}  
+% THe 17th and 18th Century Enclosure efforts in England were the privitizing of ancient public lands.   
+% The second economies valued property, and so part of the effort to make people believe that they should be invested in property was the pushing of home-ownership as a way of neutralizing social opposition --- and indeed neither party offered an option to vote against that.   
+% The result of the Tiananmen Square protests was not that democracy shown in China, but that the crackdown of the protests were a signal to global capital that demoracy would NOT take hold in China --- and global capital flooded in.  
+% The middle class is still inclined to believe that the system exists to serve them.  
+% Big auto and big oil bully and bend the state, but ultimately share its organizing principles. This is not true of big data.  
+  
+  
 @article{ligaya2020fugu,  
   Author={Mishan, Ligaya},  
   url={https://www.nytimes.com/2020/12/04/t-magazine/fugu-blowfish-deadly-food.html},  
