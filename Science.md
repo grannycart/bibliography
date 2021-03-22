@@ -1,8 +1,18 @@
 dynohub.github.io/Science.md  
-Last modified: Mon Jan 18, 2021  12:37PM
+Last modified: Mon Mar 22, 2021  11:05AM
 
 ## Science
 --------------------------------------------------------------------------------
+
+@article{lidz2021paleosculpture,  
+  Author={Lidz, Franz},  
+  url={https://www.nytimes.com/2021/03/22/science/archaeology-shigir-idol-.html},  
+  Title={How the World’s Oldest Wooden Sculpture Is Reshaping Prehistory},  
+  journal={The New York Times},  
+  date={2021-03-22},  
+  comment={iThe Shigir Idol has been recently dated to 12,500 years old --- far older than previous estimates. It contains complex imagery signifying abstraction of thought and belief. Archeologists are using it to challenge the notion that philosophy and complex thought came into Europe only from the settled agricultural civilizations in the Fertile Crescent. The argument is that those cultures simply used more archaelogically visible materials (stone, ivory) while hunter-gatherers would have made their art out of wood, which almost always disappears from the archaeological record.},  
+  category={Criticality, Art, Science, history, archaeology}  
+}
 
 
 @article{Ferreira2019caveart,  

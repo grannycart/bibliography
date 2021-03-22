@@ -59,7 +59,6 @@ Because it lets me pull the entries as bibtex. Long-term viability, etc.
   category={}  
 }  
   
-% Line below is 20 lines up  
 % (9 lines)  
 @article{Blankarticleentry,  
   Author={},  
