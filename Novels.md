@@ -1,8 +1,52 @@
 dynohub.github.io/Novels.md
-Last modified: Thu Mar 04, 2021  03:38PM
+Last modified: Thu Apr 01, 2021  01:01PM
 
 ## Novels
 --------------------------------------------------------------------------------
+
+@book{doyle1912lost,
+  title={The Lost World},
+  author={Doyle, A.C.},
+  isbn={9781774415177},
+  lccn={26022291},
+  url={https://books.google.com/books?id=Z8IVAAAAYAAJ},
+  year={1912},
+  publisher={A. L. Burt Company}
+}
+% Arthur Conan Doyle's adventure story where the protaganists journey deep into the Amazon and make their way up to the top of a tepui to find a place where dinosaurs and ice-age beasts still roam... along with some questionable paleolithic peoples.
+% It seems, from reading this and the land that time forgot series, that maybe the idea of a land where dinosaurs roam seems cool at first, but then when one goes to write a book about it the author realizes there's not very much you can do with the idea to keep it interesting. In all the books they end up bringing in native human populations to create some kind of more human element for the characters to contend with, and in both series it feels like the human-to-human interactions totally take over from the characters interacting with the prehistoric monsters.
+
+
+@book{burroughs1924land,
+  title={The Land that Time Forgot},
+  author={Burroughs, E.R. and John, J.A.S.},
+  lccn={24014882},
+  url={https://books.google.com/books?id=wW8GAQAAIAAJ},
+  year={1924},
+  publisher={A.C. McClurg \& Company}
+}
+
+@book{burroughs1918people,
+  title={The People that Time Forgot: [Illustrated Edition]},
+  author={Burroughs, E.R.},
+  isbn={9786257120456},
+  url={https://books.google.com/books?id=luaTzQEACAAJ},
+  year={1918},
+  publisher={E-Kitap Projesi \& Cheapest Books}
+}
+
+@book{burroughs1918out,
+  title={Out of Time's Abyss},
+  author={Burroughs, E.R.},
+  url={https://books.google.com/books?id=IC8OvgAACAAJ},
+  year={1918},
+  publisher={Ace Books}
+}
+% The three books above by E.R. Burroughs form a trilogy that is basically a total rip-off of Doyle's Lost World. These books are overall _terrible_ despite the fact they feature a U-boat. The main characters all have exactly the same voice and though each book is told about a different dude, they all sound exactly the same, and they all have the same relationship to the local women.
+% The main distinction from Lost World is a very complicated evolution/tribal system where humans on the lost island evolve through different stages that emigrate to the north end of the island... and then the next generation are laid as eggs that flow down to the south end of the island to hatch as... tadpoles.
+% This is the most creative thing about these three books, and the central mystery that gets revealed. It's also incredibly stupid, and hard to fathom why the author thought this would be an interesting piece of sci fi. He might as well have set the thing on another planet, it would at least give a believeable undergirding to why the 'humans' are so alien.
+% Also, the main antagonists are humanoid demons with giant bat wings that murder each other all the time. Both weird AND stupid.
+
 
 @book{spillane2001mike,  
   title={The Mike Hammer Collection},  
