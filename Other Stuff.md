@@ -1,8 +1,33 @@
 dynohub.github.io/Other Stuff.md  
-Last modified: Thu Mar 04, 2021  03:45PM
+Last modified: Sat Apr 17, 2021  08:50AM
 
 ## Other Stuff
 --------------------------------------------------------------------------------
+
+@misc{lovecraft1927colour,  
+  Author={Lovecraft, H.P.},  
+  Howpublished={\url{https://repositorio.ufsc.br/bitstream/handle/123456789/163740/H.%20P.%20Lovecraft%20-The%20Colour%20out%20of%20Space.pdf}},  
+  Title={The Colour Out of Space},  
+  comment={A creepy tale of something coming down to a small down in Massachusetts and contaminating the area with an undescribable color and poison.},  
+  category={Other Stuff, lovecraft}  
+}
+% This story has all the hallmarks of a bad acid trip --- even though it was written more than a decade before acid was first synthesized.
+% Particularly in its description of the mysterious color that shines in the dark.
+% It is, in fact, fairly scary with oblique references to the undescribable monster one person was turned into.
+
+
+@book{fort1919book,  
+  title={The Book of the Damned: By Charles Fort},  
+  author={Fort, C.},  
+  url={https://books.google.com/books?id=lW1HAAAAIAAJ},  
+  year={1919},  
+  publisher={H. Liveright}  
+  comment={Fort's classic work. Written in an impenetrable style that waffles between serious critique of science, self deprecation, and documentation of the phenomenologial, it had moments of brilliance interspersed with long sections of incoherence.},  
+  category={Other Stuff, Criticality, science fiction, superscience, science fact, scientific positivism}  
+}
+% Wikipedia quotes Colin Wilson as sayging: "Expressed in a sentence, Fort's principle goes something like this: People with a psychological need to believe in marvels are no more prejudiced and gullible than people with a psychological need not to believe in marvels."
+% Chapter 4 contains this amazing line: "I think, myself, that it would be absurd to say that the whole sky is gelatinous: it seems more acceptable that only certain areas are."
+
 
 @book{doyle2009story,  
   title={The Story of Jack and the Giants},  
