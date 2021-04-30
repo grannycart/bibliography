@@ -1,8 +1,22 @@
 dynohub.github.io/Novels.md
-Last modified: Thu Apr 01, 2021  01:01PM
+Last modified: Thu Apr 29, 2021  09:20PM
 
 ## Novels
 --------------------------------------------------------------------------------
+
+
+@book{guin1975dispossessed,
+  title={The Dispossessed},
+  author={Guin, U.K.L.},
+  isbn={9780380003822},
+  lccn={94132557},
+  series={Avon SF},
+  url={https://books.google.com/books?id=eDurVTBRwAQC},
+  year={1975},
+  publisher={Avon},
+  comment={Anarchists on the moon},
+  category={Novels, science fiction}
+}
 
 @book{doyle1912lost,
   title={The Lost World},
