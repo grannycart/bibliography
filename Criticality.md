@@ -1,8 +1,22 @@
 dynohub.github.io/Criticality.md  
-Last modified: Fri Mar 12, 2021  10:57AM
+Last modified: Sat May 01, 2021  03:49PM
 
 ## Criticality
 --------------------------------------------------------------------------------
+
+
+@article{graeber2014fun,  
+  Author={Graeber, David},  
+  url={https://thebaffler.com/salvos/whats-the-point-if-we-cant-have-fun},  
+  Title={What’s the Point If We Can’t Have Fun?},  
+  journal={The Baffler},  
+  year={2014},  
+  month={01},  
+  comment={Graeber argues that science has been preoccupied since Darwin with the idea that all animal behavior has an evolutionary purpose, including play. This arises from the application of a capitalistic/economic world-view to the sciences: all animals are rational actors, driven by genes to maximise their chances of survival and reproduction. Graeber argues that this world-view flatly ignores the strong evidence that animals (not to mention humans) often behave irrationally, often to all appearances doing things just for the fun of it --- animals play. He then argues that this goes beyong just animal behavior, but in fact the idea of irrational behavior (and its foundation in consciousness) has to come from one of two places: either it "emerges" from dumb elemental particles stacking on top of eachother until poof a complex system pops up, _or_ there is some aspect of elemental particles themselves --- some tiny nuance that expresses randomness and irrationality --- that combines into consciousness at a higher level. Graeber takes the second possibility and runs with it, arguing that play could exist the entire way down the structural ladders of all species and objects to the fundamental root particles of the universe. He wraps up with the caveat that this stuff is very complex and he is not proposing that his view is _the_ solution, merely that it seems just as likely as the hyper-rational model that is currently unquestioned canon, and his view should at least be in the mix.},  
+  category={Criticality, Economics, Science, fun, animal behavior}  
+}  
+% As terrific as this article is, and as much as I agree with the overarching critical concepts, he uses ant "mock" battles as an example of ants displaying play behavior. But EO Wilson lays out in The Ants 30 years before this article that those mock battles are not for fun, but a way for one colony to test the strength of another without destroying themselves. It may indeed be fun! But there's an easy-to-point-to rational reason for those mock battles.
+% However, I do so often see scientists bending over backwards to cram strange animal behaviors into some kind of rational-actor evolutionary theory. From this comes much of the more complicated, fascinating, and counter-intuitive of the power of evolution! And... also sometimes ridiculous claims about why animals do things that scientists can't explain.
 
 @article{dasgupta2020democracy,  
   Author={Dasgupta, Rana},  
