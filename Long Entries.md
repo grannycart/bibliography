@@ -1,6 +1,6 @@
 d
 nohub.github.io/Long Entries.md  
-Last modified: Wed Feb 24, 2021  10:01AM
+Last modified: Sat May 01, 2021  10:40AM
 
 ## Long Entries
 --------------------------------------------------------------------------------
@@ -46,6 +46,8 @@ Last modified: Wed Feb 24, 2021  10:01AM
 % Page 363: different species of ants have different tempos. Some are slow and deliberate and careful in their movements. Others are fast, random, and chaotic and take risks. It seems that the fast-tempo ants occur in species in large colonies. Those colonies are labor saturated with many many workers, so it is more efficient (for the colony) for individual workers to work themselves to death or die taking risks because there's always another ant to pick up the job. Slow tempo colonies are smaller and the individual ants live longer.  
 % Page 398: The common pavement ants in North America carry out some of the most dramatic battles between colonies of the same species. Huge wars between hundreds or even thousands of ants.  
 % Page 400: "Invasive" species tend to settle into a niche: in the 1500s a fire ant (then called F. omnivora) invaded Carribean islands in huge numbers. The people of the islands called on their saints and leaders to protect them. By the 20th century the ant had settled down into a commone "native" fire ant with very modest numbers.  
+% Page 512: Most mimicry by other insects that exploit the social behavior of ants is chemical not physical/morphological. Some beetles that run with army ants have evolved a striking resemblence to the ants --- but that is almost entirely to fool predators (birds) that look for insects stirred up by passing ants. There are many parasites that look nothing like the ants, but live in and off of an ant colony purely by chemical mimicy.
+% Page 513: There are exceptions to parasites fooling ants with only chemicals though: one cricket lives among blind ants and fools them with just enough physical parts that resememble ants so the ants don't attack them --- until they feel something alien. On this page is a vibrant description of blind humans living in a room with a monster that has human hands. The blind humans aren't aware they live with a monster until they feel something other than hands...
   
    
 @book{eliot2003middlemarch,  
