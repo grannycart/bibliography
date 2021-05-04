@@ -1,8 +1,19 @@
 dynohub.github.io/Urbanism.wiki  
-Last modified: Thu Feb 04, 2021  06:29PM
+Last modified: Tue May 04, 2021  11:32AM
 
 ## Urbanism
 --------------------------------------------------------------------------------
+  
+@article{gebeoff2021census,  
+  Author={Gebeloff, Robert},  
+  url={https://www.nytimes.com/2021/05/04/upshot/census-new-york-surprise.html},  
+  Title={Why New York State’s Population Growth Surprised Experts},  
+  journal={The New York Times},  
+  date={2021-05-04},  
+  comment={New York State lost a congressional seat in the 2020 Census by only 89 people. But it gained population, perhaps due to carefully making sure as many people as possible got added to the Census' master address list. This article has some interesting details about the specific mechanics of how the Census is carried out.},  
+  category={Urbanism, census}  
+}  
+ 
   
   
 @Article{Gurney2021,  
