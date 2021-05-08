@@ -1,6 +1,6 @@
 d
 nohub.github.io/Long Entries.md  
-Last modified: Sat May 01, 2021  10:40AM
+Last modified: Sat May 08, 2021  11:13AM
 
 ## Long Entries
 --------------------------------------------------------------------------------
@@ -48,6 +48,7 @@ Last modified: Sat May 01, 2021  10:40AM
 % Page 400: "Invasive" species tend to settle into a niche: in the 1500s a fire ant (then called F. omnivora) invaded Carribean islands in huge numbers. The people of the islands called on their saints and leaders to protect them. By the 20th century the ant had settled down into a commone "native" fire ant with very modest numbers.  
 % Page 512: Most mimicry by other insects that exploit the social behavior of ants is chemical not physical/morphological. Some beetles that run with army ants have evolved a striking resemblence to the ants --- but that is almost entirely to fool predators (birds) that look for insects stirred up by passing ants. There are many parasites that look nothing like the ants, but live in and off of an ant colony purely by chemical mimicy.
 % Page 513: There are exceptions to parasites fooling ants with only chemicals though: one cricket lives among blind ants and fools them with just enough physical parts that resememble ants so the ants don't attack them --- until they feel something alien. On this page is a vibrant description of blind humans living in a room with a monster that has human hands. The blind humans aren't aware they live with a monster until they feel something other than hands...
+% Page 530: This chapter on ants and plants should be read by any landscape architect or person interested in plants. Plants evolved a number of structures to encourage ants to nest on and around them, including special chambers for ants to use as nests, and food bodies to feed ants. The ants in turn defend the plants from other insect predators, move nutrients to the plants' roots. and prune and weed around the plant to keep other plant leaves from bridging to their home plants and allowing competing ants to attack. This is all on top of the relationship ants have with aphids, (described in previous chapter) where ants care for their aphid broods, keep aphid eggs in their nests over winter, and disperse them to more favorable "pastures" among plants. There's even a nomadic species of ant that move with its aphid flock from pasture to pasture.
   
    
 @book{eliot2003middlemarch,  
