@@ -1,5 +1,5 @@
 dynohub.github.io/Other Stuff.md  
-Last modified: Sat Apr 17, 2021  08:50AM
+Last modified: Sat May 15, 2021  11:12AM
 
 ## Other Stuff
 --------------------------------------------------------------------------------
@@ -27,6 +27,7 @@ Last modified: Sat Apr 17, 2021  08:50AM
 }
 % Wikipedia quotes Colin Wilson as sayging: "Expressed in a sentence, Fort's principle goes something like this: People with a psychological need to believe in marvels are no more prejudiced and gullible than people with a psychological need not to believe in marvels."
 % Chapter 4 contains this amazing line: "I think, myself, that it would be absurd to say that the whole sky is gelatinous: it seems more acceptable that only certain areas are."
+% While this book has the same base-level incoherency of any cult-founding document, I can identify with the pseudo-skepticism (for that's what it is --- not pseudo-science, but pseudo-skepticism) that underlies Fort's thinking. After all, it is only a few years after this book is published that Hubble would prove that there are galaxies beyond the Milky Way, and thus infinitely expand the size of the universe as we know it. For a person living today, science is regarded as foundational. The details might change, but the underlying core is solid. This is accepted as one major cultural pillar of our times. And yet, even now, it is so easy to point to how much science gets wrong, even at very very basic levels. (See Most Research Findings are False.) Imagine living in Fort's time 100 years ago. At that point good science was so mixed with bad science that it must not have been clear at _all_ that a positivist approach to science would actually yield any productive outcomes.
 
 
 @book{doyle2009story,  

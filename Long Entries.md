@@ -1,5 +1,5 @@
 dynohub.github.io/Long Entries.md  
-Last modified: Sat May 08, 2021  02:46PM
+Last modified: Sat May 15, 2021  11:04AM
 
 ## Long Entries
 --------------------------------------------------------------------------------
@@ -49,6 +49,8 @@ Last modified: Sat May 08, 2021  02:46PM
 % Page 513: There are exceptions to parasites fooling ants with only chemicals though: one cricket lives among blind ants and fools them with just enough physical parts that resememble ants so the ants don't attack them --- until they feel something alien. On this page is a vibrant description of blind humans living in a room with a monster that has human hands. The blind humans aren't aware they live with a monster until they feel something other than hands...
 % Page 530: This chapter on ants and plants should be read by any landscape architect or person interested in plants. Plants evolved a number of structures to encourage ants to nest on and around them, including special chambers for ants to use as nests, and food bodies to feed ants. The ants in turn defend the plants from other insect predators, move nutrients to the plants' roots. and prune and weed around the plant to keep other plant leaves from bridging to their home plants and allowing competing ants to attack. This is all on top of the relationship ants have with aphids, (described in previous chapter) where ants care for their aphid broods, keep aphid eggs in their nests over winter, and disperse them to more favorable "pastures" among plants. There's even a nomadic species of ant that move with its aphid flock from pasture to pasture.
 % Page 554: Cordyceps fungus that parasitize ant species, consuming their bodies from the inside until they burst out the head and throw up a stalk. (This book has been far more entertaining in the last quarter than in the first three quarters.)
+% Page 569: some ants are capable of controlling the amount they dispense with their sting, so they can inject just enough poison to paralyze their prey, and then store their prey in their nest, alive, for weeks until they eat them.
+% Page 575: A detailed description of the _sound_ of a column of hundreds of thousands of moving army ants: the prey insects scurrying before them, the ant birds chirping around them, and the shuffling of the mass of ants itself. (This seems like a natural phenomenon that would be worth experiencing in real life.)
 
   
    
