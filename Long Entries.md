@@ -1,5 +1,5 @@
 dynohub.github.io/Long Entries.md  
-Last modified: Sat May 15, 2021  11:04AM
+Last modified: Tue May 18, 2021  09:12AM
 
 ## Long Entries
 --------------------------------------------------------------------------------
@@ -51,6 +51,7 @@ Last modified: Sat May 15, 2021  11:04AM
 % Page 554: Cordyceps fungus that parasitize ant species, consuming their bodies from the inside until they burst out the head and throw up a stalk. (This book has been far more entertaining in the last quarter than in the first three quarters.)
 % Page 569: some ants are capable of controlling the amount they dispense with their sting, so they can inject just enough poison to paralyze their prey, and then store their prey in their nest, alive, for weeks until they eat them.
 % Page 575: A detailed description of the _sound_ of a column of hundreds of thousands of moving army ants: the prey insects scurrying before them, the ant birds chirping around them, and the shuffling of the mass of ants itself. (This seems like a natural phenomenon that would be worth experiencing in real life.)
+% Page 588: The army ants and the driver ants hunt by creating pseudopods of ants that spread out slowly from a trunk, rather than a singular ants randomly foraging. In Africa the driver ants drive everything before them and consume anything they find, including large animals that do not get out of the way. This page contains an awesome descriptive excerpt from the mid-19th Century of driver ants invading a house and the people standing on chairs to escape them.
 
   
    
