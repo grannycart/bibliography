@@ -1,8 +1,22 @@
 dynohub.github.io/Health.md  
-Last modified: Fri Oct 09, 2020  07:36PM
+Last modified: Sat May 22, 2021  03:49PM
 
 ## Health
 --------------------------------------------------------------------------------
+
+
+
+@article{sgaier2021novaxers,  
+  Author={Sgaier, Sema K.},  
+  url={https://www.nytimes.com/interactive/2021/05/18/opinion/covid-19-vaccine-hesitancy.html},  
+  Title={Meet the Four Kinds of People Holding Us Back From Full Vaccination},  
+  journal={The New York Times},  
+  date={2021-05-18},  
+  comment={Using marketing methods, profiles were created that broke people into five groups regarding how they feel about covid vaccines: the Enthusiasts, the Watchful, the Cost-Anxious, the System Distrusters, and the Covid Skeptics. Using groups like these allows health officials to target their strategies in ways that ignore demographic categories like age and race.},  
+  category={Health, marketing, covid, vaccines}  
+}  
+% I've always said that planners could learn a lot from marketing. And this approach to covid vaccines shows how that could be true. On the other hand, despite the argument that these marketing methods can ignore traditional demographics, clearly the "cost-anxious" are going to be in the traditional demographic category of low-income. And even the copy here acknowledges that most members of system distrusters are people of color. In addition, all of these groups are associated with the traditional demographics category of having a distinct geography. So it's possible the marketers have mostly just created different (and much cheesier) labels to get at the same ideas.
+
 
   
 @article{klasco2020kidssugar,  
