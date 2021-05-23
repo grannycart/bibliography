@@ -1,5 +1,5 @@
 dynohub.github.io/Other Stuff.md  
-Last modified: Sat May 15, 2021  11:12AM
+Last modified: Sun May 23, 2021  10:12AM
 
 ## Other Stuff
 --------------------------------------------------------------------------------
@@ -28,6 +28,8 @@ Last modified: Sat May 15, 2021  11:12AM
 % Wikipedia quotes Colin Wilson as sayging: "Expressed in a sentence, Fort's principle goes something like this: People with a psychological need to believe in marvels are no more prejudiced and gullible than people with a psychological need not to believe in marvels."
 % Chapter 4 contains this amazing line: "I think, myself, that it would be absurd to say that the whole sky is gelatinous: it seems more acceptable that only certain areas are."
 % While this book has the same base-level incoherency of any cult-founding document, I can identify with the pseudo-skepticism (for that's what it is --- not pseudo-science, but pseudo-skepticism) that underlies Fort's thinking. After all, it is only a few years after this book is published that Hubble would prove that there are galaxies beyond the Milky Way, and thus infinitely expand the size of the universe as we know it. For a person living today, science is regarded as foundational. The details might change, but the underlying core is solid. This is accepted as one major cultural pillar of our times. And yet, even now, it is so easy to point to how much science gets wrong, even at very very basic levels. (See Most Research Findings are False.) Imagine living in Fort's time 100 years ago. At that point good science was so mixed with bad science that it must not have been clear at _all_ that a positivist approach to science would actually yield any productive outcomes.
+% Fort mentions ancient Chinese seals found in Ireland. See: \url{https://www.reddit.com/r/UnresolvedMysteries/comments/3vypa3/since_1780_more_than_60_chinese_porcelain_seals/}
+% One idea of Fort's that I really like is his conception that most of the unexplained phenomenon of the world might have got there because the Earth passes through a part of space that is littered with the detritus of some higher culture. He compares himself to a deep-sea fish hit on the nose with a plate of steel that feel from somewhere above.
 
 
 @book{doyle2009story,  
