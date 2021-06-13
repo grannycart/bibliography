@@ -1,8 +1,19 @@
 dynohub.github.io/Novels.md
-Last modified: Thu Apr 29, 2021  09:20PM
+Last modified: Sun Jun 13, 2021  10:25AM
 
 ## Novels
 --------------------------------------------------------------------------------
+
+@book{guin1976left,
+  title={THE LEFT HAND OF DARKNESS},
+  author={GUIN, U.K.L.E.},
+  url={https://books.google.com/books?id=X-j9eIuTMdkC},
+  year={1976}
+}
+% It turns out that if you remove gender from a society you get... a really boring all-male society. It seems like either ULG -- being a 1970s femenist -- may have wanted to avoid acknowleding the value of "feminine" cultural affects and emphasize the "women are just as tough as men" idea so much that she completely neutralized women right out of the book. The people of her planet are stated to be gender-neutral, but that doesn't really come through in the book. What comes through is an all-male society with some slightly gay sexual interactions that in just a few places in the book manifest themselves as women. She uses the pronoun 'him' for all the characters, and they all sound and act male. Ironically for a book that is supposed to center around gender-neutralness, it's really just a book with no women.
+% It is also possible ULG just didn't have the chops to get it there. It would be possible (though probably very difficult) to actually dream a culture up with completely gender-neutral individuals, and have it _feel_ like they are gender neutral. (Perhaps the first step is to just leave aside the mechanics of how they have sex.) But this is really not that book.
+% The gender thing acutally doesn't even play that big a role in the book. The world is far more distinguished by being an ice-planet and all the cultural shifts that come with that are far more imposing than any gender issues. That may have been ULG's point, but if so she's just wrong and missed the mark.
+% It does have a big chunk of the book dedicated to an arctic sled journey. It feels like ULG might have read The Last Place On Earth and wanted to incorporate that into one of her books. I like a sled journey story, and this maybe the most interesting part of the book. But a far cry from The Last Place On Earth. Or even Call of the Wild.
 
 
 @book{guin1975dispossessed,
@@ -14,9 +25,12 @@ Last modified: Thu Apr 29, 2021  09:20PM
   url={https://books.google.com/books?id=eDurVTBRwAQC},
   year={1975},
   publisher={Avon},
-  comment={Anarchists on the moon},
+  comment={Anarchists on the moon.},
   category={Novels, science fiction}
 }
+% Really, just not a super fun book. The anarchists live on the moon. They have issues. The capitalists live on the planet. They have issues too. Everyone has issues. Whoop de do.
+% It is interesting to note that being written in what was effectively still the mid-20th-Century, the character with the secret door-opening knowledge so coveted by all worlds is a physicist. But that's because physicists were the ones who gave the US nuclear bombs (in real life) not so long before. Those people were still the coveted elite in the 1970s on Earth. Now it's been decades since physicists have produced anything more than a blip in a huge database of noise for their hundreds of billions of dollars spent. If this book were written today, the coveted secret-knoweldge person would probably be a computer programmer.
+
 
 @book{doyle1912lost,
   title={The Lost World},
