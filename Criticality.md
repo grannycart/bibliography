@@ -1,8 +1,19 @@
 dynohub.github.io/Criticality.md  
-Last modified: Sat May 01, 2021  03:49PM
+Last modified: Fri Jun 18, 2021  08:15PM
 
 ## Criticality
 --------------------------------------------------------------------------------
+
+
+@article{esp2017engber,  
+  Author={Engber, Daniel},  
+  url={https://slate.com/health-and-science/2017/06/daryl-bem-proved-esp-is-real-showed-science-is-broken.html},  
+  Title={Daryl Bem Proved ESP Is Real. Which means science is broken.},  
+  journal={Slate},  
+  date={2017-06-07},  
+  comment={In which a highly respected and rigorous social psychologist does many experiments proving the existence of ESP, and when published essentially is found that science itself is broken. Fundamentally, this is an instance of John Ioannidis' “most published research findings are false” theory. It is likely that Bern's research followed very precisely best practices, but was still able to prove the impossible fact that ESP exists because he chose the parameters of his experiments very carefully.},  
+  category={Criticality, Science, social psychology, psychology, esp}  
+}  
 
 
 @article{graeber2014fun,  

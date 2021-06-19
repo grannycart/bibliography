@@ -65,7 +65,7 @@ Because it lets me pull the entries as bibtex. Long-term viability, etc.
   url={},  
   Title={},  
   journal={},  
-  date={2021-05-dd},  
+  date={2021-06-dd},  
   comment={},  
   category={}  
 }  
@@ -76,7 +76,7 @@ Because it lets me pull the entries as bibtex. Long-term viability, etc.
   url={},  
   Title={},  
   journal={The New York Times},  
-  date={2021-05-dd},  
+  date={2021-06-dd},  
   comment={},  
   category={}  
 }  
