@@ -1,9 +1,17 @@
 dynohub.github.io/Humanity.md  
-Last modified: Wed Oct 28, 2020  08:55PM
+Last modified: Tue Jun 22, 2021  10:53AM
 
 ## Humanity
 --------------------------------------------------------------------------------
   
+@article{carvings2012portals,  
+  title={Portals to Other Realms},  
+  author={Carvings, Rock and Varner, Gary R},  
+  year={2012},  
+  url={https://www.academia.edu/7769868/Portals_to_Other_Realms_Cup_Marked_Stones_and_Prehistoric_Rock_Carvings},
+  comment={A survey of the paleolithic cup and ring marks found in ancient sites around the world, going back tens if not hundreds of thousands of years. How can humans have been using identical symbols all around the world, over tens if not hundreds of thousands of years, and we now have no idea what they meant?},  
+  category={Science, archaeology, Humanity, cup marks, cup and rings, paleolithic art}
+}
  
 @article{10.1111/1467-9213.00309,  
     author = {Bostrom, Nick},  
