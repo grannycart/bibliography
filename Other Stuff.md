@@ -1,7 +1,8 @@
-dynohub.github.io/Other Stuff.md  
-Last modified: Sun May 23, 2021  10:12AM
+---
+layout: post
+title: Other Stuff
+---
 
-## Other Stuff
 --------------------------------------------------------------------------------
 
 @misc{lovecraft1927colour,  

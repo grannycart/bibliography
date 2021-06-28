@@ -1,7 +1,8 @@
-dynohub.github.io/Politics.md  
-Last modified: Wed Dec 02, 2020  12:21PM
+---
+layout: post
+title: Politics and Public Policy
+---
 
-## Politics
 --------------------------------------------------------------------------------
 
 

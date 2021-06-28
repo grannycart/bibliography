@@ -1,7 +1,8 @@
-dynohub.github.io/Music.md  
-Last modified: Wed Dec 16, 2020  03:40PM
+---
+layout: post
+title: Music
+---
 
-## Music
 --------------------------------------------------------------------------------
 
 @article{stephenson2020wendycarlos,  

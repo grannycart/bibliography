@@ -1,7 +1,8 @@
-dynohub.github.io/Economics.md  
-Last modified: Sun Sep 13, 2020  03:34PM
+---
+layout: post
+title: Economics
+---
 
-## Economics
 --------------------------------------------------------------------------------
   
 @article{graeber2019economics,  

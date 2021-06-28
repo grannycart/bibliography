@@ -1,7 +1,8 @@
-dynohub.github.io/Science.md  
-Last modified: Mon Mar 22, 2021  11:05AM
+---
+layout: post
+title: Science
+---
 
-## Science
 --------------------------------------------------------------------------------
 
 @article{lidz2021paleosculpture,  

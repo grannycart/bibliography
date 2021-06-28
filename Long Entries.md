@@ -1,7 +1,8 @@
-dynohub.github.io/Long Entries.md  
-Last modified: Sat May 22, 2021  10:15AM
+---
+layout: post
+title: Long Entries
+---
 
-## Long Entries
 --------------------------------------------------------------------------------
 
 @book{holldobler1990ants,  

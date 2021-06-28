@@ -1,7 +1,8 @@
-dynohub.github.io/Sport.md  
-Last modified: Fri Sep 11, 2020  10:51PM
+---
+layout: post
+title: Sport
+---
 
-## Sport
 --------------------------------------------------------------------------------
 
 @article{etnier2020coaching,  

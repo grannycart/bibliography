@@ -1,7 +1,8 @@
-dynohub.github.io/Humanity.md  
-Last modified: Tue Jun 22, 2021  10:53AM
+---
+layout: post
+title: Humanity
+---
 
-## Humanity
 --------------------------------------------------------------------------------
   
 @article{carvings2012portals,  

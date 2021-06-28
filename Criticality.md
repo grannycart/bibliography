@@ -1,7 +1,8 @@
-dynohub.github.io/Criticality.md  
-Last modified: Fri Jun 25, 2021  09:29AM
+---
+layout: post
+title: Criticality
+---
 
-## Criticality
 --------------------------------------------------------------------------------
 
 @book{mcluhan2015culture,  

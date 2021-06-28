@@ -1,7 +1,9 @@
-dynohub.github.io/Urbanism.wiki  
-Last modified: Tue May 04, 2021  11:32AM
+---
+layout: post
+title: Urbanism
+---
 
-## Urbanism
+
 --------------------------------------------------------------------------------
   
 @article{gebeoff2021census,  

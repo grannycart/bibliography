@@ -1,7 +1,8 @@
-dynohub.github.io/Housing.md  
-Last modified: Fri Sep 11, 2020  10:49PM
+---
+layout: post
+title: Housing
+---
 
-## Housing
 --------------------------------------------------------------------------------
   
 @article{shuetz2020housingcosts,  

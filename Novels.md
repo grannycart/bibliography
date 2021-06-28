@@ -1,7 +1,8 @@
-dynohub.github.io/Novels.md
-Last modified: Sun Jun 13, 2021  10:25AM
+---
+layout: post
+title: Novels
+---
 
-## Novels
 --------------------------------------------------------------------------------
 
 @book{guin1976left,

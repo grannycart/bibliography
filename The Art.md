@@ -1,7 +1,8 @@
-dynohub.github.io/The Art.md  
-Last modified: Tue Oct 13, 2020  04:21PM
+---
+layout: post
+title: The Art
+---
 
-## The Art
 --------------------------------------------------------------------------------
 
 

@@ -1,10 +1,9 @@
-title: Dynohub --- Bibliography repo
-author: dynohub # name of site's author
-email: dynohub@gmail.com # email of site's author
-url: https://dynohub.github.io/bibliography
+title: Grannycary - Bibliography repo
+author: grannycart # name of site's author
+email: grannycart@protonmail.com # email of site's author
+url: https://grannycart.github.io/bibliography
 # url: https://riggraz.dev/no-style-please # root address of the site
 description: > # A comprehensive bibliography of everything I've read.
-  A (nearly) no-CSS, fast, minimalist Jekyll theme.
 
 # These markdown options fix the autolinking of vimwiki links in github pages
 markdown: CommonMarkGhPages
@@ -18,7 +17,7 @@ commonmark:
     - strikethrough
     - table
 
-permalink: /:slug.html
+# permalink: /:slug.html
 
 # favicon: "./logo.png" # relative path to site's favicon
 # goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
@@ -27,7 +26,7 @@ permalink: /:slug.html
 remote_theme: riggraz/no-style-please
 
 theme_config:
-  back_home_text: ".." # customize text for homepage link in post layout
+  back_home_text: "menu" # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: false # show blog description in home page
 
