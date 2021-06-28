@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: home
 ---
-
 
 # Bibliography
 This is a bibliography of everything I've ever read that has any kind of resonance with me.

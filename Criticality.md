@@ -1,8 +1,22 @@
 dynohub.github.io/Criticality.md  
-Last modified: Fri Jun 18, 2021  08:15PM
+Last modified: Fri Jun 25, 2021  09:29AM
 
 ## Criticality
 --------------------------------------------------------------------------------
+
+@book{mcluhan2015culture,  
+  title={Culture Is Our Business},  
+  author={McLuhan, M. and McLuhan, E.},  
+  isbn={9781625648280},  
+  url={https://books.google.com/books?id=A1qnBgAAQBAJ},  
+  year={2015},  
+  publisher={WIPF \& STOCK PUBL},
+  comment={},
+  category={Criticality, media, culture, mcluhan, advertising}
+}  
+% Page 196: Pussycat Pussycat -- the cat in the throne room only notices the mouse under the throne and has no notion of the Queen herself.
+% Page 200: Thomas Jefferson in 1807 -- "Nothing can now be believed which is seen in a newspaper. Truth itself becomes suspicious by being put in that polluted vehicle. I will add that the man who never looks at a newspaper is better informed than he who reads them."
+
 
 
 @article{esp2017engber,  
