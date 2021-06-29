@@ -5,6 +5,20 @@ title: Criticality
 
 --------------------------------------------------------------------------------
 
+
+@article{kortova2021meditation,  
+  Author={Kortova, David},  
+  url={https://harpers.org/archive/2021/04/lost-in-thought-psychological-risks-of-meditation/},  
+  Title={Lost in Thought},  
+  journal={Harper's},  
+  year={2021},  
+  month={04},  
+  comment={Recounts evidence that meditation can in some cases (maybe often) drive people to psychosis.},  
+  category={Criticality, Health, meditation, psychosis, breakdowns}  
+}  
+% This is terrifying.  
+
+
 @book{mcluhan2015culture,  
   title={Culture Is Our Business},  
   author={McLuhan, M. and McLuhan, E.},  
