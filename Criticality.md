@@ -5,6 +5,16 @@ title: Criticality
 
 --------------------------------------------------------------------------------
 
+@article{ketcham2021nps,  
+  Author={Ketcham, Christopher},  
+  url={https://harpers.org/archive/2021/04/the-business-of-scenery-why-national-parks-need-new-management/},  
+  Title={The Business of Scenery},  
+  journal={Harper's},  
+  year={2021},  
+  month={04},  
+  comment={The National Parks Service has utterly failed in its mandate for conservation, instead entirely focussing on the profitable business of public use. Even though by law the NPS was required to come up with conservation plans and think about ways to start limiting visitors, they have never done so. The service is also infiltrated to its core by corrupt business connections. It also has held sacred the idea that more visitors is always good, despite the evidence that more visitors does tremendous damage to the parks in addition to just making them less pleasant places for visitors to go. Ends with a call to ban all cars from all parks and let the roads go back to the wild.},  
+  category={Criticality, national parks services, national parks}  
+}  
 
 @article{kortova2021meditation,  
   Author={Kortova, David},  
