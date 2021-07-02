@@ -5,6 +5,18 @@ title: Science
 
 --------------------------------------------------------------------------------
 
+
+@article{preston2021eusocialferns,  
+  Author={Preston, Elizabeth},  
+  url={https://www.nytimes.com/2021/07/02/science/ferns-social.html},  
+  Title={Staghorn Ferns Act Like Bees in a Hive},  
+  journal={The New York Times},  
+  date={2021-07-02},  
+  comment={Staghorn ferns have been documented dividing up labor like a eusocial insect like ants or bees. The ferns are living together as colonies.},  
+  category={Science, ferns, eusocial, plants}  
+}  
+
+
 @article{lidz2021paleosculpture,  
   Author={Lidz, Franz},  
   url={https://www.nytimes.com/2021/03/22/science/archaeology-shigir-idol-.html},  
