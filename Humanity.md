@@ -5,6 +5,19 @@ title: Humanity
 
 --------------------------------------------------------------------------------
   
+  
+@article{markham2021crows,  
+  Author={Markham, Lauren},  
+  url={https://harpers.org/archive/2021/04/the-crow-whisperer-animal-communicators/},  
+  Title={The Crow Whisperer},  
+  journal={Harper's},  
+  year={2021},  
+  month={04},  
+  comment={Some musings on the ability to communicate with animals, including some awesome evidence that you don't want to get on the bad side of crows, and an old punk rocker who has a special and uncanny relationship with animals.},  
+  category={Humanity, animal intelligence, crows}  
+}  
+  
+  
 @article{carvings2012portals,  
   title={Portals to Other Realms},  
   author={Carvings, Rock and Varner, Gary R},  
