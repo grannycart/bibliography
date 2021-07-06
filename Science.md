@@ -2004,9 +2004,11 @@ category={trees, Science},
   comment = {There was an effective Lyme Disease vaccine for humans, but anti-vaccine groups created such a controversy around it that it was pulled. Now it seems that it is economically improbable that it will be offered again.},  
   category = {lyme disease, vaccines, Health}  
 }  
+% A new vaccine is in the works.  
 % more recent update on this topic, basically same info:  
 % \url{https://www.nytimes.com/2018/08/14/health/lyme-disease-vaccine.html}  
-% But a new vaccine is in the works.  
+% Also: \url{https://slate.com/technology/2021/07/lyme-vaccine-history-lymerix-hesitancy-ticks.html}  
+	% ...Though I think the history of this vaccine's failure is much more accurately described by the failure of the capitalist health care system, rather than the now-vogue bogeyman of anti-vaxxers that the author blames it on.  
   
   
   
