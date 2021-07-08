@@ -1881,6 +1881,7 @@ journal = {Urban Studies},
   comment={One of the best books I ever read about economics. Who knew you could learn about how the futures market works by reading about grain elevators? Also makes a compelling argument that hinterlands actually \emph{are part} of the cities they feed. We \emph{all} live in major cities, whether it seems like it or not.},  
   category={urbanism}  
 }  
+% See also: \url{https://www.nytimes.com/interactive/2021/07/07/climate/chicago-river-lake-michigan.html}
   
 @article{edsallgentrification,  
   Author={Edsall, Thomas B.},  
