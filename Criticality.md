@@ -5,6 +5,18 @@ title: Criticality
 
 --------------------------------------------------------------------------------
 
+
+@article{herrman2021pseudonymity,  
+  Author={Herrman, John},  
+  url={https://www.nytimes.com/2021/07/31/style/anonymity-pseudonymity-online-identity.html},  
+  Title={You Anon},  
+  journal={The New York Times},  
+  date={2021-08-01},  
+  comment={Arguments for allowing people to remain anonymous online. Points out that even though there is often an instinctual call for less anonymity with the argument that people will behave themselves if they have to be in public, the research actually shows that people who are offensive are typically the first to admit publicly who they are. Conversely, people who want to remain anonymous often have a reason to do so. Either because they explicitly don't want to offend people, or come from a more threatened place and need to be able to read and talk about senitive things online without fear of being identified.},  
+  category={Criticality, anonymity, pseudonymity}  
+}  
+
+
 @article{ketcham2021nps,  
   Author={Ketcham, Christopher},  
   url={https://harpers.org/archive/2021/04/the-business-of-scenery-why-national-parks-need-new-management/},  
