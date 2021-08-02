@@ -5,9 +5,21 @@ title: Novels
 
 --------------------------------------------------------------------------------
 
+@book{wolfe1980island,  
+  title={The Island of Doctor Death and Other Stories and Other Stories},  
+  author={Wolfe, G.},  
+  isbn={9780671828240},  
+  series={Pocket Science Fiction},  
+  url={https://books.google.com/books?id=qBCaAAAACAAJ},  
+  year={1980},  
+  publisher={Pocket Books},
+  comment={A collection of short stories in the traditional style ("And then, big twist in the last sentence!") Sort of an interesting mix between fairly conventional sci fi of the time (surprise! the young man was actually Jesus!) And the more open-ended and mysterious Gene Wolfe that would come in The Book of the New Sun. The best all-around story is The Death of Dr. Island (not the title story, but one of the slightly revised versions of the book title --- and in the copy I have it IS the cover illustration story). It contains a truly unique Gene Wolfe style environment, and all the mysteries that go with that. But it wraps up cleanly with tight resolution and a twist. It would be very satisfying to the person who never could deal with the un-resolvedness of The Book of the New Sun. But I think the stories that are more mysterious, questioning, and magical --- the ones that are more like the Book of the New Sun --- are better. Namely Tracking Song, set in a frozen future of multiple kinds of people/animals with a journey to an underground city that I could swear Wolfe lifted whole-cloth from the bat-people city of Out Of Time's Abyss. The story I probably enjoyed the most (even if not technically as ambitious as The Death of Doctor Island) was Seven American Nights --- both for being set in a future wasteland version of Washington DC in an America that has been afflicted by what is clearly the exact disaster that the Omnibus Podcast dude fear, and also for it's totally Lovecraftian horror twist ending.},  
+  category={Novels, sci fi, horror, cities},  
+}
+
 @book{guin1976left,
   title={THE LEFT HAND OF DARKNESS},
-  author={GUIN, U.K.L.E.},
+  author={LE GUIN, U.K.},
   url={https://books.google.com/books?id=X-j9eIuTMdkC},
   year={1976}
 }
@@ -73,7 +85,7 @@ title: Novels
 }
 % The three books above by E.R. Burroughs form a trilogy that is basically a total rip-off of Doyle's Lost World. These books are overall _terrible_ despite the fact they feature a U-boat. The main characters all have exactly the same voice and though each book is told about a different dude, they all sound exactly the same, and they all have the same relationship to the local women.
 % The main distinction from Lost World is a very complicated evolution/tribal system where humans on the lost island evolve through different stages that emigrate to the north end of the island... and then the next generation are laid as eggs that flow down to the south end of the island to hatch as... tadpoles.
-% This is the most creative thing about these three books, and the central mystery that gets revealed. It's also incredibly stupid, and hard to fathom why the author thought this would be an interesting piece of sci fi. He might as well have set the thing on another planet, it would at least give a believeable undergirding to why the 'humans' are so alien.
+% This is the most creative thing about these three books, and the central mystery that gets revealed. It's also incredibly stupid, and hard to fathom why the author thought this would be an interesting piece of sci fi. He might as well have set the thing on another planet, it would at least give a believable undergirding to why the 'humans' are so alien.
 % Also, the main antagonists are humanoid demons with giant bat wings that murder each other all the time. Both weird AND stupid.
 
 
