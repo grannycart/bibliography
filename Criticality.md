@@ -5,6 +5,15 @@ title: Criticality
 
 --------------------------------------------------------------------------------
 
+@article{mackinnon2021consumption,  
+  Author={MacKinnon, J.B.},  
+  url={https://www.theglobeandmail.com/opinion/article-were-ready-to-spend-again-but-there-are-profound-costs-to-consumption/},  
+  Title={We’re ready to spend again. But there are profound costs to consumption},  
+  journal={The Globe and Mail},  
+  date={2021-05-14},  
+  comment={Around the turn of the millenium consumption surpassed overpopulation as the greatest driver of eco-crises. The average person in a rich country consumes 13 times as much as the average person in a poor one. The "greening" of consumerism has only caused people to consume more. The only time greenhouse emissions go down is during an economic downturn. And the instructions during an economic boom is to shop so it doesn't turn into a bust, and during a bust to shop to get things goins again. There is never a discussion of reducing consumption.},  
+  category={Criticality, consumption, consumerism, environment, Economics}  
+}  
 
 @article{herrman2021pseudonymity,  
   Author={Herrman, John},  
