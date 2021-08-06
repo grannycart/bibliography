@@ -5,6 +5,17 @@ title: Criticality
 
 --------------------------------------------------------------------------------
 
+@article{miller2021onlinetruth,  
+  Author={Miller, Christian B.},  
+  url={https://www.nytimes.com/2021/08/06/opinion/honesty-social-media.html},  
+  Title={Is Your Crush on OkCupid Telling You the Truth?},  
+  journal={NY Times},  
+  date={2021-08-06},  
+  comment={Research shows that people actually lie very little online in dating site or linkedin accounts. This is likely because, unlike in a resume where only a few people might see it and not notice a lie or two, an online account is potentially checked by a large number of people. And a lie in a job profile or dating site could ruin a potential job or date.},  
+  category={Criticality, truth, lies, online}  
+}
+% Also includes a link to research showing that people are bad at detecing lies in person.  
+
 @article{mackinnon2021consumption,  
   Author={MacKinnon, J.B.},  
   url={https://www.theglobeandmail.com/opinion/article-were-ready-to-spend-again-but-there-are-profound-costs-to-consumption/},  
