@@ -5,6 +5,17 @@ title: Sport
 
 --------------------------------------------------------------------------------
 
+
+@article{smith2021soccer,  
+  Author={Smith, Rory},  
+  url={https://www.nytimes.com/2021/08/12/sports/soccer/soccer-football-transfermarkt.html},  
+  Title={The Wisdom of the Crowd},  
+  journal={The New York Times},  
+  date={2021-08-12},  
+  comment={Transfermarkt is a website that gathers data on statistics about soccer players, and then uses that data to create a market value for individual players. This number is used by everyone, but especially team administration when they are discussing trading and contracts with players. The interesting part is that at its core is a combination of input from soccer fans and judgement by a team of experts at the company to arrive at the market value. It is _not_ based on strict data, but rather has human judgement at the heart of it. And it has become critical to the world of soccer because it offers all these people --- with millions of dollars at stake every time --- a concrete point to work from, even if the source is grounded in subjectivity.},  
+  category={Sport, soccer, transfermarkt}  
+}  
+
 @article{etnier2020coaching,  
   Author={Etnier, Jennifer L.},  
   url={https://www.nytimes.com/2020/03/11/opinion/youth-sports-coaches.html},  
