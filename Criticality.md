@@ -5,6 +5,17 @@ title: Criticality
 
 --------------------------------------------------------------------------------
 
+
+@article{howe2021icecream,  
+  Author={Howe, Ben Ryder},  
+  url={https://www.nytimes.com/2021/08/13/business/ice-cream-premium-competition.html},  
+  Title={The Cutthroat World of $10 Ice Cream},  
+  journal={The New York Times},  
+  date={2021-08-13},  
+  comment={High-end ice cream is a tough business to be in. Blue Marble was started by a woman who was from Boston and wondered why there wasn't good ice cream in NYC. Ample Hills crashed and burned after expanding too fast.},  
+  category={Criticality, ice cream, food, nyc}  
+}  
+
 @article{miller2021onlinetruth,  
   Author={Miller, Christian B.},  
   url={https://www.nytimes.com/2021/08/06/opinion/honesty-social-media.html},  
