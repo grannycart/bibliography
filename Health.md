@@ -6,6 +6,15 @@ title: Health
 --------------------------------------------------------------------------------
 
 
+@article{kolata2021metabolism,  
+  Author={Kolata, Gina},  
+  url={https://www.nytimes.com/2021/08/12/health/metabolism-weight-aging.html},  
+  Title={What We Think We Know About Metabolism May Be Wrong},  
+  journal={The New York Times},  
+  date={2021-08-12},  
+  comment={New, better, meta-study research shows that nearly all assumptions about the complexity of metabolism are probably wrong. Instead, this new research supports more strongly the old calorie-in, calorie-out idea. There is no difference in metabolism from younger to older adults (up to 60) and no difference between men and women and no difference between women before and after menopause. There are 4 phases in human metabolism: up to 1yo, kids burn calories like crazy, 1-20 metabolism slows by 3 percent per year, 20-60 it holds steady, 60+ is declines by 0.7 percent per year (or 20 percent by 95).},  
+  category={Health, Criticality, metabolism}  
+}  
 
 @article{sgaier2021novaxers,  
   Author={Sgaier, Sema K.},  
