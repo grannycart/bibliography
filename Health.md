@@ -5,6 +5,16 @@ title: Health
 
 --------------------------------------------------------------------------------
 
+@article{oconnor2021alcohol,  
+  Author={O'Connor, Anahad},  
+  url={https://www.nytimes.com/2021/03/04/well/alcohol-cancer-risk.html},  
+  Title={Should Your Cocktail Carry a Cancer Warning?},  
+  journal={The New York Times},  
+  date={2021-08-04},  
+  comment={Alcohol causes cancer. Full stop. "For cancer prevention, there is no safe level of consumption.” It causes cancer at at a slightly higher rate than UV radiation. Scientists have known for decades, but it is still widely assumed a little alcohol is good for you. It isn't. The liquor industry is, of course, fighting warnings about it.},  
+  category={Health, Criticality, alcohol, cancer}  
+}  
+
 
 @article{kolata2021metabolism,  
   Author={Kolata, Gina},  
