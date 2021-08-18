@@ -5,6 +5,19 @@ title: Economics
 
 --------------------------------------------------------------------------------
   
+  
+@article{krugman2021renewables,  
+  Author={Krugman, Paul},  
+  url={https://www.nytimes.com/2021/18/17/opinion/us-obama-renewable-energy.html},  
+  Title={Who Created the Renewable-Energy Miracle?},  
+  journal={The New York Times},  
+  date={2021-08-17},  
+  comment={Outlines how the extreme decline in cost of solar and wind power renewable energy was driven by policy and subsidy, rather than a great leap forward in techology.},  
+  category={Economics, renewable engergy}  
+}  
+% This article comes closer to the notion I've had that we old the crazy old hippies in the 1970s arguing for solar power a huge apology. They were right all along -- it _wasn't_ too expensive at all, it just needed economics of scale.
+  
+  
 @article{graeber2019economics,  
   Author={Graeber, David},  
   url={https://www.nybooks.com/articles/2019/12/05/against-economics/},  
