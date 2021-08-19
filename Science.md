@@ -5,6 +5,18 @@ title: Science
 
 --------------------------------------------------------------------------------
 
+@article{brown2021superweeds,  
+  Author={Brown, Claire},  
+  url={https://www.nytimes.com/2021/08/18/magazine/superweeds-monsanto.html},  
+  Title={Attack of the Superweeds},  
+  journal={The New York Times},  
+  date={2021-08-18},  
+  comment={Weeds are evolving faster than the chemicals designed to kill them. The poster child of GMOs, "Roundup Ready" crops, became a total catalyst to making Roundup useless. "Monsanto began selling a new generation of genetically modified seeds bred to resist both glyphosate and dicamba. By 2020, scientists had confirmed the existence of dicamba-resistant Palmer amaranth. The agribusiness giant took a decade to develop that product line. The weeds caught up in five years." ""Palmer amaranth may have evolved resistance to weed killers that have yet to be invented." " "When Monsanto submitted its 100-plus-page application for Roundup Ready soybean approval to the U.S. Department of Agriculture in 1993, just two paragraphs were devoted to the possibility that weeds might evolve to resist Roundup. (It was called a “low risk” prospect.) An appendix included letters of support from university-affiliated scientists, who all assured the agency that such an outcome was unlikely." "The No. 1 reason organic food is so expensive is the time and energy spent on weed management."},  
+  category={Science, Criticality, superweeds, pigweed, monsanto, bayer, roundup}  
+}  
+% Genetically modified crops may have had no known health impacts, but that hasn't stopped them from bringing about a crisis in agriculture. It just wasn't the one either the boosters or naysayers were talking about.
+% Palmer amaranth (pigweed) is the weed that is best at evolving to beat pesticides. It _is_ edible itself... the solution seems obvious. Though: “We have this plant that’s kicking our butt. How can we get it on our side? Of course, we’re going to try and grow it for a food crop — then it’s not going to grow.”
+
 
 @article{preston2021eusocialferns,  
   Author={Preston, Elizabeth},  
