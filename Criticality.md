@@ -1620,6 +1620,9 @@ mechanisms acting for the downward transport, the seafloor beneath this Arctic s
   category={Criticality, plastic, tote bags}  
 }  
 % This article mentions but doesn't address the fact that plastic bags are forever though. It is important to understand the carbon differences, of course, but there's other kinds of polution than carbon. (Same problem with the arguments for nuclear power.)  
+% See also: \url{https://www.nytimes.com/2021/08/24/style/cotton-totes-climate-crisis.html}
+% Which claims each cotton tote must be used 20,000 times. Though overall it's a terrible article ending with the quote, "we end up in an environmental what-about-ism that leaves consumers with the idea that there is no solution" --- and then never addresses how that isn't exactly what we have.
+  
   
 @article{editorsjacobin2014,  
   Author={Editors},  
