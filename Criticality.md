@@ -6,6 +6,20 @@ title: Criticality
 --------------------------------------------------------------------------------
 
 
+@article{cepelewicz2021brain,  
+  Author={Cepelewicz, Jordana},  
+  url={https://www.quantamagazine.org/mental-phenomena-dont-map-into-the-brain-as-expected-20210824/},  
+  Title={The Brain Doesn’t Think the Way You Think It Does},  
+  journal={Quanta Magazine},  
+  date={2021-08-24},  
+  comment={Neuroscientists have traditionally broken brain function into different physical areas of the brain. But the more they study the brain the more they learn that complex overlap permeates the system --- to the extent that any notion that notion that different parts of the brain are responsible for different fuctions is _almost_ meaningless. 'Almost' because there's just enough to make the language describing it that way still vaguely useful for some scientists --- if it isn't also holding back the quality of research.},  
+  category={Criticality, Health, neuroscience, brains, emotions, perception}  
+}  
+% The article isn't written with this focus, but this can also be understood as a crisis of language: we don't have the words that describe how the brain functions at all, and the words we do have describe our experience of brain function, but are potentially preventing us from actually understanding how it works.  
+% David Brooks cites this article with excitement, pointint out how much there is still to learn. But that is grounded in a faith that we _could_ learn it. It's possible that it, and always will be, simply beyond us. A critical pessimist could read this and point out how meaningless science and research is, that we more or less wasted the last hundred years of effort on understanding the brain, and there's a strong potential we could waste the next hundred years of effort as well.
+% The article skews closer to this perspective -- it is essentially pointing out that what we know about the brain right now is nearly useless -- but doesn't come at it with quite the negative tone that it certainly could have given the evidence and the material covered.
+
+
 @article{howe2021icecream,  
   Author={Howe, Ben Ryder},  
   url={https://www.nytimes.com/2021/08/13/business/ice-cream-premium-competition.html},  
