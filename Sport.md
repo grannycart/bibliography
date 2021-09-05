@@ -6,6 +6,17 @@ title: Sport
 --------------------------------------------------------------------------------
 
 
+@article{futterman2021tennis,  
+  Author={Futterman, Matthew},  
+  url={https://www.nytimes.com/2021/09/04/sports/tennis/us-open-naomi-osaka.html},  
+  Title={Why Does Playing Tennis Make So Many Pros Miserable?},  
+  journal={The New York Times},  
+  date={2021-08-04},  
+  comment={Professional tennis players often reach a point of break down and sometimes quit the sport. This is from the grueling long hours and days, the repetition, the lack of change of environment while stuck on a court every day, the lack of interaction with other people, and the sheer the lonliness of playing tennis.},  
+  category={Sport, Criticality, tennis}  
+}  
+
+
 @article{smith2021soccer,  
   Author={Smith, Rory},  
   url={https://www.nytimes.com/2021/08/12/sports/soccer/soccer-football-transfermarkt.html},  
