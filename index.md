@@ -44,6 +44,15 @@ This is a bibliography of everything I've ever read that has any kind of resonan
 ## Why this formatting
 Because it lets me pull the entries as bibtex. Long-term viability, etc.
 
+--------------------------------------------------------------------------------
+## A caveat
+Most notes in these entries were drafted without revision, or
+potentially even very much thought. They may be rough, nonsensical,
+unfinished, stupid or offensive. They are only intended to remind
+myself of ideas any particular article may have spawned for me. They
+should not be understood as reflective of any particular opinion or
+value of mine or anyone else's.
+
 
 --------------------------------------------------------------------------------
 ###### Blank example 
