@@ -6,6 +6,20 @@ title: Urbanism
 
 --------------------------------------------------------------------------------
   
+  
+  
+@article{williamson2021cbas,  
+  Author={Williamson Alex},  
+  url={https://shelterforce.org/2021/08/31/which-community-benefits-agreements-really-delivered/?utm_source=sfweekly&utm_medium=email&utm_campaign=090621},  
+  Title={Which Community Benefits Agreements Really Delivered?},  
+  journal={Shelterforce},  
+  date={2021-08-31},  
+  comment={A rundown and review of the effectiveness of CBAs, including detailed coverage of the results of Atlantic Yards where it turned out that Ratner had been basically funding the community organization side of the CBA agreement in order to make it look like he had community buy-in. Virtually nothing remains of the community organizations that signed the Atlantic Yards CBA, very few CBA goals were met, and there is no one to enforce the ones that weren't.},  
+  category={Criticality, Urbanis, Housing, community benefits agreements}  
+}  
+% Also mentioned in here is that "Atlantic Yards" was rebranded "Pacific Park" in 2014. I cannot imagine anything more Orwellian that they might have chosen. I don't know how I missed it when that happened.  
+  
+  
 @article{gebeoff2021census,  
   Author={Gebeloff, Robert},  
   url={https://www.nytimes.com/2021/05/04/upshot/census-new-york-surprise.html},  
