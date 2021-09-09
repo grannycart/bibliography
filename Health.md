@@ -385,7 +385,8 @@ category = {Health, Criticality, sleep, college}
 % The science does pretty strongly suggest there is SOME kind of change to mothers' thinking because of pregnancy. Assuming that's a GOOD thing because you want it to be is bad science. Also assuming that the changes which may have been good in the context of cavewomen (increased vigilance about threats for example) might not be something that in the context of modern culture people actually want to gain in exchange for potentially lowered memory and quickness of rational thinking.  
 % See also this article about current science on mommy brain: \url{https://www.nytimes.com/2016/12/19/health/pregnancy-brain-change.html}  
 % Which DOES find brain matter loss during pregnancy --- though this is not an indicator of declining function, and may just be an indicator of increased brain plasticity.  
-% While if found CLEAR evidence of brain change in mothers during pregnancy, it did NOT find any evidence of brain change in fathers.  
+% While it found CLEAR evidence of brain change in mothers during pregnancy, it did NOT find any evidence of brain change in fathers.  
+% See more updated research here: \url{https://www.nytimes.com/2020/05/05/parenting/mommy-brain-science.html}
   
   
 @article{teynolds2018immunesystem,  
