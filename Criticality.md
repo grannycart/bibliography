@@ -2322,6 +2322,8 @@ mechanisms acting for the downward transport, the seafloor beneath this Arctic s
   comment={About the battle to solve the Poincare conjecture. The story of which bears an uncanny resemblance to the documentary King of Kong. Do nerds at all levels form the same bizarrely warped social hierarchies?},  
   category = {Science, maths, nerds}  
 }  
+% See Wikipedia article for the controversy surrounding the story the article tells: \url{https://en.wikipedia.org/wiki/Manifold_Destiny}  
+  
   
 @article{dickeytime,  
   Author={Dickey, Colin},  
@@ -2332,6 +2334,7 @@ mechanisms acting for the downward transport, the seafloor beneath this Arctic s
   comment = {About the history of calendars, and how we march towards the apocalypse.},  
   category = {time, calendars}  
 }  
+  
   
 @article{steinem1983playboy,  
   title={I was a Playboy bunny},  
