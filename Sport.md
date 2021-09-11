@@ -6,6 +6,18 @@ title: Sport
 --------------------------------------------------------------------------------
 
 
+@article{reynolds2021banana,  
+  Author={Reynolds, Gretchen},  
+  url={https://www.nytimes.com/2018/04/04/well/move/banana-sports-drinks-exercise-workout-carbs.html},  
+  Title={Bananas vs. Sports Drinks? Bananas Win in Study},  
+  journal={The New York Times},  
+  date={2018-08-04},  
+  comment={Bananas provide critical sugar-carbs during a workout equivalent to a sports drink. But they also provide anti-inflammatory properties that sports drinks do not have.},  
+  category={Sport, cycling, banana, sports drinks, Criticality}  
+}  
+% Not mentioned in article: also useful but not-necessary-during-exercise fiber. But no salt.
+% Banana might be the perfect food to eat just as you are finishing a workout?
+
 @article{futterman2021tennis,  
   Author={Futterman, Matthew},  
   url={https://www.nytimes.com/2021/09/04/sports/tennis/us-open-naomi-osaka.html},  
