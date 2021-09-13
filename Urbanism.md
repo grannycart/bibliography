@@ -7,6 +7,16 @@ title: Urbanism
 --------------------------------------------------------------------------------
   
   
+@article{simon2021omar,  
+  Author={Simon, David},  
+  url={https://www.nytimes.com/2021/09/12/opinion/michael-k-williams-david-simon-the-wire.html},  
+  Title={The Question Michael K. Williams Asked Me Before Every Season of ‘The Wire’},  
+  journal={The New York Times},  
+  date={2021-09-12},  
+  comment={A eulogy for Omar by David Simon. Pretty much everything that ever needed to be said about cities is wrapped up in here.},  
+  category={Urbanism, Criticality, Music, the wire}  
+}  
+  
   
 @article{williamson2021cbas,  
   Author={Williamson Alex},  
