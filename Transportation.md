@@ -5,6 +5,18 @@ title: Transportation
 
 --------------------------------------------------------------------------------
 
+@article{tabuchi2021jetfuel,  
+  Author={Tabuchi, Hiroko},  
+  url={https://www.nytimes.com/2021/09/13/climate/sustainable-jet-fuel-biden.html},  
+  Title={Biden Outlines a Plan for Cleaner Jet Fuel. But How Clean Would It Be?},  
+  journal={The New York Times},  
+  date={2021-09-13},  
+  comment={Bio-fuels, when the full life-cycle of creating them, have been well-documented as creating just as much greenhouse gas as fossil fuels. Electrification is not a serious option for airplanes. There is no real solution except to fly much less.},  
+  category={Transportation, Criticality, air travel, airplanes, jet fuel}  
+}  
+% There is no future for air travel if we ever take climate change seriously.  
+% There is simply no way to push a plane through the air without using massive amounts of power.  
+% There's no magic way to beat that.  
   
 @article{dreilinger2005horsebike,  
   Author={Dreilinger, Danielle},  
