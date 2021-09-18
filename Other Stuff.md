@@ -5,6 +5,22 @@ title: Other Stuff
 
 --------------------------------------------------------------------------------
 
+
+@article{bergman2021assassination,  
+  Author={Bergman, Ronen and Fassihi Farnaz},  
+  url={https://www.nytimes.com/2021/09/18/world/middleeast/iran-nuclear-fakhrizadeh-assassination-israel.html},  
+  Title={The Scientist and the A.I.-Assisted, Remote-Control Killing Machine},  
+  journal={The New York Times},  
+  date={2021-09-18},  
+  comment={The undisputedly fascinating (and well-told) story of an Israeli assassination of an Iranian nuclear weapons scientist using a remote-controled AI enhanced machine gun.},  
+  category={Politics, Other Stuff, superscience, ai}  
+}  
+% The Times writes this story as if this presages the future of warfare. But the real lesson is an old one: well-funded states can pull off nearly-unbelievable operations with sci-fi qualities if they have enough reason to do it.  
+% Reading between the details, what you learn is that this was a _very_ specific circumstance: if the guy had ridden in the back seat of an armored car like most top officials, it woud not have been possible. In other words, old-school protections would have vastly outperformed fancy modern techniques. That does not seem like it will change any time soon.  
+% Also, the article makes it sound like putting a 1-ton machine gun in place is easier than just flying in a drone. This is clearly not true, and in most cases governments will surely fall back to the far simpler operation of using a drone.  
+% What this really is is just the modern equivalent to the old Casto exploding cigar or operation Azorian: it's crazy stuff, and a good story, but in the long run will remain an extremely marginal (and complex, and expensive) option compared to people who want to kill the traditional way with an AK-47 blasting lead everywhere.  
+
+
 @misc{lovecraft1927colour,  
   Author={Lovecraft, H.P.},  
   Howpublished={\url{https://repositorio.ufsc.br/bitstream/handle/123456789/163740/H.%20P.%20Lovecraft%20-The%20Colour%20out%20of%20Space.pdf}},  
