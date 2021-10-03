@@ -30,6 +30,8 @@ title: Long Entries
 % Page 468: Phyllis Painter lived in a place where she could take the board off in the basement and see the spring for which Spring Street was named.  
 % Page 692: Wealthy homeowners are doomed to spend eternity worrying about whether the value of the homes they used to live in was rising or falling. NIMBY protesters are doomed to spend eternity fretting about neighborhood change and unable to do anything about it.  
 % Page 693: those who were concerned with status in their mortal lives fail to make it to the upper levels of the afterlife.  There's no rule about who can get into the afterlife, people do it to themselves. People fail to move to the afterlife because they feel either like they are too good for most people, or not good enough. Those who can't be comfortable with the masses are those who can't bring themselves to go.  
+% Page 838: Alma improves her childhood vision problems by _refusing_ to wear eyeglasses
+% Pages 835-839: Descriptions of (the real) Ogden Whitney's amazing _Herbie_ comic character.
   
   
 @book{holldobler1990ants,  
