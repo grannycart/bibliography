@@ -5,6 +5,18 @@ title: Housing
 
 --------------------------------------------------------------------------------
   
+  
+@article{dougherty2021cahousing,  
+  Author={Dougherty, Conor},  
+  url={https://www.nytimes.com/2021/10/08/business/economy/california-housing.html},  
+  Title={Where the Suburbs End},  
+  journal={The New York Times},  
+  date={2021-10-08},  
+  comment={The rules in California housing are changing to allow more density. In particular the ease of building accessory dwelling units (ADUs/granny flats), is allowing more units to be added quickly to single-family lots without nearly the controversy that multi-family buildings draw. "the product of a political bargain that says sprawl can sprawl and downtowns can rise but single-family neighborhoods are sealed off from growth by the cudgel of zoning rules that dictate what can be built where. The deal is almost never stated so plainly, but it is the foundation of local politics in virtually every U.S. city and cuts to the core of the country’s deepest class and racial conflicts."}
+  category={Housing, california}  
+}  
+  
+  
 @article{shuetz2020housingcosts,  
   Author={Shuetz, Jenny},  
   url={https://www.brookings.edu/research/whos-to-blame-for-high-housing-costs-its-more-complicated-than-you-think/#cancel},  
