@@ -32,6 +32,8 @@ title: Long Entries
 % Page 693: those who were concerned with status in their mortal lives fail to make it to the upper levels of the afterlife.  There's no rule about who can get into the afterlife, people do it to themselves. People fail to move to the afterlife because they feel either like they are too good for most people, or not good enough. Those who can't be comfortable with the masses are those who can't bring themselves to go.  
 % Page 838: Alma improves her childhood vision problems by _refusing_ to wear eyeglasses
 % Pages 835-839: Descriptions of (the real) Ogden Whitney's amazing _Herbie_ comic character.
+% Page 883: Alma watches _The Wire_ then wakes up at night with a vision from it.
+% Page 884: Here begins a 50-page chapter with the central character being Lucia Joyce, James Joyce's daughter, and written entirely in the style of Finnegan's Wake. Every word has more than one meaning, something I always say about Watchmen, but in this case it is literally true.
   
   
 @book{holldobler1990ants,  
