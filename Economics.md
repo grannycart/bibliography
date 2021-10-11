@@ -6,6 +6,17 @@ title: Economics
 --------------------------------------------------------------------------------
   
   
+@article{shaxson2021londonmoney,  
+  Author={Shaxson, Nicholas},  
+  url={https://www.nytimes.com/2021/10/11/opinion/pandora-papers-britain-london.html},  
+  Title={The City of London Is Hiding the World’s Stolen Money},  
+  journal={The New York Times},  
+  date={2021-10-11},  
+  comment={Most of the world's stolen and hidden money is processed, lawyered, passed through, and stashed in the city of London and connected "offshore" elements. The newly released Pandora Papers show that there is between 6 and 36 _trillion_ dollars hidden in tax havens, and London is the biggest of them all. Tax havens are used to avoid paying something like 245 to 600 _billion_ dollars per year.},  
+  category={Economics, dark money, pandora papers, london, tax haves, offshore finance}  
+}  
+  
+  
 @article{krugman2021renewables,  
   Author={Krugman, Paul},  
   url={https://www.nytimes.com/2021/18/17/opinion/us-obama-renewable-energy.html},  
