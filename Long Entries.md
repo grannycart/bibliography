@@ -33,7 +33,9 @@ title: Long Entries
 % Page 838: Alma improves her childhood vision problems by _refusing_ to wear eyeglasses
 % Pages 835-839: Descriptions of (the real) Ogden Whitney's amazing _Herbie_ comic character.
 % Page 883: Alma watches _The Wire_ then wakes up at night with a vision from it.
-% Page 884: Here begins a 50-page chapter with the central character being Lucia Joyce, James Joyce's daughter, and written entirely in the style of Finnegan's Wake. Every word has more than one meaning, something I always say about Watchmen, but in this case it is literally true.
+% Page 884: Here begins a 50-page chapter with the central character being Lucia Joyce, James Joyce's daughter, and written entirely in the style of Finnegan's Wake. Every word has more than one meaning, something I always say about Watchmen, but in this case it is literally true. It's almost impenetrable for the first 10 pages or so, but then it eases up and is easier reading. I think Moore almost can't even help but make his work more accessible.
+% Page 895: A reference to Bill Drummond and burning a million pounds. Bill Drummond grew up in Northamptonshire.
+
   
   
 @book{holldobler1990ants,  
