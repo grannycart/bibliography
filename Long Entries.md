@@ -30,12 +30,13 @@ title: Long Entries
 % Page 468: Phyllis Painter lived in a place where she could take the board off in the basement and see the spring for which Spring Street was named.  
 % Page 692: Wealthy homeowners are doomed to spend eternity worrying about whether the value of the homes they used to live in was rising or falling. NIMBY protesters are doomed to spend eternity fretting about neighborhood change and unable to do anything about it.  
 % Page 693: those who were concerned with status in their mortal lives fail to make it to the upper levels of the afterlife.  There's no rule about who can get into the afterlife, people do it to themselves. People fail to move to the afterlife because they feel either like they are too good for most people, or not good enough. Those who can't be comfortable with the masses are those who can't bring themselves to go.  
-% Page 838: Alma improves her childhood vision problems by _refusing_ to wear eyeglasses
-% Pages 835-839: Descriptions of (the real) Ogden Whitney's amazing _Herbie_ comic character.
-% Page 883: Alma watches _The Wire_ then wakes up at night with a vision from it.
-% Page 884: Here begins a 50-page chapter with the central character being Lucia Joyce, James Joyce's daughter, and written entirely in the style of Finnegan's Wake. Every word has more than one meaning, something I always say about Watchmen, but in this case it is literally true. It's almost impenetrable for the first 10 pages or so, but then it eases up and is easier reading. I think Moore almost can't even help but make his work more accessible.
-% Page 895: A reference to Bill Drummond and burning a million pounds. Bill Drummond grew up in Northamptonshire.
-
+% Page 838: Alma improves her childhood vision problems by _refusing_ to wear eyeglasses  
+% Pages 835-839: Descriptions of (the real) Ogden Whitney's amazing _Herbie_ comic character.  
+% Page 883: Alma watches _The Wire_ then wakes up at night with a vision from it.  
+% Page 884: Here begins a 50-page chapter with the central character being Lucia Joyce, James Joyce's daughter, and written entirely in the style of Finnegan's Wake. Every word has more than one meaning, something I always say about Watchmen, but in this case it is literally true. It's almost impenetrable for the first 10 pages or so, but then it eases up and is easier reading. I think Moore almost can't even help but make his work more accessible.  
+% Page 895: A reference to Bill Drummond and burning a million pounds. Bill Drummond grew up in Northamptonshire.  
+% Page 929: A lesbian sex scene represents the fusion of the avante-garde and popular work for the betterment of everyone.  
+  
   
   
 @book{holldobler1990ants,  
