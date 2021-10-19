@@ -5,6 +5,18 @@ title: Transportation
 
 --------------------------------------------------------------------------------
 
+
+@article{mele2021sirens,  
+  Author={Mele, Christopher},  
+  url={https://www.nytimes.com/2021/10/19/us/sirens-noise-ambulances-fire-department-police.html},  
+  Title={Sirens: Loud, Ineffective and Risky, Experts Say},  
+  journal={The New York Times},  
+  date={2021-10-19},  
+  comment={Sirens on emergency vehicles cause more injuries than they prevent. The time difference between using a siren and not was found to be 26 seconds. In modern medicine, only a small percentage of trips require as-fast-as-possible delivery to the hospital. Emergency drivers are more likely to use risky behavior with sirens on. Basically the only reason to use sirens is in rural areas because seeing emergency vehicles "running hot" helps recruit volunteers to volunteer emergency services.},  
+  category={Transportation, Criticality, emergency vehicles, sirens, fire department, police, ambulances}  
+}  
+
+
 @article{tabuchi2021jetfuel,  
   Author={Tabuchi, Hiroko},  
   url={https://www.nytimes.com/2021/09/13/climate/sustainable-jet-fuel-biden.html},  
