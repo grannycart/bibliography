@@ -5,6 +5,18 @@ title: Science
 
 --------------------------------------------------------------------------------
 
+
+@article{rabin2021pigkidney,  
+  Author={Rabin, Roni Caryn},  
+  url={https://www.nytimes.com/2021/10/19/health/kidney-transplant-pig-human.html},  
+  Title={In a First, Surgeons Attached a Pig Kidney to a Human — and It Worked},  
+  journal={The New York Times},  
+  date={2021-10-19},  
+  comment={Doctors attached a pig kidney to a brain-dead human's leg --- and it started processing urine. Also includes good history of xenotransplants.},  
+  category={Science, Health, superscience, transplants, xenotransplants, pigs, vegans}  
+}  
+  
+  
 @article{brown2021superweeds,  
   Author={Brown, Claire},  
   url={https://www.nytimes.com/2021/08/18/magazine/superweeds-monsanto.html},  
