@@ -6,6 +6,18 @@ title: Humanity
 --------------------------------------------------------------------------------
   
   
+  
+@article{graeber2021humanitypast,  
+  Author={Graeber, David and Wengrow, David},  
+  url={https://www.theguardian.com/news/2021/oct/19/unfreezing-the-ice-age-the-truth-about-humanitys-deep-past},  
+  Title={Unfreezing the ice age: the truth about humanity’s deep past},  
+  journal={The Guardian},  
+  date={2021-10-19},  
+  comment={Humanity's deep past is basically so convoluted and complex that the society of it is non-homogeneous and unknowable, at least down to 40k years ago. "If we could travel back in time, this remote past would probably strike us as something more akin to a world inhabited by hobbits, giants and elves than anything we have direct experience of today, or in the more recent past." "What all this brings home is just how radically different the social and physical world of our remote ancestors would have seemed to us – and this would have been true at least down to about 40,000BC. In other words, there is no “original” form of human society. Searching for one can only be a matter of myth-making." "Anthropologists who spend years talking to indigenous people in their own languages, and watching them argue with one another, tend to be well aware that even those who make their living hunting elephants or gathering lotus buds are just as sceptical, imaginative, thoughtful and capable of critical analysis as those who make their living by operating tractors, managing restaurants or chairing university departments." "our remote ancestors were behaving much like Nambikwara. They shifted back and forth between alternative social arrangements, building monuments and then closing them down again, allowing the rise of authoritarian structures during certain times of year then dismantling them. The same individual could experience life in what looks to us sometimes like a band, sometimes a tribe, and sometimes like something with at least some of the characteristics we now identify with states." "In truth, this flexibility, and potential for political self-consciousness, was never entirely lost. Seasonality is still with us – even if it is a pale shadow of its former self. In the Christian world, for instance, there is still the midwinter “holiday season” in which values and forms of organisation do, to a limited degree, reverse themselves: the same media and advertisers who for most of the year peddle rabid consumerist individualism suddenly start announcing that social relations are what’s really important, and that to give is better than to receive."},  
+  category={Humanity, Politics, Criticality}  
+}  
+  
+  
 @article{markham2021crows,  
   Author={Markham, Lauren},  
   url={https://harpers.org/archive/2021/04/the-crow-whisperer-animal-communicators/},  
