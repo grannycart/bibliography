@@ -6,6 +6,19 @@ title: Transportation
 --------------------------------------------------------------------------------
 
 
+@article{harris2021etrucks,  
+  Author={Harris, Danny},  
+  url={https://www.bloomberg.com/news/articles/2021-10-07/electric-trucks-won-t-save-us?srnd=citylab&mc_cid=31a7414f90&mc_eid=48da9d8c97},  
+  Title={The Problem With Electric Trucks},  
+  journal={Bloomberg City lab},  
+  date={2021-10-07},  
+  comment={Electric trucks produce fewer emissions, but are much heavier, more powerful, and deadly than their conventional engine counterparts. "the leading cause of death for children and young people around the world. In the U.S., Black and Indigenous people are especially likely to be killed in traffic crashes, as are older adults and bicyclists." The most bloated recent version of the electric Hummer weighs nearly 10,000 pounds. It's too heavy by 50 percent to cross the brooklyn bridge. The average weight of vehicles involved in fatal crashes increased by 11 percent in the last 20 years. The Ford F-150 Lightning weighs 35 percent more than the gas-powered version.},  
+  category={Criticality, Transportation, electric vehicles, pickup trucks, suvs}  
+}  
+% The problem, of course, isn't the availability of these things, it's the popularity. If it were just a small niche of enthusiasts who wanted a big vehicle, would it really matter? But when the F150 continues to be the most popular vehicle in the country, when SUVs just get bigger and more popular (and less and less used off-road), and when there is no longer the check of gas prices on keeping the size of vehicles down, then these become extremely troubling trends.
+
+
+
 @article{mele2021sirens,  
   Author={Mele, Christopher},  
   url={https://www.nytimes.com/2021/10/19/us/sirens-noise-ambulances-fire-department-police.html},  
