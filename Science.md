@@ -364,6 +364,7 @@ category = {Science, chickens, fossils}
 % \url{https://www.nytimes.com/2020/04/13/style/why-weird-dreams-coronavirus.html}  
 % And yet more long-form article from the Times that has _zero_ new information or understanding of dreams in it:
 % \url{https://www.nytimes.com/2021/11/03/magazine/pandemic-dreams.html}
+% And still there is no proposed explanation for dreaming from science that even comes close to explaining why so many people have dreams about tsunamis or teeth falling out or demons outside the windo or other common motifs that are basically NEVER experienced in real life, but show up in dreams all the time.
   
   
   
