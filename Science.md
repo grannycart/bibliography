@@ -347,7 +347,7 @@ category = {Science, chickens, fossils}
 }  
   
   
-@article{vanderlinden2011dreams,  
+@article{[vanderlinden2011dreams](vanderlinden2011dreams),  
   Author={van der Linden, Sander},  
   url={https://www.scientificamerican.com/article/the-science-behind-dreaming/},  
   Title={The Science Behind Dreaming},  
@@ -362,6 +362,8 @@ category = {Science, chickens, fossils}
 % \url{http://drdouglasthomas.com/DT_images/WRITING_Dreams&EBP.pdf}  
 % See NY Times article on dreaming, with link to increased prevalence of weird dreams, and tips on programming your dreams:  
 % \url{https://www.nytimes.com/2020/04/13/style/why-weird-dreams-coronavirus.html}  
+% And yet more long-form article from the Times that has _zero_ new information or understanding of dreams in it:
+% \url{https://www.nytimes.com/2021/11/03/magazine/pandemic-dreams.html}
   
   
   
