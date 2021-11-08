@@ -1543,8 +1543,23 @@ How could I achieve that? Heroine, maybe. But perhaps it's the ability to record
   journal={The New York Times},  
   date={2016-05-27},  
   comment = {NYU for years dumped disected bodies in the Hart Island potter's field. They no longer do, but many see this as an indicator of the problems with body donation in general. ``the existence of such a long-undetected policy at a major institution underscores the lack of transparency and oversight in donation operations. Nationally, such operations include large for-profit companies supplying a booming demand for human tissue in science and industry, as well as academic programs teaching anatomy to medical students.'' ``Every time you turn around you’re going to find some people who are taking advantage of their access to the dead, because they know the dead are not going to talk.''},  
-  category = {Health, cadavers, organ donation, medical science, dissection, potter's fields, hart island, nyu, anatomy}  
+  category = {Health, cadavers, medical science, dissection, potter's fields, hart island, nyu, anatomy}  
 }  
+  
+  
+@article{rabin2021organs,  
+  Author={Rabin, Roni Caryn},  
+  url={https://www.nytimes.com/2021/11/07/health/covid-organ-transplants.html},  
+  Title={She Died With Long Covid. Should Her Organs Have Been Donated?},  
+  journal={The New York Times},  
+  date={2021-11-07},  
+  comment={It's not clear that organs donated for transplant are being checked that they are covid positive before they are put into people.},  
+  category={Health, Criticality, covid, organ donors, organ donation}  
+}  
+% The thing that really jumps out at me in this article is a single line that the family was not allowed to donate the body to science because the deceeased had indicated they wanted to be an organ   donor.  
+% How much power do you lose by being an organ donor?  
+% Was the family being targeted by corpse traders though? (See cheney2004cadavers)  
+
   
 @article{cheney2004cadavers,  
   Author={Cheney, Annie},  
@@ -1554,9 +1569,15 @@ How could I achieve that? Heroine, maybe. But perhaps it's the ability to record
   year={2004},  
   month={03},  
   comment={Describes the corrupts practices of handling donated bodies, whereby doctors pay large amounts of money to shady companies to practice on corpses donated to "medical science".},  
-  category={Health, cadavers, organ donation, medical scienc}  
+  category={Health, Criticality, cadavers, medical science, death}  
 }  
-% _pretty_ sure this is the right article, I don't actually have access to it at the moment...  
+% "no one keeps track of what happens to corpses before they reach their final destinations"  
+% "The FDA regulates tissue banks that procure and process cadaveric material for transplat into living people, but no one regulates trade in cadavers. No one knows exactly how many bodies are repurposed along the way to the grave"  
+% "Corpses enter the supply chain as donations. Families have only the vaguest notion about how the bodies will be used. They are almost never informed that the cadaver might be sold off to middlemen or parceled out to surgical equipment companies. None of them imagines their relative's torso will end up taped to a gurney at a Trump resort."  
+% The law prohibits profiting from the sale of human tissue, but those who deal with it are allowed to recover their costs. Dealers hide profits in inflated transport and handling fees.  
+% University donor programs make up a very small percentage of suppliers in body trade because they preserve their bodies in strong chemicals. Post-graduate commercial services prefer more lifelike parts. The majority of suppliers are "tissue banks." New York State is the only state that licences the companies, but does not routinely inspect them.   
+% The corpse traders focus on people who come in asking about the cost of funeral services. To those poor people they offer a deal where they won't have to pay for cremation or burial if they donate the body.
+% (It seems that organ donation --- for living transplants --- is kind of a whole other thing.)
   
   
 @article{mukherjeeepigenticsnewyorker2016,  

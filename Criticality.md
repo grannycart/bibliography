@@ -6,6 +6,19 @@ title: Criticality
 --------------------------------------------------------------------------------
 
 
+@article{sclossberg2021coffeeclimate,  
+  Author={Schlossberg, Tatiana},  
+  url={https://www.nytimes.com/2021/10/31/business/coffee-climate-change.html},  
+  Title={Coffee and Climate Have a Complicated Relationship},  
+  journal={The New York Times},  
+  date={2021-10-31},  
+  comment={Coffee takes a lot of water to grow. Climate change is going to make coffee harder to grow and more expensive. Some people are trying to engineer ways around that.},  
+  category={Criticality, coffee, climate change}  
+}  
+% There is a quote in this article that "coffee is one of the main victims and contributors to climate change,” she said, citing the energy and water required to grow, transport and brew a cup of coffee."
+% This makes it sound like it's possible coffee requires stupid amount of energy to create, and probably we should all reduce our coffee consumption --- if we were serious about climage change. I have never seen anyone suggest that.
+
+
 @article{cepelewicz2021brain,  
   Author={Cepelewicz, Jordana},  
   url={https://www.quantamagazine.org/mental-phenomena-dont-map-into-the-brain-as-expected-20210824/},  
