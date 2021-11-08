@@ -1021,6 +1021,8 @@ url="http://dx.doi.org/10.1007/s10797-008-9082-z"
   category = {moonies, Economics, sun myung moon, unification church, cults, sushi}  
 }  
 % It would be interesting to see an update to this story. Even the wikipedia references to the Moonie control of the sushi industry are ten years old and link to this story alone.  
+% Apparently even though this story was clearly told in this article from 2006, the NY Times felt ok saying it was a story still untold: \url{http://www.nytimes.com/interactive/2021/11/05/magazine/sushi-us.html}  
+% A pretty good example of how useless "interactive" crap is. The Chi Trib story is _way_ better.
   
   
   
