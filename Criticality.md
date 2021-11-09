@@ -6,6 +6,25 @@ title: Criticality
 --------------------------------------------------------------------------------
 
 
+
+@article{requarth2021riskcompensation,  
+  Author={Requarth, Tim},  
+  url={https://slate.com/technology/2021/11/risk-compensation-debunked-masks-rapid-tests-vaccines-safety.html},  
+  Title={Our Worst Idea About “Safety”},  
+  journal={Slate},  
+  date={2021-11-07},  
+  comment={Risk compensation (that is, if you make people feel safer, they take bigger risks) might exists in small moves humans make with their behavior, but overall it is never a serious factor  in safety. eg, seat belts and motorcycle helmets clearly save lives despite arguments that they would cause people to take bigger risks. Much of the scientific studies that supported risk compensation were deeply flawed. Oddly, the article argues both that experts use risk compensation as a concern (based on the idea that people are too dumb to adopt safe behaviors without taking riskier behaviors elsewhere -- eg masks in covid) and at the same time argues that the concept sticks around because it aligns with libertarian political ideology. Also anti-lock brakes had no overall effect on     reducing crashes (may or may not be related to risk compensation).},  
+  category={Criticality, Transportation, Health, risk compensation, bicycle helmets, motorcycle helmets, seatbelts, covid masks}  
+}  
+% So... the authoritarian experts are hesitating to recommend public safety moves because they are libertarians? Something doesn't jibe there.  
+% While the argument that risk compensation is basically an unsound theory not well supported by science and maintained by libertarian ideologies is in my mind a very strong position, there are actually a number of problems with this article:  
+% The covid mask thing, I think, is MUCH more strongly explained by the complete idiotic misunderstanding of how respiratory diseases spread, where experts were ignoring their own science that they spread through air circulation. (Linked to, but quickly blown over in the artifle.) Risk compensation about wearing masks might have been a small part of it, but that was because the experts were worried people would stop washing their hands --- which at the time they thought was much more of a problem. Now they know that's minor compared to filtering your breathing. It wasn't the risk compensation behind their flawed decision making, it was their ow entrenched idiocy.  
+% There's a lot going on in the world that _might_ be a more significant example of risk compensation: rugby players suffering far fewer injuries than much more heavily padded American football players; snowboarder deaths rising dramatically AFTER they all started wearing helmets. You could convince me these aren't risk compensation, per se, but _something_ crazy is going on.  
+% In situations where the risk is already very low, factors get complex fast. It might not be risk compensation, but I still believe its so much better for your health to ride a bicycle every day even if you wear no helmet that the health factors far outweigh the slightly increased risk of riding without a helmet. FOUR riders have died in the 100+ year history of the tour de france --- most of that without helmets and with some of the most dangerous road riding you could do.  
+% Overall, I'm entirely in favor of the core argument of this article. Particularly when you are talking about things that just so vastly improved safety there's no way risk compensation was _ever_ a factor, as in seatbelts, motorcycles helmets, and guardrails.  
+% But I'm going to be pissed when someone brings this up to argue for bicycle helmets with me.  
+
+
 @article{sclossberg2021coffeeclimate,  
   Author={Schlossberg, Tatiana},  
   url={https://www.nytimes.com/2021/10/31/business/coffee-climate-change.html},  

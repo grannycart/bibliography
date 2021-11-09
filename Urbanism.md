@@ -6,6 +6,17 @@ title: Urbanism
 
 --------------------------------------------------------------------------------
   
+@article{yuko2021bathrooms,  
+  Author={Yuko, Elizabeth},  
+  url={https://www.bloomberg.com/news/features/2021-11-05/why-american-cities-lost-their-public-bathrooms},  
+  Title={Where Did All the Public Bathrooms Go?},  
+  journal={Bloomberg CityLab},  
+  date={2021-11-05},  
+  comment={In the style of Urban Omnibus, extensively covers the history of public toilets, the (let's be honest, fairly obvious)  reasons for their decline, and the small hope for their future.},  
+  category={Urbanism, history, bathrooms, public toilets, nyc, pay toilets}  
+}  
+% No mention of my idea that the city should just pay Starbucks and other private bathroom locations around the city to allow the public to have access to their bathrooms, in a totally fucked-up but simple public-private partnership solution.
+  
   
 @article{simon2021omar,  
   Author={Simon, David},  
