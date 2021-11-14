@@ -5,6 +5,18 @@ title: Novels
 
 --------------------------------------------------------------------------------
 
+@book{christie1920mysterious,  
+  title={The Mysterious Affair at Styles},  
+  author={Christie, A.},  
+  isbn={9786257120449},  
+  url={https://books.google.com/books?id=WJSTzQEACAAJ},  
+  year={1920},  
+  publisher={E-Kitap Projesi \& Cheapest Books},   
+  comment={The twist is that the dark, gold-digging, evil-seeming husband that everyone suspects at the beginning is the one who did it.},  
+  category={Novels, mystery},  
+}  
+
+
 @book{wolfe1980island,  
   title={The Island of Doctor Death and Other Stories and Other Stories},  
   author={Wolfe, G.},  
@@ -217,7 +229,8 @@ title: Novels
   isbn={9798674536635},  
   url={https://books.google.com/books?id=DpPAzQEACAAJ},  
   year={2020},  
-  publisher={Independently Published}  
+  publisher={Independently Published},  
+  category={Novels, mystery}  
 }  
     
 @book{doyle1992adventures,  
@@ -227,7 +240,8 @@ title: Novels
   series={Classics Library},  
   url={https://books.google.com/books?id=oqkC3PTplRsC},  
   year={1992},  
-  publisher={Wordsworth}  
+  publisher={Wordsworth},  
+  category={Novels, mystery}  
 }  
   
 @book{doyle2012memoirs,  
@@ -237,7 +251,8 @@ title: Novels
   series={Dover Thrift Editions},  
   url={https://books.google.com/books?id=5s7FycWq59gC},  
   year={2012},  
-  publisher={Dover Publications}  
+  publisher={Dover Publications},  
+  category={Novels, mystery}  
 }  
   
 @book{doyle1902hound,  
@@ -245,7 +260,8 @@ title: Novels
   author={Doyle, A.C.},  
   url={https://books.google.com/books?id=5l8rUHN9STcC},  
   year={1902},  
-  publisher={Grosset \& Dunlap}  
+  publisher={Grosset \& Dunlap},   
+  category={Novels, mystery}  
 }  
   
 @book{doyle1905return,  
@@ -254,7 +270,8 @@ title: Novels
   lccn={36029320},  
   url={https://books.google.com/books?id=SdYQAAAAYAAJ},  
   year={1905},  
-  publisher={A. Wessels Company}  
+  publisher={A. Wessels Company},   
+  category={Novels, mystery}  
 }  
 
 @book{doyle1993valley,  
@@ -265,7 +282,8 @@ title: Novels
   series={Oxford Sherlock Holmes},  
   url={https://books.google.com/books?id=0zT-rQEACAAJ},  
   year={1993},  
-  publisher={Oxford University Press}  
+  publisher={Oxford University Press},   
+  category={Novels, mystery}  
 }  
 % A Pinkerton agent goes undercover and breaks up a secret society of organized crime in a US coal town.  
   
@@ -276,7 +294,8 @@ title: Novels
   series={Standard Collection of British and American authors},  
   url={https://books.google.com/books?id=OHAoAAAAMAAJ},  
   year={1917},  
-  publisher={J. Murray}  
+  publisher={J. Murray},   
+  category={Novels, mystery}  
 }  
 % The Adventure of the Bruce-Partington Plans is the basis for the Sherlock BBC episode with the body found on the railroad tracks. It is a _really_ good Sherlock Holmes story, and in the original version the plans are for a secret submarine.  
    
