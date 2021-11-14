@@ -5,6 +5,18 @@ title: Music
 
 --------------------------------------------------------------------------------
 
+
+@article{yahr2016haggard,  
+  Author={Yahr, Emily},  
+  url={https://www.washingtonpost.com/news/arts-and-entertainment/wp/2016/04/08/merle-haggards-too-good-to-be-true-story-about-johnny-cash-it-really-happened/},  
+  Title={Merle Haggard's too-good-to-be-true story about Johnny Cash? It really happened.},  
+  journal={The Washington Post},  
+  date={2016-04-08},  
+  comment={Merle Haggard almost certainly did see Johnny Cash play while he was incarcerated at San Quentin. While it wasn't _the_ show made famous on the record, Johnny Cash's concert itinerary had him at San Quentin during the years Merle Haggard was incarcerated there.},  
+  category={Music, johnny cash, merle haggard, san quentin, prison}  
+}  
+
+
 @article{stephenson2020wendycarlos,  
   Author={Stephenson, Will},  
   url={https://harpers.org/archive/2020/10/the-well-tempered-synthesizer-wendy-carlos-amanda-swell/},  
