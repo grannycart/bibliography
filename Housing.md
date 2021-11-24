@@ -1207,6 +1207,7 @@ Unscrupulous Landlords Cheat NYC Tenants
   comment = {Turns out, economists almost universally agree that rent control measures are bad for housing. See Krugman's article: \url{http://www.nytimes.com/2000/06/07/opinion/reckonings-a-rent-affair.html} This article tries to defend rent control on the grounds that rent control is not about affordability, but neighborhood stability. It allows people to stay in the homes they have, rather than forcing them to move because they are under- or over-consuming housing. (Sounds like yet another place that traditional economics needs some tempering with behavioral economics.)},  
   category = {rent control, rent stabilization, economics}  
 }  
+% See also: \url{https://shelterforce.org/2021/11/15/minneapolis-st-paul-voters-say-yes-to-rent-stabilization/}  
   
 @article{davidsonretregulation2013,  
   Author={Davidson, Adam},  
