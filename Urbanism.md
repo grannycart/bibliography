@@ -6,6 +6,17 @@ title: Urbanism
 
 --------------------------------------------------------------------------------
   
+@article{vartabedian2021infrastructure,  
+  Author={Vartabedian, Ralph},  
+  url={https://www.nytimes.com/2021/11/28/us/infrastructure-megaprojects.html},  
+  Title={Years of Delays, Billions in Overruns: The Dismal History of Big Infrastructure},  
+  journal={The New York Times},  
+  date={2021-11-28},  
+  comment={"Agencies have less internal technical talent. Legal challenges have grown stronger under state and federal environmental laws. And spending on infrastructure as a fraction of the economy has shrunk, giving local agencies less experience in modern practices." "Bent Flyvbjerg, a professor at the University of Oxford who has studied scores of projects around the world, found that 92 percent of them overran their original cost and schedule estimates, often by large margins — in part, he said, because cost estimates are “systematically and significantly deceptive.”" The U.S. used to be ranked first in the world in the quality of its infrastructure. Now it is ranked 13th. "“If people knew the real cost from the start, nothing would ever be approved. The idea is to get going. Start digging a hole and make it so big there’s no alternative to coming up with the money to fill it in.”" "“All the major projects have cost and schedule issues,” he acknowledged. “The truth is these are very high-risk and difficult projects. Conditions change. It is impossible to estimate it accurately. That is naïve.”" "The environmental review process has become so complex, in part to defend against inevitable lawsuits, that neither state agencies nor federal departments can write and review the documents without teams of outside consultants."},  
+  category={Urbanism, Criticality, infrastructure, environmental review}  
+}  
+  
+ 
 @article{yuko2021bathrooms,  
   Author={Yuko, Elizabeth},  
   url={https://www.bloomberg.com/news/features/2021-11-05/why-american-cities-lost-their-public-bathrooms},  
