@@ -6,7 +6,17 @@ title: Criticality
 --------------------------------------------------------------------------------
 
 
-
+@article{szalal2021ww2,  
+  Author={Szalal, Jennifer},  
+  url={https://www.nytimes.com/2021/11/29/books/review-looking-for-good-war-elizabeth-samet.html},  
+  Title={‘Looking for the Good War’ Says Our Nostalgia for World War II Has Done Real Harm},  
+  journal={The New York Times},  
+  date={2021-11-29},  
+  comment={Review of new book by Elizabeth D. Samet that argues liberating jews was never a priority for the US in the war. "Why We Fight" was a series of propaganda films make by Frank Capra in the 1940s that made no mention of the Nazis exterminating the Jews, even though the American government knew of it as early as the summer of 1942. The US entered the war after Pearl Harbor and it remained a war of revenge and racisim focussed on the Japanese. "“Japanese were looked upon as something subhuman and repulsive,” the journalist Ernie Pyle wrote, “the way some people feel about cockroaches or mice.” Surveying the records of the era, Samet contrasts this dehumanization with the portrayal of European fascists, who were more typically described as “gangsters.”"},  
+  category={Criticality, history, nazis, wwii}  
+}  
+  
+  
 @article{requarth2021riskcompensation,  
   Author={Requarth, Tim},  
   url={https://slate.com/technology/2021/11/risk-compensation-debunked-masks-rapid-tests-vaccines-safety.html},  
