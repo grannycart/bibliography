@@ -6,6 +6,20 @@ title: Economics
 --------------------------------------------------------------------------------
   
   
+@article{tompkins2021globalpoverty,  
+  Author={Tompkins, Lucy},  
+  url={https://www.nytimes.com/2021/12/02/world/global-poverty-united-nations.html},  
+  Title={Extreme Poverty Has Been Sharply Cut. What Has Changed?},  
+  journal={The New York Times},  
+  date={2021-11-02},  
+  comment={"In 1990, about 36 percent of the global population — and nearly half of people in developing countries — lived on less than $1.25 a day, the World Bank’s definition of extreme poverty at the time. (It’s now $1.90 a day.) In 2000, United Nations member states pledged to cut extreme poverty worldwide — specifically to halve the proportion of people living in extreme poverty, from 1990 levels, by 2015. Bottom line: The U.N. goal was met. By 2015, the share of the world’s population living in extreme poverty fell to 12 percent from 36 percent in 1990, a steep decline in just two and a half decades. During a single generation, more than a billion people around the world climbed out of extreme poverty, surpassing the goal." Why? Some from debt forgiveness for impoverished countries, some from safety net programs, but most from China and Inda's fast-growing economies.},  
+  category={Economics, Criticality, global poverty, china}  
+}  
+% It's amazing to me that this article is so short and the topic so underreported. (Probably because the two big heroes of the subject are China and the UN.) The wins are dramatic, but far too complicated for such a short article.  
+% In China, it seems that a rising economic tide did indeed lift all boats. That's hardly a sustainable or repeatable model. (Except for once again reinforcing that manufacturing is the basis for wealth in a country, despite what any expert macro economist says.)  
+% And The World Bank estimates that social safety net programs are responsible for 36 percent of the global reduction in extreme poverty accounting for much of the reduction in poverty outside of China.  
+
+  
 @article{shaxson2021londonmoney,  
   Author={Shaxson, Nicholas},  
   url={https://www.nytimes.com/2021/10/11/opinion/pandora-papers-britain-london.html},  

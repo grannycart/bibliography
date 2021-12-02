@@ -6,6 +6,21 @@ title: Criticality
 --------------------------------------------------------------------------------
 
 
+@article{manjoo2021cars,  
+  Author={Manjoo, Farhad},  
+  url={https://www.nytimes.com/2021/12/01/opinion/smart-car-technology.html},  
+  Title={The Look of Cars Is Driving Me Out of My Mind},  
+  journal={The New York Times},  
+  date={2021-11-01},  
+  comment={Like phones, cars all look the same now and Farhad is upset about it.},  
+  category={Criticality, cars, design}  
+}  
+% What he doesn't address is that one possibility the reason cars all look the same is that they no longer function as identifiers of inndividualism. (At least not for anyone that who isn't a car enthusiast, though even among them it seems like they mostly lack the ability to choose a _cool_ car over one that provides a host of modern connected features.)   
+% Cars have become commodities, one is basically like the next. In some ways this just reflects the reality of cars: cars might have LOOKED cool and each was distinctive in the past, but in reality they all did the same thing. If you have an econobox, a clunker, or a supercar you all sat in the same traffic, you all went the same speed, and mostly nobody cared what you drove.   
+% If they all do the same thing on the outside, might as well focus on having a nice interior.  
+% And if all cars do the same thing, might as well make individual expression about the wardrobe, and just take uber.  
+
+
 @article{szalal2021ww2,  
   Author={Szalal, Jennifer},  
   url={https://www.nytimes.com/2021/11/29/books/review-looking-for-good-war-elizabeth-samet.html},  
