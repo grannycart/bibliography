@@ -5,6 +5,20 @@ title: Novels
 
 --------------------------------------------------------------------------------
 
+@book{christie1924poirot,
+  title={Poirot Investigates},
+  author={Christie, A.},
+  isbn={9780007265206},
+  series={Agatha Christie collection},
+  url={https://books.google.com/books?id=ejuVPwAACAAJ},
+  year={1924},
+  publisher={HarperCollins},  
+  comment={Short-story collection of Poirot stories ala Sherlock Holmes.},
+  category={Novels, mystery},  
+}
+% Agatha Christie is no AC Doyle.  
+  
+  
 @book{christie1920mysterious,  
   title={The Mysterious Affair at Styles},  
   author={Christie, A.},  
