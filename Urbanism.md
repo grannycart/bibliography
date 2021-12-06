@@ -6,6 +6,19 @@ title: Urbanism
 
 --------------------------------------------------------------------------------
   
+  
+@article{kaplan2021littlelibrary,  
+  Author={Kaplan, Erin Aubry},  
+  url={https://www.nytimes.com/2021/12/05/opinion/gentrification-los-angeles-little-library.html},  
+  Title={Is My Little Library Contributing to the Gentrification of My Black Neighborhood?},  
+  journal={The New York Times},  
+  date={2021-11-05},  
+  comment={A black woman wrings her hands about putting out a "My Little Library" box in her black neighborhood when a white couple stops to look at it. Arcs into some history of gentrification and white-return.},  
+  category={Urbanism, Criticality, My Little Library}  
+}  
+% It's easy to keep white people out of your neighborhood. Just join your neighbors in getting a giant speaker system and blasting soca until 2am. Rich white people lead boring dance-party free lives.  
+  
+  
 @article{vartabedian2021infrastructure,  
   Author={Vartabedian, Ralph},  
   url={https://www.nytimes.com/2021/11/28/us/infrastructure-megaprojects.html},  
