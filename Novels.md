@@ -5,6 +5,11 @@ title: Novels
 
 --------------------------------------------------------------------------------
 
+@book{handmaid's tal3
+}
+% Page 230. "The Commander likes it when I distinguish myself, show precocity, like an attentive pet, prick-eared and eager to perform. His approbation laps my like a warm bath. I sense in him none of the animosity I used to sense in men, even in Luke sometimes. He's not saying _bitch_ in his head. In fact he is positively daddyish. He likes to think I am being entertained; and I am, I am. 
+
+
 @book{christie1924poirot,
   title={Poirot Investigates},
   author={Christie, A.},
