@@ -6,7 +6,18 @@ title: Criticality
 --------------------------------------------------------------------------------
 
 
-@article{manjoo2021cars,  
+@article{jelly2021names,  
+  Author={Jelly-Schapiro, Joshua},  
+  url={https://www.nytimes.com/2021/12/07/opinion/new-york-street-names.html},  
+  Title={What Kind of Power Should the Names of New York Have?},  
+  journal={The New York Times},  
+  date={2021-11-07},  
+  comment={An excellent essay where Jelly-Schapiro picks apart with supreme precision the complexity of the meanings loaded onto      place names. Many places in NYC are named for people who held  slaves, but later the place name came to have significance far beyond the original reference to the diverse communities that live in those places. Nostrand was both a slave-holder and is currently a reference to a thriving Dominican neighborhood. At the same time, most confederate soldier memorials date not to the civil war but the the Jim Crow era. There is no healthy reason to keep those.},  
+  category={Criticality, Urbanism, Politics, Humanity, place nameees, nyc}  
+}  
+% A good pairing with Names on the Land.  
+  
+article{manjoo2021cars,  
   Author={Manjoo, Farhad},  
   url={https://www.nytimes.com/2021/12/01/opinion/smart-car-technology.html},  
   Title={The Look of Cars Is Driving Me Out of My Mind},  
