@@ -13,9 +13,17 @@ title: Novels
   series={A Fawcett Crest book},  
   url={https://books.google.com/books?id=DMNOh1pHCn4C},  
   year={1987},  
-  publisher={Fawcett Crest}  
+  publisher={Fawcett Crest},   
+  comment={Classic book in which the US is taken over by religous-nazi-like authoritarians who turn women into nothing but breeding stock.},  
+  category={Novels, dystopia}  
 }  
-% Page 230. "The Commander likes it when I distinguish myself, show precocity, like an attentive pet, prick-eared and eager to perform. His approbation laps my like a warm bath. I sense in him none of the animosity I used to sense in men, even in Luke sometimes. He's not saying _bitch_ in his head. In fact he is positively daddyish. He likes to think I am being entertained; and I am, I am. 
+% Page 230. "The Commander likes it when I distinguish myself, show precocity, like an attentive pet, prick-eared and eager to perform. His approbation laps my like a warm bath. I sense in him none of the animosity I used to sense in men, even in Luke sometimes. He's not saying _bitch_ in his head. In fact he is positively daddyish. He likes to think I am being entertained; and I am, I am.   
+% The above line is maybe the best example, but the theme of BDSM-like power-exchange runs through the book. I am not sure how this isn't the _most_ talked about aspect of the book.    
+% Improbably though, given the amount of the book dedicated to building up the commander as a character and the protagonist's interactions with him, when it comes to sex she is suddenly not interested. Soon after that she falls in love with "Nick" -- the chauffeur character who is barely described except for a few lines talking about how attractive his body is.  
+% So all of the slowly-stirred sexual tension in the book is suddenly dropped and replaced with a toke hot-bod who maybe has like 8 words of dialog in the whole book.  
+% But so let's say the book isn't about sexual tension. What is it about then?  
+% Of the broadly-panned 1990 film, Roger Ebert said: "by the end of the movie we are conscious of large themes and deep thoughts, and of good intentions drifting out of focus." I have a hard time seeing how that doesn't apply equally to the novel.  
+% Oryx and Crake was a better book.  
 
 
 @book{christie1924poirot,
