@@ -6,6 +6,17 @@ title: Criticality
 --------------------------------------------------------------------------------
 
 
+
+@article{brannen2021biology,  
+  Author={Brannen, Peter},  
+  url={https://www.nytimes.com/2021/12/09/books/review/a-natural-history-of-the-future-rob-dunn.html},  
+  Title={To Understand Our Future on Earth, Look to the Laws That Govern Nature},  
+  journal={The New York Times},  
+  date={2021-11-09},  
+  comment={Review of A NATURAL HISTORY OF THE FUTURE What the Laws of Biology Tell Us About the Destiny of the Human Species By Rob Dunn which argues that 'nature will find a way' and humans have to live with and in that. Covers the 'megaplate' experiment where E. coli will evolve within 10 days to be able to cross a plate full of extremely powerful antibiotics. He claims there are foundational laws to ecology that are predictive and can be used to predict what ecological results will occur from a human intervention. These laws predict that virus-spreading tropical mosquitoes will establish themselves in the southern US due to global warming. The key to success is to diversify. "Diversify the microbes in your intestines, the crops in your fields, the plants in your watershed, the research in your grant proposals. Recruit the forests to filter your water. Let a trillion microbial flowers bloom." "There are now beetles that consume only grains, mosquitoes that live only in the London metro."},  
+  category={Criticality, Humanity, ecology}  
+}  
+
 @article{jelly2021names,  
   Author={Jelly-Schapiro, Joshua},  
   url={https://www.nytimes.com/2021/12/07/opinion/new-york-street-names.html},  
