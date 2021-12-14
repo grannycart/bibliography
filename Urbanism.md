@@ -1617,6 +1617,18 @@ journal = {Urban Studies},
 % From the NYPL display, by (presumably) Robert Caro of Moses' Slum Clearance brochures: ``Moses was a real artist. He put a lot of work into brochures he made to illustrate his proposals. And they are totally convincing. The main purpose was to show people how beautiful his projects were going to be. He would give them to the City Council members and the mayors to gain their support, even though some of his plans were problematic. In the Slum Clearance brochures, a lot of these places weren't slums. It was a surprise to the residents, who woke up to find they were being evicted.''  
 % Astoria Ferry: p. 448-451  
   
+  
+@article{mcgrath2012caro,  
+  Author={McGrath, Charles},  
+  url={https://www.nytimes.com/2012/04/15/magazine/robert-caros-big-dig.html},  
+  Title={Robert Caro’s Big Dig},  
+  journal={The New York Times},  
+  date={2012-04-12},  
+  comment={A really nice in-depth profile of Robert Caro, including a lot of information both about Lyndon Johnson and Caro's process of writing about him. “They were talking one day about highways and where they got built,” he recalled, “and here were these mathematical formulas about traffic density and population density and so on, and all of a sudden I said to myself: ‘This is completely wrong. This isn’t why highways get built. Highways get built because Robert Moses wants them built there. If you don’t find out and explain to people where Robert Moses gets his power, then everything else you do is going to be dishonest.’” Also photographs, and a nice description of how he got his start and his first jobs.},  
+  category={Urbanism, robert caro, lyndon johnson, research, robert moses}  
+}  
+  
+  
 @book{krumholz2011making,  
   title={Making equity planning work: Leadership in the public sector},  
   author={Krumholz, Norman},  
