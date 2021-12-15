@@ -2286,6 +2286,16 @@ category = {health, hospitals, heart attacks, cardiologists, patient safety}
   category = {Health, placebos, Science, marketing}  
 }  
 % Also see this article on how the placebo effect works even if you KNOW it's a placebo: \url{https://www.health.harvard.edu/blog/placebo-can-work-even-know-placebo-201607079926}  
+% See also this article that is CRITICAL of placebos: \url{https://www.nytimes.com/2021/12/15/us/politics/placebo-effect-clinical-care.html}  
+	% Argues that much science studying placebo effects is poorly executed.  
+	% Most placebos when put up against no treatment at all do not perform better  
+	% Some medical professionals have so latched onto the idea of placebos that they are prescribing them in place of actual effective treatments.  
+	% It only briefly mentions at the end the idea that the effectiveness of placebos might be through the magic of the doctor->patient interaction.  
+		% This is my favorite explanantion of placebos, because it is rational, but still sort of magical  
+		% It also explains why the science is so mixed on placebos  
+		% It also explains why they work even when you are told they are placebos
+		% It also explains why pre-science historical medicine, no matter how zany, seemed to work better than random chance.
+  
   
 @article{greenberg2018placebos,  
   Author={Greenberg, Gary},  
