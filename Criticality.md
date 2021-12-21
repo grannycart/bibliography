@@ -6,7 +6,17 @@ title: Criticality
 --------------------------------------------------------------------------------
 
 
-
+@article{gorman2021maltese,  
+  Author={Gorman, James},  
+  url={https://www.nytimes.com/2021/10/04/science/dogs-DNA-breeds-maltese.html},  
+  Title={How Old Is the Maltese, Really?},  
+  journal={The New York Times},  
+  date={2021-10-04},  
+  comment={Even though many owners of pure-bred dogs like to claim the breed dates back thousands of years, the truth is dog breeds were invted in Victorian England specificall for dog shows. There were no dog breeds before the 19th Century. In the case of Maltese, there were certainly small white dogs sitting on the laps of Roman emporers, but they had nothing to do with Maltese as a breed.},  
+  category={Criticality, dogs, dog breeds}  
+}  
+  
+  
 @article{brannen2021biology,  
   Author={Brannen, Peter},  
   url={https://www.nytimes.com/2021/12/09/books/review/a-natural-history-of-the-future-rob-dunn.html},  
