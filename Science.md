@@ -15,6 +15,8 @@ title: Science
   comment={Doctors attached a pig kidney to a brain-dead human's leg --- and it started processing urine. Also includes good history of xenotransplants.},  
   category={Science, Health, superscience, transplants, xenotransplants, pigs, vegans}  
 }  
+% And... then another mad-doctor super-scientists was like, "pig kidney? Psh. Hold my beer."
+% \url{https://www.nytimes.com/2022/01/10/health/heart-transplant-pig-bennett.html}
   
   
 @article{brown2021superweeds,  
