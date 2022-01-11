@@ -6,6 +6,18 @@ title: Economics
 --------------------------------------------------------------------------------
   
   
+@article{lohr2022automation,  
+  Author={Lohr, Steve},  
+  url={https://www.nytimes.com/2022/01/11/technology/income-inequality-technology.html},  
+  Title={Economists Pin More Blame on Tech for Rising Inequality},  
+  journal={The New York Times},  
+  date={2022-01-11},  
+  comment={Daron Acemoglu is an economist at MIT whose research suggests that at least half of increasing gap in wages for American workers over the last 40 years is attributable to automation of taks formerly done by human workers, especially men without college degrees. He makes a distinction between technologies that help people do their jobs better (spreadsheets, search engines) and so-so technologies that don't increase overall productivity but replace a human worker (grocery store self-checkout kiosks, automated phone customer service). As a society we are choosing technologies that replace people, and we don't have to. He points out that the tax on labor, including payroll and income tax, is 25 percent. The tax on the costs of equipment, which includes a bunch of tax breaks, is effectively zero.},  
+  category={Economics, Criticality, automation}  
+}  
+  
+  
+  
 @article{tompkins2021globalpoverty,  
   Author={Tompkins, Lucy},  
   url={https://www.nytimes.com/2021/12/02/world/global-poverty-united-nations.html},  
