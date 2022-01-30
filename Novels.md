@@ -5,6 +5,20 @@ title: Novels
 
 --------------------------------------------------------------------------------
   
+  
+@book{poe1868works,  
+  title={The Works of Edgar Allan Poe  Volume 2},  
+  author={Poe, E.A. and Johnson, R.B.},  
+  series={Works of Edgar Allan Poe},  
+  url={https://books.google.com/books?id=X0skDgAAQBAJ},  
+  year={1868},  
+  publisher={Prabhat Prakashan}  
+}   
+% The C. Auguste Dupin detective stories (The Purloined Letter and it's two compatriots) are really _really_ boring.  
+% They might be the first of the detective genre, but they are hardly good. I have no idea why literary folks are so interested in The Purloined Letter. It's terrible.
+% The Fall of the House of Usher is pretty deeply creepy though.
+  
+  
 @book{atwood1987handmaid,  
   title={The Handmaid's Tale},  
   author={Atwood, M.},  
