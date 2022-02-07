@@ -2012,8 +2012,11 @@ category={trees, Science},
   journal={The New Yorker},  
   date={2015-07-20},  
   comment = {Explanation of the Cascadia subduction zone, how it is overdue for a very big earthquake, and how it could wipe out most of the West Coast.},  
-  category = {earthquakes, Science, pending disasters}  
+  category = {earthquakes, Science, pending disasters, earthquake}  
 }  
+% "Nor will it be made only of water—not once it reaches the shore. It will be a five-story deluge of pickup trucks and doorframes and cinder blocks and fishing boats and utility poles and everything else that once constituted the coastal towns of the Pacific Northwest."
+% See also: \url{https://www.nytimes.com/2022/02/07/us/tsunami-northwest-evacuation-towers.html}
+% About preparing for the giant tsunami that would follow the earthquake
   
 @article{zimmermindmelds,  
   Author={Zimmer, Carl},  
