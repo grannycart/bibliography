@@ -1252,8 +1252,25 @@ category = {Transportation, transit, land value uplift, property taxes, gentrifi
   year = {2015},  
   month = {October},  
   comment = {``Numerous studies have examined the effectiveness of this approach and consistently show that adding capacity to roadways fails to alleviate congestion for long because it actually increases vehicle miles traveled (VMT).'' ``An increase in VMT attributable to increases in roadway capacity where congestion is present is called “induced travel”. The basic economic principles of supply and demand explain this phenomenon: adding capacity decreases travel time, in effect lowering the “price” of driving; and when prices go down, the quantity of driving goes up.'' Referenced by this article in Citylab: \url{http://www.citylab.com/commute/2015/11/californias-dot-admits-that-more-roads-mean-more-traffic/415245/} Which makes the point that, ``A 2014 assessment of Caltrans, conducted by the State Smart Transportation Initiative, specifically cited induced demand as a research finding that had yet to filter down “into the department’s thinking and decision making”'' Despite good date, the \emph{culture} of an organization can impact it's actions.},  
-  category = {induced travel, highways, congestion, traffic, cars}  
+  category = {Transportation, Criticality, induced travel, highways, congestion, traffic, cars}  
 }  
+See also how induced demand is increased by the infrastructure spending bill: \url{https://www.nytimes.com/2022/02/10/climate/highways-climate-change-traffic.html}  
+
+  
+@article{milovanoff2020electrification,  
+  title={Electrification of light-duty vehicle fleet alone will not meet mitigation targets},  
+  author={Milovanoff, Alexandre and Posen, I Daniel and MacLean, Heather L},  
+  url{https://www.nature.com/articles/s41558-020-00921-7}  
+  journal={Nature Climate Change},  
+  volume={10},  
+  number={12},  
+  pages={1102--1107},  
+  year={2020},  
+  publisher={Nature Publishing Group},  
+  comment={To meet the 2 degree goal 90 percent of the US fleet would need to be electrified, and it would consume half the US's electricity supply.},  
+  category = {Transportation, Criticality, cars}  
+}   
+  
   
 @article{van2005part,  
   title={Part 1: Bicycles: How Pavement Markings Influence Bicycle and Motor Vehicle Positioning: Case Study in Cambridge, Massachusetts},  
