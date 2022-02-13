@@ -5,6 +5,19 @@ title: Novels
 
 --------------------------------------------------------------------------------
   
+@book{gaddis2020j,  
+  title={J R},  
+  author={Gaddis, W. and Williams, J.},  
+  isbn={9781681374680},  
+  lccn={2020005714},  
+  url={https://books.google.com/books?id=B9D-DwAAQBAJ},  
+  year={2020},  
+  publisher={New York Review Books},  
+  comment={An 11-yo boy in Masapequa long island builds a business empire from a phone booth in his school. All about the corrupting power of money and how it infiltrates every aspect of our lives and interferes with efforts to live and work creatively.},
+  category={Novels, postmodernism}  
+} 
+$ Page 491: "All we've got left to protect here is a system that's set up to promote the meanest possibilities in human nature and make them look good."  
+  
   
 @book{poe1868works,  
   title={The Works of Edgar Allan Poe  Volume 2},  
