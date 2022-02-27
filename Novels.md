@@ -16,7 +16,10 @@ title: Novels
   comment={An 11-yo boy in Masapequa long island builds a business empire from a phone booth in his school. All about the corrupting power of money and how it infiltrates every aspect of our lives and interferes with efforts to live and work creatively.},
   category={Novels, postmodernism}  
 } 
-$ Page 491: "All we've got left to protect here is a system that's set up to promote the meanest possibilities in human nature and make them look good."  
+% Page 491: "All we've got left to protect here is a system that's set up to promote the meanest possibilities in human nature and make them look good."  
+% Page 587: "I mean somebody's getting paid to be this weather forecaster someplace telling you fair and warm while you're like up to your ass in this blizzard I mean like who does anything man, I mean somebody gets a job and like the first they they do they try to figure out how not to do it."
+% Page 595: "Why should I be interesting! I mean, I mean I want my work to be interesting but why do I have to be interesting! I mean everybody's tring to be interesting let them I'm just, I'm just doing something I have to do so I can try to do what I hope I..."
+
   
   
 @book{poe1868works,  
