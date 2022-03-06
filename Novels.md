@@ -17,8 +17,10 @@ title: Novels
   category={Novels, postmodernism}  
 } 
 % Page 491: "All we've got left to protect here is a system that's set up to promote the meanest possibilities in human nature and make them look good."  
-% Page 587: "I mean somebody's getting paid to be this weather forecaster someplace telling you fair and warm while you're like up to your ass in this blizzard I mean like who does anything man, I mean somebody gets a job and like the first they they do they try to figure out how not to do it."
-% Page 595: "Why should I be interesting! I mean, I mean I want my work to be interesting but why do I have to be interesting! I mean everybody's tring to be interesting let them I'm just, I'm just doing something I have to do so I can try to do what I hope I..."
+% Page 587: "I mean somebody's getting paid to be this weather forecaster someplace telling you fair and warm while you're like up to your ass in this blizzard I mean like who does anything man, I mean somebody gets a job and like the first they they do they try to figure out how not to do it."  
+% Page 595: "Why should I be interesting! I mean, I mean I want my work to be interesting but why do I have to be interesting! I mean everybody's tring to be interesting let them I'm just, I'm just doing something I have to do so I can try to do what I hope I..."  
+% Page 641: "Man like that's what people want's books that tell them what they already know, I mean that's why they're all such bullshit"
+% Page 642: Rhoda talking about wanting to be a model when she was a little girl, growing up believing it was possible, finding out she's nothing, but people still want things from her.
 
   
   
