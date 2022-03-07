@@ -6,6 +6,27 @@ title: Transportation
 --------------------------------------------------------------------------------
 
 
+
+@techreport{NBERw15376,  
+ title = "The Fundamental Law of Road Congestion: Evidence from US cities",  
+ author = "Duranton, Gilles and Turner, Matthew A",  
+ institution = "National Bureau of Economic Research",  
+ type = "Working Paper",  
+ series = "Working Paper Series",  
+ number = "15376",  
+ year = "2009",  
+ month = "September",  
+ doi = {10.3386/w15376},  
+ URL = "http://www.nber.org/papers/w15376",  
+ abstract = {We investigate the relationship between interstate highways and highway vehicle kilometers traveled (VKT) in US cities. We find that VKT increases proportionately to highways and identify three important sources for this extra VKT: an increase in driving by current residents; an increase in transportation intensive production activity; and an inflow of new residents. The provision of public transportation has no impact on VKT. We also estimate the aggregate city level demand for VKT and find it to be very elastic. We conclude that an increased provision of roads or public transit is unlikely to relieve congestion.},  
+ comment = "Finds that people drive more if there are more roads available. Also finds that public transit is NOT a solution to this problem because more people riding trains just induces more people to drive on the emptier roads.",  
+ category = "Trasportation, Criticality, induced demand, highways, public transportation"  
+}  
+% Pdf: \url{https://www.nber.org/system/files/working_papers/w15376/w15376.pdf}  
+% See also this article: \url{https://www.governing.com/now/why-the-concept-of-induced-demand-is-a-hard-sell}  
+% Which also covers the fact that induced demand seems to be a concept that is nearly unteachable because it is so counterintuitive.
+  
+  
 @article{harris2021etrucks,  
   Author={Harris, Danny},  
   url={https://www.bloomberg.com/news/articles/2021-10-07/electric-trucks-won-t-save-us?srnd=citylab&mc_cid=31a7414f90&mc_eid=48da9d8c97},  
