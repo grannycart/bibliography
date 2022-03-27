@@ -13,7 +13,7 @@ title: Novels
   url={https://books.google.com/books?id=B9D-DwAAQBAJ},  
   year={2020},  
   publisher={New York Review Books},  
-  comment={An 11-yo boy in Masapequa long island builds a business empire from a phone booth in his school. All about the corrupting power of money and how it infiltrates every aspect of our lives and interferes with efforts to live and work creatively.},
+  comment={An 11-yo boy in Masapequa long island builds a business empire from a phone booth in his school. All about the corrupting power of money and how it infiltrates every aspect of our lives and interferes with efforts to live and work creatively. This is such a good book, and so difficult to describe. It's nearl 800 pages, almost entirely in unattributed dialog, with no chapter or any other kind of breaks. Somehow most of the things that happen in the book --- tons and tons of things happening --- happen in the background, and between scenes of dialog. It becomes all about the flow of entropy, expressed through a lens of people's conversations.},
   category={Novels, postmodernism}  
 } 
 % Page 491: "All we've got left to protect here is a system that's set up to promote the meanest possibilities in human nature and make them look good."  
@@ -21,6 +21,7 @@ title: Novels
 % Page 595: "Why should I be interesting! I mean, I mean I want my work to be interesting but why do I have to be interesting! I mean everybody's tring to be interesting let them I'm just, I'm just doing something I have to do so I can try to do what I hope I..."  
 % Page 641: "Man like that's what people want's books that tell them what they already know, I mean that's why they're all such bullshit"
 % Page 642: Rhoda talking about wanting to be a model when she was a little girl, growing up believing it was possible, finding out she's nothing, but people still want things from her.
+% It would be cool to turn this book into a stageplay. It wouldn't be too hard, considering it's almost all dialog, you would just have to make some decisions in places about who is speaking. (Some Gaddis scholar could probably clear things up pretty easily.) Then giving actors all the lines, with a few off-stage actions like the car crash, would bring the book to life in a way that people who don't have the patience to sit reading 800 pages of dialog might be willing to put up with. Though it would be, of course, like 20 hours long...
 
   
   
