@@ -6,6 +6,18 @@ title: Science
 --------------------------------------------------------------------------------
 
 
+@article{imbler2022marinesnow,  
+  Author={Imbler, Sabrina},  
+  url={https://www.nytimes.com/2022/04/03/science/ocean-plastic-animals.html},  
+  Title={In the Ocean, It’s Snowing Microplastics},  
+  journal={The New York Times},  
+  date={2022-04-03},  
+  comment={Microplastic may make up a significant portion of marine snow. Contrary to its inherent buoyancy, 99.8 percent of plastic that has entered the ocean has sunk below the first few hundred feet of the ocean and 10,000 times more microplastics have been found on the seafloor than in contaminated surface waters. Microplastics are quickly colonized by bacteria and sink, becoming "food" for creatures in the deep like vampire squid.},  
+  category={Science, microplastic, oceans, marine snow, plastic}  
+}  
+% While it's hard to believe that this could ever end up being a good thing (particularly for the vampire squid), it does seem like the unwritten possibility in this article is that microplastics are capturing and sequestering carbon out of the ocean. What if it turns out that not only does the ocean floor represent a good place for long-term landfilling of our plastic problem, but it also de-carbonizes the ocean on its way down? We couldn't possibly get that lucky...   
+
+
 @article{rabin2021pigkidney,  
   Author={Rabin, Roni Caryn},  
   url={https://www.nytimes.com/2021/10/19/health/kidney-transplant-pig-human.html},  

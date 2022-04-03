@@ -2,8 +2,24 @@
 ---
 
 --------------------------------------------------------------------------------
-
-
+  
+  
+@book{mcharg1995design,  
+  title={Design with Nature},  
+  author={McHarg, I.L.},  
+  isbn={9780613923330},  
+  url={https://books.google.com/books?id=4ACdPwAACAAJ},  
+  year={1992},  
+  publisher={Wiley},  
+  comment={The classic work arguing that cities should be designed to work with nature.},  
+  category={Long Entries, Science, Criticality, landscape architecture, design)  
+}  
+% (Originally published in 1967)
+% Page 3: cyclists used to ride out to a glen outside of Glasgow and collect bluebells, some of which would fall from their bikes in the ride back into town leaving a trail of flowers.  
+% Page 7: The Dutch have three levels of dike: The Guardian (Waker), The Sleeper (Slaper), and the Dreamer (Dromer). (Though from what I read it looks like since McHarg wrote this book the Dutch have doubled down on giant hard-wall, public-works coastal defense systems and left the "design with nature" soft barrier idea of three successive dikes behind.)  
+  
+  
+  
 @book{moore2016jerusalem,  
   title={Jerusalem: A Novel},  
   author={Moore, A.},  
@@ -14,7 +30,7 @@
   year={2016},  
   publisher={Liveright Publishing Corporation},  
   comment={3 volumes. 1266 pages. Northhampton. Everything else under Alan Moore's sun.},  
-  category={Long Entries},  
+  category={Long Entries, Novels, alan moore, },  
 }
 % This book is also available on the Anarchist Library: \url{https://theanarchistlibrary.org/library/alan-moore-jerusalem}  
 % Page 22: Sometimes, if the knew Mick's background, they'd sit looking thoughtful before asking home how anyone like Alma Warren could possible have emerged from a notorious urban soul-trap like the Boroughs. He considered this a stupid question, as if there were any other place she could have come from, Hell or Narnia or somewhere. How long was it since there's been even a trace of the authentic working class, if its conspicuous products were today unrecognisable as dodos? What happened to that culture? Other than those parts of it which had been tempted up into the low boughs of the middle classes or drained off into the cardboard jungle, how hand it all vanished so that these days if they saw it, now one had a clue what they were looking at? Why hadn't somebody complained?"  
