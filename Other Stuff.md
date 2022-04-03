@@ -6,6 +6,17 @@ title: Other Stuff
 --------------------------------------------------------------------------------
 
 
+@article{spiegelman2022joyce,  
+  Author={Spiegelman, Nadja},  
+  url={https://www.theparisreview.org/blog/2018/02/02/james-joyces-love-letters-dirty-little-fuckbird/},  
+  Title={James Joyce’s Love Letters to His “Dirty Little Fuckbird”},  
+  journal={The Paris Review},  
+  date={2018-02-02},  
+  comment={The complete text of letters James Joyce wrote to Nora Barnacle. Famously _extremely_ dirty letters.},  
+  category={Other Stuff, sex, erotica, james joyce}  
+}  
+  
+  
 @article{bergman2021assassination,  
   Author={Bergman, Ronen and Fassihi Farnaz},  
   url={https://www.nytimes.com/2021/09/18/world/middleeast/iran-nuclear-fakhrizadeh-assassination-israel.html},  

@@ -4,8 +4,20 @@ title: Science
 ---
 
 --------------------------------------------------------------------------------
-
-
+  
+@article{gross2022genitals,  
+  Author={Gross, Rachel E.},  
+  url={https://www.smithsonianmag.com/science-nature/why-have-female-animals-evolved-such-wild-genitals-180979813/},  
+  Title={Why Have Female Animals Evolved Such Wild Genitals?},  
+  journal={Smithsonian Magazine},  
+  date={2022-03-31},  
+  comment={Covers some of the 20 year history of learning that some small percentage of birds evolved giant penises and countervailing vaginas to rape on the one hand and control paternity on the other. Also covers the pleasures of dolphin sex and some of the strange shapes evolved for sea creature genitalia. Argues that for too long the study of genetalia has be distorted by Darwin's victorian mores and male perspective.},  
+  category={Criticality, rape, sex, genitals, evolution, ducks}  
+}  
+  
+% This is a great article, but it seems a bit dissonant to me that the whole latter part of the article is suggesting we can learn lessons about the falsity of our preconceptions about human sex from the variety of sex in the animal world when the first part of the article is discussing how rape is common with ducks. Seems to me that the real lesson to learn is that we should neither apply our preconceptions about sex to the animal world NOR try to take away lessons about human sex from the animal world where rape (and hey, cannibalism) is as common as homosexual masturbation.  
+  
+  
 @article{imbler2022marinesnow,  
   Author={Imbler, Sabrina},  
   url={https://www.nytimes.com/2022/04/03/science/ocean-plastic-animals.html},  
