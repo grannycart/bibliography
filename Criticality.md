@@ -6,6 +6,20 @@ title: Criticality
 --------------------------------------------------------------------------------
 
 
+
+@article{anderson2022learning,  
+  Author={Anderson, Jenny},  
+  url={https://www.nytimes.com/2022/04/05/science/education-learning-challenge.html},  
+  Title={Learning the Right Way to Struggle},  
+  journal={The New York Times},  
+  date={2022-04-05},  
+  comment={Promotes the idea that children learn better if they struggle first. Suggests the kids should use the metaphor of a pit that they are in, struggling to learn a concept, which they can escape through hard work resulting in a good feeling. Goes against the idea that children are fragile (while not letting the children get to the point of panic). Learning is best done by tackling a problem with no information and struggling with it, rather than being given a technique that solves a problem and then practicing it.},  
+  category={Criticality, education, learning}  
+}  
+% I feel like this could be taken a step further than the educators here are arguing. I think the idea of putting kids on a topic they struggle with could be presented to them as a technique not just for learning, but for creating and even TEACHING (the teacher) --- someone who approaches a challenge with no prior conceptions of how to solve it is much more likely to come up with a creative new solution (out of the box thinking). The teacher could present themselves as curious to find out what the children come up with, rather than holding a solution in reserve that they aren't going to share until the children suffer a little first (you can see right there how it can easily be a litttle sadistic...)  
+% I have long argued that no one, not college students, adults, or children, appreciates pedantic "well, how do you think that problem is solved?" kind of questions from someone who CLEARLY has a specific answer they believe is right and are waiting for you to discover. I think this style of teaching is abused by people with power over others. Teachers need to internalize the idea that they are learning WITH the children, not TEACHING them. The technique described in the article COULD be that, but could also be pedantic awfulness in a different teacher's hands.  
+  
+  
 @article{gorman2021maltese,  
   Author={Gorman, James},  
   url={https://www.nytimes.com/2021/10/04/science/dogs-DNA-breeds-maltese.html},  
