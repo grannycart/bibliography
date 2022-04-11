@@ -5,6 +5,19 @@ title: Science
 
 --------------------------------------------------------------------------------
   
+  
+@article{bittel2022starlings,  
+  Author={Bittel, Jason},  
+  url={https://www.nytimes.com/2022/04/11/science/starlings-birds-shakespeare.html},  
+  Title={The Shakespearean Tall Tale That Shaped How We See Starlings},  
+  journal={The New York Times},  
+  date={2022-04-11},  
+  comment={While there was indeed an eccentric dude in the 19th Century who released a bunch of starlings in central park, he had no (documented) interest in Shakespeare, and his starling release was likely part of a few released across the country around the same time. The tale that he was interested in Shakespeare originated in a mid-century essay by Edwin Way Teale and was never fact-checked even though it was cited ad infinitum afterwards. Starlings are also not documented as having much impact on local bird species, through they do eat cattle feed and have caused an airplane crash ('snarge' is what bird experts call the bits of bird that come out the back end of an airplane engine.) Overall starling populations are declining, and it is debateable how much damage they cause},  
+  category={Criticality, Science, birds, starlings, shakespeare}  
+}  
+% See also these awesome photos of starling mumurations: \url{https://www.nytimes.com/2022/04/04/travel/starling-murmurations.html}    
+  
+  
 @article{gross2022genitals,  
   Author={Gross, Rachel E.},  
   url={https://www.smithsonianmag.com/science-nature/why-have-female-animals-evolved-such-wild-genitals-180979813/},  
