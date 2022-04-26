@@ -5,7 +5,17 @@ title: Humanity
 
 --------------------------------------------------------------------------------
   
-  
+@article{knight2019premonitions,  
+  Author={Knight, Sam},  
+  url={https://www.newyorker.com/magazine/2019/03/04/the-psychiatrist-who-believed-people-could-tell-the-future},  
+  Title={The Psychiatrist Who Believed People Could Tell the Future},  
+  journal={The New Yorker},  
+  date={2019-02-25},  
+  comment={Covers the history of mid-century British psychiatrists who set up a premonition hotline to try to gather predictions of tragedies before they happened. Addresses how the nocebo effect (the suggestion that something bad COULD happen -- like giving someone a sugar pill and then telling them it is poison) has a dramatic effect on the physiology of people. A few of the people who call the hotline are eerily good at predicting bad things happened. And those predictions include the death of one of the psychiatrists himself. (However nothing comes of the hotline.)},  
+  category={Humanity, Science, Criticality, nocebo, placebo, dreams, clairvoyance, premonition, prediction}  
+}
+% In a few places the article talks about the conundrum that if a predicted disaster is prevented, then it wouldn't have been a prediction. But not discussed (since this article has _some_ kind of grounding in science, and this issue is unaddressable by science) is the possibility that the time barrier might be able to be broken with some frequency -- some people DO see the future -- it's just that the future can't be changed. Que sera sera, there's nothing we can do to address is. The _reason_ people can see the future is because it already is just as set as the past. A depressing notion, for sure, but aligns with the current thinking that there is no such thing as free will.  
+
   
 @article{graeber2021humanitypast,  
   Author={Graeber, David and Wengrow, David},  
