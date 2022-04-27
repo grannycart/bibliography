@@ -5,7 +5,20 @@ title: The Art
 
 --------------------------------------------------------------------------------
 
-
+  
+@article{blum2022movieeconomics,  
+  Author={Blum, Jason},  
+  url={https://www.nytimes.com/2022/04/27/opinion/culture/netflix-stocks-blumhouse-model.html},  
+  Title={A Scrappier Model for Netflix Might Be More Sustainable},  
+  journal={The New York Times},  
+  date={2022-04-22},  
+  comment={An interesting insight into the economics of movie-making. Streaming services (read: Netflix) pay high wages up front to people who create and work in television and movies so they can wholly own the final product and not have to share any details about the success for failure of geetting people to watch the thing with the creators. This is extremely expensive and removes much if not all of the economic motivation to create a commercially successful movie. Traditional movie-making models paid out to  creators from an obscure and hard-to-follow 'percentage points' system which preserves the motivation for commercial success, but resulted in a lot of legal wrangling over the complexity of the system. Blum argues that his method: where actors and creators are paid a straight share of box-office receipts but get paid the union minimum for their initial product -- creates a motivation for the creator to make a commercial successful product because they will make a lot of money off it from box office receipts, and the result will be more movies that are better commerially and artistically. He argues streaming services need to move to a model like this.},  
+  category={The Art, Economics, film, tv, movies, movie production}  
+}  
+% It's interesting that he feels like creators need an economic motive to create a commercially successful work, but the _artistic_ motive will be inherent and does not require any economic motive. It is not unheard of for movie financers to WANT artistic quality, though unusual for sure, and maybe not great business.  
+% He also warns about the creator who wants up-front payout without having made a hit already in lieu of a later payout at the box office. But he doesn't warn about the creator who might be willing to forego commercial success ENTIRELY in favor of an artistic piece.  
+  
+  
 @book{charters1997literature,
   title={Literature and Its Writers: An Introduction to Fiction, Poetry, and Drama},
   author={Charters, A. and Charters, S.},
