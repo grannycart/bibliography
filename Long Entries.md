@@ -3,6 +3,23 @@
 --------------------------------------------------------------------------------
   
   
+  
+@book{melville1926moby,  
+  title={Moby Dick},  
+  author={Melville, H.},  
+  isbn={9786410000151},  
+  lccn={26014494},  
+  series={The Modern library of the world's best books},  
+  url={https://books.google.com/books?id=dSD9zAEACAAJ},  
+  year={1926},  
+  publisher={Modern Library}  
+}   
+% Page 1: On page 1 he talks about how all the people of Manhattan go down to the water to gaze at the sea as if it holds some magical power over people.  
+% Page 3: Reference to the poet who decides to spend his meager money on a trick to Rockaway Beach, rather than a sorely-needed new coat.  
+% Page 9: "But it’s too late to make any improvements now. The universe is finished; the copestone is on, and the chips were carted off a million years ago."  
+  
+  
+  
 @book{mcharg1995design,  
   title={Design with Nature},  
   author={McHarg, I.L.},  
