@@ -17,6 +17,11 @@
 % Page 1: On page 1 he talks about how all the people of Manhattan go down to the water to gaze at the sea as if it holds some magical power over people.  
 % Page 3: Reference to the poet who decides to spend his meager money on a trick to Rockaway Beach, rather than a sorely-needed new coat.  
 % Page 9: "But it’s too late to make any improvements now. The universe is finished; the copestone is on, and the chips were carted off a million years ago."  
+% Page 17: The market is overstocked with heads. "ain't there too many heads in teh world?"
+% Page 19: the landlord was 'spliced' to his wife
+% Page 21: "And what is it, thought I after all! It's only his outside; a man can be honest in any sort of skin." Ishmael is actively learning about implicit bias here. Though, of course, Melville's own inherent cultural racism is apparent with the mutilating of south sea religous rites on the next page, the conflation of 'tomohawk' with south sea island culture, the assumption that someone from the islands must be a cannibal, and the fake pidgin English Queequeg speaks. So many levels of interesting stuff about racism to take apart in just a few pages! (Of course never addressed in racism studies is that someone from the south seas would have an equally confused (and racist) assumptions of white Christian culture -- though they were not the colonialists.)
+% Page 22: the correct usage of 'nonplussed' to mean confused.
+% Page 24: "Better sleeep with a sober cannibal than a drunken Christian."
   
   
   
