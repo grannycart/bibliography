@@ -4,7 +4,19 @@ title: Health
 ---
 
 --------------------------------------------------------------------------------
-
+  
+  
+@article{bakalar2021robotsurgeries,  
+  Author={Bakalar, Nicholas},  
+  url={https://www.nytimes.com/2021/08/16/well/live/robotic-surgery-benefits.html},  
+  Title={Are Robotic Surgeries Really Better?},  
+  journal={The New York Times},  
+  date={2021-08-16},  
+  comment={A meta-study finds that there is virtually no difference in outcomes for surgeries performed with a robot versus surgeries performed by hand. And robot surgeries are far more expensive and take much longer.},  
+  category={Health, Criticality, superscience, robots, surgery}  
+}  
+  
+  
 @article{oconnor2021alcohol,  
   Author={O'Connor, Anahad},  
   url={https://www.nytimes.com/2021/03/04/well/alcohol-cancer-risk.html},  
