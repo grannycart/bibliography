@@ -24,6 +24,10 @@
 % Page 24: "Better sleeep with a sober cannibal than a drunken Christian."  
 % Page 29: QueeQueg uses his harpoon to shave   
 % Page 30: QueeQueg uses his harpoon to grapple raw beefsteaks towards himself at the breakfast table.  
+% Page 71: "Clap eye on Captain Ahab, young man, and thou wilt find that he has only one leg.” “What do you mean, sir? Was the other one lost by a whale?” “Lost by a whale! Young man, come nearer to me: it was devoured, chewed up, crunched by the monstrousest parmacetty that ever chipped a boat!—ah, ah!”  
+% Page 83: "Betty, go to Snarles the Painter, and tell him to paint me a sign, with—“no suicides permitted here, and no smoking in the parlor;”—might as well kill both birds at once."  
+% Page 86:  This is the reason why most dyspeptic religionists cherish such melancholy notions about their hereafters. In one word, Queequeg, said I, rather digressively; hell is an idea first born on an undigested apple-dumpling; and since then perpetuated through the hereditary dyspepsias nurtured by Ramadans.  I then asked Queequeg whether he himself was ever troubled with dyspepsia; expressing the idea very plainly, so that he could take it in. He said no; only upon one memorable occasion. It was after a great feast given by his father the king, on the gaining of a great battle wherein fifty of the enemy had been killed by about two o’clock in the afternoon, and all cooked and eaten that very evening. 
+  
   
   
 @book{mcharg1995design,  
