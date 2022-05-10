@@ -443,11 +443,12 @@ The movie that shares my birthday, both of us 40 years old today.
   Title={Art for Money’s Sake},  
   journal={The New York Times},  
   date={2015-02-03},  
-  comment = {The business of investing in art is growing as more and more people see it as a good way to make money, so there are more high-tech warehouses in which art is now stored. In the old days the rich ``did hang their art, which was the fruit of their wealth, not its source.''},  
+  comment = {A new art warehouse/storage place in Long Island City has a complex and robust database of the art stored there. The business of investing in art is growing as more and more people see it as a good way to make money, so there are more high-tech warehouses in which art is now stored. In the old days the rich ``did hang their art, which was the fruit of their wealth, not its source.''},  
   category = {The Art, Economics, warehousing art}  
 }  
 % This reminds me of nothing as much as the descriptions of the economic impacts of grain elevators in Nature's Metropolis. If there are warehouses that hold art, with its known value, might they not become the source of futures markets like the grain in the old grain elevators? The monetary value of art could be completely separated from the art itself, and art could become literally a straight comodity.  
-  
+%  Is this the beginning of art as a true financial commoditiy?   
+% See also this article on the most expensive painting ever sold: \url{https://www.nytimes.com/2022/05/09/arts/design/warhol-auction-marilyn-monroe.html}  
   
   
 @article{kleincholerainfographics2016,  
@@ -689,16 +690,7 @@ category ={The Art, street art, banksy, spatial science}
   category = {}  
 }  
   
-@article{artformoney,  
-  Author={Alden, William},  
-  url={http://www.nytimes.com/2015/02/08/magazine/art-for-moneys-sake.html},  
-  Title={Art for Money's Sake},  
-  journal={The New York Times},  
-  date={2015-02-03},  
-  comment = {A new art warehouse/storage place in Long Island City has a complex and robust database of the art stored there. It bears an uncanny resemblance (in description) to the grain elevators of Chicago that Cronon describes. Is this the beginning of art as a true financial commoditiy?},  
-  category = {art, finance}  
-}  
-  
+ 
 @article{tumey-carlson,  
   Author={Tumey, Paul},  
   url={http://www.tcj.com/figuring-out-george-carlson-part-1/},  
