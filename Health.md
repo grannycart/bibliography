@@ -1363,6 +1363,10 @@ How could I achieve that? Heroine, maybe. But perhaps it's the ability to record
 }  
 % This opinion piece argues that the only reason there's no randomized trials of flossing is because those studies would be hard to do, and not to dismiss the untested opinions of experts who have been suggesting flossing:  \url{http://www.nytimes.com/2016/11/25/opinion/sunday/flossing-and-the-art-of-scientific-investigation.html}  
 % It is actually an article raising concerns about the recent questioning of expert opinion.   
+% It sure would be nice to be able to read this paper behind a paywall: \url{https://aap.onlinelibrary.wiley.com/doi/abs/10.1002/cap.10048}  
+% Which, reading between the lines of the abstract, seems like it might be suggesting that flossing is not for everyone.  
+% There does not seem to be any further research since flossgate that shows the effectiveness of flossing. Is it too conspiratorial to wonder if the dental industry actually wants to AVOID reasearching this topic for fear of being called out for decades of bad advice?  
+  
   
 @article{carrolldentalresearch2016,  
   Author={Carroll, Aaron E.},  

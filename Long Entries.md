@@ -46,6 +46,13 @@
 % Page 258: nigh to the man who was apt to doze over the grave always ready dug to the seaman’s hand   
 % Page 259: a strange fatality pervades the whole career of these events, as if verily mapped out before the world itself was charted.  
 % -- The above two references are from the Story of the Town-Ho chapter, which annoyingly seems to hinge around what the seaman whispers to the captain to keep from being whipped, but never reaveals what that was!  
+% Page 265: And what sort of lively lads with the pencil those Chinese are, many queer cups and saucers inform us.  
+% Page 265: As for the sign-painters’ whales seen in the streets hanging over the shops of oil-dealers, what shall be said of them? They are generally Richard III. whales, with dromedary humps, and very savage; breakfasting on three or four sailor tarts, that is whaleboats full of mariners: their deformities floundering in seas of blood and blue paint.  
+% (Imagine if a gas station had an oil rig explosion as it's logo? Or crab meat was sold with a drawing of a hand mangled in hydrualics or a guy pulled overboard in the bite of a line?)  
+% (In many places it surely seems like it's Melville talking, not Ishmael. Those parts have some entertaining stuff in them, but are clearly the parts that probably should have been cut out of the book. They often contain not just opinions that haven't aged well, but are wandering and sort of pointless to the whole theme of the book. Oh well. Even most great novels aren't perfect.)  
+% Page 262: So there is no earthly way of finding out precisely what the whale really looks like. And the only mode in which you can derive even a tolerable idea of his living contour, is by going a whaling yourself; but by so doing, you run no small risk of being eternally stove and sunk by him. Wherefore, it seems to me you had best not be too fastidious in your curiosity touching this Leviathan.  
+% Page 270: Even Scoresby, the justly renowned Right whaleman, after giving us a stiff full length of the Greenland whale, and three or four delicate miniatures of narwhales and porpoises, treats us to a series of classical engravings of boat hooks, chopping knives, and grapnels; and with the microscopic diligence of a Leuwenhoeck submits to the inspection of a shivering world ninety-six fac-similes of magnified Arctic snow crystals. I mean no disparagement to the excellent voyager (I honor him for a veteran), but in so important a matter it was certainly an oversight not to have procured for every crystal a sworn affidavit taken before a Greenland Justice of the Peace.  
+  
   
   
 @book{mcharg1995design,  
