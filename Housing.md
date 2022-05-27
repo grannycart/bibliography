@@ -244,6 +244,7 @@ category={Urbanism, housing, nimby}
   comment={Benjamin Dulchin uses the data from 2016 (the year without 421a) to show that it is ``long known that 421a is unjustifiably expensive and inefficient. Now we know it may not even accomplish the most minimum public purpose to justify its 1.4 billion price tag.'' 421-a costs a lot of money and produces virtually no affordable housing. And it does not dampen housing construction.},  
   category={Housing, 421a}  
 }  
+% See also, how 421a ended(?): \url{https://www.nytimes.com/2022/05/26/nyregion/tax-exemption-housing-development.html}  
   
   
 @article{dougherty2017homeprices,  
