@@ -60,6 +60,7 @@
 % Page 356: For all his old age, and his one arm, and his blind eyes, he must die the death and be murdered, in order to light the gay bridals and other merry-makings of men, and also to illuminate the solemn churches that preach unconditional inoffensiveness by all to all.  
 % Page 357: They find a whole harpoon in the body of an old whale they killed. And then they find a stone lance-head, and wonder at who may have struck the whale with it.  
 % Page 358: Awesome description of the ship leaning over under the weight of a sinking whale corpse, and desperately trying to free the corpse from the chains that held it.  
+% \url{https://www.nytimes.com/2021/06/12/us/humpback-whale-lobster-diver-cape-cod.html}  
   
   
   
