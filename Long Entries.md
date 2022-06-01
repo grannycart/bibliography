@@ -61,6 +61,7 @@
 % Page 357: They find a whole harpoon in the body of an old whale they killed. And then they find a stone lance-head, and wonder at who may have struck the whale with it.  
 % Page 358: Awesome description of the ship leaning over under the weight of a sinking whale corpse, and desperately trying to free the corpse from the chains that held it.  
 % \url{https://www.nytimes.com/2021/06/12/us/humpback-whale-lobster-diver-cape-cod.html}  
+% Page 376: So in dreams, have I seen majestic Satan thrusting forth his tormented colossal claw from the flame Baltic of Hell.  
   
   
   
