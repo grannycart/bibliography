@@ -62,6 +62,8 @@
 % Page 358: Awesome description of the ship leaning over under the weight of a sinking whale corpse, and desperately trying to free the corpse from the chains that held it.  
 % \url{https://www.nytimes.com/2021/06/12/us/humpback-whale-lobster-diver-cape-cod.html}  
 % Page 376: So in dreams, have I seen majestic Satan thrusting forth his tormented colossal claw from the flame Baltic of Hell.  
+% Page 395: Mr. Erskine was counsel for the defendants; Lord Ellenborough was the judge. In the course of the defence, the witty Erskine went on to illustrate his position, by alluding to a recent crim. con. case, wherein a gentleman, after in vain trying to bridle his wife’s viciousness, had at last abandoned her upon the seas of life; but in the course of years, repenting of that step, he instituted an action to recover possession of her. Erskine was on the other side; and he then supported it by saying, that though the gentleman had originally harpooned the lady, and had once had her fast, and only by reason of the great stress of her plunging viciousness, had at last abandoned her; yet abandon her he did, so that she became a loose-fish; and therefore when a subsequent gentleman re-harpooned her, the lady then became that subsequent gentleman’s property, along with whatever harpoon might have been found sticking in her.  
+% Page 415-16: Whale guts definitions for white-horse, plum-pudding, slobgollion, gurry, nippers. Then cutting off toes in the blubber-room.  
   
   
   
