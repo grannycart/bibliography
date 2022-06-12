@@ -7,6 +7,18 @@ title: Criticality
 
 
 
+@article{tabuchi2022plastic,  
+  Author={Tabuchi, Hiroko},  
+  url={https://www.nytimes.com/2022/06/12/climate/vegan-leather-synthetics-fashion-industry.html},  
+  Title={How Fashion Giants Recast Plastic as Good for the Planet},  
+  journal={The New York Times},  
+  date={2022-06-12},  
+  comment={The clothing industry created a yardstick to measure the environmental impact of clothing materials called the Higg Index. But it relies on bad plastics-industry-funded science to create its ranking that put plastic materials at the top of the environmentally friendly list. The industry is responsible for as much as 8 percent of the world’s emissions of planet-warming carbon dioxide, the United Nations estimates, more than all international flights and maritime shipping combined. Even as leather is replaced by synthetics, Americans are still eating lots of beef — which means the hides from those slaughtered cattle have nowhere to go. In 2020, a record 5 million hides, or about 15 percent of all available, went to landfills, according to the U.S. Hide, Skin and Leather Association, a Washington-based trade group.},  
+  category={Criticality, Science, plastics, clothing, leather}  
+}  
+% Good article, but doesn't say whether the Higg index has any measure at all of the impacts of plastic pollution from materials.
+
+
 @article{anderson2022learning,  
   Author={Anderson, Jenny},  
   url={https://www.nytimes.com/2022/04/05/science/education-learning-challenge.html},  
