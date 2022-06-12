@@ -5,6 +5,53 @@ title: Novels
 
 --------------------------------------------------------------------------------
   
+  
+@book{chesterton1922man,  
+  title={The Man Who Knew Too Much},  
+  author={Chesterton, G.K.},  
+  isbn={9781774416631},  
+  lccn={22023171},  
+  url={https://books.google.com/books?id=X8FFAAAAIAAJ},  
+  year={1922},  
+  publisher={Harper \& brothers}  
+}  
+% Chesterton's attempt to get in on the Sherlock Holmes deductive detective fad. Chesterton's detective is kinda a cool character -- 'the man who knew too much.' But these stories are mostly reallllly boring. He usually sets up like half a dozen characters that all seem the same and then you have to track who killed who and why while it is all wrapped up in oblique and out-dated references to hundred-year-old British politics. There's a reason this one isn't a classic.  
+% Though in The Vanishing Prince there's a cool twist for how the murder is done by tricking the police into shooting each other through the windows of a tower (or something like that).  
+% Note: this book is unrelated to the Hitchcock movie.
+  
+   
+@book{dickens2020three,  
+  title={Three Ghost Stories: Charles Dickens},  
+  author={Dickens, C.},  
+  isbn={9798575302032},  
+  url={https://books.google.com/books?id=wlQQzgEACAAJ},  
+  year={2020},  
+  publisher={Independently Published}  
+}   
+% The Signal-Man is a pretty-good classic.  
+
+  
+@book{james1905ghost,  
+  title={Ghost-stories of an Antiquary},  
+  author={James, M.R.},  
+  lccn={05012163},  
+  url={https://books.google.com/books?id=6CAWAAAAYAAJ},  
+  year={1905},  
+  publisher={E. Arnold}  
+}   
+% These stories are pretty damn creepy for 1905, particularly Oh, Whistle, and I'll Come to You, My Lad, which, with it's figure of bed-clothes in the next empty bed is creepy for any year.  
+  
+  
+@book{wilde1887canterville,  
+  title={The Canterville Ghost},  
+  author={Wilde, O.},  
+  isbn={9781533314482},  
+  url={https://books.google.com/books?id=aR-MDAEACAAJ},  
+  year={1887},  
+  publisher={CreateSpace Independent Publishing Platform}  
+}   
+  
+  
 @book{gaddis2020j,  
   title={J R},  
   author={Gaddis, W. and Williams, J.},  
