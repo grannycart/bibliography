@@ -69,6 +69,8 @@
 % Page 466: This is a cogent vice thou hast here, carpenter; let me feel its grip once. So, so; it does pinch some.  Oh, sir, it will break bones—beware, beware!  No fear; I like a good grip; I like to feel something in this slippery world that can hold, man.  
 % Page 471: There is one God that is Lord over the earth, and one Captain that is lord over the Pequod.  
 % Page 472: Top-heavy was the ship as a dinnerless student with all Aristotle in his head.  
+% Page 482-483: Look ye here!” jingling the leathern bag, as if it were full of gold coins. “I, too, want a harpoon made; one that a thousand yoke of fiends could not part, Perth; something that will stick in a whale like his own fin-bone. There’s the stuff,” flinging the pouch upon the anvil. “Look ye, blacksmith, these are the gathered nail-stubbs of the steel shoes of racing horses.” “Horse-shoe stubbs, sir? Why, Captain Ahab, thou hast here, then, the best and stubbornest stuff we blacksmiths ever work.” “I know it, old man; these stubbs will weld together like glue from the melted bones of murderers. Quick! forge me the harpoon.  
+% Page 484: “No, no—no water for that; I want it of the true death-temper. Ahoy, there! Tashtego, Queequeg, Daggoo! What say ye, pagans! Will ye give me as much blood as will cover this barb?” holding it high up. A cluster of dark nods replied, Yes. Three punctures were made in the heathen flesh, and the White Whale’s barbs were then tempered.  “Ego non baptizo te in nomine patris, sed in nomine diaboli!” deliriously howled Ahab, as the malignant iron scorchingly devoured the baptismal blood.  
   
   
   
