@@ -75,6 +75,9 @@
 % Page 522: The Rachel: Ahab refuses to help another captain look fr his lost sons.  
 % Page 532: Tied up and twisted; gnarled and knotted with wrinkles; haggardly firm and unyielding; his eyes glowing like coals, that still glow in the ashes of ruin; untottering Ahab stood forth in the clearness of the morn; lifting his splintered helmet of a brow to the fair girl’s forehead of heaven
 % Page 533: “Oh, Starbuck! it is a mild, mild wind, and a mild looking sky. On such a day—very much such a sweetness as this—I struck my first whale—a boy-harpooneer of eighteen! Forty—forty—forty years ago!—ago! Forty years of continual whaling! forty years of privation, and peril, and storm-time! forty years on the pitiless sea! for forty years has Ahab forsaken the peaceful land, for forty years to make war on the horrors of the deep!  
+% Page 547: “Aye, aye!” cried Stubb, “I knew it—ye can’t escape—blow on and split your spout, O whale! the mad fiend himself is after ye! blow your trump—blister your lungs!—Ahab will dam off your blood, as a miller shuts his watergate upon the stream!”  
+% It's funny, 'whiteness' is definitely a theme in the book (with an unspecified meaning) that one might miss if it were not pointed out to you beforehand. And I wrote that paper in college that sarcastically drew meaning from the word 'aye' to poke fun and the over-scholarship of MD, and specifcally at drawing meaning from themes like 'whiteness' that arise just from being mentioned many times in the book. (I wish I still had that paper.) But it is possible you might be able to read the book looking for some kind of symbolism thread of the use of the word 'aye' and potentially actually draw something from it. See quote from Stuff above!  
+  
   
   
   
