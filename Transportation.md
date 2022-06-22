@@ -15,6 +15,7 @@ title: Transportation
   comment={A good recap of the history of bicycles, including the fact that a human on a bicycle is an even more efficient way of moving than a bird on wings, and that bicycles are by far the most common form of transportation on Earth. In 1899, 1.2 million bicycles were sold in the United States. Henry Ford’s Model T made its début in 1908. Also covers the bike-booms of the 1880s, the 1970s, and the 2020s.},  
   category={Transportation, bicycles}  
 }  
+% Nothing here that is news to bike nerds, but it's a good, concise collection in one place of many of the more profound arguments for bikes that the general public is entirely unaware of.  
 % Not sure why this lady has been hit by cars so many times.  
   
   
