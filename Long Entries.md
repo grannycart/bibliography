@@ -77,8 +77,9 @@
 % Page 533: “Oh, Starbuck! it is a mild, mild wind, and a mild looking sky. On such a day—very much such a sweetness as this—I struck my first whale—a boy-harpooneer of eighteen! Forty—forty—forty years ago!—ago! Forty years of continual whaling! forty years of privation, and peril, and storm-time! forty years on the pitiless sea! for forty years has Ahab forsaken the peaceful land, for forty years to make war on the horrors of the deep!  
 % Page 547: “Aye, aye!” cried Stubb, “I knew it—ye can’t escape—blow on and split your spout, O whale! the mad fiend himself is after ye! blow your trump—blister your lungs!—Ahab will dam off your blood, as a miller shuts his watergate upon the stream!”  
 % It's funny, 'whiteness' is definitely a theme in the book (with an unspecified meaning) that one might miss if it were not pointed out to you beforehand. And I wrote that paper in college that sarcastically drew meaning from the word 'aye' to poke fun and the over-scholarship of MD, and specifcally at drawing meaning from themes like 'whiteness' that arise just from being mentioned many times in the book. (I wish I still had that paper.) But it is possible you might be able to read the book looking for some kind of symbolism thread of the use of the word 'aye' and potentially actually draw something from it. See quote from Stuff above!  
-  
-  
+% Page 559: at that moment a quick cry went up. Lashed round and round to the fish’s back; pinioned in the turns upon turns in which, during the past night, the whale had reeled the involutions of the lines around him, the half torn body of the Parsee was seen; his sable raiment frayed to shreds; his distended eyes turned full upon old Ahab.  
+% Page 564: Towards thee I roll, thou all-destroying but unconquering whale; to the last I grapple with thee; from hell’s heart I stab at thee; for hate’s sake I spit my last breath at thee.   
+% [make sure to get all the Wrath of Khan quotes -- which I point out here: in that movie, it is Khan who quotes Moby Dick, it is Captain Kirk who is the white whale.]     
   
   
 @book{mcharg1995design,  
