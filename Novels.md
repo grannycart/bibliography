@@ -5,6 +5,18 @@ title: Novels
 
 --------------------------------------------------------------------------------
   
+@book{tolkien2003lord,  
+  title={The Lord of the Rings},  
+  author={Tolkien, J.R.R.},  
+  url={https://books.google.com/books?id=K9-IzgEACAAJ},  
+  year={2003},  
+  publisher={Houghton Mifflin}  
+}   
+% 1137 pages.  
+% Page 520: the battle of Helm's deep: A slow time passed. Far down in the valley scattered fires still burned. The hosts of Isengard were advancing in silence now. Their torches could be seen winding up the coomb in many lines. (etc.)  
+% Page 564: Suddenly another voice spoke, low and melodious, its very sound and enchantment. Those who listened unwarily to that voice could seldom report the words that they heard; and if they did, they wondered, for little power remained in them. Mostly they remembered only that it was a delight to hear the voice speaking, all that it said seemed wise and reasonable, and desire awoke in them by swift agreement to seem wide themselves. When others spoke they seemed harsh and uncouth by contrast; and if they gainsaid the voice, anger was kindled in the hearts of those under the spell.  
+% Page 567: What is the house of Eorl but a thatched barn where brigands drink in the reek, and their brats roll on the floor among the dogs?  
+  
   
 @book{chesterton1922man,  
   title={The Man Who Knew Too Much},  
