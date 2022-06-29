@@ -16,6 +16,7 @@ title: Novels
 % Page 520: the battle of Helm's deep: A slow time passed. Far down in the valley scattered fires still burned. The hosts of Isengard were advancing in silence now. Their torches could be seen winding up the coomb in many lines. (etc.)  
 % Page 564: Suddenly another voice spoke, low and melodious, its very sound and enchantment. Those who listened unwarily to that voice could seldom report the words that they heard; and if they did, they wondered, for little power remained in them. Mostly they remembered only that it was a delight to hear the voice speaking, all that it said seemed wise and reasonable, and desire awoke in them by swift agreement to seem wide themselves. When others spoke they seemed harsh and uncouth by contrast; and if they gainsaid the voice, anger was kindled in the hearts of those under the spell.  
 % Page 567: What is the house of Eorl but a thatched barn where brigands drink in the reek, and their brats roll on the floor among the dogs?  
+% Page 583: Perilous to us all are the devices of an art deeper than we possess ourselves.  
   
   
 @book{chesterton1922man,  
