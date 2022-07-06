@@ -6,6 +6,18 @@ title: Health
 --------------------------------------------------------------------------------
   
   
+@article{milov2022smoking,  
+  Author={Milov, Sarah},  
+  url={https://www.nytimes.com/2022/07/06/opinion/nicotine-smoking-cigarettes.html},  
+  Title={The End of the Illusion That Smoking Is a Choice},  
+  journal={The New York Times},  
+  date={2022-07-06},  
+  comment={The tobacco industry actually embraced warning labels on cigarette packages when they became required because they reinforced the concept that smoking is an individual choice, which protects the tobacco industry from legal liability because the individual CHOSE to use the dangerous product.},  
+  category={Health, Criticality, smoking}  
+}  
+% Intertesting stuff here, because what at first seems like common-sense policy --- warning labels on the package --- actually became a tool for protecting the industry from litigation. The reality of public policy is often not the public image of it. To the cost of the public.  
+  
+  
 @article{bakalar2021robotsurgeries,  
   Author={Bakalar, Nicholas},  
   url={https://www.nytimes.com/2021/08/16/well/live/robotic-surgery-benefits.html},  
