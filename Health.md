@@ -6,6 +6,16 @@ title: Health
 --------------------------------------------------------------------------------
   
   
+@article{carroll2022costsharing,  
+  Author={Carrolls, Aaron E.},  
+  url={https://www.nytimes.com/2022/07/07/opinion/medical-debt-health-care-cost.html},  
+  Title={What’s Wrong With Health Insurance? Deductibles Are Ridiculous, for Starters.},  
+  journal={The New York Times},  
+  date={2022-07-07},  
+  comment={The way cost sharing is structured under the Affordable Care Act is killing people who would rather avoid health services that cost them money out of pocket than pay for them.    Research shows that the moral-hazard argument doesn't work here. Cost-sharing and co-pays do not make people better shoppers for health insurance. The insurance reforms of the ACA reduced the cost of medical bills from six figures to five, but that's not enough.},  
+  category={Criticality, Health, affordable care act, insurance, co-pays, cost-sharing}  
+}  
+  
 @article{milov2022smoking,  
   Author={Milov, Sarah},  
   url={https://www.nytimes.com/2022/07/06/opinion/nicotine-smoking-cigarettes.html},  
