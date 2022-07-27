@@ -6,6 +6,18 @@ title: Other Stuff
 --------------------------------------------------------------------------------
 
 
+@article{clune2022dreams,  
+  Author={Clune, Michael W.},  
+  url={https://harpers.org/archive/2022/04/night-shifts-dream-incubation-technology-sleep-research/},  
+  Title={Night Shifts},  
+  journal={Harper's Magazine},  
+  year={2022},  
+  month={04},  
+  comment={Promoted as 'how tech can shape our dreams' but that is just a small part of this article; with a description of a device developed at MIT Media Lab that can affect the first stage of dreaming (hypnogogia). But the article then delves deeply in philosophical meaning of dreams, including the idea that dreams represent access to an incredibly, irrepressibly creatively active part of our mind that is always there, but usually on the leash. So much so that even art from dreams seems dull and static compared to the dreams themselves as revealed in the hypnogogia phase. Also talks about how it seems vaguely possible to influence deeper stages of dreaming, but (as outlined in the deeply profound last few paragraphs) really the wild creative energy of dreams chooses on its own what to accept as fodder from our concious lives and runs with it -- like leaving a sacrifice on an altar to a god.},  
+  category={Other Stuff, philosophy, Science, Health, dreams, technology, Health}  
+}  
+  
+  
 @article{spiegelman2022joyce,  
   Author={Spiegelman, Nadja},  
   url={https://www.theparisreview.org/blog/2018/02/02/james-joyces-love-letters-dirty-little-fuckbird/},  
