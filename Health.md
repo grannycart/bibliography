@@ -6,6 +6,17 @@ title: Health
 --------------------------------------------------------------------------------
   
   
+@article{kolata2022vitamind,  
+  Author={Kolata, Gina},  
+  url={https://www.nytimes.com/2022/07/27/health/vitamin-d-bone-fractures.html},  
+  Title={Study Finds Another Condition That Vitamin D Pills Do Not Help},  
+  journal={The New York Times},  
+  date={2022-07-27},  
+  comment={Despite the limited title, this article covers a massive research study that found there is no benefit at all to taking Vitammmmmmin D supplments},  
+  category={Criticality, Health, vitamins}  
+}  
+  
+  
 @article{carroll2022costsharing,  
   Author={Carrolls, Aaron E.},  
   url={https://www.nytimes.com/2022/07/07/opinion/medical-debt-health-care-cost.html},  
