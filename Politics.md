@@ -1072,6 +1072,7 @@ category = {oligarchy, politics, krugman}
  category = {fracking, politics, extraction},  
 }  
 % I don't have access to this article and therefore haven't read it yet.  
+% See also this piece that describes how fracking was NEVER economic: \url{https://www.nytimes.com/2022/07/27/opinion/environment/energy-crisis-oil-gas-fracking.html}
   
   
 @book{chivers2011gun,  
