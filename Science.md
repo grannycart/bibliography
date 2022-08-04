@@ -54,6 +54,7 @@ title: Science
 }  
 % And... then another mad-doctor super-scientists was like, "pig kidney? Psh. Hold my beer."
 % \url{https://www.nytimes.com/2022/01/10/health/heart-transplant-pig-bennett.html}
+% And the Frankensteinien superscience with pigs continues. Now they can bring pigs back from the dead: \url{https://www.nytimes.com/2022/08/03/science/pigs-organs-death.html}  
   
   
 @article{brown2021superweeds,  
