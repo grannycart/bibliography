@@ -6,6 +6,18 @@ title: Economics
 --------------------------------------------------------------------------------
   
   
+@article{marchese2022dalygrowth,  
+  Author={Marchese, David},  
+  url={https://www.nytimes.com/interactive/2022/07/18/magazine/herman-daly-interview.html},  
+  Title={This Pioneering Economist Says Our Obsession With Growth Must End},  
+  journal={The New York Times},  
+  date={2022-07-17},  
+  comment={Interview with Herman Daly, an economist who has argued for 50 years that our economy's obsession with growth is unsustainable.},  
+  category={Economics, Criticality, growth}  
+}  
+% There had to be a serious economist tackling this issue, and there he be.   
+  
+  
 @article{lohr2022automation,  
   Author={Lohr, Steve},  
   url={https://www.nytimes.com/2022/01/11/technology/income-inequality-technology.html},  
