@@ -6,6 +6,18 @@ title: Health
 --------------------------------------------------------------------------------
   
   
+  
+@article{junod2017massshootings,  
+  Author={Junod, Tom},  
+  url={https://www.esquire.com/news-politics/a30024/mass-shooters-1014/},  
+  Title={Why Mass Shootings Keep Happening},  
+  journal={The New York Times},  
+  date={2017-10-02},  
+  comment={An analysis of the FBI's experts on "threat assessment" or the discipline of recognizing people on a "pathway to violence" and intervening with them before they commit an act of violence. It is premised on the idea that no one just 'snaps', they work their way (mentally) up to a violent event over the course of a long period of time. The method relies on someone close to the person recognizing they might be a threat and reporting them to authorities. Talks about the distinction between the high-priority, heavily-resourced counterterrorism effort, and the low-priority, minimally resourced threat assessment effort by the FBI. The article posits that threat assessment is the ONLY method for tackling the problem of mass shooters.},  
+  category={Criticality, Health, mass shooters}  
+}  
+  
+  
 @article{kolata2022vitamind,  
   Author={Kolata, Gina},  
   url={https://www.nytimes.com/2022/07/27/health/vitamin-d-bone-fractures.html},  
