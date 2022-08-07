@@ -6,7 +6,19 @@ title: Criticality
 --------------------------------------------------------------------------------
 
 
-
+@article{segnit2022leprince,  
+  Author={Segnit, Nat},  
+  url={https://harpers.org/archive/2022/04/who-killed-louis-le-prince-on-the-forgotten-father-of-film/},  
+  Title={Who Killed Louis Le Prince? },  
+  journal={Harper's Magazine},  
+  year={2022},  
+  month={04},
+  comment={A recap of the history of the first moving picture projector technology and the development of the film industry. Le Prince invented the machine in France before Edison's crew had even started working on it. Covers the history of how Edison stole most of his biggest inventions through patent law manipulation and straight thuggery. Le Prince disappeared right at the time Edison claimed a patent on motion picture equipment. The article (and the book it is reviewing) suggest that Edison had Le Prince killed, but there's no hard evidence. Le Prince was also not the sole inventor of the technology, but put together a number of available technologies before anyone else did.},  
+  category={Criticality, The Art, film, edison}  
+}  
+% Interestingly, Le Prince was spurred on by the concept of 'persistence of vision' even though that idea has in modern times be proven to be a false understanding of how the brain works. So in this case a false framework of how things work created a vision for Le Prince to work towards of a very real and profoundly important invention: the motion picture.  
+  
+  
 @article{tabuchi2022plastic,  
   Author={Tabuchi, Hiroko},  
   url={https://www.nytimes.com/2022/06/12/climate/vegan-leather-synthetics-fashion-industry.html},  
