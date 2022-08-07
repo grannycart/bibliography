@@ -5,6 +5,23 @@ title: Humanity
 
 --------------------------------------------------------------------------------
   
+@article{doi:10.1177/09596836211060497,  
+author = {Matthew Dalton and Jane McMahon and Melissa A Kennedy and Rebecca Repper and Saifi Eisa Al Shilali and Yousef AlBalawi and David D Boyer and Hugh Thomas},  
+title ={The Middle Holocene ‘funerary avenues’ of north-west Arabia},  
+journal = {The Holocene},  
+volume = {32},  
+number = {3},  
+pages = {183-199},  
+year = {2022},  
+doi = {10.1177/09596836211060497},  
+URL = { https://doi.org/10.1177/09596836211060497 },  
+eprint = { https://doi.org/10.1177/09596836211060497 },  
+abstract = { The desert regions of the Arabian Peninsula and Levant are criss-crossed by innumerable pathways. Across large areas of north-west Arabia, many of these pathways are flanked by stone monuments, the vast majority of which are ancient tombs. Recent radiometric dating indicates that the most abundant of these monuments, elaborate and morphologically diverse ‘pendant’ structures, were constructed during the mid-to-late third millennium BCE. Thousands of kilometres of these composite path and monument features, ‘funerary avenues’, can be traced across the landscape, especially around and between major perennial water sources. By evidencing routes of human movement during this period, these features provide an emerging source for reconstructing important aspects of ancient mobility and social and economic connectivity. They also provide significant new evidence for human/environment interactions and subsistence strategies during the later Middle Holocene of north-west Arabia, and suggest the parallel existence of mobile pastoralist lifeways and more permanent, oasis-centred settlement. This paper draws upon the results of recent excavations and intensive remote sensing, aerial and ground surveys in Saudi Arabia to present the first detailed examination of these features and the vast cultural landscape that they constitute. },  
+category={Humanity, bedouin}  
+}  
+% The Bedouin collectively know the funerary monuments as "the works of the old men"  
+   
+  
 @article{knight2019premonitions,  
   Author={Knight, Sam},  
   url={https://www.newyorker.com/magazine/2019/03/04/the-psychiatrist-who-believed-people-could-tell-the-future},  
