@@ -5,7 +5,21 @@ title: Music
 
 --------------------------------------------------------------------------------
 
-
+@ARTICLE{Martikainen2021-mx,  
+  title    = "Heavy metal toxicity and mortality-association between density of heavy metal bands and cause specific hospital admissions and mortality: population based cohort study",  
+  author   = "Martikainen, Pekka and Korhonen, Kaarina and Tarkiainen, Lasse",  
+  abstract = "OBJECTIVE: To assess the association between area level density of heavy metal bands and cause specific hospital admissions and mortality. DESIGN: Longitudinal register based cohort study.  SETTING: 311 municipalities in Finland. PARTICIPANTS: 3 644 944 people aged 15 to 70 residing in Finland at the end of 2001. MAIN OUTCOME MEASURES: Hospital admission and mortality from all causes, internal causes, alcohol attributable causes, accidental injury and violence, suicide or self-harm, and mental health related causes. Appendicitis and toxic effects of metals were negative control outcomes. RESULTS: During 50.4 million person years of follow-up in 2002-17, 4 237 807 person years with hospital admissions were observed and 221 912 individuals died.  Mortality in municipalities with a moderate density of heavy metal bands (<5.7 per 10 000 inhabitants) was lower than in municipalities with no heavy metal bands. Hospital admission rates were lower in municipalities with heavy metal bands compared with those with none. These associations could be explained partly by differences in the sociodemographic characteristics of residents in these municipalities. After adjustment for individual characteristics and area level cultural and economic characteristics-proportion of the population with no religious affiliation, unemployment rate, and per capita expenditure on culture and education-large cities with a high density of heavy metal bands (8.2-11.2 per 10 000) showed a mortality advantage (hazard ratio 0.92, 95\% confidence interval 0.88 to 0.96). In contrast, the association for hospital admission was fully attenuated (incidence rate ratio 0.99, 95\% confidence interval 0.92 to 1.06). The cause specific analysis showed similar results, with the association most pronounced for alcohol attributable mortality (hazard ratio 0.83, 95\% confidence interval 0.75 to 0.93 for cities with a high density of heavy metal bands) and alcohol attributable hospital admissions (incidence rate ratio 0.84, 95\% confidence interval 0.74 to 0.97 for cities with a high density of heavy metal bands) in the fully adjusted models. No association with heavy metal band density was found for the analysis using appendicitis as a negative control outcome. CONCLUSIONS: The study found no evidence for adverse health outcomes with increasing density of heavy metal bands. Cities with a high density of heavy metal bands showed slightly lower rates of mortality and of hospital admissions for alcohol related problems and self-harm. Although residual confounding remains a problem in observational studies, vibrant local heavy metal scenes-comparable to many other forms of cultural capital-might help to promote health through healthier lifestyles, better coping mechanisms, and a stronger sense of community.",  
+  journal  = "BMJ",  
+  volume   =  375,  
+  pages    = "e067633",  
+  month    =  dec,  
+  year     =  2021,  
+  address  = "England",  
+  language = "en",
+  category={Music, Health, Criticality, heavy metal, Urbanism}
+}  
+  
+  
 @article{yahr2016haggard,  
   Author={Yahr, Emily},  
   url={https://www.washingtonpost.com/news/arts-and-entertainment/wp/2016/04/08/merle-haggards-too-good-to-be-true-story-about-johnny-cash-it-really-happened/},  
@@ -15,8 +29,9 @@ title: Music
   comment={Merle Haggard almost certainly did see Johnny Cash play while he was incarcerated at San Quentin. While it wasn't _the_ show made famous on the record, Johnny Cash's concert itinerary had him at San Quentin during the years Merle Haggard was incarcerated there.},  
   category={Music, johnny cash, merle haggard, san quentin, prison}  
 }  
-
-
+% Now if only someone would look into whether Nichelle Nichols actually met Martin Luther King Jr.  
+  
+  
 @article{stephenson2020wendycarlos,  
   Author={Stephenson, Will},  
   url={https://harpers.org/archive/2020/10/the-well-tempered-synthesizer-wendy-carlos-amanda-swell/},  
