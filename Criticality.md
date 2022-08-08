@@ -6,6 +6,18 @@ title: Criticality
 --------------------------------------------------------------------------------
 
 
+
+@article{wilkinson2022beachhouses,  
+  Author={Wilkinson, Francis},  
+  url={https://www.nytimes.com/2022/08/08/opinion/climate-change-beach-house-erosion.html},  
+  Title={We Will All End Up Paying for Someone Else’s Beach House},  
+  journal={The New York Times},  
+  date={2022-08-08},  
+  comment={Whe the US was settled, the rich people passed by the beach seeking solid land to develop. Hundreds of years later, the rich realized their mistake and settled the beaches. Now they build bigger and bigger homes on the beaches (and spend less time on the actual beach). The beaches are already replenished by dredging paid for by public dollars (and then the public is charged for using the beaches). Soon the rich will start demanding more and more compensation from the government for their beach mansions wrecked by climate change, or expensive protection paid for by the government. "Strategic retreat" is a joke -- in New Zealand reatreating just 1000 properties over 100 years will cost a billion dollars.},  
+  category={Criticality, Urbanism, beach houses, beach}  
+}  
+  
+  
 @article{segnit2022leprince,  
   Author={Segnit, Nat},  
   url={https://harpers.org/archive/2022/04/who-killed-louis-le-prince-on-the-forgotten-father-of-film/},  

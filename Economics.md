@@ -730,6 +730,7 @@ See pdf here:\url{https://web.stanford.edu/~chadj/IdeaPF.pdf}
   comment={A nice breakdown of the cost of running a restaurant (occupancy costs: 10\%, labor: 30-40\%, and food: 30\%) and whether it's feasible in NYC where the occupancy costs are much higher than other places. (Though while this article says that almost everyone spends about 1400 a year on eating out, it doesn't address the fact that restaurants in NYC seem to get away with charging higher prices than everywhere else.)},  
   category={Economics, food, restaurants, nyc}  
 }  
+% See also this commentary on "The Bear" which talks about the restaurant industry's need for reform on wages and dignityurl{https://www.nytimes.com/2022/08/07/opinion/hulu-the-bear-restaurant-work.html}   
   
   
 @techreport{NBERw22731,  
