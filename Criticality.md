@@ -6,7 +6,17 @@ title: Criticality
 --------------------------------------------------------------------------------
 
 
-
+@article{mnookin2020simulmatics,  
+  Author={Mnookin, Seth},  
+  url={https://www.nytimes.com/2020/09/15/books/review/if-then-jill-lepore.html},  
+  Title={The Bumbling 1960s Data Scientists Who Anticipated Facebook and Google},  
+  journal={The New York Times},  
+  date={2020-09-15},  
+  comment={Review of Jill Lepores IF THEN, about the Simulmatics Corporation. The reviewer says that Lepore makes claims about Simulmatics having the best and the brightest people working on using early computing to make predictions about elections, Vietnam, and urban rioting, but in fact the company was entirely unsuccessful and full of incompetent people. 'The coup de grâce comes courtesy of the Department of Defense’s Advanced Research Projects Agency during a period in which the department was responsible for 70 percent of Simulmatics’ annual revenue: “Simulmatics reflects discredit not only upon itself as an organization — it appears more a sham — but upon behavioral research in general.”'},  
+  category={Criticality, big data, computer prediction, history}  
+}  
+  
+  
 @article{wilkinson2022beachhouses,  
   Author={Wilkinson, Francis},  
   url={https://www.nytimes.com/2022/08/08/opinion/climate-change-beach-house-erosion.html},  
