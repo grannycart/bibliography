@@ -6,6 +6,20 @@ title: Other Stuff
 --------------------------------------------------------------------------------
 
 
+
+@article{jacobs2022crazyeddie,  
+  Author={Jacobs, Alexandra},  
+  url={https://www.nytimes.com/2022/08/09/books/review-retail-gangster-gary-weiss.html},  
+  Title={Crazy Eddie’s Life Was Insane!},  
+  journal={The New York Times},  
+  date={2022-08-09},  
+  comment={Review of a new biography of Crazy Eddie by Gary Weiss. Crazy Eddie wasn't just behind the wacko NYC-area commercials that I remember from my youth, but also commiting fraud and crime on an international scale.},  
+  category={Other Stuff, nyc}  
+}  
+% A lot of this story is told elsewhere already, not the least of places being Wikipedia.  
+% In many ways, on many levels!, Crazy Eddie was an icon of a grittier and more colorful 1970s NYC.  
+  
+  
 @article{clune2022dreams,  
   Author={Clune, Michael W.},  
   url={https://harpers.org/archive/2022/04/night-shifts-dream-incubation-technology-sleep-research/},  
