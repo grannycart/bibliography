@@ -6,6 +6,18 @@ title: Criticality
 --------------------------------------------------------------------------------
 
 
+ 
+@article{robertson2022phillyshootings,  
+  Author={Robertson, Campbell},  
+  url={https://www.nytimes.com/2022/08/11/us/philadelphia-gun-violence-shootings.html},  
+  Title={‘Everybody Is Armed’: As Shootings Soar, Philadelphia Is Awash in Guns},  
+  journal={The New York Times},  
+  date={2022-08-11},  
+  comment={Philadelphia has had more than 1400 shootings this year with more than 300 dead --- more deaths than the much much larger NYC or LA. Most of the shootings are    happening in the very lowest income areas --- Philly is often called the country's      poorest big city. Philadelphia has a very progressive DA who avoids prosecuting people for gun possession arguing that even though they have massive gun arrests, only a quarter of fatal shootings have arrests. Others argue that if there's no consequences for carrying a gun, then what is to keep someone from getting one?  One young man explained it this way: If you were arrested, you could still see your family in jail. Not so if you were dead.},  
+  category={Criticality, Health, Urbanism, philadelphia, guns}  
+}  
+  
+  
 @article{mnookin2020simulmatics,  
   Author={Mnookin, Seth},  
   url={https://www.nytimes.com/2020/09/15/books/review/if-then-jill-lepore.html},  
