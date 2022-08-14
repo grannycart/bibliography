@@ -4,6 +4,19 @@ title: Novels
 ---
 
 --------------------------------------------------------------------------------
+
+@book{forester2018good,  
+  title={The Good Shepherd: A Novel},  
+  author={Forester, C.S.},  
+  isbn={9780525505938},  
+  url={https://books.google.com/books?id=39dhDwAAQBAJ},  
+  year={2018},  
+  publisher={Penguin Publishing Group}  
+}  
+% I read this whole novel under the mistaken impression that it was a modern novel by some world war II nerd. But it is in fact a 1955 novel by the guy who is most famous for writing the Horatio Hornblower series (he also wrote The African Queen). He also encouraged Roald Dahl to start writing.  
+% This is really a terrible novel. It's 200 pages of order (in dialog), order repeated (in dialog), and then an explanation of what that order accomplished. Repeat ad nauseum. The charcter of the captain is interestingly flawed, but I feel like there's not much space to appreciate that in a two day real-time retelling of a story (whatever his flaws, they don't have much impact on the story because they can't play a role in non-stop war action).  
+% Even some of the sentence constructions seem to make no sense or they were poorly edited. But more benefit of the doubt has to be given to him if the book was written in 1955. (Maybe the editors just had different standards then, and the minor racist elements can be put aside, I think.)  
+  
   
 @book{tolkien2003lord,  
   title={The Lord of the Rings},  
