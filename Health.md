@@ -2476,7 +2476,11 @@ category = {health, hospitals, heart attacks, cardiologists, patient safety}
   comment = {Review of Bergner's book \emph{What Do Women Want?} (Same name as his previous Times Magazine article), Discusses how women are as promiscuous as men, possibly evolved the female orgasm to have sex with multiple partners in a session, and that monogamous marriage is stifling women's sex drive. Also an interesting insight towards the end that when many scientists are finding similar things all of a sudden, it's because they went looking for them. And they went looking for them, because a cultural shift has already occurred.},  
   category = {sex, science, women}  
 }  
+% See also: \url{https://www.nytimes.com/2022/08/16/opinion/sex-women-feminism-rules.html}  
+% Which is a really good essay that pleasingly embraces the complexity of what women want rather than offering proscribed rules or solutions.  
   
+  
+https://www.nytimes.com/2022/08/16/opinion/sex-women-feminism-rules.html 
 @article{oppenheimersavage,  
   Author={Oppenheimer, Mark},  
   url={http://www.nytimes.com/2011/07/03/magazine/infidelity-will-keep-us-together.html},  
