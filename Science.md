@@ -5,6 +5,22 @@ title: Science
 
 --------------------------------------------------------------------------------
   
+@article{doi:10.1126/sciadv.1600377,  
+author = {Fabio Falchi  and Pierantonio Cinzano  and Dan Duriscoe  and Christopher C. M. Kyba  and Christopher D. Elvidge  and Kimberly Baugh  and Boris A. Portnov  and Nataliya A. Rybnikova  and Riccardo Furgoni },  
+title = {The new world atlas of artificial night sky brightness},  
+journal = {Science Advances},  
+volume = {2},  
+number = {6},  
+pages = {e1600377},  
+year = {2016},  
+doi = {10.1126/sciadv.1600377},  
+URL = {https://www.science.org/doi/abs/10.1126/sciadv.1600377},  
+eprint = {https://www.science.org/doi/pdf/10.1126/sciadv.1600377},  
+abstract = {The world atlas of zenith artificial night sky brightness is modelled with VIIRS DNB data and calibrated with more than 35,000 observations. Artificial lights raise night sky luminance, creating the most visible effect of light pollutionartificial skyglow. Despite the increasing interest among scientists in fields such as ecology, astronomy, health care, and land-use planning, light pollution lacks a current quantification of its magnitude on a global scale. To overcome this, we present the world atlas of artificial sky luminance, computed with our light pollution propagation software using new high-resolution satellite data and new precision sky brightness measurements. This atlas shows that more than 80\% of the world and more than 99\% of the U.S. and European populations live under light-polluted skies. The Milky Way is hidden from more than one-third of humanity, including 60\% of Europeans and nearly 80\% of North Americans. Moreover, 23\% of the worlds land surfaces between 75°N and 60°S, 88\% of Europe, and almost half of the United States experience light-polluted nights.},  
+category = {Science, Criticality, Urbanism, dark skies, light pollution}  
+}   
+% Also talks about how the increased use of LED lighting will vastly increase the light pollution of urban areas.  
+  
   
 @article{bittel2022starlings,  
   Author={Bittel, Jason},  
