@@ -16,7 +16,7 @@ title: Novels
 }  
 % Page XX: brief retelling of depth charge set to go off at 300 feet landing ooon the deck of the boat at 200 feet and rising to the surface. They tossed the hissing depth charge over the side.    
 % Page XX: description of bombed out dock area, with lots of detail of the grime and the scene of industrial decay. Reminds me of when they go through the military depot in Stalker.  
-% Page XX: reference to coffee at "nigger sweat". These two words are probably the reason you almost never hear anyone talking about reading this book any more. Which, fair enough. And as much as I'm against censorship and preserving the historical record, evil and all, why not just remove this line from the book? On the other hand, these guys ARE (technically) Nazis, even if reluctantly so. Maybe it's interesting to leave it in since just because the German Navy was (supposedly) not very enamored of Hitler, that doesn't mean they aren't just good ol' mid-century racists.  
+% Page 72: reference to coffee as "nigger sweat". These two words are probably the reason you almost never hear anyone talking about reading this book any more. Which, fair enough. And as much as I'm against censorship and preserving the historical record, evil and all, why not just remove this line from the book? On the other hand, these guys ARE (technically) Nazis, even if reluctantly so. Maybe it's interesting to leave it in since just because the German Navy was (supposedly) not very enamored of Hitler, that doesn't mean they aren't just good ol' mid-century racists.  
   
   
   
