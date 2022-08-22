@@ -7,6 +7,17 @@ title: Urbanism
 --------------------------------------------------------------------------------
   
   
+  
+@article{knafo2022williams,  
+  Author={Saki Knafo},  
+  url={https://www.nytimes.com/2022/08/19/nyregion/michael-k-williams-brooklyn.html},  
+  Title={The True Legacy of Michael K. Williams},  
+  journal={The New York Times},  
+  date={2022-08-19},  
+  comment={Michael K. Williams (Omar on the Wire) made his legacy the community organizing organization We Build the Block, which promotes on-the-ground healing for those involved in violence.},  
+  category={Urbanism, Criticality, community organizing, the wire}  
+}  
+  
 @article{kaplan2021littlelibrary,  
   Author={Kaplan, Erin Aubry},  
   url={https://www.nytimes.com/2021/12/05/opinion/gentrification-los-angeles-little-library.html},  
