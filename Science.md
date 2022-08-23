@@ -2038,6 +2038,18 @@ category={trees, Science},
   
 % Robots finally find the fuel: \url{https://www.nytimes.com/2017/11/19/science/japan-fukushima-nuclear-meltdown-fuel.html}  
   
+  
+@article{santora2022ukrainenukeplant,  
+  Author={Santora, Marc and Kramer, Andrew E.},  
+  url={https://www.nytimes.com/2022/08/23/world/europe/ukraine-zaporizhzhia-nuclear-power-plant.html},  
+  Title={In Ukraine, a Nuclear Plant Held Hostage},  
+  journal={The New York Times},  
+  date={2022-08-23},  
+  comment={The Zaporizhzhia Nuclear Power Plant in Ukraine came far closer already to being set on fire when a shell exploded near flammable cooling oil (and luckily didn't ignite). Workers are now working at literaly Russian gunpoint in long round-the-clock shifts. And the plant is again threatened by fighting nearby. Every pillar of safety for the plant is being violated.},  
+  category={Criticality, Science, superscience, ukraine, nuclear power, russia, war}  
+}  
+% Yet another reason nuclear power is a ridiculously dangerous method of generating power: would ANY other means of generating power be so dangerous that it would threaten an entire continent if it were (accidentally or deliberately) bombed? Can ANYONE guarantee an are free from conflict for the next hundred years that a plant is likely to operate? (Not even counting the 10,000 that it might have to have spent fuel on site). Would never happen in the US, you say? Oh, so you're absolutely SURE the south won't try to secede from the union in the next 50 years? And that the North won't once again try to force them to remain through force?  
+  
 @article{sim2017bunker,  
   Author={Sim, David},  
   url={http://www.ibtimes.co.uk/inside-top-secret-underground-cold-war-nuclear-facility-chongqing-china-1612177},  

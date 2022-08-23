@@ -6,7 +6,17 @@ title: Criticality
 --------------------------------------------------------------------------------
 
 
- 
+@article{coy2022grammar,  
+  Author={Coy, Peter},  
+  url={https://www.nytimes.com/2022/08/22/opinion/grammar-class.html},  
+  Title={Whom Can Tell One’s Social Class Based on Grammar?},  
+  journal={The New York Times},  
+  date={2022-08-22},  
+  comment={About how social class can be signaled in as few as seven words, and how education is one of the biggest signifiers of class these days. Spends a lot of space talking about the correct usage of me vs I.},  
+  category={Criticality, Grammar, Humanity, class}  
+}  
+% Not actually a very good article, but about a topic that I think is VERY rarely spoken (or written) about. I mean, everyone complains about grammar nazis, but very few are willing to admit that education IS class, because it both challenges the notions of education as equitable, and also challenges the sense of power that good liberal rich folks relish -- power from being smart and educated.     
+   
 @article{robertson2022phillyshootings,  
   Author={Robertson, Campbell},  
   url={https://www.nytimes.com/2022/08/11/us/philadelphia-gun-violence-shootings.html},  
