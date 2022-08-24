@@ -5,6 +5,16 @@ title: Transportation
 
 --------------------------------------------------------------------------------
 
+@article{streetsblog2022freetransit,  
+  Author={Wilson, Kea},  
+  url={https://usa.streetsblog.org/2022/08/23/why-arguments-against-free-transit-are-missing-the-point/},  
+  Title={Why Arguments Against ‘Free Transit’ Are Missing the Point},  
+  journal={Streetsblog},  
+  date={2022-08-23},  
+  comment={Interview with Destiny Thomas, who argues that it should be referred to as 'environmental racism' rather than climate change to focus on those most impacted. " [They’re asking,] ‘what’s the solution that benefits us all at one time?’ As opposed to asking themselves who’s suffering the most, and who’s been suffering the longest."},  
+  category={Criticality, Urbanism, Transportation, environmental justice}  
+}  
+
 
 @article{lepore2022bicycle,  
   Author={Lepore, Jill},  

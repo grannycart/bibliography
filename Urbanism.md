@@ -7,6 +7,25 @@ title: Urbanism
 --------------------------------------------------------------------------------
   
   
+@book{jacobs1961death,  
+  title={The Death and Life of Great American Cities},  
+  author={Jacobs, J.},  
+  isbn={9780394702414},  
+  series={A Vintage book ; V-241},  
+  url={https://books.google.com/books?id=jEMHAQAAIAAJ},  
+  year={1961},  
+  publisher={Vintage Books},   
+  category={Urbanism, new york city}  
+}  
+% (You should definitely re-read "The Need for Aged Buildings" chapter.)  
+% Page 268: Waterfronts too, can be made to act much more like seams than they ordinarily do today. The usual form of rescue for a decayed waterfront vacuum is to replace it with a park, which in turn becomes a border element---usually appallingly underused, as might be expected---and this moves the vacuum effect inland. It is more to the point to grasp the problem where it originates, at the shoreline, and aim at making the shore a seam. Waterfront work uses, which are often interesting, should not be blocked off from ordinary view for interminable stretches, and the water itself thereby blocked off from city view too at ground level. [Example of an industrial dock near her, with the line "Since it does not belong to the Parks Department nobody is forbidden anything." Then: This is not pretty-pretty, but it is an even greatly enjoyed on the dock.  
+% Page 307: East Harlem is declared a deprived country, and money is poured in from decisions by absentee experts from the remote continent inhabited by housers and planners. The more that poured in, the worse became the turmoils and troubles of East Harlem, and still more did it becomes like a deprived, backward country.  
+% Page 317: It is so easy to blame the decay of cities on traffic... or immigrants... or the whimsies of the middle class. The decay of cities goes deeper and is more complicated. It goes right down to what we think we want, and to our ignorance about how cities work. The forms in which money is used for city building---or withheld from use---are powerful instruments of city decline today. The forms in which money is used must be converted to instruments of regeneration---from instruments buying violent cataclysms to instruments buying continual, gradual, complex and gentler change.  
+% Page 334 footnote: On rats: debunking the argument that new buildings have fewer rats. She points out that demolishing old buildings just displaces rats, and the only way to get rid of them is with extermination. Given that construction is widely understood now to increase rat populations, I'm not sure anyone is still making this argument that new buildings help with the rat problem.  
+% Page 335: Corruption, on the other hand---either corruption for the sake of money or corruption for the sake of power---has a different nature from that of strait-laced bureaucracy. Corruption grows more inventive, rather than less so, the longer it has an object to play with. To combat both stultification and corruption, we ought, every eight or ten years at least, to try out new methods of subsidizing dwellings or add variations to old ones that are working well enough for us to retain. We ought even to call into being entirely new agencies for these new jobs, from time to time, and let old ones fade away. ... Deliberate, periodic changes in tactics of subsidy would afford opportunity to meet new needs that become apparent over time, but nobody can foresee in advance.  
+% Page 343: We went awry by replacing, in effect, each horse on the crowded city streets with half a dozen or so mechanized vehicles, instead of using each mechanized vehicles to replace half a dozen or so horses. The mechanical vehicles, in their overabundance, work slothfully and idle much. As one consequence of such low efficiency, the powerful and speedy vehicles, choked by their own redundancy, don't move much faster than horses. Trucks, by and large, do accomplish much of what might have been hoped for from mechanical vehicles in cities. They do the work of much greater numbers of horse-drawn vehicles or of burden-laden men. But because passenger vehicles do not, this congestion, in turn, greatly cuts down the efficiency of the trucks.  
+% Page 347: Excessive numbers of horses produced similar conflicts; people who have experienced an Amsterdam or New Delhi rush hour report that bicycle in massive numbers become an appalling mixture with pedestrians.  
+  
   
 @article{knafo2022williams,  
   Author={Saki Knafo},  
