@@ -6,6 +6,20 @@ title: Criticality
 --------------------------------------------------------------------------------
 
 
+@article{caplan2022school,  
+  Author={Caplan, Bryan},  
+  url={https://www.nytimes.com/2022/09/01/opinion/us-school-knowledge.html},  
+  Title={School Is for Wasting Time and Money},  
+  journal={The New York Times},  
+  date={2022-09-01},  
+  comment={Convincingly argues that school teaches very little that is retained long-term and instead fills a function mostly of credentialing (proving employers should trust you) and essentially day-care. He suggests that over the long-run in-person schooling has the same quality as web-based schooling done during the pandemic --- that is, barely any teaching at all. Web-based simply also did not provide the benefit of day care. He less convincingly argues that the solution to these issues is school vouchers.},  
+  category={Criticality, Economics, education, school, home schooling}  
+}  
+% The voucher thing really tips his hand as having an agenda rather than simply offering the type of critical analysis I appreciate. Why vouchers? School might be mostly day-care, but $15,000/year for high-quality day-care that includes educational programming is a good rate! What evidence is there that private institutions can provide better day-care with educational programming?  
+% And why not just try to FIX the programming problems? How about music programs that teach kids to play the kinds of music that they actually will make use of as adults (rock and hiphop)? Why not start foreign-language training when children are younger and actually retain foreign languages? And the basics of civics, science, and government ARE learnable things --- most people who know them pick them up from reading the paper(he admits that adults do retain skills in reading, writing, and math because they use those things every day) --- so why not train kids to learn those things by engaging with media; instill a lifetime of learning about those things rather than just a couple of years of rote memorizing in school?  
+% His criticisms ring very true for me, but not his solutions.  
+  
+  
 @article{coy2022grammar,  
   Author={Coy, Peter},  
   url={https://www.nytimes.com/2022/08/22/opinion/grammar-class.html},  
