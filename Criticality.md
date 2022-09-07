@@ -6,6 +6,20 @@ title: Criticality
 --------------------------------------------------------------------------------
 
 
+
+
+
+@article{goode2022seasoning,  
+  Author={Goode, J.J.},  
+  url={https://www.newyorker.com/culture/kitchen-notes/the-recipe-convention-that-dooms-home-cooks},  
+  Title={The Recipe Convention That Dooms Home Cooks},  
+  journal={The New Yorker},  
+  date={2022-09-03},  
+  comment={Seasoning is a matter of years of experience and skill, yet is often left in recipies as "season to taste." Goode argues that it is possible to give more precise instruction for seasoning.},  
+  category={Criticality, cooking, seasoning, food}  
+}  
+  
+  
 @article{caplan2022school,  
   Author={Caplan, Bryan},  
   url={https://www.nytimes.com/2022/09/01/opinion/us-school-knowledge.html},  

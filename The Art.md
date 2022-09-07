@@ -4,7 +4,27 @@ title: The Art
 ---
 
 --------------------------------------------------------------------------------
-
+ 
+@article{sloan2022cartoon,  
+  Author={Sloan, Will},  
+  url={https://www.newyorker.com/culture/culture-desk/the-cartoon-mystery-that-stumped-the-internet},  
+  Title={The Cartoon Mystery That Stumped the Internet},  
+  journal={The New Yorker},  
+  date={2022-09-06},  
+  comment={A screen showing a cartoon from the 1990s in the background of family photo sets off a giant hunt on the internet to identify it. Even though at one point searching for the picture was more likely to yield results that were the hunt itself, the identity of the cartoon was eventually established.},  
+  category={The Art, Criticality, cartoons, internet}  
+}  
+% Not discussed: that for every one of these desperate internet searches, there must be dozens that never rise to the attention of the internet. There is still SO MUCH that is NOT on the internet. SO MUCh that would require this amount of work by all these people to earn a spot on the internet consciousness.  
+% There's much more here than what the article is about. Really, it is about cultural consciousness. So much more has slipped from the cultural consciousness than remains in it.  
+% There's different categories: There's things actively in the cultural consciousness.  
+% There's stuff that is rememberd by many if mentioned, but not actively discussed (Roots)  
+% There's stuff that is remembered by few or very few, and those few are online enough to identify a query by someone else (This cartoon).  
+% There' stuff that is remembered by very few, but NOT identifiable by anyone online (older stuff, this cartoon until it WAS identified).  
+% There's stuff that's not remembered by anyone, but exists in a record somewhere.  
+% There's stuff that's not remembered and not recorded anywhere. (Likely the biggest category).  
+% And these categories are JUST things I would call "cultural consiousness" materials --- things that MANY people shared at some point. There's also so MUCH MORE that's within personal or family/friend group consciousness only.  
+% And there's also a distinction between stuff that only makes it to a level of consciousness among a small group of fanatics (say, Laibach) and stuff that is common household knowledge. And there's CURRENT and ACTIVE common household culture (Lord of the Rings), and forgotten household culture (All in the Family).  
+  
   
 @article{blum2022movieeconomics,  
   Author={Blum, Jason},  
