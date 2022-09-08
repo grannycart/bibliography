@@ -5,6 +5,19 @@ title: Transportation
 
 --------------------------------------------------------------------------------
 
+
+@article{dillon2022highwayexpansion,  
+  Author={Dillon, Liam and Poston, Ben},  
+  url={https://www.latimes.com/projects/us-freeway-highway-expansion-black-latino-communities/},  
+  Title={Freeways force out residents in communities of color — again},  
+  journal={Los Angeles Times},  
+  date={2021-11-11},  
+  comment={More than 200,000 people nationwide have lost their homes over the last three decades due to highway expansion. Mostly in communities of color. The expansion of highways continues to displace and divide communities of color. It's not just an issue from history..},  
+  category={Transportation, Criticality, highways}  
+}  
+% And huge new infrastructure funding from the Biden administration is on the way, likely to mostly be used for expanding highways.  
+  
+  
 @article{streetsblog2022freetransit,  
   Author={Wilson, Kea},  
   url={https://usa.streetsblog.org/2022/08/23/why-arguments-against-free-transit-are-missing-the-point/},  
