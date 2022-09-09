@@ -6,9 +6,19 @@ title: Criticality
 --------------------------------------------------------------------------------
 
 
-
-
-
+@article{brooks2022openplans,  
+  Author={Brooks, David},  
+  url={https://www.nytimes.com/2022/09/08/opinion/open-plan-office-awful.html},  
+  Title={The Immortal Awfulness of Open Plan Workplaces},  
+  journal={The New York Times},  
+  date={2022-09-08},  
+  comment={Brooks catalogs the long and strong evidence against productivity of open plan workplaces. This is an instance where notions of transparency are clearly not beneficial.},  
+  category={Criticality, office, open plan}  
+}  
+% This so strongly reminds me of the characteristic of induced demand in highways, where even the unquestionable empirical evidence against building more highways is presented to experts, they still will soon fall back to the "common sense" idea that more highways is the solution to traffic.  
+% The empirical evidence against open plan offices is overwhelming, but smart people just can't let it go.  
+  
+  
 @article{goode2022seasoning,  
   Author={Goode, J.J.},  
   url={https://www.newyorker.com/culture/kitchen-notes/the-recipe-convention-that-dooms-home-cooks},  
