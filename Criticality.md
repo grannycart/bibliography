@@ -6,6 +6,21 @@ title: Criticality
 --------------------------------------------------------------------------------
 
 
+
+
+@article{manjoo2022nuclear,  
+  Author={Manjoo, Farhad},  
+  url={https://www.nytimes.com/2022/09/16/opinion/nuclear-power-still-doesnt-make-much-sense.html},  
+  Title={Nuclear Power Still Doesn’t Make Much Sense},  
+  journal={The New York Times},  
+  date={2022-09-16},  
+  comment={Nuclear power plants might not be as dangerous as the public widely believes, but they are still insanely expensive, prone to cost-overruns, and take forever to build. Manjoo argues their time has simply passed. In 2021 and 2022 the same amount      of wind and solar power was added to the planet as the capacity of all the world's nuclear power plants. And they are still dangerous, as the war in Ukraine and having to shut down plants due to the risk of storm or earthquakes makes clear.},  
+  category={Criticality, nuclear power}  
+}  
+% Talks about the dangers of nuclear power in war, but not the fact that the war in Ukraine revealed to the world how dangerous nuclear power plants are as a strategic goal in war: if you can capture a plant you control the power generation and if anyone attacks the plant you can cry that they are endangering the entire populaion's lives.  
+% This means that you would need to be confident when you built a plant that a war won't break out there in the next 100 years that the plant might be operating. Can you guarantee Georgia (where one new plant is being built right now) won't try to leave the union in the next 100 years and set off another civil war?  
+  
+  
 @article{brooks2022openplans,  
   Author={Brooks, David},  
   url={https://www.nytimes.com/2022/09/08/opinion/open-plan-office-awful.html},  
