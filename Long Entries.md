@@ -204,6 +204,8 @@
 % Page 588: The army ants and the driver ants hunt by creating pseudopods of ants that spread out slowly from a trunk, rather than a singular ants randomly foraging. In Africa the driver ants drive everything before them and consume anything they find, including large animals that do not get out of the way. This page contains an awesome descriptive excerpt from the mid-19th Century of driver ants invading a house and the people standing on chairs to escape them.
 % 597: The sheer mass of leafcutter ants (mostly _Atta_) and the amount they consumed is detailed on 597. Including the fact that there are few large herbivores in Central and South America because the ants consume most of the vegetation.
 % 607, and some stuff in pages before: the ants use their fungus to act as external pre-digesters of plant matter. By growing fungus on the plants, they found a way to consume many plants that are toxic to other insect herbivores.
+% See this article with an estimate for the total number of ants on Earth: \url{https://www.nytimes.com/2022/09/22/science/ants-census-20-quadrillion.html}
+	% "new ant census count: 20 quadrillion — 20 with 15 zeros following it. Ants outnumber humans at least 2.5 million to 1."
 
   
    
