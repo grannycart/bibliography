@@ -7,6 +7,19 @@ title: Urbanism
 --------------------------------------------------------------------------------
   
   
+  
+@article{chen2022units,  
+  Author={Chen, Stefanos},  
+  url={https://www.nytimes.com/2022/09/23/realestate/nyc-apartments-housing-shortage.html},  
+  Title={Taller Towers, Fewer Homes},  
+  journal={The New York Times},  
+  date={2022-09-23},  
+  comment={There are now a number of cases where developers have torn down buildings and built larger buildings with FEWER units in them in order to cater to the ultra-wealthy market.},  
+  category={Urbanism, Criticality}  
+}  
+% Once again, unbridled capitalism fails to generate the incentives that would create the city we actually want. Why are planners so committed to free-market economics again?    
+  
+  
 @book{jacobs1961death,  
   title={The Death and Life of Great American Cities},  
   author={Jacobs, J.},  
