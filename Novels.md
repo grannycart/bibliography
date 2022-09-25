@@ -5,6 +5,19 @@ title: Novels
 
 --------------------------------------------------------------------------------
 
+@book{goldman1998princess,  
+  title={The Princess Bride: S. Morgenstern's Classic Tale of True Love and High Adventure : the "good Parts" Version, Abridged},  
+  author={Goldman, W.},  
+  isbn={9780345430144},  
+  lccn={98039556},  
+  series={The Princess Bride},  
+  url={https://books.google.com/books?id=u5u5RwAACAAJ},  
+  year={1998},  
+  publisher={Ballantine Publishing Group}  
+}
+Page X (introduction): Norman Lear gave the money to keep the movie in development moving forward.  
+  
+  
 @book{stewart2021storm,  
   title={Storm},  
   author={Stewart, G.R. and Rich, N.},  
