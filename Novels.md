@@ -5,7 +5,22 @@ title: Novels
 
 --------------------------------------------------------------------------------
 
-
+@book{stewart2021storm,  
+  title={Storm},  
+  author={Stewart, G.R. and Rich, N.},  
+  isbn={9781681375182},  
+  lccn={2020013652},  
+  url={https://books.google.com/books?id=rFk\_EAAAQBAJ},  
+  year={2021},  
+  publisher={New York Review Books},  
+  comment={Originally published in the 1940s, this novel tells the tale of a storm---from the perspective of the storm.}
+}
+% See review of Stewart's books in Harper's \url{https://harpers.org/archive/2021/11/forbidding-planet-george-r-stewart-storm/}  
+% Page 25: includes a glyph for an upside down '5', but they printed the wrong glyph.  
+% Page 42: The term 'front' is a military term that may be a phonological accident. The meteorology was developed in the years following the first world war. Stewart suggests that if it had been developed during peaceful times, it may have been a term derived from marriage instead of war --- which is just as apt a metaphor for the weather as war is.  
+% Page 82: The white farmers built levees to keep the river off their land, but when all the white men did this, the river just rose and eventually topped the levees again. This was only fixed (says Stewart) when the engineers looked at the river as a whole, and figure out it needed to be able to flood in places.  
+% Page 127: A description of the vegetation sucking up countless tanker cars worth of water.  
+% Page 266: "16 dead by storm!" says the paper. But Stewart says the storm was just the occasion of their death, and the cause was their own mortality. Stewart says if the papers are going to hold the storm responsible for 16 deaths, "why not hundreds? Many invalids died during the days of the storm, their deaths precipitated by chills and heart-depression, attributable to the weather. Some healthy persons suffered wet feet which led to colds, pneumonia, and death within a few weeks. Other colds resulted in weakened resistance which opened the way for various fatal diseases.  
 
 
 @book{buchheim2021boot,  
@@ -17,7 +32,7 @@ title: Novels
   year={2021},  
   publisher={Orion}  
 }  
-% Page 13: brief retelling of depth charge set to go off at 300 feet landing ooon the deck of the boat at 200 feet and rising to the surface. They tossed the hissing depth charge over the side.    
+% Page 13: brief retelling of depth charge set to go off at 300 feet landing on the deck of the boat at 200 feet and rising to the surface. They tossed the hissing depth charge over the side.    
 % Page 31-33: description of bombed out dock area, with lots of detail of the grime and the scene of industrial decay. Reminds me of when they go through the military depot in Stalker.  
 % Page 72: reference to coffee as "nigger sweat". These two words are probably the reason you almost never hear anyone talking about reading this book any more (there is also a second use of the n-word later in the book). Which, fair enough. And as much as I'm against censorship and preserving the historical record, evil and all, why not just remove this line from the book? On the other hand, these guys ARE (technically) Nazis, even if reluctantly so. Maybe it's interesting to leave it in since just because the German Navy was (supposedly) not very enamored of Hitler, that doesn't mean they aren't just good ol' mid-century racists.  
 % Page 125: "Actually we ought to be able to get along with a lot fewer men. I keep imagining a boat that would only need a crew of two or three. Exactly like an airplane. Basically we have all these men on board because the designers failed to do a proper job."  
