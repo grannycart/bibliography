@@ -5,6 +5,9 @@ title: Novels
 
 --------------------------------------------------------------------------------
 
+
+
+
 @book{buchheim2021boot,  
   title={Das Boot},  
   author={Buchheim, L.G.},  
@@ -14,9 +17,14 @@ title: Novels
   year={2021},  
   publisher={Orion}  
 }  
-% Page XX: brief retelling of depth charge set to go off at 300 feet landing ooon the deck of the boat at 200 feet and rising to the surface. They tossed the hissing depth charge over the side.    
-% Page XX: description of bombed out dock area, with lots of detail of the grime and the scene of industrial decay. Reminds me of when they go through the military depot in Stalker.  
-% Page 72: reference to coffee as "nigger sweat". These two words are probably the reason you almost never hear anyone talking about reading this book any more. Which, fair enough. And as much as I'm against censorship and preserving the historical record, evil and all, why not just remove this line from the book? On the other hand, these guys ARE (technically) Nazis, even if reluctantly so. Maybe it's interesting to leave it in since just because the German Navy was (supposedly) not very enamored of Hitler, that doesn't mean they aren't just good ol' mid-century racists.  
+% Page 13: brief retelling of depth charge set to go off at 300 feet landing ooon the deck of the boat at 200 feet and rising to the surface. They tossed the hissing depth charge over the side.    
+% Page 31-33: description of bombed out dock area, with lots of detail of the grime and the scene of industrial decay. Reminds me of when they go through the military depot in Stalker.  
+% Page 72: reference to coffee as "nigger sweat". These two words are probably the reason you almost never hear anyone talking about reading this book any more (there is also a second use of the n-word later in the book). Which, fair enough. And as much as I'm against censorship and preserving the historical record, evil and all, why not just remove this line from the book? On the other hand, these guys ARE (technically) Nazis, even if reluctantly so. Maybe it's interesting to leave it in since just because the German Navy was (supposedly) not very enamored of Hitler, that doesn't mean they aren't just good ol' mid-century racists.  
+% Page 125: "Actually we ought to be able to get along with a lot fewer men. I keep imagining a boat that would only need a crew of two or three. Exactly like an airplane. Basically we have all these men on board because the designers failed to do a proper job."  
+% Page 203: They push the boat beyond 700 feet (the boat is rated to 300 feet) while being depth charged. All the power goes out and the depth gauges explode. So they are feeling around on the floor in the dark for the needle that blew off the depth gauge because without it not only do they not know how deep they are, but they also don't know if the boat is rising or sinking. "It feels as if all our lives depend on whether this this strip of metal will move or not."  
+% Page 350: "If a rivet should give way know it could---as I well know---plow straight through my skull like a bullet. The pressure! A stream of water breaking into the boat could saw a man in half."  
+% Page 438: A shovelful of sand under our keel.  
+% Page 442: "After all, this is exactly what you wanted. You were up to your neck in easy living. You wanted to try something heroic for a change. 'To stand for once before the ineluctable...' You got drunk on it all. '...where no mother cares for us, no woman crosses our path, where only reality reigns, grim in all its majesty...' Well, this is it, this is reality."  
   
   
   
