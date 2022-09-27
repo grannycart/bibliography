@@ -6,6 +6,20 @@ title: Politics and Public Policy
 --------------------------------------------------------------------------------
 
 
+
+@article{raskin2022secondamendment,  
+  Author={Raskin, Jamie},  
+  url={https://www.nytimes.com/2022/09/27/opinion/us-second-amendment.html},  
+  Title={The Second Amendment Gives No Comfort to Insurrectionists},  
+  journal={The New York Times},  
+  date={2022-09-27},  
+  comment={Makes a (very convincing) argument that the 2nd amendment does not protect an imagined right of citizens to overthrow the government. Raskin points out that this would both be conceptually nonsensical and also that it is not supported by anything in precedent or history. The "militia" in the second amendment is clearly referring to a state institution, not a free citizenry one. If you want to overthrow the government (ala the Declaration of Independence) you have to do it against the laws and powers of the state. Arguing the constitution has some invisitble-ink right to arm oneself against the governement is nothing but a right-wing fabricated talking point.},  
+  category={Criticality, Politics, second amement, right to bear arms, insurrection, militias}  
+}  
+% Good thing too, because if this (bizarro-world) right WERE in the constitution, there is no way automatic weapons (or tanks, or RPGs) could be illegal for the public to own, as they are.  
+% If you want to start an insurrection, you need automatic weapons. If you have automatic weapons, you are doing something illgal and anti-government, not defending it. Suck it up right-wingers.  
+  
+  
 @article{beaumont2020dems,  
   Author={Beaumont, Thomas},  
   url={https://apnews.com/article/election-2020-donald-trump-tom-bakk-iowa-minnesota-01881b095d7a8b0d7b61923c4a93627d},  
