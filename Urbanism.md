@@ -6,6 +6,16 @@ title: Urbanism
 
 --------------------------------------------------------------------------------
   
+@article{russell2022poundbury,  
+  Author={Russell, Anna},  
+  url={https://www.newyorker.com/news/letter-from-the-uk/king-charless-vision-of-britain-writ-small},  
+  Title={King Charles’s Vision of Britain, Writ Small},  
+  journal={The New Yorker},  
+  date={2022-09-24},  
+  comment={About Pounbury a small development with planned rules like Seaside Florida, except with a mishmash of architectural styles. It was a pet project of King Charles.},  
+  category={Urbanism, Criticality, poundbury, seaside, king charles, england}  
+}  
+% This article has an odd tone that is fairly critical of Poundbury, but has very little that is bad about it to point to.    
   
   
 @article{chen2022units,  
