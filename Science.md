@@ -2049,6 +2049,11 @@ category={trees, Science},
   category={Criticality, Science, superscience, ukraine, nuclear power, russia, war}  
 }  
 % Yet another reason nuclear power is a ridiculously dangerous method of generating power: would ANY other means of generating power be so dangerous that it would threaten an entire continent if it were (accidentally or deliberately) bombed? Can ANYONE guarantee an are free from conflict for the next hundred years that a plant is likely to operate? (Not even counting the 10,000 that it might have to have spent fuel on site). Would never happen in the US, you say? Oh, so you're absolutely SURE the south won't try to secede from the union in the next 50 years? And that the North won't once again try to force them to remain through force?  
+  % See: \url{https://www.nytimes.com/2022/10/09/science/ukraine-nuclear-power-plant-crisis.html}  
+    % “If you get hit near a populated area, you’re talking about huge evacuations and salting the earth for 20 or 30 years,” said Henry D. Sokolski.   
+    % Yet, nowhere in this article does anyone suggest that this should go on the list of reasons to not build nuclear power.  
+    % Nor does it discuss that Russia's move against Ukraine's plants has DEMONSTRATED to the world the value of regarding nuclear plants as tactical targets.  
+  
   
 @article{sim2017bunker,  
   Author={Sim, David},  
