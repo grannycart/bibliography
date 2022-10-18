@@ -482,6 +482,8 @@ category = {Transportation, driving, Criticality}
   comment={Covers how bananas are distributed by mom and pop operators in NYC, unlike the giant grocery store chains that handle them in most of the rest of the country. Covers this history of bananas, including where the gag of slipping on a banana peel comes from, the fall of the Gros Michel to Panama Disease and its replacement with the Cavendish. And how the Cavendish is now also susceptible to Panama Diseas.},  
   category={Transportation, Health, bananas, history}  
 }  
+% See also \url{https://www.nytimes.com/2022/10/17/science/banana-ancestors-genes.html}  
+% On the genetic background of the banana. Seems to suggest that the Cavendish is not doomed at the moment.
   
   
 @article{anderson2014bikesidewalks,  
