@@ -6,6 +6,19 @@ title: Urbanism
 
 --------------------------------------------------------------------------------
   
+  
+@article{hu2022metrotech,  
+  Author={Hu, Winnie},  
+  url={https://www.nytimes.com/2022/10/17/nyregion/metrotech-brooklyn-commons.html},  
+  Title={Can $50 Million Make a Dull Brooklyn Office Park Cool?},  
+  journal={The New York Times},  
+  date={2022-10-17},  
+  comment={MetroTech Center is being rebranded as "Brooklyn Commons" because the original plan that it would be a tech hub in Brooklyn did not come to pass, even while Brooklyn itself thrived around it. Contains a nice history of how MetroTech Center came to be in the 1990s and how it succeeded despite the interest of tech companies.},  
+  category={Urbanism, nyc, metrotech center, brooklyn commons, brooklyn}  
+}  
+% Contains maybe the most poignant 12 words on urban planning ever quoted: “It kind of worked out, but not the way he envisioned it,” said Kurt Becker, the vice dean of research, innovation and entrepreneurship at the New York University Tandon School of Engineering.  
+  
+  
 @book{glaeser2012triumph,  
   title={Triumph of the City: How Our Greatest Invention Makes Us Richer, Smarter, Greener, Healthier, and Happier},  
   author={Glaeser, E.},  
