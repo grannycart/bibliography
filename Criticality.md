@@ -6,6 +6,15 @@ title: Criticality
 --------------------------------------------------------------------------------
 
 
+@article{schulz2022lottery,  
+  Author={Schulz, Kathryn},  
+  url={https://www.newyorker.com/magazine/2022/10/24/what-weve-lost-playing-the-lottery},  
+  Title={What We’ve Lost Playing the Lottery},  
+  journal={The New Yorker},  
+  date={2022-10-17},  
+  comment={Review of “For a Dollar and a Dream: State Lotteries in Modern America,” by the historian Jonathan D. Cohen. The early United States made much use of lotteries for funding public projects without raising taxes. But corruption led to them being banned in the late 1800s. Later they came back again, sold to states as a way to bring in vast amounts of money without raising taxes. This is not true. In reality, lotteries bring in very small amounts of money that rarely impact the areas the money may be targeted towards (like education) and at the same time the public bedomes resistant to raising taxes to support those areas because they believe there's all this lottery money which doesn't exist. Meanwhile, lotteries regressively exploit poor people. Despite this, states lotteries have exploded, especiall scratcher tickets driven by the shady lobbing practices of the company S.G.I. In 1978, “bingo games hosted by Ohio Catholic high schools took in more money than the state’s lottery.”},  
+  category={Criticality, lotteries, lotto, scratcher tickets}  
+}  
 
 
 @article{manjoo2022nuclear,  
