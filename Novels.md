@@ -16,6 +16,7 @@ title: Novels
   publisher={Ballantine Publishing Group}  
 }
 Page X (introduction): Norman Lear gave the money to keep the movie in development moving forward.  
+Page 335: Do you know the most important six words in the last thirty years in World Culture? I'll tell you what they are. Peter Benchley came up with them when he was walking along a beach and the words were these: "What if the shark got territorial?" Because out of that came the novel Jaws, and then the movie Jaws, and nothing's really been the same since.  
   
   
 @book{stewart2021storm,  
