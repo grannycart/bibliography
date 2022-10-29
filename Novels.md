@@ -5,6 +5,18 @@ title: Novels
 
 --------------------------------------------------------------------------------
 
+@book{borges1962ficciones,  
+  title={Ficciones},  
+  author={Borges, J.L. and Kerrigan, A. and Reid, A. and Bonner, A. and Temple, H. and Todd, R.},  
+  isbn={9780394172446},  
+  lccn={62013054},  
+  series={An Evergreen book},  
+  url={https://books.google.com/books?id=tKX2SQAACAAJ},  
+  year={1962},  
+  publisher={Grove Press}  
+}  
+  
+  
 @book{goldman1998princess,  
   title={The Princess Bride: S. Morgenstern's Classic Tale of True Love and High Adventure : the "good Parts" Version, Abridged},  
   author={Goldman, W.},  
