@@ -12,7 +12,7 @@
   year={2012},  
   publisher={Penguin Publishing Group},
   comment={This book sucks. See notes.},  
-  category={Urbanism, nyc, detroit, slums, ghettos, favelas, jane jacobs}
+  category={Long Entries, Urbanism, nyc, detroit, slums, ghettos, favelas, jane jacobs}
 }   
 % Overall this book suffers from the same thing much economics and social (so-called) science suffer from: cherry-picked data to form a narrative that barely holds water and weakens with every year since publishing, and stretching the rule of causation vs correlation. I find myself constantly arguing with the author in my head while reading, and regularly finding giant holes in his logic, and places where he contradicts his own argument depending on what point he's trying to make about how great cities are. Pretty frustrating, since I agree with the basic premise that cities *are* capabale of all the claims of the subtitle!    
 % Page 4: The harbor was NYC's anchor that centralized so many industries as people wanted to be as close to where goods came off the boat as possible. The Roosevelt family made their fortune building sugar refineries in the city, close to customers so they sugar wouldn't be ruined by a water voyage. NYC's publishing dominance was because they were able to publish bootlegged books from Europe before anyone else.    

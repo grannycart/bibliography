@@ -6,6 +6,18 @@ title: Criticality
 --------------------------------------------------------------------------------
 
 
+  
+@article{grier2017smoking,  
+  Author={Grier, Jacob},  
+  url={https://slate.com/technology/2017/02/secondhand-smoke-isnt-as-bad-as-we-thought.html},  
+  Title={We Used Terrible Science to Justify Smoking Bans},  
+  journal={Slate},  
+  date={2017-02-13},  
+  comment={The science behind the dangers of second hand smoking (and thus the justification for smoking bans) was deeply flawed, for reasons that are now standard in problematic science: "The first is that small sample sizes allowed random variances in data to be mistaken for real effects. The second is that most previous studies failed to account for existing downward trends in the rate of heart attacks. And the third is publication bias: Since no one believes that smoking bans increase heart attacks, few would bother submitting or publishing studies that show a positive correlation or null effect." This particular applies to findings that secondhand smoke increases the risk of heart attacks --- these findings disappear entirely in large-scale studies. But even lung disease risk is very low for secondhand smoke. (People who smoke cigarettes are, of course, still taking huge risks.) The article concludes by pointing out that this has implications for journalism: bad studies reporting wildly implausible positive health outcomes from smoking bans were picked up by the media. Critical voices pointing out how insane the findings were were ignored.},  
+  category={Criticality, second hand smoking, smoking, Health, media, journalism}  
+}  
+  
+  
 @article{schulz2022lottery,  
   Author={Schulz, Kathryn},  
   url={https://www.newyorker.com/magazine/2022/10/24/what-weve-lost-playing-the-lottery},  
