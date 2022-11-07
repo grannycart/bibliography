@@ -151,7 +151,10 @@ category = {Science, Criticality, Urbanism, dark skies, light pollution}
 % lens the hippies want to bring to it, and doesn't read as well as
 % a pop news article (at least not at just this moment, it might after
 % the Wood-Wide Web becomes more widely distributed as a meme, and the
-% entertaining part is poking holes in in). 
+% entertaining part is poking holes in it).  
+%  
+% See also this article that raises the debate among scientists about the extent and reality of the wood-wide web; \url{https://www.nytimes.com/2022/11/07/science/trees-fungi-talking.html}  
+	% Another all-time great quote here: "`Scientists,' Dr. Karst concluded in her presentation, `have become vectors for unsubstantiated claims.'"  
 
 
 @book{wolfe2008right,  
