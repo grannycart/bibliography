@@ -6,6 +6,18 @@ title: Sport
 --------------------------------------------------------------------------------
 
 
+@article{belson2022packers,  
+  Author={Belson, Ken},  
+  url={https://www.nytimes.com/2022/08/12/sports/football/green-bay-packers-shareholders-fans.html},  
+  Title={How Much Do N.F.L. Teams Make? Packers Fans Paid to Find Out.},  
+  journal={The New York Times},  
+  date={2022-08-12},  
+  comment={The Green Bay Packers are owned by the fans, though perhaps more symbolically than in reality. This article covers (loosely) their finances.},  
+  category={Sports, green bay packers}  
+}  
+% This could be a better article. It doesn't mention the charity work of the Packers, and hints at how the public nature of the Packer's finances suggests things about all football teams, but doesn't really say what.  
+
+
 @article{reynolds2021banana,  
   Author={Reynolds, Gretchen},  
   url={https://www.nytimes.com/2018/04/04/well/move/banana-sports-drinks-exercise-workout-carbs.html},  
