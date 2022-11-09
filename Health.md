@@ -7,6 +7,17 @@ title: Health
   
   
   
+@article{wise2022longcovid,  
+  Author={Wise, Jeff},  
+  url={https://nymag.com/intelligencer/2022/11/is-long-covid-actually-chronic-fatigue-syndrome.html},  
+  Title={Has Long COVID Always Existed?},  
+  journal={New York Magazine},  
+  date={2022-11-04},  
+  comment={Suggests that Long Covid is likely the same things as Cronic Fatigue Syndrome (and possibly a whole host of other diseases that have nebulous and persistent symptoms.) Goes on to argue that the basis for these diseases is psychiatric. NOT that the diseases aren't real or should be dismissed -- the best current thinking is that the symptoms are triggered by a real traumatic event (which could be a virus, but could also be a traumatic experience that isn't a disease) and that the inability to recover is based on the mental state of the patient. Nebulous symptoms like this have been around for many years, almost always affecting middle-aged/middle class women. This is not to suggest that the patient needs to "just get over it" but that the best treatments are psychiatric: namely Cognitive Behavioral Therapy and Graded Exercise Therapy (slowly increasing exercise). However, there is a huge public backlash against the idea that it is a mental disorder by people insisting the symptoms are biological, despite the fact that scientific evidence keeps piling up for a mental cause. The backlash is causing scientists to refrain from speaking out about the issue.},  
+  category={Health, Criticality, long covid, cronic fatigue syndrome, psychiatry}  
+}  
+  
+  
 @article{junod2017massshootings,  
   Author={Junod, Tom},  
   url={https://www.esquire.com/news-politics/a30024/mass-shooters-1014/},  
