@@ -2038,8 +2038,8 @@ category={trees, Science},
   category={Humanity, Science, superscience, fukushima, nuclear power plants, disasters, ice walls}  
 }  
 % The Japanese government predicts it will take 40 years to clean up the plant. And Revkin thinks nuclear power is a viable option because...?  
-  
 % Robots finally find the fuel: \url{https://www.nytimes.com/2017/11/19/science/japan-fukushima-nuclear-meltdown-fuel.html}  
+% See also the aversion of a 2nd meltdown after a rat chewed the cables to a cooling system: \url{https://www.nytimes.com/2013/03/21/world/asia/rat-at-fukushima-plant.html}  
   
   
 @article{santora2022ukrainenukeplant,  
