@@ -13,7 +13,9 @@ title: Novels
   series={An Evergreen book},  
   url={https://books.google.com/books?id=tKX2SQAACAAJ},  
   year={1962},  
-  publisher={Grove Press}  
+  publisher={Grove Press},  
+  comment={A collection of Borges short stories. \emph{Tlon, Qbar, Orbis Tertius} tells the story of a secret society that works across generations to create an encyclopedia of an imaginary planet whose philosophies are grounded in conceptualizations of the infinite -- so every book is by the same author, fiction has one plot with infinite permutations, nouns are formed by the accumulation of adjectives. \emph{The Approach to Al-Mu'tasim} describes searching for a single man entirely through questioning the reflections that man has left on others. \emph{Pierre Menard, Author of Don Quixote} describes a man who carries out a task of writing (parts of) Don Quixote. The narrator reveals that the parts of Don Quixote written by Pierre Menard (though exactly the same as the version written by Cervantes) have a different meaning than the original. \emph{The Babylon Lottery} describes a game of chance, carried out by the Company, that grows ever more popular until all events and circumstance are determined by the lottery (pre-dating of course the possibility that dungeons and dragons/tabletop gaming represent precisely this scenario). \emph{The Library of Babel} is about an (infinite?) library made up of books containing every possible permutation of the alphabet.},  
+  category={Novels, short stories, borges, magical realism},  
 }  
   
   
