@@ -5,8 +5,20 @@ title: Criticality
 
 --------------------------------------------------------------------------------
 
-
+@book{pomerantsev2015nothing,  
+  title={Nothing Is True and Everything Is Possible: The Surreal Heart of the New Russia},  
+  author={Pomerantsev, P.},  
+  isbn={9781610396004},  
+  lccn={2014018638},  
+  url={https://books.google.com/books?id=4R0MtAEACAAJ},  
+  year={2015},  
+  publisher={PublicAffairs},  
+  comment={How money and gangsterism were released on Russia after the collapse of the Soviet Union, and how that is managed in the media.},  
+  category={Criticality, Politics, russia, gangsters},  
+}  
+% Page 32: In the west, politicians try to act like upstanding citizens, and the movies are all about gangsters. In Russia, the politicians try to act like gangsters, and the TV and movies are all happy.    
   
+    
 @article{grier2017smoking,  
   Author={Grier, Jacob},  
   url={https://slate.com/technology/2017/02/secondhand-smoke-isnt-as-bad-as-we-thought.html},  
