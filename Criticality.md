@@ -17,6 +17,9 @@ title: Criticality
   category={Criticality, Politics, russia, gangsters},  
 }  
 % Page 32: In the west, politicians try to act like upstanding citizens, and the movies are all about gangsters. In Russia, the politicians try to act like gangsters, and the TV and movies are all happy.    
+% Page 48: "When the President will go on to annex Crimea and launch his new war with the West, RT will be in the vanguard, fabricating startling fictions about fascists taking over Ukraine." -- This book was written in 2014.  
+% Page 49: But he goes on to talk about how Russia Today is happy to show opposition shows featuring Westerners like Larry King. Describing an add for King's show on RT, "The little ad seems to be bundling the cliches of CNN and the BBC into a few seconds, pushing them to absurdity. There is a sense of giving two fingers to the Western media tradition: anyone can speak your language; it's meaningless!"  
+% Page 51: Describing the houses of Kaliningrad as, "hollow to the touch, painted Perspex and plaster imitating stone, timber and iron."  
   
     
 @article{grier2017smoking,  
