@@ -5,6 +5,19 @@ title: Novels
 
 --------------------------------------------------------------------------------
 
+@book{poe2016narrative,  
+  title={The Narrative of Arthur Gordon Pym of Nantucket (Collins Classics)},  
+  author={Poe, E.A.},  
+  isbn={9780008166786},  
+  series={Collins Classics},  
+  url={https://books.google.com/books?id=YhycCgAAQBAJ},  
+  year={2016},  
+  publisher={HarperCollins Publishers}  
+}  
+% Poe was one messed up dude. Most of the first part of the book is just a guy trapped in the dark belowdecks on the ship, starving and forgotten -- ie indistinguishable from being buried alive. At one point, he describes waking up with the sensation of a demon on his chest -- one of the classic signals of sleep paralysis -- but it turns out to be his giant newfoundland dog sitting on him.    
+% There is an interesting bit where Poe talks about stowage on ships, and how grain is incredibly dangerous is stowed improperly because it could roll a boat over (like a slack tank on Deadliest Catch).  
+  
+  
 @book{borges1962ficciones,  
   title={Ficciones},  
   author={Borges, J.L. and Kerrigan, A. and Reid, A. and Bonner, A. and Temple, H. and Todd, R.},  
