@@ -27,6 +27,17 @@ title: Criticality
 % Page 126: "The victims I talk to never talk of human rights or democracy; the Kremlin has long learned to use this language and has eaten up all the space within which any opposition could articulate itself. The rage is more inchoate: hatred of cops, the army. Or blame it all on the foreigners." "The only response to the absurdity of the Kremlin is to be absurd back." So he describes the 'Monstration' movement and the art group Vojna ("war") who did the giant penis graffiti on the underside of the bridge in St. Petersburg so when the bridge raises it points at the local FSB.  
   
   
+@article{newman2022acs,  
+  Author={Newman, Andy},  
+  url={https://www.nytimes.com/2022/11/22/nyregion/nyc-acs-racism-abuse-neglect.html},  
+  Title={Is N.Y.’s Child Welfare System Racist? Some of Its Own Workers Say Yes.},  
+  journal={The New York Times},  
+  date={2022-11-22},  
+  comment={A cataloging of all the challenges, problems, and abuses of the Administration for Children's Services in light of a report (suppressed by the agency) that found even it's own caseworkers thought the agency was a manifestation of systemic racism. Included in the article are facts about the racism inherent in the system, the legitimate efforts by ACS to address racism, and the complete lack of solutions to the problem. "Black families in New York City are also more likely than Hispanic and Asian families to be accused of neglect or abuse or to have their children removed, even though Hispanic and Asian families have higher poverty rates. A New York Times analysis of 83 child homicides from 2016 to 2022 found that Black children in the city were killed by family members at about seven times the rate for white and Asian children and three times the rate for Hispanic children." "There is no child welfare system in the U.S. that stands out as being able to have effectively dealt with the issue of disparity. To A.C.S.’s credit, they’ve tried a bunch of things, maybe more than other jurisdictions, and none of them has moved the needle. The agency faced the impossible task of keeping every child safe without overpolicing families. This is the only place which has a standard that you can never make a mistake."},  
+  category={Criticality, acs, administration for children's services, Health, abuse, neglect, systemic racism}  
+}  
+  
+  
 @article{broad2022nuclearweapons,  
   Author={Broad, William J.},  
   url={https://www.nytimes.com/2022/11/17/science/retired-nuclear-bombs-b83.html},  
