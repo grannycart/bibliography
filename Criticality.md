@@ -26,6 +26,8 @@ title: Criticality
 % Page 113: The genius in casting Christ as the main hero of the divine drama was that for the first time the viewer had a God he could truly identify with. "Christ is the precursor to Chaplin and all the other great loser-heroes of cinema and television. Before Christ all the gods were either perfect, aspirational Appollos, or invisible. But this one is frail and broken, just like you." [think of Dave's uber-Christ sculpture for contrast]  
 % Page 126: "The victims I talk to never talk of human rights or democracy; the Kremlin has long learned to use this language and has eaten up all the space within which any opposition could articulate itself. The rage is more inchoate: hatred of cops, the army. Or blame it all on the foreigners." "The only response to the absurdity of the Kremlin is to be absurd back." So he describes the 'Monstration' movement and the art group Vojna ("war") who did the giant penis graffiti on the underside of the bridge in St. Petersburg so when the bridge raises it points at the local FSB.  
 % See also this article on Surkov: \ur{https://www.nytimes.com/2011/11/05/world/europe/after-putin-and-medvedev-vladislav-surkov-is-russias-power-broker.html}  
+% Page 175: [lifespring]
+% Page 200: [split personalities]
   
   
 @article{newman2022acs,  
