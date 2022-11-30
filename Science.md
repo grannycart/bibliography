@@ -2228,6 +2228,8 @@ category={trees, Science},
 %\url{https://www.theguardian.com/environment/2017/may/15/38-million-pieces-of-plastic-waste-found-on-uninhabited-south-pacific-island}  
 % And this article on a company adding sugar to the plastic fibers to get microbes to digest them:  
 %\url{https://www.nytimes.com/2019/04/22/fashion/biodegradable-clothing-sustainability.html}  
+% And this article on "dark plastic" \url{https://www.newyorker.com/news/news-desk/where-does-all-the-plastic-go} MOST plastic waste is missing, presumed sunk. But maybe it's washing up on beaches around the world. It's NOT in the gyres.  
+  
   
 @article{hard2019hellbender,  
   Author={Hard, Lauren and Harlan, Jennifer},  
