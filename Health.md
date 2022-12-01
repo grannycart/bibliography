@@ -7,6 +7,20 @@ title: Health
   
   
   
+@article{AlSayyad2022fitness,  
+  Author={AlSayyad, Yasmine},  
+  url={https://www.nytimes.com/2022/11/30/books/review/fit-nation-natalia-mehlman-petrzela.html},  
+  Title={How America Became Addicted to Exercise},  
+  journal={The New York Times},  
+  date={2022-11-30},  
+  comment={Review of the book “Fit Nation” by Natalia Mehlman Petrzela, which documents the rise of fitness culture in the US.},  
+  category={Health, fitness, conspicuous consumption, Criticality}  
+}  
+% Petrzela explains that it was industrious entrepreneurs (Jane Fonda, Equinox, Peloton, LuluLemon, Bikram) who banked on that growing interest in exercise, cunningly capitalizing on its reputation as a “virtuous form of conspicuous consumption.” It’s easier to justify spending hundreds on your “health” than on an expensive handbag.     
+	% This right here is something I've always struggled to understand --- why do people go so out of their way to make exercising so *hard* (and indoors) when you could just go outside and play a game of basketball or ride a bike? And the answer, never obvious to me, is: virtuous conspicuous consumption. That's why all the gyms have glass fronts.  
+% (but, not a very good or well-written review. The author keeps referencing her own relationship to the fitness industry. It reads like she's an editor's niece freshly graduated from an ivy being given a chance at the Times.)  
+  
+  
 @article{wise2022longcovid,  
   Author={Wise, Jeff},  
   url={https://nymag.com/intelligencer/2022/11/is-long-covid-actually-chronic-fatigue-syndrome.html},  
