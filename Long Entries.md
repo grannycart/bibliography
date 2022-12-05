@@ -287,6 +287,7 @@
 % 607, and some stuff in pages before: the ants use their fungus to act as external pre-digesters of plant matter. By growing fungus on the plants, they found a way to consume many plants that are toxic to other insect herbivores.
 % See this article with an estimate for the total number of ants on Earth: \url{https://www.nytimes.com/2022/09/22/science/ants-census-20-quadrillion.html}
 	% "new ant census count: 20 quadrillion — 20 with 15 zeros following it. Ants outnumber humans at least 2.5 million to 1."
+	% And Farhad Manjoo's wonder at this number: \url{https://www.nytimes.com/2022/11/18/opinion/ants-evolution-climate-change.html}
 
   
    

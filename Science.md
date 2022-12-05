@@ -4,6 +4,19 @@ title: Science
 ---
 
 --------------------------------------------------------------------------------
+
+
+@article{sokol2022antmilk,  
+  Author={Sokol, Joshua},  
+  url={https://www.nytimes.com/2022/11/30/science/ant-milk.html},  
+  Title={Ant Milk: It Does a Colony Good},  
+  journal={The New York Times},  
+  date={2022-11-30},  
+  comment={Ants are among other unexpected creatures like pigeons, spiders and beetles that feed each other milk-like fluids.},  
+  category={Science, ants, milk}  
+}  
+% See note in Jerusalem about pigeon milk
+  
   
 @article{doi:10.1126/sciadv.1600377,  
 author = {Fabio Falchi  and Pierantonio Cinzano  and Dan Duriscoe  and Christopher C. M. Kyba  and Christopher D. Elvidge  and Kimberly Baugh  and Boris A. Portnov  and Nataliya A. Rybnikova  and Riccardo Furgoni },  
@@ -1544,7 +1557,7 @@ category={trees, Science},
   journal={The New York Times},  
   date={2016-03-30},  
   comment = {A new climate model predicts that ice shelfs holding back the Antarctic ice sheets could collapse in the next few decades allowing a worst-case scenario of the Antarctic ice sheets to drop off into the ocean. Previously the models used didn't reflect the melting seen in past ages unless Earth temperatures were raised ludicrously high. Modelling the collape of the ice sheets made the models much more accurately reflect historic melting. Asking this model about the future, shows the possibility of ice sheet melting and many feet of sea-level rise by the end of this century.},  
-  category = {Science, antarctice, ice sheet, ice shelf, melting}  
+  category = {Science, antarctica, ice sheet, ice shelf, melting}  
 }  
 % Download the actual study here: \url{http://www.nature.com/articles/nature17145.epdf}  
   
