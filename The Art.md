@@ -5,6 +5,18 @@ title: The Art
 
 --------------------------------------------------------------------------------
  
+ 
+@article{marchese2022eno,  
+  Author={Marchese, David},  
+  url={https://www.nytimes.com/interactive/2022/11/14/magazine/brian-eno-interview.html},  
+  Title={Brian Eno Reveals the Hidden Purpose of All Art},  
+  journal={The New York Times},  
+  date={2022-11-13},  
+  comment={Interview with Brian Eno where he talks about peeing on a Duchamp.},  
+  category={The Art, brian eno, Music}  
+}  
+   
+   
 @article{sloan2022cartoon,  
   Author={Sloan, Will},  
   url={https://www.newyorker.com/culture/culture-desk/the-cartoon-mystery-that-stumped-the-internet},  
