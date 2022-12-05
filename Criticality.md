@@ -2620,11 +2620,13 @@ mechanisms acting for the downward transport, the seafloor beneath this Arctic s
   volume={28},  
   year={2006},  
   url={https://www.newyorker.com/magazine/2006/08/28/manifold-destiny},  
-  comment={About the battle to solve the Poincare conjecture. The story of which bears an uncanny resemblance to the documentary King of Kong. Do nerds at all levels form the same bizarrely warped social hierarchies?},  
+  comment={About the battle to solve the Poincare conjecture.},  
   category = {Science, maths, nerds}  
 }  
 % See Wikipedia article for the controversy surrounding the story the article tells: \url{https://en.wikipedia.org/wiki/Manifold_Destiny}  
-  
+% The story bears an uncanny resemblance to the documentary King of Kong. Do nerds at all levels form the same bizarrely warped social hierarchies?  
+% More bizarro nerd confrontational behavior in Chess: \url{https://www.nytimes.com/2022/12/04/business/chess-cheating-scandal-magnus-carlsen-hans-niemann.html}    
+	% Not as perfect a mapping as King of Kong (in Chess, the nice guy is the established reigning champion and the dick is the upstart, but...)  
   
 @article{dickeytime,  
   Author={Dickey, Colin},  
