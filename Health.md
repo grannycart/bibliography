@@ -49,9 +49,12 @@ title: Health
   Title={Study Finds Another Condition That Vitamin D Pills Do Not Help},  
   journal={The New York Times},  
   date={2022-07-27},  
-  comment={Despite the limited title, this article covers a massive research study that found there is no benefit at all to taking Vitammmmmmin D supplments},  
+  comment={Despite the limited title, this article covers a massive research study that found there is no benefit at all to taking Vitamin D supplments},  
   category={Criticality, Health, vitamins}  
 }  
+% Later this same year, the Times runs advice to take vitamin D: \url{https://www.nytimes.com/2022/12/06/well/live/vitamin-d-deficiency-winter.html}  
+	% In the comments, some people pointed out the study listed above, and claim that it is not good science.  
+	% (On the other hand, they don't address the fact that the above article lists MANY benefits that don't actually come with vitamin D. It *feels* to me like once again conventions of medicine and doctor's are falling behind science and not willing to shift to new information. But that's just a feeling, not an informed opinion.)  
   
   
 @article{carroll2022costsharing,  
