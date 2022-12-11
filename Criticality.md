@@ -220,6 +220,7 @@ title: Criticality
 }  
 % See also: \url{https://www.nytimes.com/2022/04/28/science/dogs-breed-behavior-genes.html}  
 % Where scientists find that breeds are mostly about looks, and behaviors vary more between individual than between breeds.    
+% Though, in this study they found evidence for ancient behavioral traits: \url{https://www.nytimes.com/2022/12/08/science/dog-breed-genetics.html}
  
  
 @article{brannen2021biology,  
