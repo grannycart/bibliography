@@ -6,6 +6,15 @@ title: Criticality
 --------------------------------------------------------------------------------
 
 
+@article{ross2022cars,  
+  Author={Ross, Andrew and Livingston, Julie},  
+  url={https://www.nytimes.com/2022/12/15/opinion/car-ownership-inequality.html},  
+  Title={Once You See the Truth About Cars, You Can’t Unsee It},  
+  journal={The New York Times},  
+  date={2022-12-15},  
+  comment={Cars have become debt traps for low-income people, in many cases ending up car rich, cash poor because financers are willing to finance a high-interest loan for low-income people, but not loans for practical cars. Also cars are a route into the prison system, both through the 'driving while black' experience, where a minor offence can escalate through lack of ability to pay fines or show up in court into an arrest.},  
+  category={Criticality, Transportation, cars, debt, racism}  
+}  
 
 @book{pomerantsev2015nothing,  
   title={Nothing Is True and Everything Is Possible: The Surreal Heart of the New Russia},  
@@ -19,7 +28,7 @@ title: Criticality
   category={Criticality, Politics, russia, gangsters},  
 }  
 % Page 32: In the west, politicians try to act like upstanding citizens, and the movies are all about gangsters. In Russia, the politicians try to act like gangsters, and the TV and movies are all happy.    
-% Page 48: "When the President will go on to annex Crimea and launch his new war with the West, RT will be in the vanguard, fabricating startling fictions about fascists taking over Ukraine." -- This book was written in 2014.  
+% Page 48: "When the President will go on to annex Crimea and launch his new war with the West, RT will be in the vanguard, fabricating startling fictions about fascists taking over Ukraine." -- This book was written in 2014. (Though was Crimea invaded then under the same fiction about fascists as the Ukraine invasion in 2022?)  
 % Page 49: But he goes on to talk about how Russia Today is happy to show opposition shows featuring Westerners like Larry King. Describing an add for King's show on RT, "The little ad seems to be bundling the cliches of CNN and the BBC into a few seconds, pushing them to absurdity. There is a sense of giving two fingers to the Western media tradition: anyone can speak your language; it's meaningless!"  
 % Page 51: Describing the houses of Kaliningrad as, "hollow to the touch, painted Perspex and plaster imitating stone, timber and iron."  
 % Page 106: One time I see a poster advertising a new property development ... Got up in the style of a Nazi poster, it shows two Germanic-looking youths against a glorious alpine mountain over the slogan "Life is Getting Better." It would be wrong to say the ad is humorous, but it's not quite serious either. It's sort of both. It's saying this is the society we live in (a dictatorship), but we're just playing at it (we can make jokes about it), but playing in a serious way (we're making money playing it and won't let anyone subvert its rules).  

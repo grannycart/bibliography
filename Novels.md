@@ -5,6 +5,19 @@ title: Novels
 
 --------------------------------------------------------------------------------
 
+@book{connell2010mrs,  
+  title={Mrs. Bridge: A Novel},  
+  author={Connell, E.S. and Salter, J.},  
+  isbn={9781582435688},  
+  lccn={81081514},  
+  url={https://books.google.com/books?id=EB6QEAAAQBAJ},  
+  year={2010},  
+  publisher={Catapult},   
+  comment={A masterpiece of a novel that defies description. More than 100 short vignettes describing fundamentally basic life of a family in 1930s Kansas City country club district. There is very little one can point to when describing why it is good. Yet it is utterly compelling. The only thing I could think of that it reminds me of is the vignettes Roald Dahl would use to set up his character in his childern's novels. But those are about bizarre events and people. This is about totally conventional Americans. Somehow, it works and it is a joy to read.},  
+  category={Novels}  
+}  
+  
+  
 @book{poe2016narrative,  
   title={The Narrative of Arthur Gordon Pym of Nantucket (Collins Classics)},  
   author={Poe, E.A.},  
@@ -12,10 +25,13 @@ title: Novels
   series={Collins Classics},  
   url={https://books.google.com/books?id=YhycCgAAQBAJ},  
   year={2016},  
-  publisher={HarperCollins Publishers}  
+  publisher={HarperCollins Publishers},  
+  category={Novels}
 }  
 % Poe was one messed up dude. Most of the first part of the book is just a guy trapped in the dark belowdecks on the ship, starving and forgotten -- ie indistinguishable from being buried alive. At one point, he describes waking up with the sensation of a demon on his chest -- one of the classic signals of sleep paralysis -- but it turns out to be his giant newfoundland dog sitting on him.    
 % There is an interesting bit where Poe talks about stowage on ships, and how grain is incredibly dangerous is stowed improperly because it could roll a boat over (like a slack tank on Deadliest Catch).  
+% There is a cool gruesome part where survivors drifting on the hulk of a wrecked ship resort to cannibalism.
+% The second part of this book really degrades into garbage. The main character gets on a new ship, and they go, supposedly, past the ice of Antarctica, where they find a warm land nearer the south pole. There they land on an island full of black "savages" (with lots of description of their black skin and loose lips) and the book descends into racist stupidity. Like, really. So bad, it makes me question the value of reading ANY Poe. At one point, a chapter ends with the cliffhanger line, "we were the only white men left on the island." In addition, there's just a lot of totally nonsensical plot points: they tie enough handkerchiefs together to descend a cliff? Use a shirt as a sail? Go towards the south pole to reach a warmer ocean (in the book, the south pole being covered by ocean, not land)? (Even in the book, he acknowledges this goes counter to the current understanding of the south pole -- I guess this was written at a time when the general public knew so little about Antarctica, that it was possible *anything* might be there.)   
   
   
 @book{borges1962ficciones,  
@@ -40,7 +56,8 @@ title: Novels
   series={The Princess Bride},  
   url={https://books.google.com/books?id=u5u5RwAACAAJ},  
   year={1998},  
-  publisher={Ballantine Publishing Group}  
+  publisher={Ballantine Publishing Group},  
+  category={Novels}
 }
 Page X (introduction): Norman Lear gave the money to keep the movie in development moving forward.  
 Page 335: Do you know the most important six words in the last thirty years in World Culture? I'll tell you what they are. Peter Benchley came up with them when he was walking along a beach and the words were these: "What if the shark got territorial?" Because out of that came the novel Jaws, and then the movie Jaws, and nothing's really been the same since.  
