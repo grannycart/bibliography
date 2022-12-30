@@ -5,7 +5,20 @@ title: Science
 
 --------------------------------------------------------------------------------
 
-
+@article{catello2022jwstpics,  
+  Author={Castello, Jay},  
+  url={https://www.theverge.com/2022/10/10/23393194/nasa-image-processing-jwst-astrophotography},  
+  Title={The art behind NASA’s scientific space photos},  
+  journal={The Verge},  
+  date={2022-10-10},  
+  comment={How the James Webb Space Telescope (JWST) photos are colorized. It's an interesting blend of using color to represent data, and at the same time making aesthetic choices that could be legitimately and widely varied.},  
+  category={Science, The Art, jwst, photography}  
+}  
+% On the one hand, the photos HAVE to be colorized to create images -- otherwise it's really just data. It's dumb to dismiss them as "false color" and act like the photos are meaniningless and really just a way to prop up science funding with public support. The colors *have* meaning, even to real scientists.  
+% On the other hand, the *primary* use of those prretty photos probably *is* to prop up science funding with public support, and you can say that without being cynical about it.  
+% But there is also this unwritten sense when they publish these photos that *this* is what our universe looks like. Some people compare the processing to the way phones process photos -- but that's actually a good example: phone photos are not what the world/universe looks like either. The truth that almost all things in the sky are fuzzy white dots remains. THAT is what our universe actually looks like. As scientists we should be able to hold these two truths in our head at the same time: the universe is fucking *boring* to look at; but there's lots of interesting stuff out there to gather data on. Let's not (essentially) lie to the public that the universe is beautiful. The *images* we create in our computers -- derived from real data -- can be beautiful, but that's NOT what the universe looks like.  
+  
+  
 @article{sokol2022antmilk,  
   Author={Sokol, Joshua},  
   url={https://www.nytimes.com/2022/11/30/science/ant-milk.html},  
