@@ -99,6 +99,7 @@ title: Health
   comment={Alcohol causes cancer. Full stop. "For cancer prevention, there is no safe level of consumption.” It causes cancer at at a slightly higher rate than UV radiation. Scientists have known for decades, but it is still widely assumed a little alcohol is good for you. It isn't. The liquor industry is, of course, fighting warnings about it.},  
   category={Health, Criticality, alcohol, cancer}  
 }  
+% more recent info: \url{https://www.nytimes.com/2023/01/13/well/mind/alcohol-health-effects.html}  
 
 
 @article{kolata2021metabolism,  
