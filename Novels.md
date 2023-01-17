@@ -5,6 +5,20 @@ title: Novels
 
 --------------------------------------------------------------------------------
 
+@book{carré1986perfect,  
+  title={A Perfect Spy},  
+  author={le Carr{\'e}, John},  
+  isbn={9780553173031},  
+  series={Bantam Books},  
+  url={https://books.google.com/books?id=JKahtwEACAAJ},  
+  year={1986},  
+  publisher={Bantam Books},  
+  comment={A high-level British spy, Magnus Pym, is discovered to be a double-agent for the Soviet bloc. This books tells the story of his life that led to his development as a double-agent. The key linchpin being that his father was a high-level con man. The main character realizes by the end of the novel that being a double-agent requires him to lead the same kinds of multiple-lives as his con man father.},  
+  category={Novels, spy}  
+}  
+% This book is kinda slow. It takes something like 120 pages before there's any actual spying happening. According to Wikipedia, it is a thinly veiled autobiography. MOST of the book is back story filling in the details of what could happen in an aristocratic British person's life to eventually lead him to become a double-agent and betray his country. It feels like le Carre had some personal stuff to work through regarding his father, and he did that in this book. Which makes it sort-of interesting as a character profile of le Carre himself, but kinda boring as a general adventure story. There's little in the way of plot twists or action -- you know, the stuff people actually _want_ in a spy novel. And the richness of the character development doesn't really offset that. It would have been a better book if it had ALL of those things: an exciting adventure AND le Carre's biographical background for character development. It's also left unresolved, really, whether Axel -- the main character's Soviet bloc handler -- was a double-agent himself, or if he was just using Pym. Also (spoiler) having the book end with Pym committing suicide feels like the lazy way to end the book to me. Still, le Carre's a top-notch writer (though I would prefer he went a bit more for clarity rather than style on occasion) and the book is a fairly compelling read -- I never got _bored_ with it.  
+  
+  
 @book{connell2010mrs,  
   title={Mrs. Bridge: A Novel},  
   author={Connell, E.S. and Salter, J.},  
