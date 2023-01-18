@@ -5,6 +5,18 @@ title: Science
 
 --------------------------------------------------------------------------------
 
+
+@article{crew2014oldtom,  
+  Author={Crew, Bec},  
+  url={https://blogs.scientificamerican.com/running-ponies/the-legend-of-old-tom-and-the-gruesome-law-of-the-tongue/},  
+  Title={The Legend of Old Tom and the Gruesome "Law of the Tongue"},  
+  journal={Scientific American},  
+  date={2014-06-04},  
+  comment={In the early part of the 20th Century, on a remote whaling station, Killer Whales herded baleen whales into a bay and notified whalers they were there to be killed. In exchange the whalers left the lips and tongues for the killer whales.},  
+  category={Science, killer whales}  
+}    
+
+
 @article{catello2022jwstpics,  
   Author={Castello, Jay},  
   url={https://www.theverge.com/2022/10/10/23393194/nasa-image-processing-jwst-astrophotography},  
