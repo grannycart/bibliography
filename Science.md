@@ -5,7 +5,26 @@ title: Science
 
 --------------------------------------------------------------------------------
 
-
+@Article{Kärcher2018,  
+  author={K{\"a}rcher, Bernd},  
+  title={Formation and radiative forcing of contrail cirrus},  
+  journal={Nature Communications},  
+  year={2018},  
+  month={May},  
+  day={08},  
+  volume={9},  
+  number={1},  
+  pages={1824},  
+  abstract={Aircraft-produced contrail cirrus clouds contribute to anthropogenic climate change. Observational data sets and modelling approaches have become available that clarify formation pathways close to the source aircraft and lead to estimates of the global distribution of their microphysical and optical properties. While contrail cirrus enhance the impact of natural clouds on climate, uncertainties remain regarding their properties and lifecycle. Progress in representing aircraft emissions, contrail cirrus and natural cirrus in global climate models together with tighter constraints on the sensitivity of the climate system will help judge efficiencies of and trade-offs between mitigation options.},  
+  issn={2041-1723},  
+  doi={10.1038/s41467-018-04068-0},  
+  url={https://doi.org/10.1038/s41467-018-04068-0},  
+  comment={Airline contrails might contribute to global warming even more than airline carbon does.},
+  category={Science, Criticality, airplanes, contrails}
+}  
+% The contrail conspiracy theorists were right about contrails being dangerous, just wrong about why. What does _that_ say about the wisdom of the crowd?  
+  
+  
 @article{crew2014oldtom,  
   Author={Crew, Bec},  
   url={https://blogs.scientificamerican.com/running-ponies/the-legend-of-old-tom-and-the-gruesome-law-of-the-tongue/},  
