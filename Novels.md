@@ -4,7 +4,19 @@ title: Novels
 ---
 
 --------------------------------------------------------------------------------
-
+  
+@book{james2012more,  
+  title={More Ghost Stories: Ghost Stories of an Antiquary},  
+  author={James, M.R.},  
+  number={pt. 2},  
+  isbn={9781775457213},  
+  url={https://books.google.com/books?id=rN9KE0m5DLUC},  
+  year={2012},  
+  publisher={Floating Press},  
+  category={Novels, 19th century}    
+}  
+  
+  
 @book{carré1986perfect,  
   title={A Perfect Spy},  
   author={le Carr{\'e}, John},  
@@ -40,7 +52,7 @@ title: Novels
   url={https://books.google.com/books?id=YhycCgAAQBAJ},  
   year={2016},  
   publisher={HarperCollins Publishers},  
-  category={Novels}
+  category={Novels, 19th century}    
 }  
 % Poe was one messed up dude. Most of the first part of the book is just a guy trapped in the dark belowdecks on the ship, starving and forgotten -- ie indistinguishable from being buried alive. At one point, he describes waking up with the sensation of a demon on his chest -- one of the classic signals of sleep paralysis -- but it turns out to be his giant newfoundland dog sitting on him.    
 % There is an interesting bit where Poe talks about stowage on ships, and how grain is incredibly dangerous is stowed improperly because it could roll a boat over (like a slack tank on Deadliest Catch).  
@@ -155,7 +167,8 @@ Page 335: Do you know the most important six words in the last thirty years in W
   lccn={22023171},  
   url={https://books.google.com/books?id=X8FFAAAAIAAJ},  
   year={1922},  
-  publisher={Harper \& brothers}  
+  publisher={Harper \& brothers},  
+  category={Novels, 19th century}  
 }  
 % Chesterton's attempt to get in on the Sherlock Holmes deductive detective fad. Chesterton's detective is kinda a cool character -- 'the man who knew too much.' But these stories are mostly reallllly boring. He usually sets up like half a dozen characters that all seem the same and then you have to track who killed who and why while it is all wrapped up in oblique and out-dated references to hundred-year-old British politics. There's a reason this one isn't a classic.  
 % Though in The Vanishing Prince there's a cool twist for how the murder is done by tricking the police into shooting each other through the windows of a tower (or something like that).  
@@ -168,7 +181,8 @@ Page 335: Do you know the most important six words in the last thirty years in W
   isbn={9798575302032},  
   url={https://books.google.com/books?id=wlQQzgEACAAJ},  
   year={2020},  
-  publisher={Independently Published}  
+  publisher={Independently Published},  
+  category={Novels, 19th century}  
 }   
 % The Signal-Man is a pretty-good classic.  
 
@@ -179,7 +193,8 @@ Page 335: Do you know the most important six words in the last thirty years in W
   lccn={05012163},  
   url={https://books.google.com/books?id=6CAWAAAAYAAJ},  
   year={1905},  
-  publisher={E. Arnold}  
+  publisher={E. Arnold},  
+  category={Novels, 19th century}  
 }   
 % These stories are pretty damn creepy for 1905, particularly Oh, Whistle, and I'll Come to You, My Lad, which, with it's figure of bed-clothes in the next empty bed is creepy for any year.  
   
@@ -190,7 +205,8 @@ Page 335: Do you know the most important six words in the last thirty years in W
   isbn={9781533314482},  
   url={https://books.google.com/books?id=aR-MDAEACAAJ},  
   year={1887},  
-  publisher={CreateSpace Independent Publishing Platform}  
+  publisher={CreateSpace Independent Publishing Platform},  
+  category={Novels, 19th century}  
 }   
   
   
