@@ -148,6 +148,7 @@ title: Health
   comment={80 percent of personal trainers still recommend stretching as a regular part of people's workouts. Flexibility is still considered one of the five "major components" of physical fitness, alongside body composition, cardiovascular endurance, muscle endurance, and muscle strength. In reality, studies have repeatedly shown that flexibility does nothing for one's health and it does not improve one's sports performance (unless you are a gymnast). It is also not related to non-sports problems like lower back pain. Stretching before, during, or after a workout does nothing to prevent muscle soreness or reduce injury. In fact, there is evidence that holding a stretch DECREASES strength and speed for up to an hour. For some folks who like being flexibile, there's probably little harm in it. But there is no way it is related to overall health.},  
   category={Criticality, Health, stretching, workouts}  
 }  
+% See also: \url{https://www.nytimes.com/2022/12/15/well/move/stretching-exercise-workout.html}  
   
   
 @article{horgan2020cancer,  
