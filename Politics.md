@@ -6,7 +6,22 @@ title: Politics and Public Policy
 --------------------------------------------------------------------------------
 
 
-
+@article{sasso2023jan6,  
+  Author={Sasso, James},  
+  url={https://www.nytimes.com/2023/01/30/opinion/jan-6-committee-report.html},  
+  Title={Donald Trump Isn’t the Only One to Blame for the Capitol Riot. I’d Know.},  
+  journal={The New York Times},  
+  date={2023-01-30},  
+  comment={One of the people who researched the January 6th riots for the congressional committee writes here about what was not covered in depth in the committee hearings: that the fundamental cause of the January 6th riots was not so much Trump as lack of faith in government. "The federal government had worked against everyday Americans for years, the rioters told us, favoring entrenched elites with its policies." He talks about how this is an opinion held widely not just by crazy conspiracy theorists, but by ordinary people -- and that is why those people supported the Jan 6th riots, they felt it was the only course of action left for holding those in power responsible. He suggests reforms to political financing and re-investment in local economies as the (long-term) solution.},  
+  category={Politics, Criticality, january 6th riots, mistrust of government}  
+}    
+% NY Times letter:  
+% Doesn't what is described in this essay just prove the rioter's point?   
+% If the real lesson learned from the researchers looking into the January 6th riot was that the cause was mistrust in government more than anything Trump did, and that reason was shunted aside in the hearings in favor of detailing why Trump was the cause, is that not a perfect example of pushing aside truth and transparency in favor of a political agenda?  
+% As clear and insightful as this essay is, in the light of it (and the fact that it comes out months after the hearings), I don't see how  the January 6th hearings are much more than the political witch hunt that Trump claimed. Trump is a terrible person, but if he wasn't the primary cause of the riots, let's say that instead of using congressional hearings to try to prevent his being elected again. If the solution to preventing another January 6th is to re-establish trust in government, the hearings were certainly not the first step to achieving that.  
+% Here's to hoping the publishing of this essay is.   
+  
+  
 @article{raskin2022secondamendment,  
   Author={Raskin, Jamie},  
   url={https://www.nytimes.com/2022/09/27/opinion/us-second-amendment.html},  
