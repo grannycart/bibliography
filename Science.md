@@ -5,6 +5,31 @@ title: Science
 
 --------------------------------------------------------------------------------
 
+@book{lopez2019horizon,  
+  title={Horizon},  
+  author={Lopez, B.H.},  
+  isbn={9780394585826},  
+  lccn={2018033323},  
+  series={A Barzoi book},  
+  url={https://books.google.com/books?id=HKtlYgEACAAJ},  
+  year={2019},  
+  publisher={Alfred A. Knopf},  
+  comment={A series of essays about Lopez's travels to science camps around the world, and his reflections on the meaning of what is found and what is happening in the landscape around them.},  
+  category={Science, science writing, essays}  
+}  
+% Two words kept running through my head reading this: insufferably pretentious.  
+% I couldn't read the whole thing. I just read a few sections on the arctic and antarctic and a camp in Africa.
+% He is given to nickle words, scientific terms, and general prolix. His observations are shallow but at the same time couched in inflated notions of high-minded philosophy about the meaning of things.   
+% There is little to no humor because of the supposed deep significance of what he writes.  
+% More than anything else, I have this sense of jealousy and annoyance reading this book that this dude could be so privileged to travel to all these amazing places and basically turn out nothing significant as a result. I am shocked at how _little_ I learned from this book. He doesn't give much in the way of new information about the work the scientists are doing, instead just giving you obvious conclusions and some airy description of the landscape around.  
+% Eat, Pray, Love for the science-minded set.  
+% I will say that he _can't_ be so off-puttingly pretentious in real life. He must be a nice and fun guy to be around or he wouldn't be invited (and invited _back_) to all these places. But that aspect of his personality _barely_, if at all, comes through in his writing. Studs Terkle or EO Wilson or Stephen J. Gould this guy ain't.  
+% Page 304: He claims that many scientists now believe that the development of information systems for exchanging information that whole classes of people don't understand will lead to evolutionary changes among humans, and perhaps a breaking of of a separate species over a short time period. To which I say: show me the proof on that! Sounds like total bullshit to me, and I would question any scientist proposing this theory. The internet might cause terrible class stratification, but how is it supposed to keep poor people from having babies? So effin' stupid.  
+% Somewhere in the artic chapter: he goes off on a tangent about how we need to be more like certain people, and lists Aung San Suu Kyi -- a particularly ironic gaff, since about the time this book was published she was being accused of persecuting journalists. (Lopez was a journalist.)  
+% Page 488: he talks about how there is often conflict in science camps between the scientists and the working-class people who support them. And points out that that conflict is rarely reported. I've always thought this to be the case too. Though he doesn't go as far as I do, where I argue that there must be TONS of fieldwork that could be done by a working-class person with good training, that the scientists insist on doing themselves. I feel like this is a serious loss off opportunity to engage working class folks in science and better use human resources. In this case, Lopez is talking about a _helicopter pilot_ -- a "working class" (usually, I believe in the military helicopter pilots are officers) job that requires intense training and demandingly precise skills. If we can train "working class" people to be pilots, surely we can train them to also be doing scientific fieldwork. Make the scientists could can crunch numbers stay in the lab and do that, is what I say.  
+
+  
+  
 @Article{Kärcher2018,  
   author={K{\"a}rcher, Bernd},  
   title={Formation and radiative forcing of contrail cirrus},  
