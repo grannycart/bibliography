@@ -74,6 +74,23 @@ title: Criticality
 }  
   
   
+@article{LOVSLETTEN2021106533,  
+title = {Is the ongoing obesity epidemic partly explained by concurrent decline in cigarette smoking? Insights from a longitudinal population study. The Tromsø Study 1994–2016},  
+journal = {Preventive Medicine},  
+volume = {147},  
+pages = {106533},  
+year = {2021},  
+issn = {0091-7435},  
+doi = {https://doi.org/10.1016/j.ypmed.2021.106533},  
+url = {https://www.sciencedirect.com/science/article/pii/S0091743521001171},  
+author = {Ola Løvsletten and Inger Njølstad and Tom Wilsgaard and Laila A. Hopstock and Bjarne K. Jacobsen and Kaare H. Bønaa and Anne Elise Eggen and Maja-Lisa Løchen},  
+keywords = {Smoking cessation, Obesity, Longitudinal, BMI},  
+abstract = {The increase of obesity coincides with a substantial decrease in cigarette smoking. We assessed post-cessation weight change and its contribution to the obesity epidemic in a general population in Norway. A total of 14,453 participants (52.6% women), aged 25–54 years in 1994, who attended at least two of four surveys in the Tromsø Study between 1994 and 2016, were included in the analysis. Hereof 77% participated in both the first and the last survey. Temporal trends in mean body mass index (BMI), prevalence of obesity (BMI ≥ 30 kg/m2) and daily smoking were estimated with generalized estimation equations. We assessed BMI change by smoking status (ex-smoker, quitter, never smoker, daily smoker), and also under a scenario where none quit smoking. In total, the prevalence of daily smoking was reduced over the 21 years between Tromsø 4 (1994–1995) and Tromsø 7 (2015–2016) by 22 percentage points. Prevalence of obesity increased from 5 – 12% in 1994–1995 to 21–26% in 2015–2016, where obesity in the youngest (age 25–44 in 1994) increased more than in the oldest (p < 0.0001). Those who quit smoking had a larger BMI gain compared to the other three smoking subgroups over the 21 years (p < 0.0001). The scenario where none quit smoking would imply a 13% reduction in BMI gain in the population, though substantial age-related differences were noted. We conclude that smoking cessation contributed to the increase in obesity in the population, but was probably not the most important factor. Public health interventions should continue to target smoking cessation, and also target obesity prevention.},  
+comment={A large scale long-term study shows that the decrease in smoking is a significant factor in the increase in obesity.},  
+category={Criticality, Health, smoking, obesity}  
+}  
+  
+  
 @article{schulz2022lottery,  
   Author={Schulz, Kathryn},  
   url={https://www.newyorker.com/magazine/2022/10/24/what-weve-lost-playing-the-lottery},  
