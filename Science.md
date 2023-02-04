@@ -5,6 +5,22 @@ title: Science
 
 --------------------------------------------------------------------------------
 
+
+@book{mcgee2004food,  
+  title={On Food and Cooking: The Science and lore of the Kitchen},  
+  author={McGee, H.},  
+  isbn={9780684800011},  
+  lccn={2004058999},  
+  url={https://books.google.com/books?id=mQgklAEACAAJ},  
+  year={2004},  
+  publisher={Scribner},  
+  comment={The giant classic reference book on the science and history of food.},  
+  category={Science, food, cooking}  
+}  
+% Page 47: McGee points out that commercial yogurt is made from only two specific strains of bacteria that are added after pasteurization -- so those two strains are ALL that's in regular yogurt, and those strains have been developed to maximize yogurt-making capabilities and not easily picked up by the human gut. Additional probiotic strains are simply dumped in after the yogurt is made. This contrasts to traditional yogurt making where heirloom strains of bacteria were used to make the yogurt (with raw milk traditionally) yielding a wide variety of bacteria that was good (and probably sometimes bad) for the human gut. Kimchee and other pickled vegetables are still made this way.  
+% see also: \url{https://www.npr.org/sections/thesalt/2015/07/15/391927036/hey-yogurt-maker-whered-you-get-those-microbes}  
+  
+  
 @book{lopez2019horizon,  
   title={Horizon},  
   author={Lopez, B.H.},  
