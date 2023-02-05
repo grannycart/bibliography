@@ -19,6 +19,7 @@ title: Science
 }  
 % Page 47: McGee points out that commercial yogurt is made from only two specific strains of bacteria that are added after pasteurization -- so those two strains are ALL that's in regular yogurt, and those strains have been developed to maximize yogurt-making capabilities and not easily picked up by the human gut. Additional probiotic strains are simply dumped in after the yogurt is made. This contrasts to traditional yogurt making where heirloom strains of bacteria were used to make the yogurt (with raw milk traditionally) yielding a wide variety of bacteria that was good (and probably sometimes bad) for the human gut. Kimchee and other pickled vegetables are still made this way.  
 % see also: \url{https://www.npr.org/sections/thesalt/2015/07/15/391927036/hey-yogurt-maker-whered-you-get-those-microbes}  
+% Page 60: awesome chart showing the basic differences in making that lead to differnt types of cheese.  
   
   
 @book{lopez2019horizon,  
