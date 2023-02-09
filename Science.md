@@ -6,6 +6,19 @@ title: Science
 --------------------------------------------------------------------------------
 
 
+
+@article{preston2023orcamoms,  
+  Author={Preston, Elizabeth},  
+  url={https://www.nytimes.com/2023/02/08/science/orcas-sons-mothers.html},  
+  Title={Orca Moms Pay a High Price to Feed Large Adult Sons},  
+  journal={The New York Times},  
+  date={2023-02-08},  
+  comment={In the Pacific Northwest orca group, mother orcas will catch, cut food, and share it with their sons -- for the entire life of the son. A genetic preference for males, possibly because a male can spread genes to dozens of babies whereas a female can only spread genes to a few. Males may also be too big and bulky to catch their own food (salmon) in the particular region these killer whales live in.},  
+  category={Science, killer whales, orcas, Criticality}  
+}  
+% Not mentioned explicitly in the article, but pretty clearly implicit, is the suggestion that a preference for male offspring may not be cultural -- after all it's almost certainly not just killer whale culture (not that there isn't such a thing) that is causing these mother orcas to put so much effort into caring for their sons. Instead, it's suggested, that caring for sons gives the genepool a better chance of propagating since males can father far more children than females can mother(?), so they evolved to care for sons. (I just realized how different the verbs 'father' and 'mother' are! Perhaps for the reasons discussed here.) Why would this not be true for humans too? One of the few other species (as the article points out) that share menopause with killer whales. Also interesting considering that killer whales are a matriarchal species. But perhaps humans also \emph{evolved} a cultural preference for male children, and the cultural preference is just a reflection of genetics.  
+  
+  
 @book{mcgee2004food,  
   title={On Food and Cooking: The Science and lore of the Kitchen},  
   author={McGee, H.},  
