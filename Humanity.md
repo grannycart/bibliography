@@ -4,6 +4,19 @@ title: Humanity
 ---
 
 --------------------------------------------------------------------------------
+
+@book{connell1984morning,  
+  title={Son of the Morning Star},  
+  author={Connell, E.S. and Baskin, L.},  
+  isbn={9780865471603},  
+  lccn={99945095},  
+  url={https://books.google.com/books?id=6xpX2kXm6iYC},  
+  year={1984},  
+  publisher={North Point Press},  
+  comment={The masterful retelling of Custer and the Little Bighorn},  
+  category={Humanity, Custer, native americans, indians, little bighorn, montana}  
+}  
+  
   
 @article{doi:10.1177/09596836211060497,  
 author = {Matthew Dalton and Jane McMahon and Melissa A Kennedy and Rebecca Repper and Saifi Eisa Al Shilali and Yousef AlBalawi and David D Boyer and Hugh Thomas},  

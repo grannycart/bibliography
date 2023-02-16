@@ -4,8 +4,24 @@ title: The Art
 ---
 
 --------------------------------------------------------------------------------
- 
- 
+
+@book{king2002writing,  
+  title={On Writing},  
+  author={King, S.},  
+  isbn={9780743455961},  
+  lccn={00030105},  
+  url={https://books.google.com/books?id=d999Z2KbZJYC},  
+  year={2002},  
+  publisher={Pocket Books},  
+  comment={Stephen King tells a memoir about developing as a writer, then gives his tips on writing. The first 100 pages are his memoir about growing into being a writer. Then he has a 'toolbox' for writers.},  
+  category={The Art, writing}  
+}  
+% The first foreword is the most interesting part. In it he says that he asked Amy Tan what question he wished people would ask at Q&As. And she says "nobody ever asks about the language." It's the thing that set him thinking he should write about writing. He had his doubts because, as he says: Colonel Sanders sold a lot of chicken, but nobody really wants to know how he made it. And they ask the DeLillos and Updikes about language, but not popular authors.  
+% (Actually, I'm sure there's lots of people who would like to ask Stephen King and Amy Tan about language -- but those people are probably vastly outnumbered at Q+As with those authors by idiots. Such is the burden of the popular author.)  
+% The memoirs are well written, of course, but I skimmed it because it's not that interesting. The usual stuff about rejections and his own doubts, and encouragements by other people, and being a drunk. You could just guess it all, if you wanted to.  
+% His 'toolbox' is mostly a recapping of Strunk and White. See comments in my notes on writing.  
+  
+   
 @article{marchese2022eno,  
   Author={Marchese, David},  
   url={https://www.nytimes.com/interactive/2022/11/14/magazine/brian-eno-interview.html},  

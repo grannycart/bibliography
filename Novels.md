@@ -5,6 +5,39 @@ title: Novels
 
 --------------------------------------------------------------------------------
   
+  
+@book{haggard1887allan,  
+  title={Allan Quatermain: Being an Account of His Further Adventures and Discoveries...},  
+  author={Haggard, H.R.},  
+  series={Collection of british authors.2472.2473},  
+  url={https://books.google.com/books?id=Ve3BAQAACAAJ},  
+  year={1887},  
+  publisher={Longmans, Green and Company},   
+  comment={Great White Hunters head into Africa to search for more white people.},
+  category={Novels, adventure, 19th century, africa, colonialism}  
+}   
+% Yet ANOTHER 'lost world' book (what is with the 19th century novels and finding lost worlds?) In this case instead of dinosaurs they find a bunch of white people in the middle of Africa (lost indeed) who have attained high "civilization" with princesses and cities and whatnot.  
+% As you might expect, black people get a generally derisive treatment and occasionally downright offensive abuse. But for all the general assumptions of the superiority of white people, no race in the book is treated as derisively as the French. The lone French character is a stupid coward who is brought along for comic relief. (Even the zulu warrior is treated as a superior specimen of fighting man.) The French guy's only redeeming quality is he is a good cook. But being British nobody values that particularly highly.  
+  
+  
+@book{levin2011stepford,  
+  title={The Stepford Wives},  
+  author={Levin, I.},  
+  isbn={9780060080846},  
+  url={https://books.google.com/books?id=jbg4_cfQrVQC},  
+  year={2002},  
+  publisher={HarperCollins},  
+  comment={The ISBN categories listed on the title page are: 1. Female friendship 2. Married women 3. Robots.},
+  category={Novels, dystopia, suburbs, robots},
+}   
+% This is a fun little book. A quick and entertaining read.  
+% But it was a real missed opportunity for a feminist classic. When Levin came up with the idea, he should have immediately handed it over to a capable female author.  
+% Since he didn't, it tries but sort of misses the critique of society that would be grounded in the experience of the housewife.  
+% That doesn't ruin the critique built into the book exactly. It's just that the critique is more like a punk rock view of suburban life than a particularly feminist one. The critique is still valid, but it's more about the whole misery that is/was suburbia in general than a close explication of the miseries of being a housewife.  
+% In the hands of a masterful feminist author, this story could have been told in a way that would have achingly captured the deep horror of suburban housewife life.  
+% So it's not that it is a bad book. It's just the regret that it could have been one of the best books ever written about the female experience in suburbia, and it's not that.  
+  
+  
 @book{james2012more,  
   title={More Ghost Stories: Ghost Stories of an Antiquary},  
   author={James, M.R.},  

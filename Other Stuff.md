@@ -5,8 +5,30 @@ title: Other Stuff
 
 --------------------------------------------------------------------------------
 
-
-
+@book{dahl1986roald,  
+  title={Roald Dahl's Book of Ghost Stories},  
+  author={Dahl, R.},  
+  url={https://books.google.com/books?id=AMpdrgEACAAJ},  
+  year={1983},  
+  publisher={Farrar, Straus, Giroux},  
+  comment={Roald Dahl read hundreds of ghost stories and selected his favorites (mostly from the first half of the 20th Century) for this collection.},  
+  category={Other Stuff, ghost stories}  
+}  
+% The introduction is interesting. He says most ghost stories are awful. And then he starts finding good ones and realizes they are all by women. He uses this as a jumping off point for arguing that children's books are the hardest books to write -- and most good ones are written by women. He argues that the best children's books are far more widely read and read by more generations (after generation) of people than even the best adult novels. Having got that out of the way, he does say he finally found a few good ghost stories written by men.  
+% He also says in the introduction that this collection was supposed to be turned into a TV series. But the pilot (The Hanging of Alfred Wadham) was never picked up.    
+  
+  
+@article{berger2023eruv,  
+  Author={Berger, Joseph},  
+  url={https://www.nytimes.com/2023/02/16/nyregion/brooklyn-observant-jews.html},  
+  Title={For Strictly Observant Jews in Brooklyn, the Sabbath Expands},  
+  journal={The New York Times},  
+  date={2023-02-16},  
+  comment={Orthodox Jewish people are prohibited from carrying anything on the Sabbath outside the home because it's considered work. But since ancient times there has been the concept of the eruv, which symbolically extends the boundaries of the home letting Jewish people carry things to other places around the home. Now there is an eruv that covers most of Brooklyn (except Williamsburg). It is demarcated by fishing line and building walls.},  
+  category={Other Stuff, nyc, brooklyn, orthodox jews}  
+}  
+  
+  
 @article{jacobs2022crazyeddie,  
   Author={Jacobs, Alexandra},  
   url={https://www.nytimes.com/2022/08/09/books/review-retail-gangster-gary-weiss.html},  
