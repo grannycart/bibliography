@@ -16,6 +16,9 @@ title: Humanity
   comment={The masterful retelling of Custer and the Little Bighorn},  
   category={Humanity, Custer, native americans, indians, little bighorn, montana}  
 }  
+% The first chapter reads like Blood Meridian, with scalping and daggers stuck into eye sockets up to the hilt.  
+% Page 57: Custer was offered gattling guns, but turned them down.
+% Page 57-58: frontier surgeons learned to identify the arrows of different indian tribes because they could then tell how deeply an arrow was embedded in a man. The worst wounds weren't from bullets or flint arrows, but from arrowheads made of iron the indians got from whites -- the heads would curl when they hit bone making extraction difficult, damaging, and painful. The animal-tendon bindings would start to disolve inside men, so the shaft would come out but leave the head behind. Some indians deliberately left the bindings loose.  
   
   
 @article{doi:10.1177/09596836211060497,  
