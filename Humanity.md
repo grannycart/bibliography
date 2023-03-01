@@ -31,6 +31,13 @@ title: Humanity
 % Page 136: 8 million buffalo were slaughtered by white people in a three year period up to 1874.  
 % Page 137-139: While it was true that Indians made use of every part of the buffalo, it is not true that they used all the buffalo they killed, nor had any particular notions of conservation of the land. They would cut down trees to get at nuts more easily, and start giant prairie fires that would burn through the night. Some species of trees were eliminated by the burning of plains Indians in the 1000 years before the white people arrived. Waste of resources was encouraged by the abundance and by their migratory nature -- you don't care about a particular tree if you won't be back that way for a few years.  
 % Page 162-167: scalping goes back to prehistoric times. Ghengis Kahn used to collect human hair from his enemies because it made better rope for catapults. A number of people survived scalping -- graphic descriptions here.  
+% Page 214: In describing an "irascible" scholar of Custer: "Furthermore, Mr. Hyde continues as if he had just enjoyed a refreshing sip of vinegar."  
+% Page 215: Cheyennes and Sioux would have their toughest warriors wear a sash of wool that was staked to the ground in battle so they could never retreat without victory.  
+% Page 216: On the dude who stole Sitting Bull's hand-made illustrated history: "What happened to him after is not known. Perhaps he lived long and happily and boasted to his grandchildren about stealing the famous medicine man's picture book, but one should not bet on it."  
+% Page 217: Sitting Bull believed there never was a white man who did not hate Indians and there never was an Indian who did not hate whites.  
+% Page 217: Sitting Bull: He asked if whites considered him to be a poor man, but provided the answer himself: "You are fools to make yourselves slaves to a piece of bacon fat, some hardtack, and a little sugar and coffee."  
+% Page 218: After Little Bighorn, in the process of bringing Sitting Bull in, they would show Indians, including Sitting Bull, the telephone as a way of demonstrating white man's medicine.  
+% Page 219: Sitting Bull said of the US: "The country there is poisoned with blood...."  
   
   
   
