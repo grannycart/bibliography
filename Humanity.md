@@ -18,7 +18,6 @@ title: Humanity
 }  
 % The first chapter reads like Blood Meridian, with scalping and daggers stuck into eye sockets up to the hilt.  
 % What's clear from this book is that the notion that western Indians were a gentle peace-loving people has been propagated to the extent that belies the truth. A huge portion of the Indians -- if not the majority -- raised up their warrior class and their culture celebrated masculinity and violence. A man proves oneself by slaying enemies and taking scalps. This was, of course, widely understood in the 20th Century, but it seems like we are losing the central truth of this in the wake of re-branding Indians as peaceful victims who simply had everything stolen from them while they passively stood by. They did not stand by, and they were not passive.  
-% Page 57: Custer was offered Gatling guns, but turned them down.  
 % Page 57-58: frontier surgeons learned to identify the arrows of different Indian tribes because they could then tell how deeply an arrow was embedded in a man. The worst wounds weren't from bullets or flint arrows, but from arrowheads made of iron the Indians got from whites -- the heads would curl when they hit bone making extraction difficult, damaging, and painful. The animal-tendon bindings would start to dissolve inside men, so the shaft would come out but leave the head behind. Some Indians deliberately left the bindings loose.  
 % Somewhere in here (though I lost the exact page) is the story of one Indian coming on a couple of Indians from another tribe who tell him they are chowing down on meat from a soldier they just killed and offer him a bite. But they were just fucking with him.  
 % Page 90: Consider a scout of the Shoshone (aligned with the whites) who was out preparing himself for war when the Sioux found him, shot him in the back, and scalped him, "from the nape of the neck to the forehead, leaving his entire skull ghastly and white. It was the boy's first battle."   
@@ -38,7 +37,8 @@ title: Humanity
 % Page 217: Sitting Bull: He asked if whites considered him to be a poor man, but provided the answer himself: "You are fools to make yourselves slaves to a piece of bacon fat, some hardtack, and a little sugar and coffee."  
 % Page 218: After Little Bighorn, in the process of bringing Sitting Bull in, they would show Indians, including Sitting Bull, the telephone as a way of demonstrating white man's medicine.  
 % Page 219: Sitting Bull said of the US: "The country there is poisoned with blood...."  
-  
+% Page 258: Custer was offered Gatling guns, but turned them down because he thought they would slow down his march. Which is true, the carriages were heavy and often got stuck. But that might have actually SAVED him, because he would have arrived later to meet up with the other columns marching and not attackes the Indians alone.  
+% Page 259: As is stated earlier in the book a number of times, Custer always charged recklessly into battle. Up until Little Bighorn, he got lucky. At Little Bighorn, being reckless, trying to get all the glory for himself by being first to attack the Indians, cost him everything. (Seems like move fast, break things tech companies could learn a lesson here. Being reckless is great -- as long as you continue to get lucky.)  
   
   
 @article{doi:10.1177/09596836211060497,  
