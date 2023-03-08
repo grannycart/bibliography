@@ -39,6 +39,7 @@ title: Humanity
 % Page 219: Sitting Bull said of the US: "The country there is poisoned with blood...."  
 % Page 258: Custer was offered Gatling guns, but turned them down because he thought they would slow down his march. Which is true, the carriages were heavy and often got stuck. But that might have actually SAVED him, because he would have arrived later to meet up with the other columns marching and not attackes the Indians alone.  
 % Page 259: As is stated earlier in the book a number of times, Custer always charged recklessly into battle. Up until Little Bighorn, he got lucky. At Little Bighorn, being reckless, trying to get all the glory for himself by being first to attack the Indians, cost him everything. (Seems like move fast, break things tech companies could learn a lesson here. Being reckless is great -- as long as you continue to get lucky.)  
+% Page 281-282: Indians would execute any wounded white soldiers left on the battlefield. This affected tactics for the whites, in the unlike in conventional warfare where wounded might be left in a field hospital even if that hospital were taken by the enemy, they could never leave wounded behind with Indians. This could sometimes be a severe limitation on the ability of white soldiers to prosecute a fight. Indians thought that the white soldier's policy of caring for wounded was cowardly.  
   
   
 @article{doi:10.1177/09596836211060497,  
