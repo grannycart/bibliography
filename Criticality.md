@@ -6,6 +6,18 @@ title: Criticality
 --------------------------------------------------------------------------------
 
 
+
+@article{desmond2023poverty,  
+  Author={Desmond, Matthew},  
+  url={https://www.nytimes.com/2023/03/09/magazine/poverty-by-america-matthew-desmond.html},  
+  Title={Why Poverty Persists in America},  
+  journal={The New York Times},  
+  date={2023-03-09},  
+  comment={It is not true that the government spends less on social programs since the Reagan era. In fact, it spends quite a bit more. But poverty rates have not improved. A large chunk of the cost is health care. Poor people have more access to consumer goods than they used to, but not to housing or health care. Much of this can be traced to the decline of unions. Programs that provide housing support tend to just cause rents to go up as landlords charge more if people have more money. So policies need to both support people financially _and_ control markets.},  
+  category={Criticality, poverty, us}  
+}  
+  
+  
 @article{ross2022cars,  
   Author={Ross, Andrew and Livingston, Julie},  
   url={https://www.nytimes.com/2022/12/15/opinion/car-ownership-inequality.html},  
