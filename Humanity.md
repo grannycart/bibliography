@@ -5,43 +5,7 @@ title: Humanity
 
 --------------------------------------------------------------------------------
 
-@book{connell1984morning,  
-  title={Son of the Morning Star},  
-  author={Connell, E.S. and Baskin, L.},  
-  isbn={9780865471603},  
-  lccn={99945095},  
-  url={https://books.google.com/books?id=6xpX2kXm6iYC},  
-  year={1984},  
-  publisher={North Point Press},  
-  comment={The masterful retelling of Custer and the Little Bighorn},  
-  category={Humanity, Custer, native americans, indians, little bighorn, montana}  
-}  
-% The first chapter reads like Blood Meridian, with scalping and daggers stuck into eye sockets up to the hilt.  
-% What's clear from this book is that the notion that western Indians were a gentle peace-loving people has been propagated to the extent that belies the truth. A huge portion of the Indians -- if not the majority -- raised up their warrior class and their culture celebrated masculinity and violence. A man proves oneself by slaying enemies and taking scalps. This was, of course, widely understood in the 20th Century, but it seems like we are losing the central truth of this in the wake of re-branding Indians as peaceful victims who simply had everything stolen from them while they passively stood by. They did not stand by, and they were not passive.  
-% Page 57-58: frontier surgeons learned to identify the arrows of different Indian tribes because they could then tell how deeply an arrow was embedded in a man. The worst wounds weren't from bullets or flint arrows, but from arrowheads made of iron the Indians got from whites -- the heads would curl when they hit bone making extraction difficult, damaging, and painful. The animal-tendon bindings would start to dissolve inside men, so the shaft would come out but leave the head behind. Some Indians deliberately left the bindings loose.  
-% Somewhere in here (though I lost the exact page) is the story of one Indian coming on a couple of Indians from another tribe who tell him they are chowing down on meat from a soldier they just killed and offer him a bite. But they were just fucking with him.  
-% Page 90: Consider a scout of the Shoshone (aligned with the whites) who was out preparing himself for war when the Sioux found him, shot him in the back, and scalped him, "from the nape of the neck to the forehead, leaving his entire skull ghastly and white. It was the boy's first battle."   
-% Page 88: "The canyon was in bloom. It is said that the odor of blossoming crabapple, roses, and wild plum mingled sweetly with the dust and acrid smoke of black powder. Gunfire reverberating from the rocky walls echoed the rhythmic pounding of horses' hooves, dislodging thousands of petals which drifted down like keepsakes among the desperate men.  
-% Page 90-92: The story of Col. Guy Henry who had his face shot off in the Battle of the Rosebud and survived because a Shoshone war chief, Washakie, stood over him fighting, naked to the waist, and wearing a bonnet with so many feathers they swept the earth (page 88). Henry then survived being carried 200 miles back to Fort Fetterman while being kicked in the head, dropped down a cliff, frozen, almost drowned, his tent shot through, and abused by doctors for days. Supposedly he returned to battle 10 months later.  
-% Page 92: "Bourke estimates that Crook and his men took more than fifteen thousand trout in three weeks."  
-% Page 129-131: Fetterman's troop of 80-odd men are led into a trap by Indians, slaughtered and mutilated. Graphic descriptions of faces being beaten to a pulp, guts laying about the field, hands and feet severed to the tendons -- everyone except a bugler who went down beating on indians with his bugle, and was left with his body respectfully covered with a buffalo robe.  
-% Page 132: "We must act with vindictive earnestness against the Sioux, even to their extermination, men, women, and children. Nothing less will reach the root of the cause." If one word of this extraordinary telegram is altered it reads like a message from Eichmann to Hitler. (See also quotes from Western newspapers on page 127.)  
-% Page 133: Indians eating dogs.  
-% Page 136: 8 million buffalo were slaughtered by white people in a three year period up to 1874.  
-% Page 137-139: While it was true that Indians made use of every part of the buffalo, it is not true that they used all the buffalo they killed, nor had any particular notions of conservation of the land. They would cut down trees to get at nuts more easily, and start giant prairie fires that would burn through the night. Some species of trees were eliminated by the burning of plains Indians in the 1000 years before the white people arrived. Waste of resources was encouraged by the abundance and by their migratory nature -- you don't care about a particular tree if you won't be back that way for a few years.  
-% Page 162-167: scalping goes back to prehistoric times. Ghengis Kahn used to collect human hair from his enemies because it made better rope for catapults. A number of people survived scalping -- graphic descriptions here.  
-% Page 214: In describing an "irascible" scholar of Custer: "Furthermore, Mr. Hyde continues as if he had just enjoyed a refreshing sip of vinegar."  
-% Page 215: Cheyennes and Sioux would have their toughest warriors wear a sash of wool that was staked to the ground in battle so they could never retreat without victory.  
-% Page 216: On the dude who stole Sitting Bull's hand-made illustrated history: "What happened to him after is not known. Perhaps he lived long and happily and boasted to his grandchildren about stealing the famous medicine man's picture book, but one should not bet on it."  
-% Page 217: Sitting Bull believed there never was a white man who did not hate Indians and there never was an Indian who did not hate whites.  
-% Page 217: Sitting Bull: He asked if whites considered him to be a poor man, but provided the answer himself: "You are fools to make yourselves slaves to a piece of bacon fat, some hardtack, and a little sugar and coffee."  
-% Page 218: After Little Bighorn, in the process of bringing Sitting Bull in, they would show Indians, including Sitting Bull, the telephone as a way of demonstrating white man's medicine.  
-% Page 219: Sitting Bull said of the US: "The country there is poisoned with blood...."  
-% Page 258: Custer was offered Gatling guns, but turned them down because he thought they would slow down his march. Which is true, the carriages were heavy and often got stuck. But that might have actually SAVED him, because he would have arrived later to meet up with the other columns marching and not attackes the Indians alone.  
-% Page 259: As is stated earlier in the book a number of times, Custer always charged recklessly into battle. Up until Little Bighorn, he got lucky. At Little Bighorn, being reckless, trying to get all the glory for himself by being first to attack the Indians, cost him everything. (Seems like move fast, break things tech companies could learn a lesson here. Being reckless is great -- as long as you continue to get lucky.)  
-% Page 281-282: Indians would execute any wounded white soldiers left on the battlefield. This affected tactics for the whites, in the unlike in conventional warfare where wounded might be left in a field hospital even if that hospital were taken by the enemy, they could never leave wounded behind with Indians. This could sometimes be a severe limitation on the ability of white soldiers to prosecute a fight. Indians thought that the white soldier's policy of caring for wounded was cowardly.  
-% Page 301: "And those infuriated braves streaming out of the village must have been as ornamental as charcoal, buffalo blood, pigment, and feathers could make them. One Sioux wrapped himself in the pelt of a bear. Others rode naked, their skin smeared with medicine paint. Perhaps a dozen Cheyennes and forty or fifty Sioux wore bonnets with long trails. White Elk wore a famous headdress designed by his uncle--- the brow embellished with dragonflies and butterflies, a forked-tail swallow sewn between a double row of eagle-down feathers at the trailing end. Sun Bear's bonnet was rudimentary and violent: a single horn projecting from his forehead."  
-  
+ 
   
 @article{doi:10.1177/09596836211060497,  
 author = {Matthew Dalton and Jane McMahon and Melissa A Kennedy and Rebecca Repper and Saifi Eisa Al Shilali and Yousef AlBalawi and David D Boyer and Hugh Thomas},  
