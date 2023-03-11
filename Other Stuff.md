@@ -16,6 +16,7 @@ title: Other Stuff
 }  
 % The introduction is interesting. He says most ghost stories are awful. And then he starts finding good ones and realizes they are all by women. He uses this as a jumping off point for arguing that children's books are the hardest books to write -- and most good ones are written by women. He argues that the best children's books are far more widely read and read by more generations (after generation) of people than even the best adult novels. Having got that out of the way, he does say he finally found a few good ghost stories written by men.  
 % He also says in the introduction that this collection was supposed to be turned into a TV series. But the pilot (The Hanging of Alfred Wadham) was never picked up.    
+% _Playmates_ is really good, managing to go from creepy to heartwarming as the cold lonley man requests the company of the kind ghosts his daughter had played with when she goes off to school.  
   
   
 @article{berger2023eruv,  
