@@ -39,6 +39,7 @@
 % Page 281-282: Indians would execute any wounded white soldiers left on the battlefield. This affected tactics for the whites, in the unlike in conventional warfare where wounded might be left in a field hospital even if that hospital were taken by the enemy, they could never leave wounded behind with Indians. This could sometimes be a severe limitation on the ability of white soldiers to prosecute a fight. Indians thought that the white soldier's policy of caring for wounded was cowardly.  
 % Page 301: "And those infuriated braves streaming out of the village must have been as ornamental as charcoal, buffalo blood, pigment, and feathers could make them. One Sioux wrapped himself in the pelt of a bear. Others rode naked, their skin smeared with medicine paint. Perhaps a dozen Cheyennes and forty or fifty Sioux wore bonnets with long trails. White Elk wore a famous headdress designed by his uncle--- the brow embellished with dragonflies and butterflies, a forked-tail swallow sewn between a double row of eagle-down feathers at the trailing end. Sun Bear's bonnet was rudimentary and violent: a single horn projecting from his forehead."  
 % Page 309-310: Strong Indians were capable of putting an arrow through a buffalo, and firing so fast they could get up to 10 arrows in the air before the first hit the ground.  
+% Page 348: Arrows used for hunting had thin blades so they could be withdrawn and used again. War arrows had arrowheads with broad hooked shoulders so they would be difficult to withdraw from the human body.  
 
   
    
