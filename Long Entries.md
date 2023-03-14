@@ -40,6 +40,7 @@
 % Page 301: "And those infuriated braves streaming out of the village must have been as ornamental as charcoal, buffalo blood, pigment, and feathers could make them. One Sioux wrapped himself in the pelt of a bear. Others rode naked, their skin smeared with medicine paint. Perhaps a dozen Cheyennes and forty or fifty Sioux wore bonnets with long trails. White Elk wore a famous headdress designed by his uncle--- the brow embellished with dragonflies and butterflies, a forked-tail swallow sewn between a double row of eagle-down feathers at the trailing end. Sun Bear's bonnet was rudimentary and violent: a single horn projecting from his forehead."  
 % Page 309-310: Strong Indians were capable of putting an arrow through a buffalo, and firing so fast they could get up to 10 arrows in the air before the first hit the ground.  
 % Page 348: Arrows used for hunting had thin blades so they could be withdrawn and used again. War arrows had arrowheads with broad hooked shoulders so they would be difficult to withdraw from the human body.  
+% Page 368: An interesting description of visual representation among Indian: like why it makes sense to have the shot from a gun drawn without a gun, or that hoofprints recede into the distance are all the same size -- things ARE as they are always, not as you see them.  
 
   
    
