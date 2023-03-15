@@ -41,6 +41,8 @@
 % Page 309-310: Strong Indians were capable of putting an arrow through a buffalo, and firing so fast they could get up to 10 arrows in the air before the first hit the ground.  
 % Page 348: Arrows used for hunting had thin blades so they could be withdrawn and used again. War arrows had arrowheads with broad hooked shoulders so they would be difficult to withdraw from the human body.  
 % Page 368: An interesting description of visual representation among Indian: like why it makes sense to have the shot from a gun drawn without a gun, or that hoofprints recede into the distance are all the same size -- things ARE as they are always, not as you see them.  
+% Page 376: Chief Gall was a huge man who went into battle with a hatchet. He got his name when he was seen tasting the gall of a dead animal as a child. He was a peaceful man, until his wives and children were killed by white men.  
+% Page 377: Gall "visited Washington and while there was given money to spend as he wished. Later he was asked what he had seen and what he thought of Washington. 'I went about in your great city and saw many people,' he replied. 'Some had fine clothes and diamonds; others were barefoot and ragged. No money to get something to eat. They are beggars, and need your help more than the Indian does. I gave them the money you gave me. All people are alike among Indians. We feed our poor."  
 
   
    
