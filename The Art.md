@@ -20,6 +20,9 @@ title: The Art
 % (Actually, I'm sure there's lots of people who would like to ask Stephen King and Amy Tan about language -- but those people are probably vastly outnumbered at Q+As with those authors by idiots. Such is the burden of the popular author.)  
 % The memoirs are well written, of course, but I skimmed it because it's not that interesting. The usual stuff about rejections and his own doubts, and encouragements by other people, and being a drunk. You could just guess it all, if you wanted to.  
 % His 'toolbox' is mostly a recapping of Strunk and White. See comments in my notes on writing.  
+% And the 'writing' section is a recap of all the advice you've ever heard before: the paragraph is the unit of composition; cut anything that doesn't move the story forward even if it's good (kill your babies); you can't be a good writer if you aren't a good reader; dialog is a gift for people with an ear for it. Etc.  
+% It would be exciting to get _one_ piece of advice from King that isn't a rehash of stuff you've heard a hundred times. Surprise me man! Give me a little nugget or secret to your wild success that isn't somethig I can learn elsewhere. 
+% Still, this book is _good_, despite the fact that it's all rehash of the same old advice, it's _way_ more accessible than most other sources of those advice. For those who don't have the internal energy to push through Strunk and White (short as it is) this book gives you the same stuff in a much breezier and quick-reading way.  
   
    
 @article{marchese2022eno,  
