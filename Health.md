@@ -6,6 +6,17 @@ title: Health
 --------------------------------------------------------------------------------
   
   
+@article{oconnell2023plastic,  
+  Author={O'Connell, Mark},  
+  url={https://www.nytimes.com/2023/04/20/opinion/microplastics-health-environment.html},  
+  Title={There Is Plastic in Our Flesh},  
+  journal={The New York Times},  
+  date={2023-04-20},  
+  comment={A meditation on the fact that there is plastic in our flesh. We don't actually KNOW that the plastic is doing us any harm. At the same time it's difficult to imagine that it isn't. At the same time there is nothing (nothing even that paranoid parents) can do about it. Quotes Cronenburg: "our bodies are different than human bodies have ever been before in history. This is not going away."},  
+  category={Health, Criticality, plastic}  
+}  
+% Links to this art project that is just photos of dead birds with plastic in their guts from Midway Island: \url{http://www.chrisjordan.com/gallery/midway/}  
+  
   
 @article{AlSayyad2022fitness,  
   Author={AlSayyad, Yasmine},  

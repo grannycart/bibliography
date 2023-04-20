@@ -4,7 +4,59 @@ title: Novels
 ---
 
 --------------------------------------------------------------------------------
-  
+ 
+@book{cather1995death,  
+  title={Death Comes for the Archbishop},  
+  author={Cather, W.},  
+  url={https://books.google.com/books?id=femZtwEACAAJ},  
+  year={1995},  
+  publisher={Quality Paperback Book Club},  
+  comment={An astonishingly modern novel for having been written in 1927, this book is a series of vignettes of the life of a bishop and his vicar in Southwest during the colonial period. Cather has a sympathetic (and to me a very accurate) eye towards the treatment of Indians, and an unyielding faith in Christianity.},  
+  category={Novels, old west, catholicism, christianity, mexico, new mexico, native americans, indians}  
+}   
+% This is the most _Christian_ book I have ever read. By that I mean, the  
+% book is a profile of what it truly means to be a good Christian in the  
+% real world. The book manifests the hard life in the South East in the  
+% late 19th Century, and all the challenges of living in that time and  
+% place in an utterly real (and very modern) manner. And in that setting  
+% puts two high-ranking Catholics, who strive (and succeed) at being  
+% good Catholics in a world that is hard, diverse, contains true evil  
+% and goodness and everything between. It is a study of what it means to  
+% be truly Christian in a land where many people are non-Christian, and  
+% many who are Christian believe in a unique way informed by the previous  
+% religions and cultures of their land.  
+%   
+% Interestingly, I suspect it is read differently by modern readers  
+% and contemporary readers in the 1920s and 30s. Now, I'm sure, most  
+% modern educated readers who might read this book (like myself) have  
+% the perspective of following these studies and understanding it only  
+% as studies of what it means to be a person of _good_ character,  
+% the explicit Christianity aspect of it could be left aside. This  
+% understanding is enhanced by the extremely modern telling of the tale,  
+% with it's true sympathies for native cultures, and very realistic  
+% expression of the world at that time.  
+%   
+% But I don't think Cather meant it to be read like that. I think she  
+% probably meant it to be understood as being about a true believer, about  
+% and for people who have real faith and belief in Christianity. The book  
+% is about how to be a _Christian_ in a hard world, not how to be "good."  
+% And most of the educated readers of her time would have understood it  
+% that way because most of the educated readers of her time would have  
+% been true Christians, not the atheists we all are now who still hold on  
+% to some unspecified desire to maintain a secular spirituality.  
+%   
+% It does make me wonder if we the readers of this book now are doing  
+% justice to what Cather really wanted this book to be.  
+%   
+% Maybe the best example of this is that to the eye of the modern reader  
+% it is nearly impossible to read the close relationship between the  
+% bishop and his vicar as being anything other than homosexual. But Cather  
+% almost certainly did not intend this. It is supposed to be the purest  
+% of pure Christian friendships. Both men are _far_ too invested in their  
+% Catholic faith to even consider the possibility of sexual attraction  
+% between them. To even suggest it would undermine what Cather was trying  
+% to achieve, I think.  
+   
   
 @book{haggard1887allan,  
   title={Allan Quatermain: Being an Account of His Further Adventures and Discoveries...},  

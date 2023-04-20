@@ -6,6 +6,15 @@ title: Criticality
 --------------------------------------------------------------------------------
 
 
+@article{willingham2023studying,  
+  Author={Willingham, Daniel T.},  
+  url={https://www.nytimes.com/2023/04/20/opinion/studying-learning-students-teachers-school.html},  
+  Title={There Are Better Ways to Study That Will Last You a Lifetime},  
+  journal={The New York Times},  
+  date={2023-04-20},  
+  comment={Students are not taught to study properly. Essentially they are left on thier own to figure out study methods, and they tend towards methods that are easy and yield results, rather than methods that actually retain knowledge. For example: highlighting and re-reading are nearly useless. But being trained to read while focussing on concepts and conclusions will help a student more permanently remember the material.},  
+  category={Crticality, education, studying, memory}  
+}  
 
 @article{desmond2023poverty,  
   Author={Desmond, Matthew},  
