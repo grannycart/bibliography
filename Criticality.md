@@ -5,14 +5,25 @@ title: Criticality
 
 --------------------------------------------------------------------------------
 
-
+@article{lowenstein2023buffet,  
+  Author={Lowenstein, Roger},  
+  url={https://www.nytimes.com/2023/05/02/opinion/warren-buffett-berkshire-hathaway-social-governance.html},  
+  Title={How Warren Buffett Came to Refuse Progressive Orthodoxy},  
+  journal={The New York Times},  
+  date={2023-05-02},  
+  comment={Warren Buffet continues to adhere to the precept that Berkshire Hathaway should be first and foremost responsible to its investors. This is in contrast to what is becoming the standard practice of creating reports for how a corporation is responding to climate change, diversity, and other socially valuable priorities. Despite this, Berkshire Hathaway still meets many diversity, climate, and other goals simply because those seem to be good business for Berkshire subsidiaries, (though maybe at a slower pace of change than more aggressive policy-oriented corporations). Buffet refuses to change as the world changes around him. For his individual case, it's not clear that's a bad thing.},  
+  category={Criticality, berkshire hathaway, invesing, social investing}  
+}  
+% An interesting piece because what is being described here is that Buffet is the epitome of the benevolent dictatorship. Buffet is able to achieve reasonable results for progressive goals simply by being his uncompromising self focused on the greatest good for everyone in his corporation with guide post of investor returns -- particularly to individuals who invested in buying Berkshire stock with their own money rather than institutions like Vanguard or other funds. For Buffet, (or other imaginary folks to whom power is handed and they are responsible with it) not requiring reporting or shifting of goals is probably fine. It's all the OTHER corporations that are a problem. You simply cannot rely on corporations to have someone like Buffet in power. Most don't. So most DO need to be doing self-analysis reporting of, say, what their diversity makeup looks like and how they can improve. Even picking board members in a political way -- trying to achieve diversity goals as well as talent -- doesn't seem like a terrible idea in the broader context of the corporate world beyond Berkshire, simply because most corporations do such a terrible job with those things if left to their own devices (Berkshire, on the other hand, does reasonably OK.)  
+  
+  
 @article{willingham2023studying,  
   Author={Willingham, Daniel T.},  
   url={https://www.nytimes.com/2023/04/20/opinion/studying-learning-students-teachers-school.html},  
   Title={There Are Better Ways to Study That Will Last You a Lifetime},  
   journal={The New York Times},  
   date={2023-04-20},  
-  comment={Students are not taught to study properly. Essentially they are left on thier own to figure out study methods, and they tend towards methods that are easy and yield results, rather than methods that actually retain knowledge. For example: highlighting and re-reading are nearly useless. But being trained to read while focussing on concepts and conclusions will help a student more permanently remember the material.},  
+  comment={Students are not taught to study properly. Essentially they are left on their own to figure out study methods, and they tend towards methods that are easy and yield results, rather than methods that actually retain knowledge. For example: highlighting and re-reading are nearly useless. But being trained to read while focussing on concepts and conclusions will help a student more permanently remember the material.},  
   category={Crticality, education, studying, memory}  
 }  
 
