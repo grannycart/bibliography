@@ -7,6 +7,19 @@ title: Urbanism
 --------------------------------------------------------------------------------
   
   
+@article{wilson2023citynature,  
+  Author={Wilson, Ben},  
+  url={https://www.nytimes.com/2023/05/09/opinion/urban-gardens-rewilding-cities-biodiversity.html},  
+  Title={Let the Post-Pandemic City Grow Wild},  
+  journal={The New York Times},  
+  date={2023-05-09},  
+  comment={An argument for more green spaces in cities that are partially tended and semi-wild.},  
+  category={Urbanism, Criticality, green space, world war 2, WWII, fresh kills}  
+}  
+% This article is kinda all over the place, glomming together a bunch of arguments for green cities that don't seem, to my mind, to flow together linearly. He talks about the miracle of "bomb weed" growing in destroyed sections of European cities after WWII as an example of how nature is capable of coming back in unique ways quickly even in the worst environments as if just letting nature takes its course in places (and hey, why not just bomb out some places? says the punk rocker in me) was the best solution to green cities. But then he makes some convoluted argument that wild spaces also need tending, and then proceeds to list pretty much everything except traditional parks as examples of what he's talking about: lots to be developed left to be green spaces until they are, green roofs, walkways over nature areas, Fresh Kills -- these hardly seem like "neglect" to me. I don't understand what he thinks is the right balance of neglect vs tending. I'm not sure he does himself.  
+% Also, not clear what this has to do with the post-pandemic period at all. (Nothing was bombed in the cities that I know of, nor is there suddenly a huge amount of unused space -- unless you include office space in Manhattan.)  
+  
+  
 @article{hu2022metrotech,  
   Author={Hu, Winnie},  
   url={https://www.nytimes.com/2022/10/17/nyregion/metrotech-brooklyn-commons.html},  
