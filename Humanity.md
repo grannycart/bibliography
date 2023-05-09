@@ -1378,7 +1378,8 @@ category = {vikings, women, war}
 % say "we are social animals" we are saying something very complex  
 % and profound that goes far beyond any set of simple rules for  
 % social interaction.  
-  
+%
+% See also: this article on food textures, which also probably played a roll in human development of fire: \url{https://www.nytimes.com/2023/05/08/t-magazine/food-texture-eating.html}  
   
   
 @article{zimmeragriculture,  
