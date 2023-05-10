@@ -6,6 +6,18 @@ title: Health
 --------------------------------------------------------------------------------
   
   
+@article{leibowitz2020winter,  
+  title={Winter is coming: wintertime mindset and wellbeing in Norway},  
+  author={Leibowitz, Kari and Vitters{\o}, Joar},  
+  journal={International Journal of Wellbeing},  
+  volume={10},  
+  number={4},  
+  year={2020},  
+  comment={Research on seasonal affective disorder is extremely mixed. This paper finds that positive emotions are correlated with increased latitude (in Norway). Their conclusion is that mindset has more of a role to play in seasonal happiness than has been previously researched.},  
+  category={Health, Criticality, seasonal affective disorder, norway, svalbard}
+}  
+    
+    
 @article{oconnell2023plastic,  
   Author={O'Connell, Mark},  
   url={https://www.nytimes.com/2023/04/20/opinion/microplastics-health-environment.html},  
