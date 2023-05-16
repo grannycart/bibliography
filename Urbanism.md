@@ -1711,6 +1711,7 @@ journal = {Urban Studies},
 }  
 Page 25: Moses used to take clients who came out to Long Island to the Snapper Inn in Oakdale for meetings. (The same restaurant we had my Grandma's post-burial party at.)  
 Page 41: 1930 Newspaper quote: "Fire Island's principle charm is that few people know about them, and second that it is unprofitable for the New York Telephone Company to run a line there. To escape from the telephone for a period of days, weeks or months is one of the rarest modern pleasures."  
+% Because of all this, Fire Island ends up being such an interesting example of "planning." The island is, maybe arguably, a perfect place the way it finished up: Jones Beach and Robert Moses Beach provide easy access for millions of beachgoers. One end of the island is fully protected wildlife area. The gay communities on the island retained their identities and carry on from their history. The wealthy enclaves hold on to their isolation. But NONE of this is how any individual would have PLANNED it. Moses argued that the elites wanted to block the highway to keep Fire Island to themselves. And certainly their wealth and education helped prevent the highway on Fire Island. At the same time, it would have been a real loss if Jones Beach had never been built. (OK, so Ocean Parkway could be removed and nobody would lose anything.) But all in all, it was just sheer dumb luck that the power balances fell out the way they did and Fire Island really did reach the highest and best use it could be put to.     
    
    
 @article{mcgrath2012caro,  
