@@ -5,6 +5,20 @@ title: Novels
 
 --------------------------------------------------------------------------------
  
+@book{dickens1993tale,  
+  title={A Tale of Two Cities: Introduction by Simon Schama},  
+  author={Dickens, C. and Schama, S.},  
+  isbn={9780679420736},  
+  lccn={92073542},  
+  series={Everyman's Library Classics Series},  
+  url={https://books.google.com/books?id=XKiOEAAAQBAJ},  
+  year={1993},  
+  publisher={Knopf Doubleday Publishing Group}  
+}
+% A great first line, a great last line. Sandwiching Dickens' worst book. Who knew? A lot of it drags. The French Revolution is confusing. And as Chesterton points out, the title might refer to two cities and while London is definitely in the book, Paris kinda isn't. I mean, stuff happens there, but there's nothing in the book that actually feels like Paris.  
+% Towards the end, things pick up a bit. The battle between Miss Pross and Madame Defarge is pretty epic.  
+  
+  
 @book{cather1995death,  
   title={Death Comes for the Archbishop},  
   author={Cather, W.},  

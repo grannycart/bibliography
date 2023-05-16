@@ -1691,13 +1691,28 @@ journal = {Urban Studies},
   publisher={Vintage},  
   annote={This is just a test of the annote tag, on my favorite book.},  
   comment = {The classic tome on Robert Moses.},  
-  category = {classics, tomes, cities, history}  
+  category = {Urbanism, classics, tomes, cities, history, nyc}  
 }  
 % Check out this interview with Caro about The Power Broker: \url{http://gothamist.com/2016/02/17/robert_caro_author_interview.php} Particularly note his comment about Trump. And that he sees writing about Moses as a way to talk about how power works - particularly unelected power - in cities everywhere.  
 % From the NYPL display, by (presumably) Robert Caro of Moses' Slum Clearance brochures: ``Moses was a real artist. He put a lot of work into brochures he made to illustrate his proposals. And they are totally convincing. The main purpose was to show people how beautiful his projects were going to be. He would give them to the City Council members and the mayors to gain their support, even though some of his plans were problematic. In the Slum Clearance brochures, a lot of these places weren't slums. It was a surprise to the residents, who woke up to find they were being evicted.''  
 % Astoria Ferry: p. 448-451  
   
   
+@book{verga2019saving,  
+  title={Saving Fire Island from Robert Moses: The Fight for a National Seashore},  
+  author={Verga, C.},  
+  isbn={9781467140348},  
+  lccn={2018963594},  
+  url={https://books.google.com/books?id=7puHDwAAQBAJ},  
+  year={2019},  
+  publisher={History Press},  
+  comment={Fills in the story of Moses' battle against the residents of Fire Island to build a highway along the length of it. A story which is sadly missing from the Power Broker.},  
+  category={Urbanism, fire island, robert moses, highways}  
+}  
+Page 25: Moses used to take clients who came out to Long Island to the Snapper Inn in Oakdale for meetings. (The same restaurant we had my Grandma's post-burial party at.)  
+Page 41: 1930 Newspaper quote: "Fire Island's principle charm is that few people know about them, and second that it is unprofitable for the New York Telephone Company to run a line there. To escape from the telephone for a period of days, weeks or months is one of the rarest modern pleasures."  
+   
+   
 @article{mcgrath2012caro,  
   Author={McGrath, Charles},  
   url={https://www.nytimes.com/2012/04/15/magazine/robert-caros-big-dig.html},  
