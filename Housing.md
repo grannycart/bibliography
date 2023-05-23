@@ -5,6 +5,19 @@ title: Housing
 
 --------------------------------------------------------------------------------
   
+@article{mari2022viennapublichousing,  
+  Author={Mari, Francesca},  
+  url={https://www.nytimes.com/2023/05/23/magazine/vienna-social-housing.html},  
+  Title={Imagine a Renters’ Utopia.  It Might Look Like Vienna.},  
+  journal={The New York Times},  
+  date={2023-05-dd},  
+  comment={This article looks at the problems of the housing market and reaches the conclusion that Vienna has possibly the best solution: massive amounts of public housing available to 80 percent of the population, and limited-profit housing associations (restricted to charging rents that reflect costs, and extra profits have to go to constructing more social housing). This article also includes excellent, accessible, and short re-telling of the story of inequitable housing in the US.},  
+  category={Housing, Criticality, vienna}  
+}  
+% One other interesting note: Vienna is surprisingly far more diverse than I would have guessed, with a foreign-born population slightly higher than NYC's. (total pop: around 2m)  
+% "Vienna has succeeded in curbing the craving to own. It has done it by driving down the price of land through rezonings and rent control."  
+% It's not clear to me that all of this couldn't be achieved simply through a strict rent-control program. What is "limited-profit" housing except a method of rent control? (It is, in fact, the same as Mitchell-Lama, the primary driver of affordability for those buildings being that they are rent-stabilized.) What is massive public housing other than a means of taking housing out of the capitalist market system? She doesn't deny this in the article, but as usual NYC's rent stabilization is left entirely unmentioned, even while there is much detail about NYC public housing. Nobody ever seems to want to talk about rent control/stabilization in NYC because it WORKS, even though it goes against the econ 101 supply/demand curve.   
+  
   
 @article{dougherty2021cahousing,  
   Author={Dougherty, Conor},  
