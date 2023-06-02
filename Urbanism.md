@@ -6,6 +6,17 @@ title: Urbanism
 
 --------------------------------------------------------------------------------
   
+@article{flavelle2023phoenix,  
+  Author={Flavelle, Christopher and Healy, Jack},  
+  url={https://www.nytimes.com/2023/06/01/climate/arizona-phoenix-permits-housing-water.html},  
+  Title={Arizona Limits Construction Around Phoenix as Its Water Supply Dwindles},  
+  journal={The New York Times},  
+  date={2023-06-01},  
+  comment={Phoenix is cutting off development for lack of water. Phoenix uses twice as much water as NYC, even though it has half the population.},  
+  category={Urbanism, Criticality}  
+}  
+% So much for Glaeser's theories about building your way out of expensive housing. In fact, in this case, the cheapest housing is the housing that is _most_ impacted by the water shortages. And it's not like water is the _only_ resource that could limit development!      
+  
   
 @article{wilson2023citynature,  
   Author={Wilson, Ben},  
