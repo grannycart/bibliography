@@ -5,6 +5,23 @@ title: Novels
 
 --------------------------------------------------------------------------------
  
+ 
+@book{connell2000deus,  
+  title={Deus Lo Volt!: Chronicle of the Crusades},  
+  author={Connell, E.S.},  
+  isbn={9781582430652},  
+  lccn={99054831},  
+  url={https://books.google.com/books?id=32ZaAAAAMAAJ},  
+  year={2000},  
+  publisher={Counterpoint},   
+  comment={A masterful and violent re-telling of the history of the crusades in a psuedo-novel form.},
+  category={Novels, crusades}
+}  
+% See review: https://www.sfgate.com/books/article/Blood-Covered-Glory-Evan-S-Connell-turns-a-2763993.php    
+% The simplest way to describe this book is that it is just like reading The Silmarillion, except everything in it actually happened, and all of the boring bits between battles (like the begats) are stripped out.  
+% Page 218: "Then out on the plain he rode, riding a mettlesome Spanish charger with high shoulders and pointed ears, long neck, matchless thighs, limbs so perfectly marked that no artist could imitate them."  
+  
+  
 @book{dickens1993tale,  
   title={A Tale of Two Cities: Introduction by Simon Schama},  
   author={Dickens, C. and Schama, S.},  
