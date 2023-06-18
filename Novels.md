@@ -21,6 +21,7 @@ title: Novels
 % The simplest way to describe this book is that it is just like reading The Silmarillion, except everything in it actually happened, and all of the boring bits between battles (like the begats) are stripped out.  
 % Page 218: "Then out on the plain he rode, riding a mettlesome Spanish charger with high shoulders and pointed ears, long neck, matchless thighs, limbs so perfectly marked that no artist could imitate them."  
 % Page 255: "With his shield hung at his neck the king of England grasped a Danish axe and hopped into the sea, followed by Geoggred du Bois, Peter de Pratelles, and other brave knights. And now these Turks stood aghast when they saw King Richard rise out of the water with his axe. They retreated, blood and havoc claimed the shore. The king pursued them and gave no terms but despatched them groaning into hell. They say the haft of his Danish axe splintered and he defended himself with mailed sleeve of his hauberk or his gauntlet, and whichever pagan he struck fell bloody. Not in the history of this world was any man born of woman who abhorred cowardice so much as he."  
+% Page 321: slay them all, God will know his own; at Béziers/Beziers
   
   
 @book{dickens1993tale,  
