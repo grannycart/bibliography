@@ -5,6 +5,19 @@ title: Criticality
 
 --------------------------------------------------------------------------------
 
+
+@article{2023philippschemweaps,  
+  Author={Philipps, Dave and Ismay, John},  
+  url={https://www.nytimes.com/2023/07/06/us/chemical-weapons-stockpile.html},  
+  Title={U.S. Is Destroying the Last of Its Once-Vast Chemical Weapons Arsenal},  
+  journal={The New York Times},  
+  date={2023-07-06},  
+  comment={Within days of this article, the US will have destroyed the last (declared) chemical weapons on Earth. It took decades longer than expected and cost 42 billion dollars (against an initial estimate of 1.4 billion dollars and completed in a few years). The stockpile was built up, like nuclear weapons, as a supposed deterrent against attacks with chemical weapons. The public was not informed as the scale of the stockpile (which makes one seriously question the value as a deterrent...) The public only found out about the stockpile in 1968 when 5600 sheep in Utah died on land adjacent to a site where the Army was testing chemical weapons. The Army was doing open-air testing at a number of locations and storing chemicals in 8 states. Decades and decades later, 2900 percent over budget, the weapons were all safely disposed of.},  
+  category={Criticality, chemical weapons, robots, Science, army, military}  
+}  
+% The Army was capable of storing a huge stockpile of chemical weapons for decades... but it's ridiculous to suggest the government might have a few bits of a UFO?
+
+
 @article{lowenstein2023buffet,  
   Author={Lowenstein, Roger},  
   url={https://www.nytimes.com/2023/05/02/opinion/warren-buffett-berkshire-hathaway-social-governance.html},  
