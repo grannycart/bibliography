@@ -5,6 +5,16 @@ title: Criticality
 
 --------------------------------------------------------------------------------
 
+@article{krugman2023crazyrich,  
+  Author={Krugman, Paul},  
+  url={https://www.nytimes.com/2023/07/06/opinion/robert-kennedy-jr-silicon-valley.html},  
+  Title={The Rich Are Crazier Than You and Me},  
+  journal={The New York Times},  
+  date={2023-07-06},  
+  comment={Most of the time conventional and expert opinions are right. But there can be big social and personal payoffs to finding places where they're wrong. "The trick to achieving these payoffs is to balance on the knife edge between excessive skepticism of unorthodoxy and excessive credulity. It's all too easy to fall off that knife's edge in either direction." Contrarianism is a "brain rotting drug" that causes you to lose the ability to tell good evidence from bad and cling to low-quality contrarian fads and lose the ability to judge other contrarians. Tech bros are especially susceptible because they often got rich by embracing some outsider perspective on something, and thus (falsely) gain the confidence to consider themselves uniquely brilliant and able to master any subject without consulting the people who have actually worked hard to understand an issue. Great wealth also leads them to being surrounded with yes-men. "It may seem odd to see men of vast wealth and influence buying into conspiracy theories about elites running the world. Aren’t they the elites? But I suspect that famous, wealthy men may be especially frustrated by their inability to control events, or even stop people from ridiculing them on the internet. So rather than accepting that the world is a complicated place nobody can control, they’re susceptible to the idea that there are secret cabals out to get them." Ala Henry Ford.},  
+  category={Criticality, Economics}  
+}  
+
 
 @article{2023philippschemweaps,  
   Author={Philipps, Dave and Ismay, John},  
