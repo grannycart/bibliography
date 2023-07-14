@@ -6,6 +6,21 @@ title: Novels
 --------------------------------------------------------------------------------
  
  
+@book{wyndham2009chrysalids,  
+  title={The Chrysalids},  
+  author={Wyndham, J. and Harrison, M.J.},  
+  isbn={9780141045436},  
+  series={Popular Penguins},  
+  url={https://books.google.com/books?id=2omSPwAACAAJ},  
+  year={2009},  
+  publisher={Penguin},  
+  comment={In a post-nuclear world, humans despite mutant plants, animals, and people. Some humans develop telepathy, and have to get out of their repressive provincial town.},
+  category={Novels, science fiction, post-apocalypse}
+}
+% Super fun quick read. I have the Austrialian version of this Penguin Book, given to me by Sam Holleran.  
+
+  
+  
 @book{connell2000deus,  
   title={Deus Lo Volt!: Chronicle of the Crusades},  
   author={Connell, E.S.},  
