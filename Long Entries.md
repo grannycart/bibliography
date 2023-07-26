@@ -2,6 +2,22 @@
 
 --------------------------------------------------------------------------------
  
+ 
+@book{tuchman2004guns,  
+  title={The Guns of August: The Pulitzer Prize-Winning Classic About the Outbreak of World War I},
+  author={Tuchman, B.W.},  
+  isbn={9780345476093},  
+  lccn={93090461},  
+  url={https://books.google.com/books?id=XWCPDQAAQBAJ},  
+  year={2004},  
+  publisher={Random House Publishing Group}  
+}  
+% (Note: page references here refer to 606 page mass-market paperback I read that is not easily found on Google Books.)  
+% Neutrality: I had always supposed neutrality was assumed by a country that simply had pacifist ideals and didn't want to be involved in a bloody war. But in Belgium's case (maybe in the case of far more neutral countries than I know) its neutrality before WWI was established because its locatioon was a flat perfect battlefield by which Germany could invade France, or visa versa. All the surrounding country is difficult-to-traverse with an army mountains and hills. So to create a buffer and take an attractive location for a war off the table, ALL of those countries --- France, Britain, and Germany --- signed on to a treaty of neutrality for Belgium. Which the Germans violated to being WWI --- a major theme of the first half of this book.   
+% See chapter 10 about the _Goeben_, a single German warship responsible for bringing Turkey into the war on the side of the Germans and thus (largely by preventing the Russians from using the Black Sea for launching their ships) eventually caused maybe more bloody outcomes than any other single act of the war, including Gallipoli.  
+% Pages 194-196: description of the fortifications defending Liege, and the German development of monstrous railway and road guns to attack it.  
+   
+ 
 @book{connell1984morning,  
   title={Son of the Morning Star},  
   author={Connell, E.S. and Baskin, L.},  
