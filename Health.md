@@ -824,6 +824,19 @@ category = {Health, Science, Economics, behavioral economics}
   category={Health, Science, deaths, drowning, swimming, pools, race}  
 }  
 % See NY Times article saying all the same things still apply in 2023: \url{https://www.nytimes.com/2023/07/08/health/children-drowning-deaths.html}    
+% And again: \url{https://www.nytimes.com/2023/07/27/opinion/drowning-public-pools-america.html}  
+  
+  
+@article{bellafanteswimmingpools,  
+  Author={Bellafante, Ginia},  
+  url={http://www.nytimes.com/2015/09/13/nyregion/heat-waves-are-not-egalitarian-in-new-york.html},  
+  Title={For New York’s Pools, It’s Not the Heat, It’s the Politics},  
+  journal={The New York Times},  
+  date={2015-09-11},  
+  comment = {Argues that heat waves impact lower-income people more. Particularly ones without the resources to get to the beach. And argues for that reason swimming pools should be funded and maintained.},  
+  category = {heat waves, swimming pools}  
+}  
+  
   
 @article{doi:10.1001/jamainternmed.2017.2773,  
 author = {Califf RM and McCall J and Mark DB},  
@@ -1873,7 +1886,7 @@ category={Health, hygiene hypothesis, autoimmune, parasites}
   Title={What Google Learned From Its Quest to Build the Perfect Team},  
   journal={The New York Times},  
   date={2016-02-25},  
-  comment = {Google did a bunch of empirical research to discover that effective work teams are need ``psychologically safe environments''. People on teams need to listen to eachother in order for the team to be effective, and everyone needs to feel like they can contribute.},  
+  comment = {Google did a bunch of empirical research to discover that effective work teams are need "psychologically safe environments". People on teams need to listen to eachother in order for the team to be effective, and everyone needs to feel like they can contribute.},  
   category = {Health, teams, google, psychological safety}  
 }  
   
@@ -1958,17 +1971,6 @@ category={Health, hygiene hypothesis, autoimmune, parasites}
  category = {economy, health}  
 }  
 %Another paper of his suggests that among other causes is less drunk driving, better eating habits, and more physical activity: \url{https://libres.uncg.edu/ir/uncg/f/C_Ruhm_Are_2000.pdf}  
-  
-@article{bellafanteswimmingpools,  
-  Author={Bellafante, Ginia},  
-  url={http://www.nytimes.com/2015/09/13/nyregion/heat-waves-are-not-egalitarian-in-new-york.html},  
-  Title={For New York’s Pools, It’s Not the Heat, It’s the Politics},  
-  journal={The New York Times},  
-  date={2015-09-11},  
-  comment = {Argues that heat waves impact lower-income people more. Particularly ones without the resources to get to the beach. And argues for that reason swimming pools should be funded and maintained.},  
-  category = {heat waves, swimming pools}  
-}  
-  
   
 @article{friedmanfeardrug,  
   Author={Friedman, Richard A.},  
