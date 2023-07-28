@@ -5,6 +5,21 @@ title: Criticality
 
 --------------------------------------------------------------------------------
 
+
+@article{nathoo2021dei,  
+  Author={Nathoo, Zelekha},  
+  url={https://www.bbc.com/worklife/article/20210614-why-ineffective-diversity-training-wont-go-away},  
+  Title={Why ineffective diversity training won't go away},  
+  journal={BBC},  
+  date={2021-06-17},  
+  comment={Research shows the diversity, equity, and inclusion (DEI) training has little to no effect.},  
+  category={Critcality, diversity, dei}  
+}  
+% Information in this article is largely pulled from a book called Diversity, Inc.  
+% See also this Harvard Business Review article about researchers who are among the few to actually measure the effects of DEI programs: \url{https://hbr.org/2019/07/does-diversity-training-work-the-way-its-supposed-to}  
+% And this article in Forbes reflecting on the current state of DEI: \url{https://www.forbes.com/sites/janicegassam/2022/10/07/have-we-been-wrongfully-vilifying-dei-training/?sh=730091543b35}  
+  
+  
 @article{krugman2023crazyrich,  
   Author={Krugman, Paul},  
   url={https://www.nytimes.com/2023/07/06/opinion/robert-kennedy-jr-silicon-valley.html},  
