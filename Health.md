@@ -2456,10 +2456,23 @@ category = {health, hospitals, heart attacks, cardiologists, patient safety}
 }  
 % Carroll did what is essentially a follow up to this on the specific device of hearth stents: \url{https://www.nytimes.com/2018/02/12/upshot/heart-stents-are-useless-for-most-stable-patients-theyre-still-widely-used.html}  
   
+    
+@article{meier2011medicaldevices,  
+  Author={Meier},  
+  url={https://www.nytimes.com/2011/07/30/business/study-calls-approval-process-for-medical-devices-flawed.html},  
+  Title={Study Faults Approval Process for Medical Devices},  
+  journal={The New York Times},  
+  date={2011-07-29},  
+  comment={The government’s system for regulating many medical devices like artificial hips should be abandoned and replaced because it fails to examine their safety and effectiveness before sale. The FDA's review process does not screen out dangerous or ineffective products. The law controlling approval only requires that a new product be 'substantially equivalent' to one that is already on the market to be approved.},  
+  category={Health, fda, medical devices, Criticality}  
+}  
+% This article was cited in a 2023 article about medical devices leading to amputations: \url{https://www.nytimes.com/2023/07/15/health/atherectomy-peripheral-artery-disease.html}, suggesting that this remains an issue more than a decade later.   
+  
+  
 @article{peacenurses,  
   Author={Peace, William},  
   url={http://bioethics.northwestern.edu/atrium/articles/issue12/peace.html},  
-  Title={``Head Nurses''},  
+  Title={"Head Nurses"},  
   journal={Atrium},  
   issue = {12},   
   year = {2014},  
@@ -2536,7 +2549,6 @@ category = {health, hospitals, heart attacks, cardiologists, patient safety}
 % Which is a really good essay that pleasingly embraces the complexity of what women want rather than offering proscribed rules or solutions.  
   
   
-https://www.nytimes.com/2022/08/16/opinion/sex-women-feminism-rules.html 
 @article{oppenheimersavage,  
   Author={Oppenheimer, Mark},  
   url={http://www.nytimes.com/2011/07/03/magazine/infidelity-will-keep-us-together.html},  
