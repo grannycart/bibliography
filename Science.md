@@ -6,7 +6,17 @@ title: Science
 --------------------------------------------------------------------------------
 
 
-
+@article{zimmer2023miceblood,  
+  Author={Zimmer, Carl},  
+  url={https://www.nytimes.com/2023/07/27/health/mice-blood-aging.html},  
+  Title={Blood of Young Mice Extends Life in the Old},  
+  journal={The New York Times},  
+  date={2023-07-27},  
+  comment={Scientists stiched together an old mouse and a young mouse for three months and found the old mouse had all the markers of a younger mouse, while the younger mouse had markers of being older. After separation the younger mouse returned to markers of a younger mouse.},  
+  category={Science, superscience, aging, mice}  
+}  
+  
+  
 @article{preston2023orcamoms,  
   Author={Preston, Elizabeth},  
   url={https://www.nytimes.com/2023/02/08/science/orcas-sons-mothers.html},  
