@@ -6,6 +6,20 @@ title: Criticality
 --------------------------------------------------------------------------------
 
 
+@article{mazetti2023pegasus,  
+  Author={Mazzetti, Mark and Bergman, Ronen},  
+  url={https://www.nytimes.com/2023/04/02/us/politics/nso-contract-us-spy.html},  
+  Title={A Front Company and a Fake Identity: How the U.S. Came to Use Spyware It Was Trying to Kill},  
+  journal={The New York Times},  
+  date={2023-04-02},  
+  comment={The Biden administration put the Israeli company NSO on blacklist for selling its Pegasus spyware to governments around the world. Days later some other part of the government signed a secret contract with NSO purchasing spyware.},  
+  category={Criticality, spyware, pegasus}  
+}  
+% See also: \url{https://www.nytimes.com/2023/07/31/us/politics/nso-spy-tool-landmark-fbi.html} where the FBI investigates and finds that they had purchased NSO spyware themselves in violation of the Biden blacklist.  
+% (But, says the smart people at the NY Times, there's no _way_ the government could keep an  extraterrestrial materials research program secret from itself...)  
+% See also Frontline episodes about Pegasus. (From which, I got the impression that the US was not interested in Pegasus, which I assumed the only reason could be was that they had something better. In light of these articles, I'm not sure that isn't still true, but clearly the US is _intersted_ in Pegasus --- enough to break the law to use it.)  
+  
+  
 @article{nathoo2021dei,  
   Author={Nathoo, Zelekha},  
   url={https://www.bbc.com/worklife/article/20210614-why-ineffective-diversity-training-wont-go-away},  
