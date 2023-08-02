@@ -5,7 +5,18 @@ title: Criticality
 
 --------------------------------------------------------------------------------
 
-
+@article{prestonwerner2010rdd,  
+  Author={Preston-Werner, Tom},  
+  url={https://tom.preston-werner.com/2010/08/23/readme-driven-development.html},  
+  Title={Readme Driven Development},  
+  journal={tom.preston-werner.com},  
+  date={2010-08-23},  
+  comment={Argues that you should always write the readme file first when developing software. It's a way to make sure you understand what the software will do and why, and let others weigh in on it before you start coding without committing yourself to a huge design spec.},  
+  category={Criticality, readme, software development, project planning}  
+}  
+% See also this articule from Amazon on working backwards (write the press-release first): \url{https://www.allthingsdistributed.com/2006/11/working_backwards.html}  
+  
+  
 @article{mazetti2023pegasus,  
   Author={Mazzetti, Mark and Bergman, Ronen},  
   url={https://www.nytimes.com/2023/04/02/us/politics/nso-contract-us-spy.html},  
