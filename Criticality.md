@@ -5,6 +5,18 @@ title: Criticality
 
 --------------------------------------------------------------------------------
 
+
+@article{gower2021mayflower,  
+  Author={Gower, Nathan},  
+  url={https://www.bbc.com/news/world-us-canada-57698818},  
+  Title={Mayflower 400 years: How many people are related to the Mayflower pilgrims?},  
+  journal={BBC},  
+  date={2021-08-07},  
+  comment={Probably at least 3 million people, and maybe as many as 35 million people, are descendants of the original ~100 that came over on the Mayflower (and the ~50 that survived the first winter in North America).},  
+  category={Criticality, genealogy, mayflower}  
+}  
+  
+  
 @article{prestonwerner2010rdd,  
   Author={Preston-Werner, Tom},  
   url={https://tom.preston-werner.com/2010/08/23/readme-driven-development.html},  
