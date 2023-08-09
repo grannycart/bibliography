@@ -6,6 +6,25 @@ title: Health
 --------------------------------------------------------------------------------
   
   
+  
+@article{10.1093/pnasnexus/pgad173,  
+    author = {Bor, Jacob and Stokes, Andrew C and Raifman, Julia and Venkataramani, Atheendar and Bassett, Mary T and Himmelstein, David and Woolhandler, Steffie},  
+    title = "{Missing Americans: Early death in the United States—1933–2021}",  
+    journal = {PNAS Nexus},  
+    volume = {2},  
+    number = {6},  
+    pages = {pgad173},  
+    year = {2023},  
+    month = {05},  
+    abstract = "{We assessed how many US deaths would have been averted each year, 1933–2021, if US age-specific mortality rates had equaled the average of 21 other wealthy nations. We refer to these excess US deaths as “missing Americans.” The United States had lower mortality rates than peer countries in the 1930s–1950s and similar mortality in the 1960s and 1970s. Beginning in the 1980s, however, the United States began experiencing a steady increase in the number of missing Americans, reaching 622,534 in 2019 alone. Excess US deaths surged during the COVID-19 pandemic, reaching 1,009,467 in 2020 and 1,090,103 in 2021. Excess US mortality was particularly pronounced for persons under 65 years. In 2020 and 2021, half of all US deaths under 65 years and 90\\% of the increase in under-65 mortality from 2019 to 2021 would have been avoided if the United States had the mortality rates of its peers. In 2021, there were 26.4 million years of life lost due to excess US mortality relative to peer nations, and 49\\% of all missing Americans died before age 65. Black and Native Americans made up a disproportionate share of excess US deaths, although the majority of missing Americans were White.}",  
+    issn = {2752-6542},  
+    doi = {10.1093/pnasnexus/pgad173},  
+    url = {https://doi.org/10.1093/pnasnexus/pgad173},  
+    eprint = {https://academic.oup.com/pnasnexus/article-pdf/2/6/pgad173/51011573/pgad173.pdf},  
+}  
+% See also NY Times recap: \url{https://www.nytimes.com/2023/08/09/opinion/mortality-rate-pandemic.html}  
+  
+  
 @article{leibowitz2020winter,  
   title={Winter is coming: wintertime mindset and wellbeing in Norway},  
   author={Leibowitz, Kari and Vitters{\o}, Joar},  
