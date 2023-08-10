@@ -5,6 +5,17 @@ title: Health
 
 --------------------------------------------------------------------------------
   
+@article{wingarten2009carchilddeaths,  
+  Author={Weingarten, Gene},  
+  url={https://www.washingtonpost.com/lifestyle/magazine/fatal-distraction-forgetting-a-child-in-thebackseat-of-a-car-is-a-horrifying-mistake-is-it-a-crime/2014/06/16/8ae0fe3a-f580-11e3-a3a5-42be35962a52_story.html},  
+  Title={Fatal Distraction: Forgetting a Child in the Backseat of a Car Is a Horrifying Mistake. Is It a Crime?},  
+  journal={The Washington Post},  
+  date={2009-03-08},  
+  comment={Pulitzer prize winning story describing the problem of parents causing the death of children by forgetting them in the back seat of cars.},  
+  category={Health, horror, cars, children}  
+}  
+% As usual with stories about this subject: no mention of the fact that the real cause of death here is suburban parking sprawl.    
+% See my own comment in NY Times on the same subject.)  
   
   
 @article{10.1093/pnasnexus/pgad173,  
