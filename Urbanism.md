@@ -6,6 +6,18 @@ title: Urbanism
 
 --------------------------------------------------------------------------------
   
+  
+@article{pollan1989lawns,  
+  Author={Pollan, Michael},  
+  url={https://www.nytimes.com/1989/05/28/magazine/why-mow-the-case-against-lawns.html},  
+  Title={WHY MOW?; THE CASE AGAINST LAWNS},  
+  journal={The New York Times},  
+  date={1989-05-28},  
+  comment={Old article where Michael Pollan dwells on the insanity of lawns in America.},  
+  category={Urbanism, Criticality, lawns, grass}  
+}  
+  
+  
 @article{flavelle2023phoenix,  
   Author={Flavelle, Christopher and Healy, Jack},  
   url={https://www.nytimes.com/2023/06/01/climate/arizona-phoenix-permits-housing-water.html},  
