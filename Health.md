@@ -5,6 +5,20 @@ title: Health
 
 --------------------------------------------------------------------------------
   
+  
+@article{kristof2023healthcare,  
+  Author={Kristof, Nicholas},  
+  url={https://www.nytimes.com/2023/08/16/opinion/health-care-life-expectancy-poverty.html},  
+  Title={How Do We Fix the Scandal That Is American Health Care?},  
+  journal={The New York Times},  
+  date={2023-08-16},  
+  comment={Life expectancy in the US is lower than any other rich nation. Some demographic groups have life expectancies lower than the poorest countries on Earth, particularly among men. Meanwhile rich white men in the US have among the highest life expectancies in the world. Yet Hispanic people lack health insurance at high rates, but have longer life expectancies than white people. Kristof calls for changes to individual behaviors as well as societal fixes like expanding Medicaid, extending the child tax credit, and providing drug treatment.},  
+  category={Health, Criticality, life expectancy, health care system}  
+}  
+% Kristof's solution seems to be largely to tackle the low-hanging fruit of expanding Medicaid and the like, with a small dash of personal responsibility for bad behaviors thrown in. But the most interesting part of this piece is the Hispanic paradox. It _stronly_ suggests that both personal responsibility and access to health care are just small treatments to the symptom of the problem, not dealing with the actual _cause_.  
+% The Hispanic paradox suggests that the cause of our health care problems is largely _cultural_ --- Americans are isolated and simply don't care about others in their communities. To some extent calling for an expansion of Medicaid is like saying "let the government deal with those people in the community that I don't personally care about." (This is hardly _Christian_.) It seems like what we really need to learn from the Hispanic "paradox" (it's only a paradox if you are assuming that access to health care is actually a good thing for you) is that the MOST healthy thing you can do is be a part of strong community ties --- and _notably_, (I think) that being part of a strong community can be done without decreasing your machismo. (This is nearly unmentioned in this piece, but I think if you are talking about the health of men, I don't see how you can not make it front and center.)  
+ 
+ 
 @article{wingarten2009carchilddeaths,  
   Author={Weingarten, Gene},  
   url={https://www.washingtonpost.com/lifestyle/magazine/fatal-distraction-forgetting-a-child-in-thebackseat-of-a-car-is-a-horrifying-mistake-is-it-a-crime/2014/06/16/8ae0fe3a-f580-11e3-a3a5-42be35962a52_story.html},  
