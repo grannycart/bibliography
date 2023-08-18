@@ -18,6 +18,8 @@
 % See chapter 10 about the _Goeben_, a single German warship responsible for bringing Turkey into the war on the side of the Germans and thus (largely by preventing the Russians from using the Black Sea for launching their ships) eventually caused maybe more bloody outcomes than any other single act of the war, including Gallipoli.  
 % Pages 194-196: description of the fortifications defending Liege, and the German development of monstrous railway and road guns to attack it.  
 % Page 350: "\emph{Poddavki}, a Russian form of checkers in which the object is to lose all of one's men."  
+% Page 462: The British believed (for decades afterwards) a myth that the BEF saved France, Europe, and Western Civilization in the first month of the war. In fact the British played a very minor role in the massive French and German battles, and mostly retreated. Thanks to government censorship of the newspapers, the British people thought the Germans were continually being beaten; while at the same time they somehow moved forward every day.  
+% Page 463-464: A rumor spreads across Britain that the Russians are moving troops across the island to land in France as reinforcements. This is patently untrue, but word of the rumor reaches the Germans and they fear a massive Russian influx during the Marne.  
    
  
 @book{connell1984morning,  
