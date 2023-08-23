@@ -20,6 +20,11 @@
 % Page 350: "\emph{Poddavki}, a Russian form of checkers in which the object is to lose all of one's men."  
 % Page 462: The British believed (for decades afterwards) a myth that the BEF saved France, Europe, and Western Civilization in the first month of the war. In fact the British played a very minor role in the massive French and German battles, and mostly retreated. Thanks to government censorship of the newspapers, the British people thought the Germans were continually being beaten; while at the same time they somehow moved forward every day.  
 % Page 463-464: A rumor spreads across Britain that the Russians are moving troops across the island to land in France as reinforcements. This is patently untrue, but word of the rumor reaches the Germans and they fear a massive Russian influx during the Marne.  
+% Page 523: In the afterword she says, "Men could not sustain a war of such magnitude and pain without hope---the hope that its very enormity would ensure that it could never happen again and the hope that when somehow it had been fought through to a resolution, the foundations of a better-ordered world would have been laid."
+	% This is interesting in light of Tolkein; certainly that dude came out of WWII with that sense.  
+	% But, she says, when the war was over the result that transcended all others was disillusion. "All the great words were cancelled out for that generation."  
+	% In that sense, Tolkein is revisionism, or idealism.  
+	% But I do think disillusion became the defining characteristic of the 20th Century.  
    
  
 @book{connell1984morning,  
