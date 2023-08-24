@@ -509,6 +509,7 @@ The movie that shares my birthday, both of us 40 years old today.
 % This reminds me of nothing as much as the descriptions of the economic impacts of grain elevators in Nature's Metropolis. If there are warehouses that hold art, with its known value, might they not become the source of futures markets like the grain in the old grain elevators? The monetary value of art could be completely separated from the art itself, and art could become literally a straight comodity.  
 %  Is this the beginning of art as a true financial commoditiy?   
 % See also this article on the most expensive painting ever sold: \url{https://www.nytimes.com/2022/05/09/arts/design/warhol-auction-marilyn-monroe.html}  
+% And this article about one of the families that stockpiles art in free ports: \url{https://www.nytimes.com/2023/08/23/magazine/wildensteins-inheritance-case-art.html}
   
   
 @article{kleincholerainfographics2016,  
