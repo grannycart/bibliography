@@ -5,6 +5,17 @@ title: Health
 
 --------------------------------------------------------------------------------
   
+@article{ortiz2023kidependence,  
+  Author={Ortiz, Camilo and Skenazy, Lenore},  
+  url={https://www.nytimes.com/2023/09/04/opinion/anxiety-depression-teens.html},  
+  Title={This Simple Fix Could Help Anxious Kids},  
+  journal={The New York Times},  
+  date={2023-09-04},  
+  comment={Research suggests that the idea that kids have more anxiety and worse mental health because they are hovered over, watched, and assisted by adults in everything they do now may have much merit. These researchers are trying to put together empirical evidence that simply letting kids do more independent things (things they WANT to do) may reduce anxiety dramatically.},  
+  category={Health, Criticality, anxiety, independence kids}  
+}  
+% I suggest that this may apply to adult anxiety too. We think of adults as independent by defininition, but that simply isn't true. What if the secret to reducing adult anxiety is being willing to take more risks, and experiencing that those risks that even when those risky behaviors result in bad outcomes, mostly they do not result in DIRE and unmanageable outcomes?  
+  
   
 @article{kristof2023healthcare,  
   Author={Kristof, Nicholas},  
