@@ -5,7 +5,25 @@ title: Novels
 
 --------------------------------------------------------------------------------
  
- 
+@book{cather1995my,  
+  title={My {\'A}ntonia},  
+  author={Cather, W.},  
+  isbn={9780395755143},  
+  lccn={76352423},  
+  series={A Mariner Book},  
+  url={https://books.google.com/books?id=hXGXc2iPKlUC},  
+  year={1995},  
+  publisher={Houghton Mifflin},  
+  comment={Little House on the Prarie for educated adults.},  
+  category={Novels, nebraska, prarie}  
+}  
+% Notable for being a very early example of the modern novel where not much happens because having plot might be suspect of low-browedness.   
+% (Death Comes for the Archbishop is, imho, a far superior book.)   
+% She chooses the make the narrator a teenage boy, but somehow completely misses the sheer horniness of teenage boys. The whole book is about how hot these immigrant farm girls are, but everyone in town is so chaste that the book has no sex at all in it (at least by page 130). I find this to be incredibly unrealistic. She's willing to include a part about a homeless dude falling into a thresher, but not willing to go there when it comes to boys rolling in the hay with farm girls? Even in 1900, this just doesn't feel real.  
+% Page 118: Despite being written by a woman with very progressive views on the world, it is not immune from dwelling on offensive stereotypes of its time: "It was the soft, amiable Negro voice, like those I remembered from early childhood, with the note of docile subservience in it. He had the Negro head, too: almost no head at all, nothing behind the ears but folds of neck under close-clipped wool. He would have been repulsive if his face had not been so kindly and happy."  
+% If you want to be amused, look at a collection of covers that have been made for this book. It is clear that publishers think the way to get people to read this book is to market it as an up-market romance novel, or a woman's daydream of playing house on the prairie. All the more reason it should have some sex in it! What's the point of playing house if there's no sex?  
+   
+   
 @book{wyndham2009chrysalids,  
   title={The Chrysalids},  
   author={Wyndham, J. and Harrison, M.J.},  
