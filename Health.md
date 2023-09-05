@@ -5,6 +5,18 @@ title: Health
 
 --------------------------------------------------------------------------------
   
+  
+@article{sangerkatz2023medicare,  
+  Author={Sanger-Katz, Margot and Parlapiano, Alicia and Katz, Josh},  
+  url={https://www.nytimes.com/interactive/2023/09/05/upshot/medicare-budget-threat-receded.html},  
+  Title={A Huge Threat to the U.S. Budget Has Receded. And No One Is Sure Why.},  
+  journal={The New York Times},  
+  date={2023-09-04},  
+  comment={Medicare spending has more of less flatlined in a completely unexpected way. Seems that it is the result of a complex set of interacting reasons that nobody is able to pin down. The amount saved over what was predicted 10 years ago amounts to multiple trillions of dollars --- a huge chunk of the Federal budget. Also, it's possible that medicare will save quite a lot of money because so many elderly people with complex expensive medical needs died from Covid.},  
+  category={Health, Criticality, medicare, covid}  
+}  
+  
+  
 @article{ortiz2023kidependence,  
   Author={Ortiz, Camilo and Skenazy, Lenore},  
   url={https://www.nytimes.com/2023/09/04/opinion/anxiety-depression-teens.html},  
