@@ -5,6 +5,20 @@ title: Novels
 
 --------------------------------------------------------------------------------
  
+ 
+@book{rymer1850string,  
+  title={The String of Pearls, Or, The Barber of Fleet Street: A Domestic Romance},  
+  author={Rymer, J.M. and Macfarren, G.A. and Smith, A. and Lloyd, E. and Hingston, E.P. and Prest, T.P.},  
+  series={Nineteenth Century Collections Online: British Theatre, Music, and Literature: High and Popular Culture},  
+  url={https://books.google.com/books?id=rI8CyQEACAAJ},  
+  year={1850},  
+  publisher={E. Lloyd},    
+  category={Novels, victorian, horror, penny dreadful}  
+}  
+% Surprisingly entertaining, if not actually _good_ and no particular passages of note. I didn't realize how incredibly long it was because I read the ebook from Gutenberg. But it put me to sleep for many many months.  
+% Being mostly unfamiliar with the story, I had no idea that the murdered people were being turned into pies, though obviously you can guess it long before it's revealed. It keeps you reading because you want to find out exactly how it is done!     
+   
+   
 @book{cather1995my,  
   title={My {\'A}ntonia},  
   author={Cather, W.},  
