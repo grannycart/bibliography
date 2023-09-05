@@ -6,6 +6,16 @@ title: Urbanism
 
 --------------------------------------------------------------------------------
   
+@article{badger2023groundfloors,  
+  Author={Badger, Emily},  
+  url={https://www.nytimes.com/2023/09/04/upshot/cities-downtowns-vacant-storefronts.html},  
+  Title={The Ground-Floor Window Into What’s Ailing Downtowns},  
+  journal={The New York Times},  
+  date={2023-09-04},  
+  comment={Ground floor retail is suffering in many cities, largely because of vacant office space upstairs. Fixing it means addressing the (to me) obvious requirements that have been ignored in the past: people like to see people more than anything else; ground floors should be more about interaction than transactions; ground floor retail (read: mixed use) maybe can't go EVERYWHERE because it dilutes the power of commercial districts; ground floor activities should be considered in light of other ground floor acitivities, so you don't just have coffee shops and banks; alternatives to conventional retail in ground floor could improve the experience, things like light manufacturing or public bathrooms.},  
+  category={Urbanism, Criticality, ground floor, mixed use}  
+}  
+  
   
 @article{pollan1989lawns,  
   Author={Pollan, Michael},  
