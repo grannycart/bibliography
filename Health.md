@@ -2842,6 +2842,7 @@ category = {suicide, Health, baby boomers},
   comment = {There is no evidence that you need to drink 8 glasses of water a day.},  
   category = {water, health}  
 }  
+% Nobody knows anything about hydration: \url{https://www.theatlantic.com/health/archive/2023/08/drinking-water-hydration-amount-importance/674926/}
   
 @article{goodcareymasskillings,  
   Author={Goode, Erica and Carey, Benedict},  
