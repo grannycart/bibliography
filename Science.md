@@ -5,7 +5,17 @@ title: Science
 
 --------------------------------------------------------------------------------
 
-
+@article{overbye2023everything,  
+  Author={Overbye, Dennis},  
+  url={https://www.nytimes.com/2023/09/11/science/space/astronomy-universe-simulations.html},  
+  Title={Don’t Expect a ‘Theory of Everything’ to Explain It All},  
+  journal={The New York Times},  
+  date={2023-09-11},  
+  comment={Even if physicists can come up with a theory that explains the behavior of both elementary particles and interstellar objects (a long shot at best at this point), gaining the ability to \emph{describe} the behavior would not grant us the ability to \emph{predict} future (or maybe even past) behavior. This is because of chaos: there is not enough computing power in the universe to model even simple objects. Tiny discrepancies turn into huge errors when magnified across time and space. There is no way to ever create models that will predict behavior accurately.},  
+  category={Science, Criticality, physics}  
+}  
+  
+  
 @article{zimmer2023miceblood,  
   Author={Zimmer, Carl},  
   url={https://www.nytimes.com/2023/07/27/health/mice-blood-aging.html},  
