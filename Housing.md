@@ -5,6 +5,25 @@ title: Housing
 
 --------------------------------------------------------------------------------
   
+  
+@article{appelbaum2023tokyo,  
+  Author={Appelbaum, Binyamin},  
+  url={https://www.nytimes.com/2023/09/11/opinion/editorials/tokyo-housing.html},  
+  Title={The Big City Where Housing Is Still Affordable},  
+  journal={The New York Times},  
+  date={2023-09-11},  
+  comment={Despite being the largest city in the world, and overall wealthy, Tokyo has very affordable housing. This is a result of unfettered development, value placed on new construction by consumers, investment in transit, and little to no sense of historical preservation or value.},  
+  category={Urbanism, Housing, tokyo}  
+}  
+% This shows that the econ 101 supply v demand / neoliberal model DOES work... in the simplist model you can come up with.  
+% Tokyo is exceptional from other major world cities in critical ways (many of them laid out in the article as if they are flaws that other world cities need to address):  
+	% Tokyo has virtually no restriction on development _in its entire greater metro area_. This is like saying it's NYC's fault that residents of NJ CT and LI don't want to allow developments in their towns. Indeed, the article LITERALLY states that NYC "stopped building new transit lines and started restricting new development along existing lines" and then claims that growth stalled in Garden City Long Island. As if NYC has any control over what happens on Long Island. As if it could even be _constitutional_ for NYC to have some kind of control over development in NJ or CT.  
+	% Tokyo has no historical buildings at all (and no parks). People just want the newest construction. They just dispose of anything old and there's no regulations or bodies to prevent that from happening. Is that really the housing culture _anyone_ wants in NYC or London?  
+	% Tokyo doesn't seem to be constrained by land space, it just keeps consuming its suburbs and making them part of the city. NYC will never have control over the land space of the 5 boroughs themselves.  
+	% Construction seems to be cheap in Tokyo. I can almost guarantee this is not because of a lack of regulation. There are a huge number of economic factors that affect construction costs, not just zoning regulations. This is a wholly different problem from housing (that rapidly gets into the space of equity and how well construction worker in a dangeroud and difficult job are paid).  
+	% It is difficult to imagine ANY scenario in NYC and London where any new construction is NOT high-end luxury construction. ALL the things that make development expensive in London and NYC come together and ensure that new development is almost always _exclusively_ for rich people. Building more high-rises in the context of these cities only makes the city more accessible to rich people. There is NO model in the forseeable 100-year future where so much low-income housing is being built that it lowers the cost of housing for low-income people.  
+ 
+  
 @article{mari2022viennapublichousing,  
   Author={Mari, Francesca},  
   url={https://www.nytimes.com/2023/05/23/magazine/vienna-social-housing.html},  
