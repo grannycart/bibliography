@@ -68,6 +68,7 @@ value of mine or anyone else's.
   comment={},  
   category={}  
 }  
+    
   
 % (9 lines)  
 @article{Blankarticleentry,  
@@ -79,6 +80,7 @@ value of mine or anyone else's.
   comment={},  
   category={}  
 }  
+    
   
 % (9 lines)  
 @article{Blanknytimes,  
@@ -91,4 +93,4 @@ value of mine or anyone else's.
   category={}  
 }  
   
-
+  

@@ -5,6 +5,18 @@ title: Science
 
 --------------------------------------------------------------------------------
 
+
+@article{roth2023lakesharks,  
+  Author={Roth, Annie},  
+  url={https://www.nytimes.com/2023/09/12/science/sharks-golf-course-australia.html},  
+  Title={Sharks on a Golf Course Made a Watery Grave Unlike Any Other},  
+  journal={The New York Times},  
+  date={2023-09-12},  
+  comment={Lake sharks are real.},  
+  category={Science, sharks}  
+}  
+  
+
 @article{overbye2023everything,  
   Author={Overbye, Dennis},  
   url={https://www.nytimes.com/2023/09/11/science/space/astronomy-universe-simulations.html},  
