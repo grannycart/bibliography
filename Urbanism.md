@@ -6,6 +6,17 @@ title: Urbanism
 
 --------------------------------------------------------------------------------
   
+@article{jennings2023greengentrification,  
+  Author={Jennings, Viniece and Rigolon, Alessandro and Jelks, Na’Taki Osborne},  
+  url={https://nextcity.org/urbanist-news/when-green-spaces-displace-residents-our-cities-health-suffers},  
+  Title={When Green Spaces Displace Residents, Our Cities’ Health Suffers},  
+  journal={Next City},  
+  date={2023-09-08},  
+  comment={Green spaces in cities increase health. But they also play a role in gentrification (sometimes contributing to it, sometimes a result of it). Some people are calling to make cities "just green enough" and parks-related anti-displacement strategies.},  
+  category={Urbanism, Criticality, green gentrification, parks, gentrification}  
+}  
+    
+  
 @article{badger2023groundfloors,  
   Author={Badger, Emily},  
   url={https://www.nytimes.com/2023/09/04/upshot/cities-downtowns-vacant-storefronts.html},  
