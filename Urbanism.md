@@ -6,6 +6,27 @@ title: Urbanism
 
 --------------------------------------------------------------------------------
   
+@book{jacobs1995great,  
+  title={Great Streets},  
+  author={Jacobs, A.B.},  
+  isbn={9780262600231},  
+  lccn={93322352},  
+  series={Great Streets},  
+  url={https://books.google.com/books?id=lr1NEAAAQBAJ},  
+  year={1995},  
+  publisher={MIT Press},  
+  comment={A side-by-side comparison of the pysical characteristics of 'great streets' to try to explicate what makes them great.},  
+  category={Urbanism, physical planning, streets, urban planning, traffic}  
+}  
+% Apparently most of the 'great streets' of the world are in Europe. And most of those are in France. And most of those are in Paris. Which is funny because I don't remember ever being in Paris and thinking "hey, this is a great street" --- an experience I often have in NYC.  
+% Page 89: On Market Street in San Francisco and how it was once great but is no more: "It isn't as if people don't know that the street is not what it once was and don't care; they do. More than two-thirds of the voters, in 1967, voted to spend almost $25 million to help make it a great street again. That was when the subway was being built. Wide sidewalks, trees, refurbished lights, new wide paving and large granite curbs, a new family of street signs and benches and specially designed trash bins and other new details, and three large new plazas and more small ones were carefully designed and built. They make a positive difference, but not as much as one would have thought. After 20 years the trees are still not a major presence. They are not big enough and don't look robust. Brick crosswalks, as continuations of the sidewalks, have been replaced with some hard-to-describe reddish-pinkish aggregate material. Asphalt seems to creep over the special paving materials. There is a difference between cleanliness (and the street _is_ kept clean and maintenance (such as of trees and sidewalks) that seems to go unrecognized.  
+% Note last line in quote above. Though that chapter is also a good example of how little control planners actually have. It seems that what make Market Street great back in the day was mostly a combination of 1930s-style office buildings and the street being full of slowly-moving trolley cars that connected to the suburbs (both aspects entirely commercial operations back then, hence _multiple_ trolley lines on the street). Also (unrecognized by Jacobs) just a different culture of going outside to get lunch from a shop, walking to your meetings in other buildings, not even considering taking a car anywhere.  
+% Jacobs archetype of a great street seems to be The Ramblas in Barcelona. See that chapter.
+% It seems like the goal of 'great streets' for Jacobs is something between a mall and a park. It is all about slow pedestrian walking and browsing open shops. For him (for the archetypal urban planner) maybe the goal is slightly more elevated than the mall where shopping is the end-goal of ALL aspects. Jacobs wants the highest elevation of street design to be a place to stroll with interesting things to look at and people to see and be seen by. These are, of course, all the same aspects a mall is trying to achieve too, Jacobs just (very slightly) reverses the top goal to the actual walking rather than the stores. I'm not sure chambers of commerce would agree with that flip, but it's such a minor flip that they would not disagree with a planner trying to achieve it --- and that, I think, is a question that a socially oriented planner should be wrestling with more explicitly (and typically does not). A park has the interesting-strolling-seen-and-be-seen as its highest goal as well and it is _extracted_ entirely from the shopping. That's nice and socialist, though personally I find a park dull compared to an active city street (shopping or no).  
+% By 100 pages in, Jacobs has dealt very little with _residential_ great streets. Which you would think would be the _most_ interesting! Let commercial streets take care of themselves. As a planner, I'm not super interested in designing malls. I _am_ interested in how people live out their lives _other_ than when they are shopping. What makes a residential street a great street to live on? Especially in urban areas? There's a very simple answer to that: Sesame Street. It is the _ideal_ residential street. It should be in this book! Maybe it is unachievable today (even putting aside the muppets, how do you get a street with zero cars like that?) But it is the goal that EVERY city street should be aiming for.  
+  
+  
+  
 @article{jennings2023greengentrification,  
   Author={Jennings, Viniece and Rigolon, Alessandro and Jelks, Na’Taki Osborne},  
   url={https://nextcity.org/urbanist-news/when-green-spaces-displace-residents-our-cities-health-suffers},  
