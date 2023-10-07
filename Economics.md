@@ -6,6 +6,24 @@ title: Economics
 --------------------------------------------------------------------------------
   
   
+@book{graeber2012debt,  
+  title={Debt: The First 5,000 Years},  
+  author={Graeber, D.},  
+  isbn={9781612191812},  
+  lccn={2012462122},  
+  series={Melville House Publishing / Graeber, David},  
+  url={https://books.google.com/books?id=yIMxuAAACAAJ},  
+  year={2012},  
+  publisher={Melville House},
+  comment={The now classic tome on economists got everything wrong about the history of money in human culture.},  
+  category={Economics, Criticality, debt}
+}  
+% Page 3: "Surely one has to pay one's debts" is a _moral_ concept widely shared, but not actually a part of standard economic theory. In reality, loans _have_ to have risk involved (that is, the risk that you won't pay your debt), to deter loans being made on unnecessarily risky ventures. eg, a bank would never loan you a million dollars to bet on a horse because it knows it would never get the money back if you lost it. The responsibility is not JUST on the person who owes the debt, but the loaner takes on the risk of the person not being able to pay the debt by making the loan in the first place. That's THEIR responsibility.  
+% Chapter 2, The Myth of Barter, explains how the first thing all economics textbook teach is that first came barter, then came coined money, then debt. In fact, the anthropological evidence shows (and has been known for more than 100 years, Page 40) that first came debt (Page 39: Sumerian temples would accept virtually anything in payment of debts), then money, and barter systems were entirely the result of situations where money disappeared for some reason . Barter systems only appear in situations where people still assign value of coins to objects, even though the coins may no longer be available. Even though barter systems are extremely rare in human society, economics always teaches the barter system as the lower form because it is fundamental to the myth necessary to create the "science" of economics because economists believe that stripping away money would leave barter -- where everyone has a set value for the goods they stockpile (page 44).   
+% Page 36: the gift economy. This is what Graeber argues is what the anthropological evidence shows. In a small group where everyone knows everyone else, it is easier to simply give a thing to anyone who needs it, and then you chock that up as a favor the person owes you, where you expect them to reciprocate the gift at some point in the future when you have your own need. Whether to give a gift is based on the relationship with the other person: are they a friend, family, or neighbor? ---Things that go wholly unaccounted for in the field of economics. This mode of supplying gifts to people for when they need something is still present in our lives every day (think of keeping kids in clothes or neighbors helping to put a roof on).  
+	% This is wholly convincing, to me. And clearly Graeber is headed towards a place where the concept of "economics" is entirely a construct used to exploit people. But it seems clear, even at this point, that the gift economy works great in a small group where everyone knows each other, while barter or debt becomes a (maybe?) necessary part of any system larger than a hundred people or so. Debt is _how_ you can have a fair relationship with another group that you don't have a personal relationship with. Is there any other way? To me it reads like what the economists got complete wrong is that people are economic beings. But it does seem like economics might actually be a real natural phenomenon for interaction between groups?  
+
+  
 @article{marchese2022dalygrowth,  
   Author={Marchese, David},  
   url={https://www.nytimes.com/interactive/2022/07/18/magazine/herman-daly-interview.html},  
