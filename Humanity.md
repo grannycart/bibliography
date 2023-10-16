@@ -5,7 +5,17 @@ title: Humanity
 
 --------------------------------------------------------------------------------
 
- 
+@article{eska2011women,  
+  title={Women and slavery in the early Irish laws},  
+  author={Eska, Charlene M},  
+  journal={Studia Celtica Fennica},  
+  volume={8},  
+  pages={29--39},  
+  year={2011},  
+  comment={Slaves were very common in early Irish history. Female slaves, known as _cumal_, were so valuable that the word became a high-value currency.},  
+  category={Humanity, ireland}  
+}  
+   
   
 @article{doi:10.1177/09596836211060497,  
 author = {Matthew Dalton and Jane McMahon and Melissa A Kennedy and Rebecca Repper and Saifi Eisa Al Shilali and Yousef AlBalawi and David D Boyer and Hugh Thomas},  
