@@ -5,7 +5,20 @@ title: Novels
 
 --------------------------------------------------------------------------------
  
- 
+
+@book{steinbeck1939grapes,  
+  title={The Grapes of Wrath},  
+  author={Steinbeck, J.},  
+  lccn={41051968},  
+  series={Modern library of the world's best books},  
+  url={https://books.google.com/books?id=WukzAAAAMAAJ},  
+  year={1939},  
+  publisher={Modern Library}  
+}  
+% page 51-52: The cropper being forced off his land threatens to shoot the driver of the tractor, but the driver points out he's just doing his job, as is his boss. They are being told what to do by the bank. The cropper isn't killing the right guy. The cropper says, "Well, there's a president of the bank. There's a board of directors. I'll fill up the magazine aof the rifle and go into the bank." The driver says the bank gets orders from the east. The cropper asks "Where does it stop? Who can we shoot?" And the driver says maybe there isn't anyone. The cropper says "It's not like lightning or earthquakes. We got a bad thing made by men and by God that's something we can change."   
+	% Tell me that this notion that you can take a rifle and avenge the wrong of losing one's livelihood to wealthy people is any different than the misery of all the down-and-out white dudes with guns. Who can they shoot? Maybe nobody. Maybe everybody.  
+   
+  
 @book{rymer1850string,  
   title={The String of Pearls, Or, The Barber of Fleet Street: A Domestic Romance},  
   author={Rymer, J.M. and Macfarren, G.A. and Smith, A. and Lloyd, E. and Hingston, E.P. and Prest, T.P.},  
