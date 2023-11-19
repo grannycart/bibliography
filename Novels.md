@@ -17,6 +17,7 @@ title: Novels
 }  
 % page 51-52: The cropper being forced off his land threatens to shoot the driver of the tractor, but the driver points out he's just doing his job, as is his boss. They are being told what to do by the bank. The cropper isn't killing the right guy. The cropper says, "Well, there's a president of the bank. There's a board of directors. I'll fill up the magazine aof the rifle and go into the bank." The driver says the bank gets orders from the east. The cropper asks "Where does it stop? Who can we shoot?" And the driver says maybe there isn't anyone. The cropper says "It's not like lightning or earthquakes. We got a bad thing made by men and by God that's something we can change."   
 	% Tell me that this notion that you can take a rifle and avenge the wrong of losing one's livelihood to wealthy people is any different than the misery of all the down-and-out white dudes with guns. Who can they shoot? Maybe nobody. Maybe everybody.  
+% Chapter 15: a short, fully contained vignette at a truck stop full of Victor Hugo style pathos for the poor. Also IITYWYBAD: A sign on the wall of a bar that the customer is supposed to ask: what does that sign say? And the bartender says: If I tell you will you buy a drink? (I had to look this up. It was too obscure a puzzle for me.)  
    
   
 @book{rymer1850string,  
