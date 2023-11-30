@@ -5,6 +5,15 @@ title: Criticality
 
 --------------------------------------------------------------------------------
 
+@article{weatherby2023nudges,  
+  Author={Weahterby, Leif},  
+  url={https://www.nytimes.com/2023/11/30/opinion/human-behavior-nudge.html},  
+  Title={A Few of the Ideas About How to Fix Human Behavior Rest on Some Pretty Shaky Science},  
+  journal={The New York Times},  
+  date={2023-11-30},  
+  comment={Virtually all behavioral "science" research has replicability problems. The idea of "nudges" is based on bad science. _Thinking, Fast and Slow_ relies heavily on research that is not replicable. And these nudges are built into all the algorithms that shape the world around us today.},  
+  category={Criticality, Economics, behavioral economics, pseudoscience}  
+}  
 
 @article{gower2021mayflower,  
   Author={Gower, Nathan},  
