@@ -20,6 +20,7 @@ title: Novels
 % Chapter 15: a short, fully contained vignette at a truck stop full of Victor Hugo style pathos for the poor. Also IITYWYBAD: A sign on the wall of a bar that the customer is supposed to ask: what does that sign say? And the bartender says: If I tell you will you buy a drink? (I had to look this up. It was too obscure a puzzle for me.)  
 % Page 381: “I know, Ma. I’m a-tryin’. But them deputies — Did you ever see a deputy that didn’ have a fat ass? An’ they waggle their ass an’ flop their gun aroun’. Ma,” he said, “if it was the law they was workin’ with, why, we could take it. But it ain’t the law. They’re a-workin’ away at our spirits. They’re a-tryin’ to make us cringe an’ crawl like a whipped bitch. They tryin’ to break us. Why, Jesus Christ, Ma, they comes a time when the on’y way a fella can keep his decency is by takin’ a sock at a cop. They’re workin’ on our decency.”
 % Page 418: Pa tossed his coffee grounds out of his cup. "You got to quit that," Ma said. "This here's a clean place." "You see she don't get so goddamn clean a fella can't live in her." Pa said.
+% Page 524: "Cops cause more trouble than they stop."
    
   
 @book{rymer1850string,  
