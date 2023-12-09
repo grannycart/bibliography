@@ -6,6 +6,20 @@ title: Novels
 --------------------------------------------------------------------------------
  
 
+
+@book{mandel2015station,  
+  title={Station Eleven},  
+  author={Mandel, E.S.J.},  
+  isbn={9780804172448},  
+  lccn={2014003560},  
+  url={https://books.google.com/books?id=lRGPEAAAQBAJ},  
+  year={2015},  
+  publisher={Knopf Doubleday Publishing Group}  
+}  
+% Page 20: "If Hua said there was an epidemic, then empidemic wasn't a strong enough word." Umm, yeah, that word is _pandemic_, which Emily St. John Mandel would learn a few years after this book was published. Maybe that's what she's hinting at? But that's dumb, the character is a paramedic, he would know the difference between an epidemic and a pandemic.  
+% Page 20 (next line): "Jeevan was crushed by the sudden certainty that this was it, that this illness Hua was describing was going to be the divide between a before and an after, a line drawn through his life." Ha! You have no idea Emily St. John Mandel!  
+  
+  
 @book{steinbeck1939grapes,  
   title={The Grapes of Wrath},  
   author={Steinbeck, J.},  
