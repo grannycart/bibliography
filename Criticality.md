@@ -5,6 +5,18 @@ title: Criticality
 
 --------------------------------------------------------------------------------
 
+@article{gersen2023men,  
+  Author={Gersen, Jeannie Suk},  
+  url={https://www.newyorker.com/news/daily-comment/what-would-sandra-day-oconnor-have-thought-about-affirmative-action-for-men},  
+  Title={What Would Sandra Day O’Connor Have Thought About Affirmative Action for Men?},  
+  journal={The New York Times},  
+  date={2023-12-08},  
+  comment={Since the 1980s more women than men apply for college, and they have higher merit than men. But colleges gender-balance admissions to make sure they have roughly equal numbers of men on campus. That means that the better women perform overall, the less likely they will be able to get into college. This is legal because there is an exemption in Title IX for the admissions process that entirely allows universities to prop up the male half of their classes with no other justification than that it is what women want too. The S.F.F.A Supreme Court case that overturned affirmative action lays out a clear argument for overturning gender-balancing for univeristy admissions too. But, since liberal groups are unlikely to file a case that backs up the overturning of affirmative action, and conservative groups are unlikely to file a case that would result in weakening the position of white men at universities, it is unclear where this case could come from.},  
+  category={Criticality, affirmative action, title IX, gender equality, college admissions}  
+}  
+% Maybe it could come from a girl with the resources to pursue a Supreme Court case who was denied admission to a top university? That seems like a person who might exist.    
+  
+  
 @article{weatherby2023nudges,  
   Author={Weahterby, Leif},  
   url={https://www.nytimes.com/2023/11/30/opinion/human-behavior-nudge.html},  
