@@ -6,6 +6,20 @@ title: Urbanism
 
 --------------------------------------------------------------------------------
   
+@article{kimmelman2023bogota,  
+  Author={Kimmelman, Michael},  
+  url={https://www.nytimes.com/interactive/2023/12/07/headway/bogota-bus-system-transmilenio.html},  
+  Title={How One City Tried to Solve Gridlock for Us All},  
+  journal={The New York Times},  
+  date={2023-12-07},  
+  comment={Kimmelman looks at the successes and failures of Bogotá's bus rapid transit system.},  
+  category={Urbanism, Criticality, bus rapid transit, brt, colombia, bogota}  
+}  
+% "Put differently, as in the United States, experts and technocrats have fallen out of fashion. Big infrastructure projects, it turns out, are no less susceptible to trends than shoes or music."  
+% "Bogotá’s experience reflects a basic truth about infrastructure: that executing meaningful change requires working on a time scale longer than politics — and public patience — typically allows."  
+% Not mentioned: one of the weaknesses of brt (within the context this article is framed: that long transit timelines can be undermined by short political timelines) is that it is very easy for a following administration (in this case a _liberal_ administration not wanting to support the successful brt transit project of the previous conservative technocrat mayor, and so finding allies with rich people against the brt system...) to drop support. Whereas, I think, a more significant infrastructure project, say heavy rail, can be almost impossible to defund by later administrations, and since they take longer to build, maybe harder for any single administration to lay claim to the whole project.  
+  
+  
 @book{jacobs1995great,  
   title={Great Streets},  
   author={Jacobs, A.B.},  
