@@ -16,8 +16,11 @@ title: Novels
   year={2015},  
   publisher={Knopf Doubleday Publishing Group}  
 }  
+% Just awful. This book suffers from the same thing modern movies do: it relies on you just accepting huge canned cliches to tell its story. Like modern movies, character development is just taken for granted: "he was a poet" is the entire development for one supporting character. Other characters don't even get names, instead she comes up with a mechanism where people are referred to by the instrument they play -- but only minor characters, more major ones still have names. Derivative in all ways, even the fundamental premise of the book is assumed: a pandemic wipes out 299 out of 300 people. Of course, this would leave more than a million people alive across the US, and it's not like any of the resources are contaminated. Why would there be a "collapse"? Is it possible that young people (meaning here, the author) have been fed the post-apocalypse scenario so repeatedly their whole lives that they just take it for granted? That they don't understand that the original post-apocalypse premise was based on nuclear destruction contaminating the vast majority of the resources?  
+% The book is wholly derivative. But even The Stand (which I would never defend as a _good_ book) left only a few hundred (or was it thousand?) people alive. The "collapse" in The Stand might have been scientifically implausible, but it at least made sense (and the collapse was the best part of the book! This one just skips over it, mostly.) God, I complained about The Road being derivative, but this makes The Road seem like it cut wholly new ground in the post-apocalyptic genre.   
 % Page 20: "If Hua said there was an epidemic, then empidemic wasn't a strong enough word." Umm, yeah, that word is _pandemic_, which Emily St. John Mandel would learn a few years after this book was published. Maybe that's what she's hinting at? But that's dumb, the character is a paramedic, he would know the difference between an epidemic and a pandemic.  
 % Page 20 (next line): "Jeevan was crushed by the sudden certainty that this was it, that this illness Hua was describing was going to be the divide between a before and an after, a line drawn through his life." Ha! You have no idea Emily St. John Mandel!  
+
   
   
 @book{steinbeck1939grapes,  
