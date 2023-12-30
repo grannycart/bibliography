@@ -6,6 +6,32 @@ title: Novels
 --------------------------------------------------------------------------------
  
 
+@book{warren1966all,  
+  title={All the King's Men},  
+  author={Warren, R.P.},  
+  series={A Bantam Classic},  
+  url={https://books.google.com/books?id=_FqLMQEACAAJ},  
+  year={1966},  
+  publisher={Bantam Books}  
+}  
+%_ 
+% https://archive.org/stream/in.ernet.dli.2015.185032/2015.185032.All-The-Kings-Men_djvu.txt  
+% Page 9: It was always that way. There was the bulge and the glitter, and there was the cold grip way down in the stomach as though some- body had laid hold of something in there, in the dark which is you, with a cold hand in a cold rubber glove. It was like the second when you come home late at night and see the yellow envelope of the telegram sticking out from under your door and you lean and pick it up, but don’t open it yet, not for a second. While you stand there in the hall, with the envelope in your hand, you feel there’s an eye on you, a great big eye looking straight at you from miles and dark and through walls and houses and through your coat and vest and hide and sees you huddled up way inside, in the dark which is you, inside yourself, like a clammy, sad little foetus you carry around inside yourself. The eye knows what’s in the envelope, and it is watching you to see you when you open it and know, too.  But the clammy, sad little foetus which is you way down in the dark which is you too lifts up its sad little face and its eyes are blind, and it shivers cold inside you for it doesn’t want to know what is in that envelope. It wants to lie in the dark and not know, and be warm in its not-knowing. The end of man is knowledge, but there is one thing he can’t know. He can’t know whether knowledge will save him or kill him. He will be killed, all right, but he can’t know whether he is killed because of the knowledge which he has got or because of the knowledge which he hasn’t got and which if he had it, would save him. There’s the cold in yotir stomach, but you open the envelope, you have to open the envelope, for the end of man is to know.  
+  
+  
+  
+@book{leonard1990get,  
+  title={Get Shorty},  
+  author={Leonard, E.},  
+  isbn={9780385301411},  
+  lccn={89025816},  
+  url={https://books.google.com/books?id=FtWCp4BQ4asC},  
+  year={1990},  
+  publisher={Delacorte Press},  
+  comment={Turns out, training as a gangster in NYC gives you all the tools to make movies in Hollywood. Full of movie-within-a-movie plot discussion and movie-about-movies discussion as well as self-referential concepts. Still a genuine page-turner. Unfortunately the bad dude turns out to be black (for very little plot gain).},  
+  category={Novels}
+}
+
 
 @book{mandel2015station,  
   title={Station Eleven},  
