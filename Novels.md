@@ -5,7 +5,17 @@ title: Novels
 
 --------------------------------------------------------------------------------
  
-
+@book{condon1988manchurian,  
+  title={The Manchurian Candidate},  
+  author={Condon, R.},  
+  isbn={9780515094411},  
+  url={https://books.google.com/books?id=H_GPeqgEv-kC},  
+  year={1988},  
+  publisher={Jove Books}  
+}  
+% Page 162-163: ridiculous overwritten description of NYC  
+  
+  
 @book{warren1966all,  
   title={All the King's Men},  
   author={Warren, R.P.},  
