@@ -14,7 +14,11 @@ title: Novels
   publisher={Jove Books}  
 }  
 % Page 162-163: ridiculous overwritten description of NYC  
-  
+% Page 224: His glaucous eyes in the long, bony face held some of the terror seen in the eyes of a horse falling on ice.  
+% Page 225: Marco's voice attacked. It moved like a starving rodent which gnaws at the flaw behind the doors, mad to get through to an unknown trove of crazing scent on the other side.  
+% Page 226: The effect of the narcotics, techniques and suggestions, which resulted in deep hypnosis for Raymond, achieved a result that approximated the impact an entire twenty-five-cent jar of F.W. Woolworth vanishing cream might have on vanishing an aircraft carrier of the _Forrestal_ class when rubbed into the armor plate.  
+% Page 227: He bent, or seemed to bend, into their intentions to halt what he saw as a comic-book plot in which a sinister foreign power, out to destroy America, would achieve its ends by using him as an instrument.  <-- See, Cordon _knows_ the plot to this book is insane, or mundane. (Not least because they put Marco --- the guy who knows he has been brainwashed --- in charge of investigating the brainwashing. And also the idea that the US wouldn't immediately detain a person they know is a brainwashed assasssin. This is, of course, granting that you accept brainwashing is even possible.)   
+   
   
 @book{warren1966all,  
   title={All the King's Men},  
