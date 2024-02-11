@@ -5,6 +5,19 @@ title: Criticality
 
 --------------------------------------------------------------------------------
 
+
+@article{doctorow2024enshittification,  
+  Author={Doctorow, Cory},  
+  url={https://www.ft.com/content/6fb1602d-a08b-4a8c-bac0-047b7d64aba5},  
+  Title={'Enshittification’ is coming for absolutely everything},  
+  journal={Financial Times},  
+  date={2024-02-10},  
+  comment={A very accessible explanation of why everything in technology is starting to suck, and why that suckiness is spreading into the real world.},  
+  category={Criticality, technology}  
+}  
+% Particularly good is his explanation for the shittiness of apps: Fifty per cent of web users are running ad blockers. Zero per cent of app users are running ad blockers, because adding a blocker to an app requires that you first remove its encryption, and that's a felony. So when someone in a boardroom says, "Let's make our ads 20 per cent more obnoxious and get a 2 per cent revenue increase," no one objects that this might prompt users to google, "How do I block ads?" After all, the answer is you can't. Indeed it's more likely that someone in the board room will say, "Let's make our ads 100 per cent more obnoxious and get a 10 per cent revenue increase." (This is why every company wants you to install an app instead of using its website.  
+
+
 @article{gersen2023men,  
   Author={Gersen, Jeannie Suk},  
   url={https://www.newyorker.com/news/daily-comment/what-would-sandra-day-oconnor-have-thought-about-affirmative-action-for-men},  
