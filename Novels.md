@@ -4,7 +4,20 @@ title: Novels
 ---
 
 --------------------------------------------------------------------------------
- 
+
+@book{krzhizhanovsky2013autobiography,  
+  title={Autobiography of a Corpse},  
+  author={Krzhizhanovsky, S. and Turnbull, J. and Thirlwell, A.},  
+  isbn={9781590176702},  
+  lccn={2013019761},  
+  series={New York Review Books classics},  
+  url={https://books.google.com/books?id=HffqAQAAQBAJ},  
+  year={2013},  
+  publisher={New York Review Books}  
+}  
+% Page 27: He divides his books into two piles "These went past. Those went through."    
+% In the Pupil: This story is about how a woman's eyes are litterally man-traps: the little man you see in them gets stuck in there.  
+   
 @book{condon1988manchurian,  
   title={The Manchurian Candidate},  
   author={Condon, R.},  
