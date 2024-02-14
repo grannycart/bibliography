@@ -4,6 +4,18 @@ title: Health
 ---
 
 --------------------------------------------------------------------------------
+@article{covidshotschildren2024leonhardt,  
+  Author={David Leonhardt},  
+  url={https://www.nytimes.com/2024/02/13/briefing/covid-boosters-children-cdc.html},  
+  Title={Covid Shots for Children},  
+  journal={The New York Times},  
+  date={2024-02-13},  
+  comment={The US is one of the few countries that urges covid vaccines and boosters for children 6 months and older. Most other countries have decided that the risks outweigh the benefits, mostly because the benefits are extremely small because children are very unlikely to get seriously ill from covid, an unlikely to spread the virus.},  
+  category={Health, Criticality, covid}  
+}  
+% This is interesting because of the public health implications. Even if you believe the benefits outweighed the risks, the recommendation by the CDC is not working as most Americans are choosing to not booster their children. In addition this is contributing to the lack of trust in the CDC and public health.  
+% "During the pandemic, as Galea told me, health experts sometimes adopted “an illiberal ideology.” This ideology imagined people as robots who existed merely to minimize the chances of contracting a virus."  
+% This article also uses the example for risks we know but take of how people wearing helmets in a car would be much safer, but we don't do that (culturally).  
   
   
 @article{sangerkatz2023medicare,  
