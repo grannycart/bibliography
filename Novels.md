@@ -15,8 +15,12 @@ title: Novels
   year={2013},  
   publisher={New York Review Books}  
 }  
+% I suspect most of these stories are suffering from lost-in-translation. They are heavily philosophical, and I believe the concepts are not coming across well. As a result, most of the stories are pretty dull.  
 % Page 27: He divides his books into two piles "These went past. Those went through."    
 % In the Pupil: This story is about how a woman's eyes are litterally man-traps: the little man you see in them gets stuck in there.  
+% 'Yellow Coal' is the stand-out story in this collection, head and shoulders above the rest. (I do not understand why I have not seen it mentioned in any of the write-ups, reviews, or introduction to this book.) Humanity has consumed all its energy resources and in a desperate attempt to fuel the world's industries an inventor comes up with a way to power things on pure human hatred/spite. As a result governments start policies to create anger (narrowing doorways, crowded trams) and encourage hatred between classes and countries, and even between individuals (between wife and husband). Industry flourished under this new power, and eventually realize they can power factories by firing people and causing strikes. BE ANGRY OR GO HUNGRY becomes the motto. Eventually all the human bile is used up, and power starts to run down despite all efforst to make people angry, resulting in the lack of ability to satirize the situation.  
+    % How is this anything but the key parable for our times?  
+
    
 @book{condon1988manchurian,  
   title={The Manchurian Candidate},  
