@@ -5,6 +5,19 @@ title: Novels
 
 --------------------------------------------------------------------------------
 
+
+@book{pratchett2013guards,  
+  title={Guards! Guards!: A Novel of Discworld},  
+  author={Pratchett, T.},  
+  isbn={9780062225757},  
+  series={Discworld},  
+  url={https://books.google.com/books?id=SBl_NAEACAAJ},  
+  year={2013},  
+  publisher={HarperCollins}  
+}  
+% This book (and presumably this book is representative of all Terry Pratchett) is just exhausting to read. You don't think you would miss chapter breaks until you don't have them. The cadence of the monty-python-style jokes is hilarious in small doses, but when it just goes on and on without a breath it's extremely tiring. And Monty Python has a kind of intelligence behind the jokes, whereas Pratchett seems to just revel in a kinda-dumb kinda-funny British turn-of-phrase. It also has this quality of having been written in one long session without going back to change anything afterward. For instance, he clearly came up with the joke about the "rank" part of rank-and-file about half-way through the book, and then uses it for the rest of the book but never thought that maybe that should be either a one-off or consistent throughout the whole book. Still, it is actually funny in a way that makes me wish I had read Terry Pratchett when I was 15 because I would have thought it was hilarious then, and now I would have nostalgia that overrides the weaknesses. It's not _terrible_, but at this point in my reading career it is also not nearly satisfying enough to keep me reading Pratchett's dozens and dozens of novels.  
+  
+  
 @book{krzhizhanovsky2013autobiography,  
   title={Autobiography of a Corpse},  
   author={Krzhizhanovsky, S. and Turnbull, J. and Thirlwell, A.},  
