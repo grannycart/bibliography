@@ -6,6 +6,17 @@ title: Transportation
 --------------------------------------------------------------------------------
 
 
+@article{collins2024bikedeaths,  
+  Author={Collins, Keith},  
+  url={https://www.nytimes.com/2024/03/05/nyregion/nyc-cyclist-deaths-ebike.html},  
+  Title={Why Bicycle Deaths in New York City Are at a 23-Year High},  
+  journal={The New York Times},  
+  date={2024-03-05},  
+  comment={The answer is simple: e-bikes (but not delivery guys on e-bikes). Traditional bicycle deaths are lower than ever. The reason might be speed, but might also just be inexperience. (I guess if it were just speed, you would expect a lot of deaths of delivery guys.) It does not appear that the increase in deaths is just an increase in ridership.},  
+  category={Transportation, bicycles, e-bikes, Criticality}  
+}  
+  
+  
 @article{dillon2022highwayexpansion,  
   Author={Dillon, Liam and Poston, Ben},  
   url={https://www.latimes.com/projects/us-freeway-highway-expansion-black-latino-communities/},  
