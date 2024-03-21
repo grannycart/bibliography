@@ -6,6 +6,22 @@ title: Novels
 --------------------------------------------------------------------------------
 
 
+
+@book{hall2005warlock,  
+  title={Warlock},  
+  author={Hall, O. and Stone, R.},  
+  isbn={9781590171615},  
+  lccn={58009649},  
+  series={New York Review Books classics},  
+  url={https://books.google.com/books?id=U2xyAwAAQBAJ},  
+  year={2005},  
+  publisher={New York Review Books}  
+}  
+% This book is in many ways the complement to Blood Meridian. Where Blood Meridian is about pure evil unleashed on the Old West, this book is about how there is no evil (or good) in the Old West, just people. Some people are better than others, but all believe they are acting in the interest of being decent, even the black-hat cattle rustlers and murderers. So events unfold in a way that the motivations for revenge are based on misinterpretations of events. Or driven by public opinion that is derived from false assumptions. Or by people who have something to prove, or legitimate beefs that need to be settled regardless of the law (like being accused of murder that someone didn't commit). More than once, someone gets killed by accident, and that gets interpreted as murder by the townspeople and that leads to fallout of more gun battles.  
+% The overall theme is that the things that motivate people are very complex, but rarely or never actually evil.  
+% See page 255, where Gannon (the former rustler/murderer who has become deputy with a sense of trying to do right) points out that a man who has been told he cannot come into town or he will be shot, comes to town anyway, perhaps to _get_ shot, and by doing so atone for things that he had done wrong in the past.  
+  
+  
 @book{pratchett2013guards,  
   title={Guards! Guards!: A Novel of Discworld},  
   author={Pratchett, T.},  
