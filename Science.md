@@ -5,6 +5,15 @@ title: Science
 
 --------------------------------------------------------------------------------
 
+@article{zerwick2024death,  
+  Author={Zerwick, Pheobe},  
+  url={https://www.nytimes.com/2024/03/12/magazine/deathbed-visions-research.html},  
+  Title={What Deathbed Visions Teach Us About Living},  
+  journal={The New York Times},  
+  date={2024-03-12},  
+  comment={Apparently humans have hallucinations of their loved ones in the days leading up to deah.},  
+  category={Science, death, hallucination}  
+}  
 
 @article{roth2023lakesharks,  
   Author={Roth, Annie},  
