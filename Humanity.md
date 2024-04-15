@@ -928,6 +928,17 @@ Potato potato.
   category={Science, Humanity, bonobos, chimpanzees}  
 }  
   
+@article{zimmer2024bonobos,  
+  Author={Zimmer, Carl},  
+  url={https://www.nytimes.com/2024/04/12/science/bonobo-chimpanzee-aggression.html},  
+  Title={No ‘Hippie Ape’: Bonobos Are Often Aggressive, Study Finds},  
+  journal={The New York Times},  
+  date={2024-04-12},  
+  comment={Better research on bonobos finds that actually males are _more_ aggressive than chimps. However, the aggression is limited to individuals (chimpanzees tend to fight in gangs) and bonobos are still not known to murder, unlike chimps (and humans).},  
+  category={Science, Humanity, bonobos, chimps, Criticality}  
+}  
+  
+  
   
 @book{thomas2003cook,  
   title={Cook: The Extraordinary Sea Voyages of Captain James Cook},  

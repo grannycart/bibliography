@@ -5,6 +5,19 @@ title: Science
 
 --------------------------------------------------------------------------------
 
+
+@article{pearson2024birthorder,  
+  Author={Pearson, Catherine},  
+  url={https://www.nytimes.com/2024/04/15/well/family/birth-order-siblings.html},  
+  Title={Why Your Big Sister Resents You},  
+  journal={The New York Times},  
+  date={2024-04-15},  
+  comment={Large-scale studies generally find no merit to the idea that birth order affects personality.},  
+  category={Science, Criticality}  
+}  
+% There's a lot of "well, what harm does it do?" kinda framing in this article, much like people talking about horoscopes. But the upshot is that if birth order has any effect on personality, it is so small or lost in the wash of all the other things that affect personality as to be pseudo-science.  
+  
+  
 @article{zerwick2024death,  
   Author={Zerwick, Pheobe},  
   url={https://www.nytimes.com/2024/03/12/magazine/deathbed-visions-research.html},  
