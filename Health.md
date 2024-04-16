@@ -1558,6 +1558,7 @@ How could I achieve that? Heroine, maybe. But perhaps it's the ability to record
 % It sure would be nice to be able to read this paper behind a paywall: \url{https://aap.onlinelibrary.wiley.com/doi/abs/10.1002/cap.10048}  
 % Which, reading between the lines of the abstract, seems like it might be suggesting that flossing is not for everyone.  
 % There does not seem to be any further research since flossgate that shows the effectiveness of flossing. Is it too conspiratorial to wonder if the dental industry actually wants to AVOID reasearching this topic for fear of being called out for decades of bad advice?  
+% Also, for low-risk people, two visits to the dentist a year does not increase oral health: https://archive.nytimes.com/well.blogs.nytimes.com/2013/06/10/rethinking-the-twice-yearly-dentist-visit/  
   
   
 @article{carrolldentalresearch2016,  
