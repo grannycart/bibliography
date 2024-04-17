@@ -6,6 +6,15 @@ title: Economics
 --------------------------------------------------------------------------------
   
   
+@article{beam2024pricing,  
+  Author={Beam, Christopher},  
+  url={https://www.theatlantic.com/ideas/archive/2024/04/surge-pricing-fees-economy/678078/},  
+  Title={Welcome to Pricing Hell},  
+  journal={The Atlantic},  
+  date={2024-04-16},  
+  comment={First, a really nice clear explanation of how normal people value fairness and economists -- to the contrary of _everyone_ else -- value efficiency. So if demand can be met by either price or time (you pay more, or you wait in line), then most economists say "price" because it doesn't waste people's time. Even in a disaster situation (say, the need for snowshovels after a snowstorm), most economists argue that the price of snow shovels should rise. "Most economists, but not all." The article says. Deaton from Princeton says that the focus on efficieny increases poverty (duh -- if the price of snow shovels sky rockets, only the poor don't have snow shovels, particularly with growing inequality, where an expensive snow shovel might cost a poor person _everything_ and a very wealthy person nearly nothing -- see 30% of income spent on housing arguments.) Second, this article explains that as companies gather more data about individuals (this is why they want you to download their app), they can start to offer pricing tailored to individuals. Even if people, as a whole, _hate_ that, companies may not be able to stay away from it because competitors who engage in it could becomes more profitable. This is the "pricing hell" future that may be coming for us all.},  
+  category={Economics, Criticality}  
+}  
   
     
 @article{marchese2022dalygrowth,  

@@ -5,7 +5,24 @@ title: Science
 
 --------------------------------------------------------------------------------
 
-
+@book{bryson2003short,  
+  title={A Short History of Nearly Everything},  
+  author={Bryson, B.},  
+  isbn={9780767908177},  
+  lccn={2011380228},  
+  url={https://books.google.com/books?id=8_OOEAAAQBAJ},  
+  year={2003},  
+  publisher={Crown},  
+  comment={A fun, if undetailed, read skimming across the history of science.},  
+  category={Science, general science, history}  
+}  
+% Bryson is almost _too_ accessible of a writer. I shouldn't complain, it's super fun to read this book, and I wouldn't hesitate to recommend it to others. It just feels like it is missing a bit of mystery or magic that the best books (even nonfiction, compare to Connel's Custer book) have. It's like the words are good, but there's nothing more than what the words tell you. No hints of larger, more mysterious things. In other words, it's a great book for a single read through, but you wouldn't want to go back to it a second time because there's no larger thing there, nothing to daydream about later.  
+% Page 54-55: Le Gentil travels to India in the 1760s to see Venus transit the sun. He misses the first transit while at sea in 1761. He spends the next almost-decade preparing for the second transit (they come in pairs more than 100 years apart) and while the day-of is beautiful a lone cloud moves in front of the sun and stays there for just about the lentgth of the transit. Worse things follow. (And I though traveling to see the eclipse in 2024 and getting blocked out by clouds was bad.)    
+% Page 53: The vine "wisteria" is named for Capar Wistar, who discovered the first dinosaur bone ever (in NJ of all places), but entirely failed to identify it as a dinosaur (see page 79). (The plant _should_ be spelled "wistaria.")  
+% Page 79: This "Science Red in Tooth and Claw" chapter gives a nice quick summary of the miserable men involved in the early days of hunting for dinosaur bones. (I find these stories fascinating -- what is it about dinosaurs that attracted so many grumpy men to them? But I also don't want to read a whole book about it, so it's nice to have it here in a few pages.)  
+    % Includes Wistar's failure to ID the first bone ever, Mantell's correct identification of the first dinosaur tooth ever found, and naming of iguanodon, the first dinosaur, only to be harassed and repressed by Owen. And of course the Cope and Marsh dinosaur wars.  
+  
+  
 @article{pearson2024birthorder,  
   Author={Pearson, Catherine},  
   url={https://www.nytimes.com/2024/04/15/well/family/birth-order-siblings.html},  
