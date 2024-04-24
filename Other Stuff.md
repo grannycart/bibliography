@@ -5,6 +5,18 @@ title: Other Stuff
 
 --------------------------------------------------------------------------------
 
+@article{jacobson2019lucas,  
+  Author={Jacobson, Mark},  
+  url={https://nymag.com/intelligencer/2019/06/the-return-of-frank-lucas.html},  
+  Title={The Return of Superfly},  
+  journal={New York Magazine},  
+  date={2019-05-03},  
+  comment={The story of Frank Lucas, who ran a dope smuggling operation in Harlem in the 1970s. A true-life black gangster. A loveable murderer.},  
+  category={Other Stuff, Humanity, Urbanism, Economics}  
+}  
+% This story, originally published in August 2000, was the basis of the Ridley Scott movie American Gangster.  
+  
+  
 @book{dahl1986roald,  
   title={Roald Dahl's Book of Ghost Stories},  
   author={Dahl, R.},  
