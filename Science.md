@@ -27,6 +27,7 @@ title: Science
 % Pages 164-172: On the insanely expensive costs of particle physics research, and the complete inability of anyone outside the field to understand it. He has a few choice gems of opaque sentences trying to explain it.  
 	% It's pretty clear that the US (I assume thanks to the Republicans) made the right call in ditching the Superconducting Supercollider.
     % See this opinion piece about the cost/benefits of large colliders: https://www.nytimes.com/2019/01/23/opinion/particle-physics-large-hadron-collider.html
+% A lot of this book is about the disagreeable personalities at the top levels of science, and how science, as a field, often (OFTEN!) doesn't act like scientists and accept new evidence and instead they act like egoistic humans and stick to their guns to their dying day. See page 198 where the idea of a cataclysmic end to the dinosaurs was "against scientific religion." Or page 176 which describes how for 50 years science insisted that the continents couldn't move and animals traveled across magical "land bridges." Science isn't "messy," it's just not very good at actually doing science.  
   
   
 @article{pearson2024birthorder,  
