@@ -5,6 +5,15 @@ title: Criticality
 
 --------------------------------------------------------------------------------
 
+@article{fraser2024hallucinations,  
+  Author={Fraser, Colin},  
+  url={https://medium.com/@colin.fraser/hallucinations-errors-and-dreams-c281a66f3c35},  
+  Title={Hallucinations, Errors, and Dreams},  
+  journal={Medium},  
+  date={2024-04-17},  
+  comment={The most accessible explanation of Machine Learning and Generative AI that I've read yet. Makes the argument that all output from Generative AI is hallucination (and describes why that is different from classic classifier machine learning). And how it is possible that the "problem" of hallucination may not be something we can overcome. But generative AI could still be made into useful tools.},  
+  category={Criticality, machine learning, generative ai, hallucinations}  
+}  
 
 @article{doctorow2024enshittification,  
   Author={Doctorow, Cory},  
