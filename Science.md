@@ -31,6 +31,11 @@ title: Science
 % Page 261: a really good explanation of high and low pressure systems, the power of moving air, and how that causes weather.  
 % Page 262: a really good explanation of the coriolis affect, and that artillery has to take it into account when firing shells  
 % Page 263: Celsius -- the dude who created the celsius scale -- originally set freezing at 100 and boiling as 0.  
+% Chapter 21 Life Goes On tells the story of the discovery of the Burgess Shale where tens of thousands of fossils were found from just at the point of the Cambrian Explosion. Though the original finder, Walcott, placed the animals in modern groups, later scientists re-examined the fossils and decided they represented a huge number of different and mostly now-extinct types. This led to Stephen Gould's book, Wonderful Life, which popularized the idea that the there was a huge variety of bizarre life in the cambrian explosion, and most of it died away leaving only a lucky few to move on to evolve towards us. This turns out to be wrong, and scientists hated Gould for popularizing it. In actuality, the animals of the cambrian explosion DID belong to conventional phylums, just as Walcott had placed them.  
+    % The thing I note here is that Gould went looking for magic and complexity and found it, and that blinded him to the more rational explanation of the Cambrian explosion.  
+    % Also, I guess I've always had this sense that Gould was not generally held in as high esteem as I thought he should be. Apparently Wonderful Life is the reason. The writing is supposed to be fantastic... but what is recounted is wrong.  
+    % There may be something here about how I feel like this book is missing something, it's more complex layer. Gould consistently provided that in his writing. But if it's WRONG, then it's worse than having the magic. Maybe a point for Bryson there.  
+    % Looking at the wikipedia page for the Cambrian explosion, it looks like in the intervening years since Bryson's book was written, the analysis of the Cambrian explosion has gotten less acrimonious, but more subtly complicated. Virtually none of the content of this chapter is included.  
   
   
 @article{pearson2024birthorder,  
