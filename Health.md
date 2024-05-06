@@ -4,6 +4,18 @@ title: Health
 ---
 
 --------------------------------------------------------------------------------
+
+@article{barry2024mentalhealth,  
+  Author={Barry, Ellen},  
+  url={https://www.nytimes.com/2024/05/06/health/mental-health-schools.html},  
+  Title={Are We Talking Too Much About Mental Health?},  
+  journal={The New York Times},  
+  date={2024-05-06},  
+  comment={Some research suggests that programs that train for mental health and wellness in schools (eg helping kids identify symptoms of depression and how to meditate), might actually be increasing the number of kids who think they are depressed, and since being "diagnosed" as depressed suggests that you just ARE that way, those kids often feel like there is nothing they can do about it. Other researchers argue that the mental health crisis with kids is so bad that it is more important to give them tools to cope than to worry about the percentage that does worse because they know they are depressed.},  
+  category={Health, Criticality}  
+}  
+  
+  
 @article{covidshotschildren2024leonhardt,  
   Author={David Leonhardt},  
   url={https://www.nytimes.com/2024/02/13/briefing/covid-boosters-children-cdc.html},  
