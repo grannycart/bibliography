@@ -534,6 +534,17 @@ article{kornel2020footprints,
 }  
   
   
+@article{ijacobsen2024sunscreen,  
+  Author={Jacobsen, Rowan},  
+  url={https://www.theatlantic.com/magazine/archive/2024/06/sun-exposure-health-benefits/678205/},  
+  Title={Against Sunscreen Absolutism},  
+  journal={The Atlantic},  
+  date={2024-05-10},  
+  comment={Australian health professionals now advise a more nuanced approach to sun exposure based on skin color and other risk factors. This is because NOT getting sun exposure increases the risk of a number of diseases (though without denying that sun exposure does cause skin cancer). Wraps up with questions about public health approaches in general and the reductions to simple rules that are not always correct in all situations causes problems with people's faith in public health.},  
+  category={Science, Criticality, sunscreen}  
+}  
+
+
 @article{preston2019dinosaurend,  
   Author={Preston, Douglas},  
   url={https://www.newyorker.com/magazine/2019/04/08/the-day-the-dinosaurs-died},  
