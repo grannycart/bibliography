@@ -5,7 +5,21 @@ title: Novels
 
 --------------------------------------------------------------------------------
 
-
+@book{carré1992spy,  
+  title={The Spy who Came in from the Cold},  
+  author={Carr{\'e}, J.L.},  
+  isbn={9780345377371},  
+  series={George Smiley Series},  
+  url={https://books.google.com/books?id=7_M8PgAACAAJ},  
+  year={1992},  
+  publisher={Ballantine Books},   
+  category={Novels}  
+}  
+% Classic modern spy novel. Except it's more of a courtroom drama than a spy novel, as most of the climax happens in a communist military court.
+% I didn't like the way it ended. The twist is great, but he has Mundt -- the former Nazi who is also London's secret agent in communist Germany -- kill off the main characters in the last few lines of the book. This doesn't really makes sense, because Mundt is the one who frees them military prison. This is explained away unconvincingly in a line of dialog, but really it seems like if Mundt wanted them dead, he would have left them to be executed. I guess Mundt actually wanted the girl, Liz, dead, and he had her killed going over the wall? That sort of makes sense.  
+% Still, I think I would have had Liz leave Leamas (the main character) because of all his lies, and leave them both to live on with the guilty knowledge that they inadvertently helped save a terrible Nazi dude just because he happened to work for the British government. They wrestle with that, but it would have been more interesting, I think, if they had to _live_ with that.   
+  
+  
 @book{hugo2013wretched,  
   title={The Wretched},  
   author={Hugo, V. and Donougher, C.},  
