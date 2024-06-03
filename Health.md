@@ -4,6 +4,16 @@ title: Health
 ---
 
 --------------------------------------------------------------------------------
+@article{ney2024sleep,  
+  Author={Ney, Jeremy},  
+  url={https://www.businessinsider.com/sleep-loss-deprivation-america-reasons-health-inequality-economic-stress-money-2024-5},  
+  Title={The big lie about sleep},  
+  journal={Business Insider},  
+  date={2024-05-30},  
+  comment={The main cause of lack of sleep in people nationwide is not noise or light pollution, but stress, particularly stress over lack of employment or poverty. And this most affects people iin poor rural areas, while people in richer urban areas are actually getting more and better sleep.},  
+  category={Health, Criticality, sleep, poverty}  
+}  
+
 
 @article{barry2024mentalhealth,  
   Author={Barry, Ellen},  
