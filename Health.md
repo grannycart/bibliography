@@ -357,6 +357,8 @@ title: Health
   comment={New research shows that the temperature of the average human body has dropped to 97.5 degrees from the 98.6 average when it was studied 150 years ago.},  
   category={Health, Criticality, body temperature}  
 }  
+% See also: \url{https://www.nytimes.com/2023/10/12/well/live/fever-normal-body-temperature.html}
+  
   
 @article{ofri2020nonprofithospitals,  
   Author={Ofri, Danielle},  
