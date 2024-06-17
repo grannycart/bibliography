@@ -5,6 +5,27 @@ title: Criticality
 
 --------------------------------------------------------------------------------
 
+
+@article{doi:10.1177/2515245918771329,  
+author = {Gerd Gigerenzer},  
+title ={Statistical Rituals: The Replication Delusion and How We Got There},  
+journal = {Advances in Methods and Practices in Psychological Science},  
+volume = {1},  
+number = {2},  
+pages = {198-218},  
+year = {2018},  
+doi = {10.1177/2515245918771329},  
+URL = {https://doi.org/10.1177/2515245918771329},  
+eprint = {https://doi.org/10.1177/2515245918771329},  
+abstract = { The “replication crisis” has been attributed to misguided external incentives gamed by researchers (the strategic-game hypothesis). Here, I want to draw attention to a complementary internal factor, namely, researchers’ widespread faith in a statistical ritual and associated delusions (the statistical-ritual hypothesis). The “null ritual,” unknown in statistics proper, eliminates judgment precisely at points where statistical theories demand it. The crucial delusion is that the p value specifies the probability of a successful replication (i.e., 1 – p), which makes replication studies appear to be superfluous. A review of studies with 839 academic psychologists and 991 students shows that the replication delusion existed among 20\% of the faculty teaching statistics in psychology, 39\% of the professors and lecturers, and 66\% of the students. Two further beliefs, the illusion of certainty (e.g., that statistical significance proves that an effect exists) and Bayesian wishful thinking (e.g., that the probability of the alternative hypothesis being true is 1 – p), also make successful replication appear to be certain or almost certain, respectively. In every study reviewed, the majority of researchers (56\%–97\%) exhibited one or more of these delusions. Psychology departments need to begin teaching statistical thinking, not rituals, and journal editors should no longer accept manuscripts that report results as “significant” or “not significant.” },  
+comment = {Argues that it's not the publish-or-perish or p-hacking that is causing the catastrophic failure of social and medical science, but that scientists are taught incorrectly how to use the p value and indeed learn the incorrect usage of basic statistics. The emphasis on "statisitical significance" that form the foundation of modern research in these fields is, in fact, not valid statistics at all.},
+category = {Criticality, Science, statistics, Health},  
+}  
+% Is it possible that one of the reasons I struggled so much to learn statistics is that this method of testing for p-value against the null hypothesis just doesn't actually make sense in the first place?    
+% How is it that the natural sciences apparently escaped this problem?  
+  
+
+
 @article{fraser2024hallucinations,  
   Author={Fraser, Colin},  
   url={https://medium.com/@colin.fraser/hallucinations-errors-and-dreams-c281a66f3c35},  
