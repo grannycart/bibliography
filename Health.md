@@ -344,10 +344,21 @@ title: Health
 }  
 % On the opposite end of the spectrum, the maximal super-padded sneakers cause people to run in ways that are likely to cause injuries:  
 % \url{https://www.nytimes.com/2020/02/19/well/move/super-cushioned-running-shoes-maximalist-pronation-injuries.html}  
-% Yet, they DO make runners faster, seems like people are willing to trade health for speed:  
+% Yet, they DO make runners faster, seems like people are now willing to trade health for speed (thanks to marketing, mostly):  
 % \url{https://www.nytimes.com/interactive/2019/12/13/upshot/nike-vaporfly-next-percent-shoe-estimates.html}  
   
   
+@article{hutchinson2024running,  
+  Author={Hutchinson, Alex},  
+  url={https://www.outsideonline.com/health/training-performance/persistence-hunting-and-evolution/},  
+  Title={Why You (Yes, You) Were Born to Run},  
+  journal={Outside},  
+  date={2024-06-06},  
+  comment={The evidence is stacking up that humans worldwide were persistence hunters, and so evolved to run all day.},  
+  category={Health, running, Criticality, persistence hunting, Humanity}  
+}  
+  
+    
 @article{mcginty2020temp,  
   Author={McGinty, Jo Craven},  
   url={https://www.wsj.com/articles/98-6-degrees-fahrenheit-isnt-the-average-any-more-11579257001},  
