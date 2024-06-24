@@ -23,6 +23,7 @@ category = {Criticality, Science, statistics, Health},
 }  
 % Is it possible that one of the reasons I struggled so much to learn statistics is that this method of testing for p-value against the null hypothesis just doesn't actually make sense in the first place?    
 % How is it that the natural sciences apparently escaped this problem?  
+% For a 2021 analysis (with another wording), see also: \url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7900272/}
   
 
 
