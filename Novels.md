@@ -5,6 +5,33 @@ title: Novels
 
 --------------------------------------------------------------------------------
 
+@book{nadolny1997discovery,  
+  title={The Discovery of Slowness},  
+  author={Nadolny, S. and Freedman, R.},  
+  isbn={9780140265842},  
+  lccn={87040020},  
+  url={https://books.google.com/books?id=pIVPEAAAQBAJ},  
+  year={1997},  
+  publisher={Penguin Publishing Group},   
+  comment={A young man in the 18th or 19th Century who experiences the world more slowly than most people, strives to become a ship's captain.},
+  category={Novels}  
+}
+% Page 94: "Nothing can be predicted. Nobody can give a reason why something happened in this way and not in another. Stronger than all predictions are coincidence and contradiction."  
+
+
+@book{boyd2024holy,  
+  title={A Holy Venom},  
+  author={Boyd, K.},  
+  isbn={9781958669280},  
+  url={https://books.google.com/books?id=Wvq20AEACAAJ},  
+  year={2024},  
+  publisher={Riverrun Bookstore Incorporated},   
+  comment={Buncha humans and monster-gods disguised as humans running around in an analog version of the world that also contains a magicks underlying framework.},  
+  category={Novels}  
+}  
+  
+  
+
 @book{carré1992spy,  
   title={The Spy who Came in from the Cold},  
   author={Carr{\'e}, J.L.},  
