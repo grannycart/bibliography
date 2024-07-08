@@ -5,6 +5,18 @@ title: Urbanism
 
 
 --------------------------------------------------------------------------------
+
+@article{smith2024elevators,  
+  Author={Smith, Stephen},  
+  url={https://www.nytimes.com/2024/07/08/opinion/elevator-construction-regulation-labor-immigration.html},  
+  Title={The American Elevator Explains Why Housing Costs Have Skyrocketed},  
+  journal={The New York Times},  
+  date={2024-07-08},  
+  comment={Elevators cost far far more in America than in other rich countries. This is due to over-regulation (and ignoring world-wide standards in favor of local regulation), lack of immigrant policy that allows immigrants to go into skilled trades, and the constiutency of apartment building managers and builders not getting together to control costs and regulation. The costs of elevators is one area that shows many of the problems with costs of construction in general. (Single family homes don't have many of these problems because builders have kept strict control over regulation and labor with an eye toward managing cost.) He further argues that in general Americans have lost the ability to build stuff in the real world.},  
+  category={Urbanism, Criticality}  
+}  
+% In one moment, this seems like it could be a conservative argument for deregulation. But he makes a pretty convincing case that regulation in the US could be simplfied greatly by simply matching it to global/European standards to achieve maximum safety results and maximum cost efficiencies. So on a second look, this feels more like one of those failures of capitalism things. It is also a clear example of the failure of the ADA.  
+  
   
 @article{kimmelman2023bogota,  
   Author={Kimmelman, Michael},  

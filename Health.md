@@ -4,6 +4,20 @@ title: Health
 ---
 
 --------------------------------------------------------------------------------
+
+@article{sayare2024parkinsons,  
+  Author={Sayare, Scott},  
+  url={https://www.nytimes.com/2024/06/14/magazine/parkinsons-smell-disease-detection.html?unlocked_article_code=1.200.0hXB.WRHIetHbdpBy&smid=url-share},  
+  Title={The Woman Who Could Smell Parkinson’s},  
+  journal={The New York Times},  
+  date={2024-06-14},  
+  comment={One woman has the ability to smell Parkinson's (and other diseases) with 100% accuracy. This ability was initially dismissed by scientists because smell was not considered a sense that merited much attention. But from her ability, scientists were able to identify the chemical she was smelling, and discover a whole new way of testing for disease through analysis of sebum (also overlooked by scientists). This is critical for Parkinson's, which had no early detection method.},  
+  category={Health, Criticality, smell}  
+}  
+% This article is a masterpiece of storytelling, including the (spoiler) reversal where her "false positive" turned out the be someone who had Parkinson's but didn't know it yet.  
+% At one point, they figure out that what she is smelling is the death of the brain.  
+  
+  
 @article{ney2024sleep,  
   Author={Ney, Jeremy},  
   url={https://www.businessinsider.com/sleep-loss-deprivation-america-reasons-health-inequality-economic-stress-money-2024-5},  
