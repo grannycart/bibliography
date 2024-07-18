@@ -5,6 +5,30 @@ title: Novels
 
 --------------------------------------------------------------------------------
 
+
+@book{golding1986lord,  
+  title={Lord of the Flies: A Novel},  
+  author={Golding, W.},  
+  isbn={9780869256763},  
+  series={Coles Notes},  
+  url={https://books.google.com/books?id=jHHGDAEACAAJ},  
+  year={1986},  
+  publisher={Wideview/Perigee Books},  
+  category={Novels, canon},
+}  
+% First, this book is not great. It's shocking that they made so many generations of ELA students read it (still read it?). The simple fact that it is about children (boys, exclusively) does not save it from being rather dull. There's a lot of imprecise description of not much, and the language is capable but not interesting. Overall a slow, boring book which feels much longer than it is because so little actually happens.  
+% But, my question going into this book was: is this book not actually about some fear of the "savage" within all of us (as was generally taught in ELA, I suppose) but actually specifically (if unconsciously) about the British fear of their own colonies. And, though it takes a while to get there (the first full half of the book is basically just the boys setting up camp) this is clearly the case. Some evidence:  
+    % First, the whole setup is ridiculous. I don't think children (even in the cowboys and indians 50s) would set up "tribes" with "chiefs" if left to themselves. What's with all the assemblies and meetings? That sounds more like what adults would do than children. And Ralph has this obsession with shelter, which is clearly supposed to represent his trying to guide the boys back to some form of civilization. Supposedly they need them because of the coming rain. But it's a tropical island. If it rains, so what? And indeed, when it does rain, it passes within a few hours with no mention of the shelter being of any use at all.  
+	% Then Ralph starts repeatedly forgetting why they want to build a signal fire (to be rescued, Piggy has to keep reminding him), as if the forces of becoming "savage" are like some kind of magic or disease that takes over your brain without the correcting influence of civilization. Page 148: "Ralph tried indignantly to remember. There was something good about a fire" Somehow this is a common assumption about "going native" --- that one forgets where they came from. Keep the River on Your Right does the same thing (almost) when he bites a human heart. But it's pretty unconvincing. (And in Schneebaum's case, a convenient cover.)    
+	% The notion that inside every good English choir boy is a savage was, I think, at the time this book was written something that would be thought to transcend racism: it's not about a _specific_ "savage" race, but that "savages" are the lower form of man to which anyone might revert if given the opportunity. What's amazing is that this (probably) _wasn't_ seen as racist --- how could they miss that, really? Clearly, the idea "savage" cultures are a lower form of man is deeply racist. The idea that people revert to "savage" without the influence of civilization is just stupid. This is the core failure of the book: the whole thing rests on a stupid idea.  
+		% Ralph and Piggy can't help but partake in the dance of murdering Simon: Page 138: "They were glad to touch the brown backs of the fence that hemmed in the terror and made it governable."  
+		% The "dance" is considered "obscene" (as any white person would say about the dance of "savages"). Page 144: "Sam twisted and the obscene word shot out of him. '---dance'."  
+		% Jack gets the idea to sacrifice the head of hunted pigs to the beast (page 146). As if sacrifice to gods was just a built-in part of human identity that we could revert to at any time without the influence of Christianity and civilization.  
+% So far, this is all to the argument that the idea that humans slip back to "savagery" is racist and stupid --- an easy target to hit. But how does it weigh on the idea that this book is about the British fear of their colonies? That might be less explicit, and even more of a thing that was a deep part of mid-Century British culture than a conscious topic of thought for Golding. It's unlikely that Golding even had any access at all to that idea. But the idea of "savage" comes directly from the previous centuries of exposure that the British had to other cultures through their quest for empire. ie the British only even can think of what a savage is because they knew so many of them through conquest --- and crucially through trying to spread "civilization". As a result, they defined their whole culture in opposition to being "savage." So Golding is writing a horror novel: your own children could with the slightest provocation sink into the savagery we have spent so much money and effort fighting for the last 200 years.   
+		% Jack becomes a tyrant, and Ralph assimilates "the possibilities of irresponsible authority." (page 145) The idea being that responsible authority of civilization is good, savage authority of "chiefs" is irresponsible.  
+% What's absolutely clear is this is NOT a book that should be taught in schools (even with an extremely critical reading, it's also just dull). It never should have been.  
+
+  
 @book{nadolny1997discovery,  
   title={The Discovery of Slowness},  
   author={Nadolny, S. and Freedman, R.},  
