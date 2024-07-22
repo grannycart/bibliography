@@ -34,9 +34,9 @@ title: Novels
     % The force of savagery within (according to Golding) makes you stupid as well as savage. Page 179: There was no solemn assembly for debate nor dignity of the conch. Most, he was beginning to dread the curtain that might waiver in his brain, blacking out the sense of danger, making a simpleton out of him.  
     % And at the end of the book, when the naval officer sees them, full conversion to "savages," in that the boys now look like the people that the British have colonized (crucially for the argument that this book is racist, this includes skin color). Page 183: Other boys began appearing now, tiny tots some of them, brown, with the distended bellies of small savages. One of them came close to the officer and looked up. "I'm, I'm---" But there was no more to come. Percival Wemys Madison sought in his head for an incantation that had faded clean away.  
     % The officer has to check that they boys are actually British because he is so disbelieving. Page 184: "I should have thought that a pack of British boys---you're all British, aren't you---would have been able to put up a better show than that."  
-% What's absolutely clear is this is NOT a book that should be taught in schools (even with an extremely critical reading, it's also just dull). It never should have been.  
-
-
+% What's absolutely clear is this is NOT a book that should be taught in schools (even with an extremely critical reading, it's also just dull). It never should have been. Though if you try to google this stuff, mostly you get reports about how conservative religious groups often tried to ban the book because of swear words, violence, devil worship, and promoting anarchy (I wish!). It is difficult to find discussion of the colonial racist aspects of the book but this appears to be one academic article that does it:  
+    % https://www.jstor.org/stable/41555906  
+  
   
 @book{nadolny1997discovery,  
   title={The Discovery of Slowness},  
