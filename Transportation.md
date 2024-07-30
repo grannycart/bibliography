@@ -5,7 +5,18 @@ title: Transportation
 
 --------------------------------------------------------------------------------
 
-
+@article{pasion2024visionzero,  
+  Author={Pasion, Nicholas},  
+  url={https://www.nytimes.com/2024/07/29/nyregion/street-wars-crowded-sidewalks-times-square.html},  
+  Title={https://www.nytimes.com/2024/07/29/nyregion/street-wars-crowded-sidewalks-times-square.html},  
+  journal={The New York Times},  
+  date={2024-07-29},  
+  comment={Finland had got the number of pedestrian and cyclist deaths down to nearly zero in some of their larger cities (ala "vision zero", they had no deaths in Helzinki in 2019, and only one or two per year since then.) This was achieved by mainly by reducing vehicle speed: roads narrowed to 11 feet, the speed limit lowered to 18mph. They also investigate each death with a whole team and then making changes based on the investigation's findings. (It sounds similar to how airline crashes are investigated in the US.)},  
+  category={Transportation, Criticality, vision zero, finland, helsinki}  
+}  
+% Helsinki has a population of 660,000. So an equivalent outcome in NYC would be about 14 deaths per year (far lower than the ~130 we currently have).  
+% The solution really IS as simple as you are always saying: reduce vehicle speeds by any means necessary. Taking crash investigations seriously also helps.  
+  
 @article{collins2024bikedeaths,  
   Author={Collins, Keith},  
   url={https://www.nytimes.com/2024/03/05/nyregion/nyc-cyclist-deaths-ebike.html},  

@@ -5,6 +5,19 @@ title: Health
 
 --------------------------------------------------------------------------------
 
+@article{saslow2024medbeds,  
+  Author={Saslow, Eli},  
+  url={https://www.nytimes.com/2024/07/28/us/politics/far-right-miracle-cure-medbed.html},  
+  Title={Racked by Pain and Enraptured by a Right-Wing Miracle Cure},  
+  journal={The New York Times},  
+  date={2024-07-28},  
+  comment={Follows a rancher with a penchant for hard-right chat rooms and anti-government conspiracy theories as he tries to deal with his chronic pain by trying out a "medbed" --- supposedly secret military technology that can cure anything. According to the far-right conspiracies, the military has these in underground bunkers and if Trump is elected, everyone will be able to use them. It's only evil leftist billionaires and their ties to the mainstream medical industry that are holding medbeds back right now.},  
+  category={Health, Criticality, conspiracy theories, medbeds, woo}  
+}  
+% unlock by adding: \url{?unlocked_article_code=1._E0.uOwm.RDzQESyMJMEx&smid=url-share}_  
+% By some crazy quirk (of the simulator), the far left and the far right fully ouroboros together in the woo realm.  
+% Really, reading this it's almost hard to imagine how the left and the right can't be joined together into one giant anti-corporation and anti-government party that taps the deepest (and craziest) woo.  
+  
 @article{sayare2024parkinsons,  
   Author={Sayare, Scott},  
   url={https://www.nytimes.com/2024/06/14/magazine/parkinsons-smell-disease-detection.html?unlocked_article_code=1.200.0hXB.WRHIetHbdpBy&smid=url-share},  
