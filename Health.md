@@ -5,6 +5,18 @@ title: Health
 
 --------------------------------------------------------------------------------
 
+@article{gammon2024heat,  
+  Author={Gammon, Katharine},  
+  url={https://www.nytimes.com/2024/07/28/well/heat-stress-body-temperature.html},  
+  Title={How Our Bodies Can Adapt to Heat},  
+  journal={The New York Times},  
+  date={2024-07-28},  
+  comment={Doing half an hour of exercise in intense heat will begin to build up your tolerance for heat. Your body adapts by increasing your body's water and you sweat sooner. The effects kick in after just a few days.},  
+  category={Health, heat}  
+}  
+% So.... the advice to avoid strenuous exercise in hot weather is actually 180 degrees wrong.  
+  
+  
 @article{saslow2024medbeds,  
   Author={Saslow, Eli},  
   url={https://www.nytimes.com/2024/07/28/us/politics/far-right-miracle-cure-medbed.html},  
