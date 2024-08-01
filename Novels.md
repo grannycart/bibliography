@@ -46,9 +46,12 @@ title: Novels
   url={https://books.google.com/books?id=pIVPEAAAQBAJ},  
   year={1997},  
   publisher={Penguin Publishing Group},   
-  comment={A young man in the 18th or 19th Century who experiences the world more slowly than most people, strives to become a ship's captain.},
-  category={Novels}  
-}
+  comment={A man of the 19th Century --- based on John Franklin, the real life polar explorer --- who experiences the world more slowly than most people, strives to become a ship's captain, and then leads expeditions into the arctic looking for the Northwest Passage.},  
+  category={Novels, arctic, northwest passage, polar exploration, slowness, philosophy}  
+}  
+% The premise _seems_ like such a good idea: how can someone excel in the world by embracing a philosophy of slowness? But this book suffers from the terse minimal language that "literature" so often wallows in. (Possibly this is just an artifact of translation.) Somewhat ironically, this terse style means that most of the action of the book goes by too _fast_. There's a lot of dull recounting of Franklin's home life, and then when he finally gets to the arctic survival situations --- a part of the story where one might expect the book to slow down and lay out a lot of detail so you can see how the adventure progresses --- it instead blasts by in a few pages. Wikipedia says this book is widely known in Germany, and understood as an argument for a life philosophy of slowness, even being read as a how-to-get-ahead kinda book by businessmen. This seems idiotic to me, even just within the book itself: as often as not, Franklin's philosophy of slowness causes him trouble, particularly in the arctic where where in one expedition almost everyone dies, and in the final expedition his slowness is no help in saving himself. More than that, even, the philosophy seems to be applied unevenly and incoherently. (Again, possibly this is an artifact of translation. Maybe it all rings much more true in the original German.)   
+% I would argue that Dopesmoker actually executes this philosophy of slowness better. It revels in slowness as a way to build and achieve something. This book _talks_ a lot about slowness, but achieves not much at all.  
+% Overall, a pretty disappointing book, considering how appealing the premise is and how little there is to get out of it with it's dull language, skimmed over storylines, and useless implementations of the slowness philosophy by Franklin.  
 % Page 94: "Nothing can be predicted. Nobody can give a reason why something happened in this way and not in another. Stronger than all predictions are coincidence and contradiction."  
 
 
