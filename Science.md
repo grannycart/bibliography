@@ -2332,6 +2332,8 @@ category={trees, Science},
 % \url{https://www.nytimes.com/2018/08/14/health/lyme-disease-vaccine.html}  
 % Also: \url{https://slate.com/technology/2021/07/lyme-vaccine-history-lymerix-hesitancy-ticks.html}  
 	% ...Though I think the history of this vaccine's failure is much more accurately described by the failure of the capitalist health care system, rather than the now-vogue bogeyman of anti-vaxxers that the author blames it on.  
+    % A journal paper on the history of the vaccine: \url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2870557/#:~:text=In%201998%2C%20the%20FDA%20approved,%2Deffects%2C%20and%20declining%20sales.}  
+    % This paper puts the blame squarely on anti-vaxxers and negative media hype. It does also talk about how the vaccine only had about 80% efficacy at best, and would have required possibly annual boosters.  
   
   
   
