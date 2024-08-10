@@ -5,7 +5,30 @@ title: Novels
 
 --------------------------------------------------------------------------------
 
-
+@book{crichton1996airframe,  
+  title={Airframe},  
+  author={Crichton, M.},  
+  isbn={9780345402875},  
+  lccn={96095384},  
+  series={Ballantine fiction},  
+  url={https://books.google.com/books?id=N5vwCX6gyi8C},  
+  year={1996},  
+  publisher={Ballantine Books},
+  category={Novels},  
+  comment={Chrichton builds a novel out of the drama of an airline incident investigation. (His only book not turned into a movie, I read somewhere.)}   
+}  
+% Overall, consistent with the reviews online, the details about the aircraft incident investigation are interesting, maybe just enough to make this book worth reading.. The characters are cliche and flat with extreme dull names, and the action predictable. So, ironically, this makes the action parts of the book really, really boring.  
+% Quote before the book starts: "“The irony of the Information Age is that it has given new respectability to uninformed opinion.” ― Veteran reporter John Lawton, 68, speaking to the American Association of Broadcast Journalists in 1995.  
+    % This quote is fictional, but still seems prescient even by 1995.  
+% Page 212: The reporter of the new school wants to frame a story as happening _now_ as opposed to the old-school journalists who want to add context to everything.  
+    % "What she was looking for was a way to shape the story so that it unfolded _now_, in a pattern that the viewer could follow. The best frames engaged the viewer by presenting conflict between good and bad, a morality story. Because the audience got that. If you framed a story that way, you got instant acceptance. You were speaking their language."  
+	"But because the story also had to unfold quickly, this morality tale had to hang from a series of hooks that did not need to be explained. Things the audience already knew to be true. They already knew big corporations were corrupt, their leaders greedy sexist pigs. You didn't have to prove that; you just had to mention it. They already knew that government bureaucracies were inept and lazy. You didn't have to prove that, either. And they already knew that products were cynically manufactured with no concern for consumer safety."  
+	% Is Crichton tipping his hand here? Everything he is describing applies to this book as well: you know who the good guys are (mid-level executives who have the best interest of the airplane manufacturer they work for at heart. The quality of American manufacturing) and you know who the bad guys are (top-level executives trying to sell out the company, the media spinning stories about airplane quality from a few incidents rather than looking at the whole picture, the Europeans trying to use regulation to control trade.) Crichton's formulas is _always_ a morality play, that maybe uses the space a novel provides to give the reader the context to twist just a few unexpected things away from the hooks the reader already knows that the story hangs on. 
+		Not a criticism! It's a good formula for selling books. They just get a little boring for a reader who maybe knows a bit more about those hooks he's trying to hang to the story on, knows the world is more complex place to understand than a story hung on those hooks would allow.   
+	% In a larger sense, this idea of hanging stories on hooks the audience already knows to be true is _fundamental_ to the rise of Trump and the hard right.  
+% My interest in this book came from how it might relate to the current (2024) crisis Boeing is facing. But it seems like the point of this book seems to be the polar opposite. The fictional Norton airline in the book is clearly supposed to be standing in for Boeing, but Norton has a culture of hard-core engineering and manufacturing perfection (which, from what I understand, Boeing also had at the time in the mid-90s and decades before). Boeing's crisis today interestingly manifests itself in a similar way: high profile "incidents" on a few flights with scary footage spread in the media. But the heart of Boeing's crisis isn't the media misunderstanding the aircraft manufacturing industry quality controls and hyping a false story. Rather, it seems that Boeing's crisis is that it's culture of hard-core engineering perfection has slipped away leaving, as Crichton says in the quote above, "products cynically manufactured without concern for consumer safety." This hook is true, today.  
+  
+   
 @book{golding1986lord,  
   title={Lord of the Flies: A Novel},  
   author={Golding, W.},  
