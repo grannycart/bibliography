@@ -1230,7 +1230,8 @@ abstract = { Aims:To review the burden of allergic and infectious diseases and t
 comment={Argues that the "hygiene hypothesis" is undermining healthy behaviors by reinforcing an idea that "hygiene" isn't good for you. Doesn't quibble with the fact that the basic tenents: more exposure, more time outdoors, etc, are healthy.},  
 category={Health, hygiene hypothesis, Criticality}  
 }  
-  
+% This explainer about autoimmute disease from the Washington Post describes the hygiene hyphothesis as "and older theory" now. It also makes a distinction between the "hygiene hypothessis" as being about the decline of infectious diseases and a rise in antibiotic use, while more modern thinking is that it's about exposure to day-to-day microbes rather than true infectous pathogens. (And this is not considered "the Hygiene Hypothesis" --- I think I was conflating those things in the past.) Most of the factors now suspected in the rise of auto-immune disease are things like ultra-processed food, air pollution, gut health, and stress. So individual action like not washing your hands probably doesn't help.  
+	% https://www.washingtonpost.com/wellness/2024/08/12/autoimmune-disease-risks-treatments/  
   
   
 @article{zernike2017medicaid,  
