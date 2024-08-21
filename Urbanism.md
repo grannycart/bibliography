@@ -6,6 +6,19 @@ title: Urbanism
 
 --------------------------------------------------------------------------------
 
+@article{Gaffney2024oaks,  
+  Author={Gaffney, Austyn},  
+  url={https://www.nytimes.com/2024/08/20/climate/pollution-trees-clean-air.html},  
+  Title={New York City’s Trees Work Hard. Still, They Could Use a Little Help.},  
+  journal={The New York Times},  
+  date={2024-08-20},  
+  comment={Oak trees emit isoprene, which combines with nitrogen oxides from burning fossil fuels to create ground-level ozone, which kills more than 400 New Yorkers every year (though asthma, presumably.)},  
+  category={Urbanism, Health, Criticality, street trees, oak trees}  
+}  
+% "Dr. Reinmann said the study didn’t suggest removing oak trees or ending oak tree plantings. He said he worries about waking up one morning and seeing a headline that reads, “New York Shouldn’t Plant Trees Anymore.”" 
+    % ...But it's hard to see how this isn't actually the case. I mean 400 deaths per year! That's compared to 100 pedestrian deaths per year, or 30 cyclist deaths (a recent high.)  
+  
+  
 @article{smith2024elevators,  
   Author={Smith, Stephen},  
   url={https://www.nytimes.com/2024/07/08/opinion/elevator-construction-regulation-labor-immigration.html},  
