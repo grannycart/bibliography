@@ -787,6 +787,7 @@ category={Health, Transportation, driving}
 % (Though... not totally impossible.) It does seem likely, based on what was  
 % said here, that there was SOME coordinated effort to spread psychedelics.  
 % Possibly to have a larger human population to test the drugs on.  
+% And now the pendulum swimgs the other way. It seems that pschedelics are once again being pushed by crazy people, and real benefits (if any) may be obscured by bad science and hippie agendas: \url{https://www.nytimes.com/2024/08/23/opinion/psychedelics-mdma-mental-health.html}
   
   
 @article{carey2018homelessness,  
