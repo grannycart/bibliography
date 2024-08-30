@@ -5,6 +5,20 @@ title: Novels
 
 --------------------------------------------------------------------------------
 
+
+@book{jackson2021we,  
+  title={We Have Always Lived in the Castle},  
+  author={Jackson, S.},  
+  isbn={9780143139973},  
+  lccn={2022285242},  
+  series={Penguin vitae},  
+  url={https://books.google.com/books?id=rnDVzwEACAAJ},  
+  year={2021},  
+  publisher={Penguin Books}  
+}  
+% Maybe the definitive book about persecution of strange people by small town normies.  
+  
+  
 @book{crichton1996airframe,  
   title={Airframe},  
   author={Crichton, M.},  
