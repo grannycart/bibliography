@@ -5,6 +5,17 @@ title: Health
 
 --------------------------------------------------------------------------------
 
+@article{tabuchi2024pfas,  
+  Author={Tabuchi, Hiroko},  
+  url={https://www.nytimes.com/2024/08/31/climate/pfas-fertilizer-sludge-farm.html},  
+  Title={Something’s Poisoning America’s Land. Farmers Fear ‘Forever’ Chemicals.},  
+  journal={The New York Times},  
+  date={2024-08-31},  
+  comment={PFAS "forever chemicals", for which there's no safe level for human consumption, are ending up in sewage from cities that gets processed into fertilizer and spread on farmland. The EPA has been pushing this process for decades. Only now are people testing farmland and finding extremely high levels of PFAS that are killing livestock and getting into the foodchain. One farm in Michigan was shut down and the land banned from ever being used for agriculture again (a modern-day salting of the land).},  
+  category={Health, Criticality, Urbanism, forever chemicals pfas}  
+}  
+  
+  
 @article{gammon2024heat,  
   Author={Gammon, Katharine},  
   url={https://www.nytimes.com/2024/07/28/well/heat-stress-body-temperature.html},  
