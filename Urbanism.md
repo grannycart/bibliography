@@ -5,7 +5,17 @@ title: Urbanism
 
 
 --------------------------------------------------------------------------------
-
+@article{vartabedian2024ca,  
+  Author={Vartabedian, Ralph},  
+  url={https://www.nytimes.com/2024/08/29/us/california-corruption-huizar.html},  
+  Title={How a Real Estate Boom Drove Political Corruption in Los Angeles},  
+  journal={The New York Times},  
+  date={2024-08-29},  
+  comment={Corruption is rampant in California. This article outlines specific political environmental characteristics that lead to corruption: one-party control (regardless of Democrat or Republican), lack of local investigative reporting/local media, money flowing in (in this case, large-scale investments in real estate from China).},  
+  category={Urbanism, Criticality, california, los angeles, corruption}  
+}  
+  
+  
 @article{Gaffney2024oaks,  
   Author={Gaffney, Austyn},  
   url={https://www.nytimes.com/2024/08/20/climate/pollution-trees-clean-air.html},  
