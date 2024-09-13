@@ -5,6 +5,17 @@ title: Health
 
 --------------------------------------------------------------------------------
 
+@article{katwala2023myopia,  
+  Author={Katwala, Amit},  
+  url={https://www.wired.com/story/taiwan-epicenter-of-world-myopia-epidemic/},  
+  Title={The World Is Going Blind. Taiwan Offers a Warning, and a Cure},  
+  journal={Wired},  
+  date={2023-08-22},  
+  comment={In China, South Korea, and Taiwan something like 90 percent of people have myopia/nearsightedness. Years of research into the cause suggested it could not be attributed to genetics or any other cause typically suggested over the last few hundred years. More recent research has understood that the cause is not spending enough time outside. Changes to schooling practices in Taiwan to make kids spend a couple of hours a day outside has drastically decreased myopia.},  
+  category={Health, myopia, nearsightedness, taiwan}  
+}  
+  
+  
 @article{tabuchi2024pfas,  
   Author={Tabuchi, Hiroko},  
   url={https://www.nytimes.com/2024/08/31/climate/pfas-fertilizer-sludge-farm.html},  
