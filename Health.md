@@ -801,14 +801,10 @@ category={Health, Transportation, driving}
 % Maybe there IS something to the idea that drugs can lead to successful creative lives.  
 % See this argument by Aaron Carroll that psychedelics should be made easier to study: \url{https://www.nytimes.com/2017/07/17/upshot/can-psychedelics-be-therapy-allow-research-to-find-out.html}  
 % And this not-very-good article about the benefits of psychedelic therapy: \url{https://www.nytimes.com/interactive/2018/05/15/magazine/health-issue-my-adventures-with-hallucinogenic-drugs-medicine.html}  
-% This review of Michael Pollan's new book adds some details about how the  
-% spread of psychedelics may have been a CIA or some spy agency's plot:  
+% This review of Michael Pollan's new book adds some details about how the spread of psychedelics may have been a CIA or some spy agency's plot:  
 % \url{https://harpers.org/archive/2018/06/revolution-in-the-head/}  
-% It's hard to imagine what is suggested here: that the CIA was trying to  
-% undermine the radical left with drugs.  
-% (Though... not totally impossible.) It does seem likely, based on what was  
-% said here, that there was SOME coordinated effort to spread psychedelics.  
-% Possibly to have a larger human population to test the drugs on.  
+% It's hard to imagine what is suggested here: that the CIA was trying to undermine the radical left with drugs. (Though... not totally impossible.) It does seem likely, based on what was said here, that there was SOME coordinated effort to spread psychedelics. Possibly to have a larger human population to test the drugs on.  
+% It's possible psychedelics open "critical periods" in humans (and mice) where people are suddenly capable of learning new things quickly: \url{https://www.wired.com/story/the-psychedelic-scientist-who-sends-brains-back-to-childhood/}  
 % And now the pendulum swimgs the other way. It seems that pschedelics are once again being pushed by crazy people, and real benefits (if any) may be obscured by bad science and hippie agendas: \url{https://www.nytimes.com/2024/08/23/opinion/psychedelics-mdma-mental-health.html}
   
   
