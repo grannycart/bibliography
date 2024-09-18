@@ -5,7 +5,23 @@ title: Novels
 
 --------------------------------------------------------------------------------
 
-
+@book{du2008don,  
+  title={Don't Look Now: Selected Stories of Daphne du Maurier},  
+  author={du Maurier, D. and McGrath, P.},  
+  isbn={9781590172889},  
+  lccn={2008024188},  
+  series={New York Review Books classics},  
+  url={https://books.google.com/books?id=3Ud1kLujkcwC},  
+  year={2008},  
+  publisher={New York Review Books},
+  category={Novels},  
+  comment={A collection of mid-century horror stories, most notably The Birds and Don't Look Now, which were turned into film.}  
+}  
+% Kinda standard fare for mid-century horror short stories: always trying to get the twist into the last sentence. For the most part entirely predictable. The Escort is a ghost ship story. Kiss Me Again, Stranger is maybe the best of them, kinda sexy and romantic where a dude picks up an usher in the theater, who seems like she might be a ghost, but turns out to be knifing air force dudes in the night.   
+% The writing and stories are good, but not great.  
+% On reading Don't Look Now about a couple wandering around Venice and the dude keeps seeing his own death by a mad dwarf, I remember I had seen the film.  
+  
+  
 @book{jackson2021we,  
   title={We Have Always Lived in the Castle},  
   author={Jackson, S.},  
@@ -14,7 +30,8 @@ title: Novels
   series={Penguin vitae},  
   url={https://books.google.com/books?id=rnDVzwEACAAJ},  
   year={2021},  
-  publisher={Penguin Books}  
+  publisher={Penguin Books},  
+  category={Novels},  
 }  
 % Maybe the definitive book about persecution of strange people by small town normies.  
   
