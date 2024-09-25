@@ -5,6 +5,22 @@ title: Science
 
 --------------------------------------------------------------------------------
 
+@book{bryson2019body,  
+  title={The Body: A Guide for Occupants},  
+  author={Bryson, B.},  
+  isbn={9780385539302},  
+  lccn={2019012407},  
+  url={https://books.google.com/books?id=RkGNEAAAQBAJ},  
+  year={2019},  
+  publisher={Knopf Doubleday Publishing Group}  
+  comment={A fun, if undetailed, read skimming across the functioons of the body.},  
+  category={Science, Health, general science, history}  
+}  
+% Page 131: Why did bleeding persist for so long? Because doctors then thought of disease as something that was wrong with the whole body, not a specific cause and effect. (There's an argument to be made, I think, that medicine has gone too far the other way these days, not accounting for all the complexity of whole body systems and focusing too much on specific problems.) See story of Benjamin Rush, this page.
+% Page 132: "That was the problem with bleeding. If you could tell yourself that those who survived did so because of your efforts whole those who died were beyond salvation by the time you reached them, bleeding would always seem a prudent option."  
+% Page 135: Blood doesn't really last in storage. It can legally be stored for more than a month, but it probably is really only useful for 2 weeks. But blood banks always distribute the oldest blood first, so mostly people are getting old blood in transfusions. Even when they are not, it turns out the transfusions are often doing more harm than good, and many (most?) patients have better outcomes when blood is NOT added, a fact doctors discovered when forced to use less blood during the AIDS crisis.  
+  
+  
 @book{bryson2003short,  
   title={A Short History of Nearly Everything},  
   author={Bryson, B.},  
