@@ -16,12 +16,14 @@ title: Science
   comment={A fun, if undetailed, read skimming across the functioons of the body.},  
   category={Science, Health, general science, history}  
 }  
-% Page 126: The US exports a huge portion of blood plasma, we are the biggest exporter of plasma in the world.
-    % See: https://www.today.com/health/news/blood-plasma-donation-for-money-rcna77448
-% Page 131: Why did bleeding persist for so long? Because doctors then thought of disease as something that was wrong with the whole body, not a specific cause and effect. (There's an argument to be made, I think, that medicine has gone too far the other way these days, not accounting for all the complexity of whole body systems and focusing too much on specific problems.) See story of Benjamin Rush, this page.
+% Page 126: The US exports a huge portion of blood plasma, we are the biggest exporter of plasma in the world.  
+    % See: https://www.today.com/health/news/blood-plasma-donation-for-money-rcna77448  
+% Page 131: Why did bleeding persist for so long? Because doctors then thought of disease as something that was wrong with the whole body, not a specific cause and effect. (There's an argument to be made, I think, that medicine has gone too far the other way these days, not accounting for all the complexity of whole body systems and focusing too much on specific problems.) See story of Benjamin Rush, this page.  
 % Page 132: "That was the problem with bleeding. If you could tell yourself that those who survived did so because of your efforts whole those who died were beyond salvation by the time you reached them, bleeding would always seem a prudent option."  
 % Page 135: Blood doesn't really last in storage. It can legally be stored for more than a month, but it probably is really only useful for 2 weeks. But blood banks always distribute the oldest blood first, so mostly people are getting old blood in transfusions. Even when they are not, it turns out the transfusions are often doing more harm than good, and many (most?) patients have better outcomes when blood is NOT added, a fact doctors discovered when forced to use less blood during the AIDS crisis.  
-    % See: https://www.nature.com/articles/549S22a
+    % See: https://www.nature.com/articles/549S22a  
+% page 216-221: asthma is a mystery. Russia and China have a very low rate, western countries very high. people who live on farms have lower rates than those who live on cities, but Guangzhou Chins is extremely polluted and has a much lower rate of asthma than nearby Hong Kong. All English speaking and Latin American countries have high rates of asthma. It used to be thought that it was a neurological condition, then an alergy. But since putting feet in ice water can trigger a reaction, it is now thought to be something of both. Having a cat when young may help prevent it. Generally, nobody understands anything about it.  
+% Page 224: Because of all the funding for research from tobacco companies trying to prove tobacco doesn't cause cancer, there was a lot of good cancer research done in the mid-20th Centry --- the quality was very high, as long as the results didn't implicate tobacco.  
   
   
 @book{bryson2003short,  
