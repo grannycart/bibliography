@@ -1204,6 +1204,18 @@ category = {Health, Criticality, time, time famine, work, protestant work ethic}
   category={Health, salt, thirst, hunger}  
 }  
   
+@article{carrolldietaryguidelines,  
+  Author={Carroll, Aaron E.},  
+  url={http://www.nytimes.com/2015/02/24/upshot/behind-new-dietary-guidelines-better-science.html},  
+  Title={Behind New Dietary Guidelines, Better Science},  
+  journal={The New York Times},  
+  date={2015-02-23},  
+  comment = {New dietary guidelines are more closely based on randomized controlled studies. Unlike the recommendations to eat less salt and fat. ``It is frustrating enough when we over-read the results of epidemiologic studies and make the mistake of believing that correlation is the same as causation. It’s maddening, however, when we ignore the results of randomized controlled trials, which can prove causation, to continue down the wrong path. In reviewing the literature, it’s hard to come away with a sense that anyone knows for sure what diet should be recommended to all Americans.''},  
+  category = {diet, dietary guidelines, salt, fat, health}  
+}  
+% This modern review finds the research on whether salt is good or bad for you "truly heterogenous": https://doi.org/10.3390%2Fmedicina58091175  
+% (See also notes on Bryson's Body in Science bib category)  
+  
   
 @article {CEA:CEA3221,  
 author = {Williams, A. N. and Woessner, K. M.},  
@@ -2744,16 +2756,6 @@ category = {health, hospitals, heart attacks, cardiologists, patient safety}
   date={2015-06-15},  
   comment = {Exercise doesn't burn enough calories to really reduce weight (though it has a number of other health benefits). Statistics show that eating fewer calories is a far more effective way to lose weight.},  
   category = {exercise, eating, diet, health}  
-}  
-  
-@article{carrolldietaryguidelines,  
-  Author={Carroll, Aaron E.},  
-  url={http://www.nytimes.com/2015/02/24/upshot/behind-new-dietary-guidelines-better-science.html},  
-  Title={Behind New Dietary Guidelines, Better Science},  
-  journal={The New York Times},  
-  date={2015-02-23},  
-  comment = {New dietary guidelines are more closely based on randomized controlled studies. Unlike the recommendations to eat less salt and fat. ``It is frustrating enough when we over-read the results of epidemiologic studies and make the mistake of believing that correlation is the same as causation. It’s maddening, however, when we ignore the results of randomized controlled trials, which can prove causation, to continue down the wrong path. In reviewing the literature, it’s hard to come away with a sense that anyone knows for sure what diet should be recommended to all Americans.''},  
-  category = {diet, dietary guidelines, salt, fat, health}  
 }  
   
 @article{PHN:9627964,  
