@@ -24,6 +24,10 @@ title: Science
     % See: https://www.nature.com/articles/549S22a  
 % page 216-221: asthma is a mystery. Russia and China have a very low rate, western countries very high. people who live on farms have lower rates than those who live on cities, but Guangzhou Chins is extremely polluted and has a much lower rate of asthma than nearby Hong Kong. All English speaking and Latin American countries have high rates of asthma. It used to be thought that it was a neurological condition, then an alergy. But since putting feet in ice water can trigger a reaction, it is now thought to be something of both. Having a cat when young may help prevent it. Generally, nobody understands anything about it.  
 % Page 224: Because of all the funding for research from tobacco companies trying to prove tobacco doesn't cause cancer, there was a lot of good cancer research done in the mid-20th Centry --- the quality was very high, as long as the results didn't implicate tobacco.  
+% Page 245: Some research says too much salt kills people, some research says too much salt harms only peopel with elevated blood pressure, and bigger meta-reasearch finds that too much salt is just as bad for you as too little. The problem is that there are two camps: the too much salt is bad and the too little salt is bad and neither read each other's research.  
+    % See: https://doi.org/10.1093/ije/dyv184  
+    % And also this follow-up commentary which points out that generally the pro-salt camp is seen to be funded by the food manufacturers, and that meta-analysis studies cannot separate out already carried out bias in research: https://doi.org/10.1093/ije/dyw015  
+% Page 248: food stays in a man's gut for roughly 55 hours, for a womn 72 hours. Nobody knows why or how this affects people.  
   
   
 @book{bryson2003short,  
