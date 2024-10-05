@@ -28,7 +28,12 @@ title: Science
     % See: https://doi.org/10.1093/ije/dyv184  
     % And also this follow-up commentary which points out that generally the pro-salt camp is seen to be funded by the food manufacturers, and that meta-analysis studies cannot separate out already carried out bias in research: https://doi.org/10.1093/ije/dyw015  
 % Page 248: food stays in a man's gut for roughly 55 hours, for a womn 72 hours. Nobody knows why or how this affects people.  
-  
+% Page 341-342: Fanny Burney's brutal description of her 19th Century mastectomy without anaesthetic.  
+Page 345: Stephen Paget discovers that cancer can spread widely to distant parts of a body, rather than contiguously... and his work is ignored for 100 years.  
+Page 348: Chemotherapy is essentially just mustard gas, almost the same as was used in WWI.  
+Page 351-353: The story of Albert Schatz, who discovered a critically important antibiotic in the 1940s, but his boss, Selman Waksman took credit (and money) for it. Waksman was awarded the Nobel Prize. Eventually, Schatz was awarded the Selman Waksman medal.  
+Page 355: Life expectancy numbers are generally bullshit, heavily influenced by child mortality. (In these pages Bryson is actually bringing up these numbers to show how positive the outcomes have been, but feels it necessary to raise the questions about how accurate they are. I read the qualifications and I seriously doubt there's ANY accuracy to the numbers and positive gains --- while real --- are almost entirely confined to buckets like reduced smoking rates and much better results with childhood survivability.)  
+   
   
 @book{bryson2003short,  
   title={A Short History of Nearly Everything},  
