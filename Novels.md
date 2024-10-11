@@ -5,6 +5,20 @@ title: Novels
 
 --------------------------------------------------------------------------------
 
+
+@book{faulkner1967intruder,  
+  title={Intruder in the Dust},  
+  author={Faulkner, W.},  
+  isbn={9780075536628},  
+  series={Modern Library college editions},  
+  url={https://books.google.com/books?id=sstGcAAACAAJ},  
+  year={1967},  
+  publisher={Modern Library}  
+}  
+% Page 8-9: "defaced by the droppings and the cryptic three-toed prints of chickens like a terrain in miniature out of the age of the great lizards" --- Did Faulkner anticipate that chickens would be discovered to be dinosaurs here?!  
+% Page 21: "he would think of the story of the boy and his pet calf which he lifted over the pasture fence each day; years passed and they were grown man and bull still lifted over the pasture fence each day" --- This must just be a story that farmers told, and maybe still tell. I was told it by my farmer friend Levi, but never saw it referenced anywhere until here in this book from the 1940s.  
+  
+  
 @book{du2008don,  
   title={Don't Look Now: Selected Stories of Daphne du Maurier},  
   author={du Maurier, D. and McGrath, P.},  
