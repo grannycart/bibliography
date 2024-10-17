@@ -5,6 +5,16 @@ title: Criticality
 
 --------------------------------------------------------------------------------
 
+@article{hitt2024erupiblic,  
+  Author={Hitt, Tarpley},  
+  url={https://www.thedailybeast.com/scientologist-execs-at-media-company-erepublic-with-ties-to-democrats-made-workers-lives-a-living-hell},  
+  Title={How Scientologist Execs at Media Company e.Republic Made Workers’ Lives a Living Hell},  
+  journal={Daily Beast},  
+  date={2021-03-01},  
+  comment={e.Republic is a media company that owns a number of publications, including Governing magazine, about government and technology and runs conferences on the same subject. They have some influence at lower levels of government. They are run by a bunch of Scientologists, which is fairly uncomfortable because Scientologists believe in a rigid management structure with heavy surveillance and oversight of workers, and strong reactionary punishment for minor infractions.},  
+  category={Criticality, governing, scientology}  
+}  
+
 
 @article{doi:10.1177/2515245918771329,  
 author = {Gerd Gigerenzer},  

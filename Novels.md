@@ -17,6 +17,7 @@ title: Novels
 }  
 % Page 8-9: "defaced by the droppings and the cryptic three-toed prints of chickens like a terrain in miniature out of the age of the great lizards" --- Did Faulkner anticipate that chickens would be discovered to be dinosaurs here?!  
 % Page 21: "he would think of the story of the boy and his pet calf which he lifted over the pasture fence each day; years passed and they were grown man and bull still lifted over the pasture fence each day" --- This must just be a story that farmers told, and maybe still tell. I was told it by my farmer friend Levi, but never saw it referenced anywhere until here in this book from the 1940s.  
+% Page 65: "the heavy steel plunger crashing into its steel groove with a thick oily sound of of irrefutable finality like that ultimate cosmolined doom itself when as his uncle said man's machines had at last effaced and obliterated him from the earth and, purposeless now to themselves with nothing left to destroy, closed the last carborundum-grooved door upon their own progenitorless apotheosis behind one clockless lock responsive only to the last stroke of eternity"  
   
   
 @book{du2008don,  

@@ -2495,6 +2495,7 @@ category = {sugar, health}
 % Public health people are guilty of almost LYING to individuals - they promote concepts as if they are a risk to individuals (like flu shots)  
 % even though they are clearly not, and let people believe that only because it gets them closer to their _population_ goals,  
 % not because it's the truth.  
+% Public health people are constantly pushing people to get flu shots early, but that actually undermines any effectiveness flu shots might have: \url{https://www.nytimes.com/2024/10/13/opinion/when-to-get-your-flu-shot.html}  
   
 @article{doi:10.1001/jamainternmed.2014.6016,  
 author = {Hoffmann TC and Del Mar C},  
