@@ -19,6 +19,7 @@ title: Novels
 % Page 21: "he would think of the story of the boy and his pet calf which he lifted over the pasture fence each day; years passed and they were grown man and bull still lifted over the pasture fence each day" --- This must just be a story that farmers told, and maybe still tell. I was told it by my farmer friend Levi, but never saw it referenced anywhere until here in this book from the 1940s.  
 % Page 65: "the heavy steel plunger crashing into its steel groove with a thick oily sound of of irrefutable finality like that ultimate cosmolined doom itself when as his uncle said man's machines had at last effaced and obliterated him from the earth and, purposeless now to themselves with nothing left to destroy, closed the last carborundum-grooved door upon their own progenitorless apotheosis behind one clockless lock responsive only to the last stroke of eternity"  
 % Page 153: Faulkner uses nested parentheses here.
+% Page 239: "The American really loves nothing but his automobile; not his wife his child his country nor even his bank-account first but his motorcar." Goes on to say that women are cold and undersexed because they want marriage and to not be roughed up and sweaty (as in, sex AND also as in walking), so she projects her libido onto the automobile. And so men love their cars because he is loving the woman who has denied him her bed.  
   
   
 @book{du2008don,  
