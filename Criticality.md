@@ -5,6 +5,16 @@ title: Criticality
 
 --------------------------------------------------------------------------------
 
+@article{pragati2024hindu,  
+  Author={K.B., Pragati},  
+  url={https://www.nytimes.com/2024/10/26/world/asia/india-temple-laddu.html},  
+  Title={The Curious Case of a Temple Sweet: How Food Increasingly Divides India},  
+  journal={The New York Times},  
+  date={2024-10-26},  
+  comment={In India, the vegetarians are right-wing Hindu nationalist, including Modi, who lynch people accused of abusing cows. Apparently, there's no reference in scripture to the Hindu gods being vegetarian. That idea was promoted by the upper castes as part of an idea of adhering to purity, while poorer, lower castes traditionally ate meat.},  
+  category={Critcality, india, hinduism, nationalism, vegetarianism}  
+}  
+
 @article{hitt2024erupiblic,  
   Author={Hitt, Tarpley},  
   url={https://www.thedailybeast.com/scientologist-execs-at-media-company-erepublic-with-ties-to-democrats-made-workers-lives-a-living-hell},  
