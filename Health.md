@@ -2002,6 +2002,7 @@ category={Health, hygiene hypothesis, autoimmune, parasites}
   category = {sugar, fructose, Health}  
 }  
 % Another sugar recap for 2020: \url{https://www.nytimes.com/2019/12/30/well/eat/sugar-diet-healthy.html}   
+% Seems a bit like the "sugar is a poison" theory hasn't advanced much in the last ten years, yet there's research like this very rigorous comparison of wartime sugar eating in Brittain that suggests to me that sugar should still be considered a standout candidate for the worst possible single nutrient we eat: \url{https://www.nytimes.com/2024/10/31/health/sugar-rationing-britain-health-experiment.html}  
   
   
 @article{lesliesugar2016,  
