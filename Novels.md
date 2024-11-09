@@ -5,6 +5,27 @@ title: Novels
 
 --------------------------------------------------------------------------------
 
+@book{hemingway1940whom,  
+  title={For Whom the Bell Tolls},  
+  author={Hemingway, E.},  
+  isbn={9780684830483},  
+  lccn={40027732},  
+  series={Scribner classics},  
+  url={https://books.google.com/books?id=6ONaAAAAMAAJ},  
+  year={1940},  
+  publisher={Scribner},  
+  category={Novels},  
+  comment={Gotta blow up the bridge.}  
+}  
+% I have a hard time not loving any book where infrastructure is the MacGuffin.  
+% chapter 13 contains the famous sex scene where Hemmingway coins the cliche "did you feel the earth move?"   
+    % And page 176, this compelling exchange:   
+        ‘Thou hast a lovely body,’ he said. ‘The loveliest in the world.’  
+        ‘It is only young and thin.’  
+        ‘No. In a fine body there is magic. I do not know what makes  
+        it in one and not in another. But thou hast it/  
+        ‘For thee/ she said.  
+  
 
 @book{faulkner1967intruder,  
   title={Intruder in the Dust},  
@@ -13,7 +34,8 @@ title: Novels
   series={Modern Library college editions},  
   url={https://books.google.com/books?id=sstGcAAACAAJ},  
   year={1967},  
-  publisher={Modern Library}  
+  publisher={Modern Library},  
+  category={Novels}  
 }  
 % Page 8-9: "defaced by the droppings and the cryptic three-toed prints of chickens like a terrain in miniature out of the age of the great lizards" --- Did Faulkner anticipate that chickens would be discovered to be dinosaurs here?!  
 % Page 21: "he would think of the story of the boy and his pet calf which he lifted over the pasture fence each day; years passed and they were grown man and bull still lifted over the pasture fence each day" --- This must just be a story that farmers told, and maybe still tell. I was told it by my farmer friend Levi, but never saw it referenced anywhere until here in this book from the 1940s.  
