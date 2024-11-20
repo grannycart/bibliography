@@ -2728,10 +2728,11 @@ mechanisms acting for the downward transport, the seafloor beneath this Arctic s
   url={http://www.nytimes.com/2013/12/08/opinion/sunday/the-case-for-filth.html},  
   year={2013},  
   comment={Argues that instead of trying to get men to do more housework, we should all just do less of it. Cleanliness is an abstration and subjective.},  
-  category={Criticality, feminism, housework}  
+  category={Criticality, feminism, housework, cleaning, cleanliness}  
 }  
 % See also this feminist history of housework, where Marxists feminists in the 1970s demanded pay for housework:  
 % \url{https://www.topic.com/when-women-demanded-pay-for-housework?utm_source=instagram&utm_medium=social&utm_term=boost&utm_content=link&utm_campaign=topicpaidsocial}  
+% This makes for a good follow-up piece (written by a woman) \url{https://www.theatlantic.com/ideas/archive/2024/11/why-women-cant-put-down-the-vacuum/680714/?utm_source=feed}
   
 @article{thompson2019timework,  
   Author={Thompson, Derek},  
