@@ -28,6 +28,7 @@ title: Novels
 % Though later sex scenes start to get ridiculous in the abstraction of the language.  
 % There is a long slow stretch in the middle that is not great, but worth plowing through to get back to the action.  
 % The use of the word "obscenity" every time there is supposed to be a curse is kinda distracting prudish and stupid.  
+% Overall, the qualities that made it a "masterpiece" back in the day feel kinda dated (the style, the terse language). But it still retains the good storytelling qualities that make it a _fun_ read.  
   
 
 @book{faulkner1967intruder,  
