@@ -25,6 +25,9 @@ title: Novels
         ‘No. In a fine body there is magic. I do not know what makes  
         it in one and not in another. But thou hast it/  
         ‘For thee/ she said.  
+% Though later sex scenes start to get ridiculous in the abstraction of the language.  
+% There is a long slow stretch in the middle that is not great, but worth plowing through to get back to the action.  
+% The use of the word "obscenity" every time there is supposed to be a curse is kinda distracting prudish and stupid.  
   
 
 @book{faulkner1967intruder,  
