@@ -5,6 +5,21 @@ title: Novels
 
 --------------------------------------------------------------------------------
 
+@book{wharton2021ghosts,  
+  title={Ghosts},  
+  author={Wharton, E.},  
+  isbn={9781681375724},  
+  lccn={2020058370},  
+  url={https://books.google.com/books?id=oTFMEAAAQBAJ},  
+  year={2021},  
+  publisher={New York Review Books},  
+  category={Novels},  
+  comment=(Wharton's collection of ghost stories, as selected and put in order by her.)  
+}  
+% A couple of these have extremely ambiguous endings (The Eyes, The Lady's Maid's Bell), and I thought I was just being dumb and missing something, but googling on line it seems like they are just ambiguous and confusing.  
+% Kerfol is a story with ghost dogs.  
+  
+  
 @book{hemingway1940whom,  
   title={For Whom the Bell Tolls},  
   author={Hemingway, E.},  
