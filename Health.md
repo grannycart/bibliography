@@ -5,6 +5,20 @@ title: Health
 
 --------------------------------------------------------------------------------
 
+
+@article{mitchell2024fooddeserts,  
+  Author={Mitchell, Stacy},  
+  url={https://www.theatlantic.com/ideas/archive/2024/12/food-deserts-robinson-patman/680765/},  
+  Title={The Great Grocery Squeeze},  
+  journal={The Atlantic},  
+  date={2024-12-06},  
+  comment={The history of the Robinson-Patman Act, which was implemented in the 1930s to prevent large grocery stores from using their size to demand cheaper prices from suppliers, large and small businesses had to be sold to at the same price --- it evened the playing field (though still allowed that items that could legitimately be sold cheaper in bulk still could be). The core of this act was dismantled by the Reagan administration, directly leading to the rise of food deserts (no grocery store for more than 10 miles in rural areas, and no grocery store within a mile in low-income areas). The problem of food deserts cannot be fixed without repairing this regulation.},  
+  category={Health, Urbanism, Criticality, Economics}  
+}  
+% Super interesting in that this is even bigger than just grocery stores. It seems like regulating price pressure by large stores is _critical_ to healthy competition in any industry, especially for keeping small businesses healthy. Yet, the Reagan era administrators dismantled Robinson-Patman because they argued it went against "economic literacy" --- and I'm sure they had the highly-regarded economists who would back this up for them.  
+% Also, I'm still skeptical about food deserts in NYC. I think the way grocery stores are measured is completely broken and ignores many many small grocery shops that DO operate effectively in low-income areas selling immmigrant-specific foods --- think of Flatbush Farms.  
+  
+  
 @article{katwala2023myopia,  
   Author={Katwala, Amit},  
   url={https://www.wired.com/story/taiwan-epicenter-of-world-myopia-epidemic/},  
