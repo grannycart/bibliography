@@ -5,6 +5,17 @@ title: Criticality
 
 --------------------------------------------------------------------------------
 
+@article{tolentino2024UHCmurder,  
+  Author={Jia Tolentino},  
+  url={https://www.newyorker.com/news/the-lede/what-the-murder-of-the-unitedhealthcare-ceo-brian-thompson-means-to-america},  
+  Title={A Man Was Murdered in Cold Blood and You’re Laughing?},  
+  journal={The New Yorker},  
+  date={2024-12-07},  
+  comment={Even though everyone hates health insurance, for wealthier people it is more of annoyance, while for poorer people it often leads to bankruptcy and literally death. In this context, United Health Care (and the health insurance industry and the US health care system in general) could be seen as carrying on structural violence --- literally harming and killing people. And while that fact is not often explicitly talked about, it is in many ways intuitively understood by most Americans. So for someone to respond to all that structual violence with a brief moment of street violence maybe not that irrational, and maybe worthy of some dark humor and cheering on.},  
+  category={Crticality, Health, health insurance, united health care murder}  
+}  
+
+
 @article{pragati2024hindu,  
   Author={K.B., Pragati},  
   url={https://www.nytimes.com/2024/10/26/world/asia/india-temple-laddu.html},  
