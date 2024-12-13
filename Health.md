@@ -362,7 +362,13 @@ title: Health
   category={Criticality, Health, Science, cancer}  
 }  
 % See also: Azra Raza, an oncologist at Columbia, 2019 book The First Cell: And the Costs of Pursuing Cancer to the Last.  
-  
+% See also this study (actual study behind paywall): https://www.cancer.gov/news-events/press-releases/2024/cancer-deaths-averted-prevention-screening-contribution
+    % The conclusion of the study focuses on 4.75 million deaths averted by prevention and screening efforts (vs a total of 5.94 million total deaths averted if you include treatment).  
+    % But of those 4.75 million 3.45 million were simply because of people stopping smoking.  
+    % Compare in scale: 1.2 million deaths from covid since 2019, and taking out smoking 1.3 million deaths were averted by cancer prevention and screening --- over the _45_ year period from 1970-2020.  
+    % In addition, 3/4s of the 1 million deaths averted in breast cancer _were_ from treatment, not screening or prevention.  
+    % And this study does not take into account false possitives or negative imapcts of over-screening.  
+    % This is really a terffic example of what's wrong with public health. Public health isn't COMPLETELY broken: the field was and is absolutely correct about smoking. But there's _so much_ blurred and inconclusive science that is reduced down to "get your mammogram!" type messaging.  
   
   
 @article{lopez2020foodexp,  
