@@ -5,6 +5,16 @@ title: Science
 
 --------------------------------------------------------------------------------
 
+@article{zimmer2024chirality,  
+  Author={Zimmer, Carl},  
+  url={https://www.nytimes.com/2024/12/12/science/mirror-life-microbes-research.html},  
+  Title={A ‘Second Tree of Life’ Could Wreak Havoc, Scientists Warn},  
+  journal={The New York Times},  
+  date={2024-12-12},  
+  comment={Open Philanthropy funds research on potential threats to humanity. They are investigating the possibility that scientitists will be able to create "mirror cells" within the next decade (or two), which have the potential to cause a widespread unstoppable pandemic. Their reverse-handedness would make them virtually unstoppable because all of nature is set up with the molecules within cell having a specific handedness (DNA is right-handed and proteins are made of left-handed amino acids --- a mirror cell would reverse that.)},  
+  category={Science, superscience, science fiction, Criticality, pandemic, chirality}  
+}  
+
 @book{bryson2019body,  
   title={The Body: A Guide for Occupants},  
   author={Bryson, B.},  
