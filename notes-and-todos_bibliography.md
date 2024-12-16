@@ -1,5 +1,5 @@
 notes-and-todos_bibliography.md
-Last modified: Mon Aug 02, 2021  03:20PM
+Last modified: 2024-12-16 09:52
 
 # Bibliography --- notes and todos
 
@@ -9,6 +9,7 @@ Last modified: Mon Aug 02, 2021  03:20PM
 	* See this stuff about changing the publishing source:
 		* https://docs.github.com/en/github/working-with-github-pages/about-github-pages#publishing-sources-for-github-pages-sites
 * [X] Finish break out by sections and experiments to see how github pages renders bib style
+* [ ] I think long entries would be better off broken up into their respective categories
 * [ ] Do something to make blank entries less prominent
 * [ ] Put default style yaml at top of Bibliography topic subpages
 * [ ] Add descriptions for each topic of what that topic covers

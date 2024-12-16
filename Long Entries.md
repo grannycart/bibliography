@@ -79,7 +79,26 @@
 	% In that sense, Tolkein is revisionism, or idealism.  
 	% But I do think disillusion became the defining characteristic of the 20th Century.  
    
- 
+  
+@book{brown2007bury,  
+  title={Bury My Heart at Wounded Knee: An Indian History of the American West},  
+  author={Brown, D.},  
+  isbn={9780805086843},  
+  lccn={2008270227},  
+  series={A Holt paperback},  
+  url={https://books.google.com/books?id=02nyRlY4rMUC},  
+  year={2007},  
+  publisher={Henry Holt and Company,
+  comment={The classic pop-science retelling of the history of native americans during the Indian wars.),  
+  category={Long Entries, Humanity, native americans, indians}  
+}  
+% page 7: "One of every four Cherokee died from cold, hunger, or disease." I feel like the Trail of Tears is often presented this way, because saying ten-thousand natives died on the Trail of Tears just doesn't sound very dramatic to the modern ear. I guess presented as a percentage of population, it better captures the suffering, but it's a pretty rough statistic.  
+% page 13: In 1860, the population of the US is 31 million. I suspect that part of the tragedy of Native Americans is due to population pressure. Looking elsewhere, it seems the total pre-Columbian population of Native Americans for all of North American was (at the highest estimate, of estimates that are very hard to get precise with) maybe 19 million. With such a small population spread across such a vast area of land, you could see how many Indians would have then sense that there's plenty of room for white people. They had no idea that there was an entire _empire_ landed on their shores.  
+	% With 30 million people hudled along the East Coast, you could see how the Indians would have thought white people abused their land. But it makes me wonder if the "abuse" was mostly a matter of density? The scale of people clusted in such a small area is something the Indians would never have seen, and have had no understanding of how that impacts land. (It would be interesting to compare to the higher-density civilizations of Central America and see how they did with their land --- my guess is not super well, but it is possible that you need modernity to really fuck up land.)  
+	% It's also possible that the density of white people is what creates most of the pressure to move westward: in an economic sense, not a suburban style need-for-a-bigger-house sense. Like, with so _many_ white people, there's going to be a significant number (probably lower-income people) who are willing to take risks and break laws to cross into Indian territory to snatch up an easy piece of economic pie. This is not to say racism and devaluing of Indian humanity didn't also play a large part. But it's hard to imagine the 19th Century American government having the resources to keep white people along an enormous border on their side of the fence (while fighting a civil war). Just as there is no way Mexico (and probably not even the US government) could keep people from crossing the border into the US today.  
+	% It just seems like there might be such an inevitably (of horror) there, that maybe is built in to the way humans work.  
+  
+   
 @book{connell1984morning,  
   title={Son of the Morning Star},  
   author={Connell, E.S. and Baskin, L.},  
