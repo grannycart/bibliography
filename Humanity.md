@@ -1132,6 +1132,16 @@ Potato potato.
 % See this article covering this paper about how humans are tied to wiping out megafauna in Patagonia: \url{http://www.nytimes.com/2016/06/18/science/patagonia-extinctions-global-warming.html}  
   
   
+@article{zimmer2024mammoth,  
+  Author={Zimmer, Carl},  
+  url={https://www.nytimes.com/2024/12/04/science/mammoth-extinction-human-hunting.html?unlocked_article_code=1.h04.lHpd.EoinAATqiyzr&smid=url-share},  
+  Title={Mammoth: It’s What Was for Dinner},  
+  journal={The New York Times},  
+  date={2024-12-04},  
+  comment={For decades scientists blamed the climate for the disappearance of megafauna in North America. But the climate thawed and froze repeatedly for millions of years without wiping out the large land animals. So why did they all die out at the end of the last ice age? The the theory that it was the presense of humans continues to be debated, but more evidence for the "overkill hypothesis" now: researching isotopes in bones of ancient North Americans, they found that the diet of one 18-month old boy from 12,000 years ago consisted of 2/3 breast milk and the rest meat: mammoth, elk, and bison. Though this is only one data point.},  
+  category={Science, Humanity, Criticality, meat, mammoth, megafauna, north america}  
+}  
+  
   
 @book{diamond2005collapse,  
   title={Collapse: How societies choose to fail or succeed},  
