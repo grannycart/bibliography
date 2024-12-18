@@ -14,6 +14,7 @@ title: Science
   comment={Open Philanthropy funds research on potential threats to humanity. They are investigating the possibility that scientitists will be able to create "mirror cells" within the next decade (or two), which have the potential to cause a widespread unstoppable pandemic. Their reverse-handedness would make them virtually unstoppable because all of nature is set up with the molecules within cell having a specific handedness (DNA is right-handed and proteins are made of left-handed amino acids --- a mirror cell would reverse that.)},  
   category={Science, superscience, science fiction, Criticality, pandemic, chirality}  
 }  
+% share article link: \url{https://www.nytimes.com/2024/12/04/science/mammoth-extinction-human-hunting.html?unlocked_article_code=1.h04.lHpd.EoinAATqiyzr&smid=url-share}
 
 @book{bryson2019body,  
   title={The Body: A Guide for Occupants},  
