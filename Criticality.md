@@ -111,6 +111,7 @@ category = {Criticality, Science, statistics, Health},
   comment={Probably at least 3 million people, and maybe as many as 35 million people, are descendants of the original ~100 that came over on the Mayflower (and the ~50 that survived the first winter in North America).},  
   category={Criticality, genealogy, mayflower}  
 }  
+% See also this more technically in-depth explanation of how we are all related to pretty much everyone who lived 800 years ago: \url{https://theconversation.com/dna-says-youre-related-to-a-viking-a-medieval-german-jew-or-a-1700s-enslaved-african-what-a-genetic-match-really-means-222833} --- 19th century connections ARE useful, before that it gets squishy, and by somewhere in medieval times we are all related.  
   
   
 @article{prestonwerner2010rdd,  
