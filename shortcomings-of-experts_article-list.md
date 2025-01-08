@@ -289,8 +289,9 @@ See notes in germs on Muzak
 * Is the staggeringly profitable business of scientific publishing bad for science?
 	* https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science 
 	* Includes a pithy description near the beginning of just how fucked up it is that journals don't have to PAY anyone for the work they publish.
-* The entire body of research that initially suggested moderate drinking was good for youwas based on a single flawed assumption:
+* The entire body of research that initially suggested moderate drinking was good for you was based an entire field of research suffering from the same fundamental error:
 	* https://www.nytimes.com/2024/06/15/magazine/alcohol-health-risks.html
+    * To start, they included ex-drinkers in the category of “abstainers,” which meant [scientists] were failing to account for the possibility that some people had stopped drinking specifically because of illness. The moderate drinkers looked healthy by comparison, creating the illusion that a moderate amount of alcohol was beneficial."
 	* Though this article is actually about how light drinking has risk, but is actually pretty low.
 	* "his phrasing lacked context; it seems loaded with the intent of shaping behavior rather than fully informing people about how to understand that risk." --- this seems like everything that's wrong with public health in one sentence.
 * https://www.nytimes.com/2025/01/06/opinion/doctors-warm-up.html
