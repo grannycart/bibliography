@@ -296,6 +296,9 @@ See notes in germs on Muzak
 	* "his phrasing lacked context; it seems loaded with the intent of shaping behavior rather than fully informing people about how to understand that risk." --- this seems like everything that's wrong with public health in one sentence.
 * https://www.nytimes.com/2025/01/06/opinion/doctors-warm-up.html
     * empirical evidence to show the extremely common-sensicle notion that doctors should have a warm up coaching with experts before performing an operation.
+* new evidence that flouride in water lowers IQs of children:
+    * https://www.nytimes.com/2025/01/08/health/fluoride-children-iq.html
+    * This is crazy, it seems like the research cited here is not very good, but still plausibly accurate. What if it turns out that flouride in water IS harmful? How could public health as a field ever survive that one? Is public health right about _anything_?
 
 
 
