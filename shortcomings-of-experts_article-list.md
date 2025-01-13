@@ -299,6 +299,8 @@ See notes in germs on Muzak
 * new evidence that flouride in water lowers IQs of children:
     * https://www.nytimes.com/2025/01/08/health/fluoride-children-iq.html
     * This is crazy, it seems like the research cited here is not very good, but still plausibly accurate. What if it turns out that flouride in water IS harmful? How could public health as a field ever survive that one? Is public health right about _anything_?
+* https://www.nytimes.com/2025/01/13/magazine/raw-milk-danger-benefits.html
+    * Raw milk probably does have genuine health benefits beyond its basic nutrition (though scientists still insist that its unproven beneits do not outweight the genuine risks)
 
 
 
