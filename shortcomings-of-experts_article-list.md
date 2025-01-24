@@ -301,6 +301,12 @@ See notes in germs on Muzak
     * This is crazy, it seems like the research cited here is not very good, but still plausibly accurate. What if it turns out that flouride in water IS harmful? How could public health as a field ever survive that one? Is public health right about _anything_?
 * https://www.nytimes.com/2025/01/13/magazine/raw-milk-danger-benefits.html
     * Raw milk probably does have genuine health benefits beyond its basic nutrition (though scientists still insist that its unproven beneits do not outweight the genuine risks)
+* https://www.nytimes.com/2025/01/24/opinion/alzheimers-fraud-cure.html
+    * Fraud in research has eaten at the core science of understanindg Alszheimer's.
+    * "For decades, Alzheimer’s research has been shaped by the dominance of a single theory, the amyloid hypothesis. It holds that amyloid proteins prompt a cascade of biochemical changes in the brain that cause dementia. The supremacy of that hypothesis has exerted enormous pressure toward scientific conformity."
+    * "The entrenchment of the amyloid hypothesis has fostered a kind of groupthink where grants, corporate riches, career advancement and professional reputations often depend on a central idea largely accepted by institutional authorities on faith."
+    * "It’s easier to publish dubious science that aligns with conventional wisdom."
+    * The last section takes some even-handedness, pointing out that some researchers accused of fraud have also produced good research, and talks about larger-scale issues in science in general. It's a really good piece.
 
 
 
