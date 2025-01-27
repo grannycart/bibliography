@@ -16,6 +16,7 @@ This is a bibliography of everything I've ever read that has any kind of resonan
 * [Music](Music.md) 
 * [The Art](The Art.md) 
 * [Criticality](Criticality.md) 
+* [Tech](Tech.md)
 * [Politics](Politics.md) (And Public Policy)
 * [Humanity](Humanity.md) 
 * [Science](Science.md) 
