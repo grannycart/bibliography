@@ -5,6 +5,16 @@ title: Housing
 
 --------------------------------------------------------------------------------
   
+article{herbert2024thirtypercent,  
+  Author={Herbert, Christopher and Hermann, Alexander and McCue, Daniel},  
+  url={https://shelterforce.org/2017/04/25/defense-30-percent-standard-cases/},  
+  Title={In Defense of the 30 Percent of Income to Housing Affordability Rule–In Some Cases},  
+  journal={Shelterforce},  
+  date={2017-04-25},  
+  comment={JCHS looks into using the metric of 30 percent of income for afforable housing. They compare it to the more accurate "residual income" measure and find that virtually everyone who is low income is housing burdened, and almost nobody who is medium to high income is. But the thirty percent rule of thumb is accurate enough for macroeconomic and rough work. Covers the history of the 30 percent guideline, and that it was originally 25 percent --- the idea being that one should spend one week's income on rent.},  
+  category={Housing, jchs, 30 percent, affordable housing}  
+} 
+% Turns out, despite being more or less arbitrary, the 30 percent rule of thumb is good enough for a lot of things, and has the benefit of being easy for everyone to understand. (Much like Chef's "17 years old" rule.)  
   
 @article{appelbaum2023tokyo,  
   Author={Appelbaum, Binyamin},  
