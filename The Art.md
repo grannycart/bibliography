@@ -5,6 +5,26 @@ title: The Art
 
 --------------------------------------------------------------------------------
 
+
+@book{byrne2012music,  
+  title={How Music Works},  
+  author={Byrne, D.},  
+  isbn={9781936365531},  
+  lccn={bl2012025818},  
+  url={https://books.google.com/books?id=o6S9wAEACAAJ},  
+  year={2012},  
+  publisher={McSweeney's},  
+  comment={David Byrne from the Talking Heads explains it all.},  
+  category={The Art, music, talking heads, david byrne}  
+}  
+% My first impression is that while it is interesting, Byrne is a very _academic_ style of writing, surprisingly.  
+% The first chapter is an explanation of a sort of medium-is-the-message thesis, where he argues that music evolves to fit the spaces it is played in. So where concert halls were originally rowdy places, orchestras got bigger to be heard over the noise. African music was designed to be played outdoors. Music for dancing originally required louder instruments like the banjo, and the improvisation of jazz was to extend the parts of the music the dancers enjoyed the most without ruining the rhythm. Arena rock developed a simple flat sound to be played at volume in a space where details would be lost. And so on.     
+    % Page 27: in a remarkable confirmation of this thesis, he says that the rise of the MP3 player as a personal listening space might lead to the evolution of "a soothing flood of ambient moods" for relaxation and decompression, or erotic vocals you can enjoy privately. He says, in 2012, he isn't aware of this having happened, but since then, I think the rise of podcasts, meditative music and ASMR videos, and erotic audio books fits his prediction precisely.  
+    % Maybe more interesting than the basic thesis is the suggestion that music that is successful is _evolved_ to fit the available venues. This makes me wonder about the creative process in general: is _evolution_ actually at the heart of it? If you create something that doesn't quite fit a medium that currently exists (think, say Dopesmoker) and it does fit a future medium well, you might be said to be ahead of your time. But if you create something brilliant, but in an old medium (say, a paper novel) then you may never find an audience because the medium you fit into has faded away. This puts into perspective Tim Howard's story about the advice from the successful band (was it the Minutemen?) to bands starting out: "Just don't suck." I feel like David Byrne's thesis suggests that just not sucking isn't enough. You can entirely not suck, but if you aren't evolved for the current moment/medium you still are likely to get passed by. 
+        % On the other hand, I like that David Byrne's thesis also implies that self-promotion (that perennial suggestion for a band trying to get going) is maybe not that crucial. Think about Anvil: you could argue they missed the boat in the 80s because they weren't evolved to quite the right place to keep up with other metal bands, and all the self-promotion they did was basically pointless, but they were evolved _perfectly_ for an aughts music documentary.  
+  
+
+
 @book{king2002writing,  
   title={On Writing},  
   author={King, S.},  
