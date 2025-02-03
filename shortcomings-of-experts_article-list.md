@@ -202,7 +202,7 @@ See notes in germs on Muzak
 
 * Chinese Medicine has proven effective in combating covid:
 	* https://www.nybooks.com/articles/2021/11/04/traditional-chinese-medicine-covid-wards/
-	* This article is much more complex than that though. TCM is actually a sterilized branding of Chinese Medicine, intended to modernize it by the Chinese Communist Part and let it compete with Western "biomedicine". Instead it exist alongside biomedicine in China as a kind of palliative thing.
+	* This article is much more complex than that though. TCM is actually a sterilized branding of Chinese Medicine, intended to modernize it by the Chinese Communist Party and let it compete with Western "biomedicine". Instead it exist alongside biomedicine in China as a kind of palliative thing.
 	* But the Communist Party is now supporting reconnecting to ancient Chinese culture, and some practitioners (those who remember it from before the Communist party) are trying to make the case that a more serious version of Chinese Medicine connected to it's thousand-years heritage, is effective in fighting modern disease.
 		* These folks want to call this more serious/complex version "Classic Chinese Medicine"
 	* To prove it, the primary proponent, who wrote an influential book about it 20 years ago, went to Wuhan to treat covid.
@@ -307,6 +307,10 @@ See notes in germs on Muzak
     * "The entrenchment of the amyloid hypothesis has fostered a kind of groupthink where grants, corporate riches, career advancement and professional reputations often depend on a central idea largely accepted by institutional authorities on faith."
     * "It’s easier to publish dubious science that aligns with conventional wisdom."
     * The last section takes some even-handedness, pointing out that some researchers accused of fraud have also produced good research, and talks about larger-scale issues in science in general. It's a really good piece.
+* Op-ed: Why the Pandemic Probably Started in a Lab, in 5 Key Points
+    * https://www.nytimes.com/interactive/2024/06/03/opinion/covid-lab-leak.html
+    * See also: A Bayesian analysis of the chance that covid was leaked from a lab finds the chance of a natural jump to be nearly 15,000:1, thus overwhelmingly more likely that it was a lab leak:
+        * https://www.nber.org/papers/w33428
 
 
 
