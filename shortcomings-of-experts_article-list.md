@@ -38,6 +38,9 @@ title: Shortcomings of experts
 	* Yet, nobody had heard of the giant data sets the scientists were citing
 	* They went ahead with publication only because they trusted the Harvard doctor leading it.
 	* And because they wanted to discredit Trump.
+    * See also: https://theconversation.com/fake-papers-are-contaminating-the-worlds-scientific-literature-fueling-a-corrupt-industry-and-slowing-legitimate-lifesaving-medical-research-246224
+        * fake papers are particularly a problem in cancer and medical research.
+        * these researchers are trying to weed out papers by looking for "tortured phrases"
 * https://www.propublica.org/article/how-americas-hospitals-survived-the-first-wave-of-the-coronavirus
 * https://www.nytimes.com/2020/07/20/world/europe/coronavirus-mistakes-france-uk-italy.html
 	* "One lesson to learn is humility"
