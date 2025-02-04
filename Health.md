@@ -825,7 +825,6 @@ category={Health, Transportation, driving}
 % \url{https://harpers.org/archive/2018/06/revolution-in-the-head/}  
 % It's hard to imagine what is suggested here: that the CIA was trying to undermine the radical left with drugs. (Though... not totally impossible.) It does seem likely, based on what was said here, that there was SOME coordinated effort to spread psychedelics. Possibly to have a larger human population to test the drugs on.  
 % It's possible psychedelics open "critical periods" in humans (and mice) where people are suddenly capable of learning new things quickly: \url{https://www.wired.com/story/the-psychedelic-scientist-who-sends-brains-back-to-childhood/}  
-% And now the pendulum swimgs the other way. It seems that pschedelics are once again being pushed by crazy people, and real benefits (if any) may be obscured by bad science and hippie agendas: \url{https://www.nytimes.com/2024/08/23/opinion/psychedelics-mdma-mental-health.html}
   
   
 @article{carey2018homelessness,  

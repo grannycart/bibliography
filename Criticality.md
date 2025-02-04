@@ -5,6 +5,18 @@ title: Criticality
 
 --------------------------------------------------------------------------------
 
+@article{jacobs2025mdma,  
+  Author={Jacobs, Andrew and Nuwer, Rachel},  
+  url={https://www.nytimes.com/2025/02/04/health/fda-mdma-psychedelic-therapy-psymposia.html},  
+  Title={How an Activist Group Helped Torpedo MDMA Therapy},  
+  journal={The New York Times},  
+  date={2025-02-04},  
+  comment={The FDA rejection of approval of MDMA + talk therapy was based largely on the testimony from a leftist group called Psymposia that has the goal of preventing psychedelics from becoming a capitalized commodity. Psymposia aggressively pushes questionable rumors of cult-like behavior and sexual abuse by Lykos (the company seeking approval from the FDA) and anyone else they see as a threat to psychedelics remaining free of capitalist influence (as they see it).},  
+  category={Health, Criticality, mdma, psychedelics}  
+}  
+% For the opposite perspective, see this article for a detailed argument sympathetic to Psymposia that psychedelic research is being pushed by crazy people, and real benefits (if any) may be obscured by bad science and hippie agendas: \url{https://www.nytimes.com/2024/08/23/opinion/psychedelics-mdma-mental-health.html}  
+  
+  
 @article{nazaryan2025monkeys,  
   Author={Nazaryan, Alexander},  
   url={https://www.nytimes.com/2025/01/03/science/monkeys-typewriter-shakespeare.html},  
