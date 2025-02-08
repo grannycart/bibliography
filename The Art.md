@@ -30,6 +30,7 @@ title: The Art
     4. When everyone is doing the same phrase, the exercise is over.  
     "It was like watching evolution on fast-forward or an emergent lifeform comes into being." It was over in four minutes.  
     (MT: though it makes me wonder if there is some element of social pressure of dancers --- willing to give themselves to the piece, rather than their own ego --- at play here: what happens to the exercise when one dance believes their phrase is just stronger than everyone else's?)  
+% Page 112: he has a good, clear description of the phenomenon of the way enabling easily copied musc (though it applies to any art that can be copied) both raises up locally unique styles and sounds, and also flattens them out as everyone tries to copy the very best (or best promoted) thing they hear. He points out that it is difficult to make judgments about this, because it flows both ways.  
 
 
 @book{king2002writing,  
