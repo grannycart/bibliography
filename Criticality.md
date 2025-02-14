@@ -2177,6 +2177,7 @@ mechanisms acting for the downward transport, the seafloor beneath this Arctic s
   comment={8300 million metric tons of plastic have been produced. 9% of those plastics were recycled, 12% were incinerated, and 79% of them ended up in landfills or the natural environment.},  
   category={Science, plastic}  
 }  
+% See also this Times piece about how plastic is moved all around the world: \url{https://www.nytimes.com/2025/02/14/opinion/trash-recycling-global-waste-trade.html}
   
   
 @article{dillontotes2016,  
