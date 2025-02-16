@@ -314,6 +314,9 @@ See notes in germs on Muzak
     * https://www.nytimes.com/interactive/2024/06/03/opinion/covid-lab-leak.html
     * See also: A Bayesian analysis of the chance that covid was leaked from a lab finds the chance of a natural jump to be nearly 15,000:1, thus overwhelmingly more likely that it was a lab leak:
         * https://www.nber.org/papers/w33428
+* Planned Parenthood is broken:
+    * Eyal Press: https://www.newyorker.com/magazine/2023/05/15/the-problem-with-planned-parenthood
+    * https://www.nytimes.com/2025/02/15/us/planned-parenthood-clinics.html
 
 
 
