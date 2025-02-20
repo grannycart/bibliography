@@ -1176,7 +1176,6 @@ Unscrupulous Landlords Cheat NYC Tenants
   comment = {NYHC launches an infographic that shows how fewer parking requirements for affordable housing in transit areas leads to more affordable housing being built.},  
   category = {affordable housing, parking, CUP}  
 }  
-% I should add the High Cost of Free Parking (essay) to this, after I read it.  
   
 @article{semuelssection8,  
   Author={Semuels, Alana},  

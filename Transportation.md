@@ -5,6 +5,19 @@ title: Transportation
 
 --------------------------------------------------------------------------------
 
+
+@article{rosenwald2025shoup,  
+  Author={Rosenwald, Michael S.},  
+  url={https://www.nytimes.com/2025/02/19/books/donald-shoup-dead.html},  
+  Title={Donald Shoup, 86, Dies; Scholar Saw the Social Costs of Free Parking},  
+  journal={The New York Times},  
+  date={2025-02-19},  
+  comment={Times obituary for Donald Shoup. Gives a basic outline of his ideas and recommendations in The High Cost of Free Parking.},  
+  category={Transportation, parking, obituaries}  
+}  
+% I think there's an essay by him with the same name as his book, that could save you reading the 700+ pages of the book.  
+  
+  
 @article{pasion2024visionzero,  
   Author={Pasion, Nicholas},  
   url={https://www.nytimes.com/2024/07/29/nyregion/street-wars-crowded-sidewalks-times-square.html},  
