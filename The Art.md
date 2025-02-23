@@ -32,6 +32,8 @@ title: The Art
     "It was like watching evolution on fast-forward or an emergent lifeform comes into being." It was over in four minutes.  
     (MT: though it makes me wonder if there is some element of social pressure of dancers --- willing to give themselves to the piece, rather than their own ego --- at play here: what happens to the exercise when one dance believes their phrase is just stronger than everyone else's?)  
 % Page 112: he has a good, clear description of the phenomenon of the way enabling easily copied musc (though it applies to any art that can be copied) both raises up locally unique styles and sounds, and also flattens them out as everyone tries to copy the very best (or best promoted) thing they hear. He points out that it is difficult to make judgments about this, because it flows both ways.  
+% Page 267: "the attitude of the state toward teaching and funding the arts has been in direct opposition to fostering creativity among the general population. It can often seem that those in power don't want us to enjoy making things for ourselves---they'd prefer to establish a cultural hierarchy that devalues our amateur efforts and encourages consumption rather than creation." Though he goes on to say he doesn't think this is a conspiracy, but "capitalism tends toward the creation of passive consumers."  
+% page 271: the don't give a shit attitude of the amateur is a precious commodity that can be liberating. Fernando Treuba argues that many directors' best films are the ones they didn't care that much about, they have more soul than the films they made when they set out to make a masterpiece.  
 
 
 @book{king2002writing,  
