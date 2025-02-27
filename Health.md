@@ -1890,9 +1890,20 @@ How could I achieve that? Heroine, maybe. But perhaps it's the ability to record
   comment={It's not clear that organs donated for transplant are being checked that they are covid positive before they are put into people.},  
   category={Health, Criticality, covid, organ donors, organ donation}  
 }  
-% The thing that really jumps out at me in this article is a single line that the family was not allowed to donate the body to science because the deceeased had indicated they wanted to be an organ   donor.  
+% The thing that really jumps out at me in this article is a single line that the family was not allowed to donate the body to science because the deceeased had indicated they wanted to be an organ donor.  
 % How much power do you lose by being an organ donor?  
 % Was the family being targeted by corpse traders though? (See cheney2004cadavers)  
+
+
+@article{rosenthal2025organs,  
+  Author={Rosenthal, Brian M. and Hansen, Mark and White, Jeremy},  
+  url={https://www.nytimes.com/interactive/2025/02/26/us/organ-transplants-waiting-list-skipped-patients.html},  
+  Title={Organ Transplant System ‘in Chaos’ as Waiting Lists Are Ignored},  
+  journal={The New York Times},  
+  date={2025-02-27},  
+  comment={Up to 30 percent of the time, organs skip over the sickest people on the list of people waiting for an organ, usually to go to a richer, whiter person. Sometimes they are skipping thousands of people. Hospitals keep their own secret lists of who they feel should get an organ, and hospitals compete with each other for organs. The system is, essentially, corrupt.},  
+  category={Health, Criticality,organ donors, organ donation}  
+}  
 
   
 @article{cheney2004cadavers,  
