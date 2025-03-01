@@ -602,7 +602,7 @@ category = {Health, Criticality, sleep, college}
 @article{carroll2018pragmatictrials,  
   Author={Carroll, Aaron E.},  
   url={https://www.nytimes.com/2018/07/23/upshot/what-if-a-study-showed-opioids-werent-usually-needed.html},  
-  Title={What if a Study Showed Opioids Weren’t Usually Needed? },  
+  Title={What if a Study Showed Opioids Weren’t Usually Needed?},  
   journal={The New York Times},  
   date={2018-07-23},  
   comment={Randomized and blind trials of drugs test "efficacy" --- whether they work or not in optimal conditions. But there is also a concept in medicine of "effectiveness" which tests whether a drug works in the real world. To test this requires a "pragmatic trial" which tests the drug as part of real-world practice (with imperfect test subjects, mixed with other drugs, and adjustments to reflect treatment). Carroll's describes here a pragmatic trial of treatment for pain with opiates that found in the real world pain could be treated equally well with non-opiates as with opiates (and without the risk of opiate addiction).},  
@@ -1234,6 +1234,8 @@ category = {Health, Criticality, time, time famine, work, protestant work ethic}
 }  
 % This modern review finds the research on whether salt is good or bad for you "truly heterogenous": https://doi.org/10.3390%2Fmedicina58091175  
 % (See also notes on Bryson's Body in Science bib category)  
+% 2025 update on the science doubles down on reducing salt (though not wholly convincingly, pointing out that the science isn't perfect and increasing potasium might achieve the same results that lowering salt does): \url{https://www.nytimes.com/2024/03/19/well/eat/sodium-salt-diet.html}  
+    % (inlcudes links to prior articles by Carroll and the Editorial Board from 2014 arguing that the guidelines for salt were too strict.  
   
   
 @article {CEA:CEA3221,  
