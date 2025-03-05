@@ -5,6 +5,20 @@ title: Humanity
 
 --------------------------------------------------------------------------------
 
+
+@book{levy2022river,  
+  title={River of Darkness: Francisco Orellana and the Deadly First Voyage through the Amazon},  
+  author={Levy, B.},  
+  isbn={9781635769197},  
+  url={https://books.google.com/books?id=OMuNzgEACAAJ},  
+  year={2022},  
+  publisher={Diversion Publishing},  
+  comment={Nonfiction (mostly) recount of the Spanish conquistador Francisco Orellana's 16th Century voyage along almost the entire length of the Amazon, from Quinto in Peru on the west coast of South America, to the outflow of the Amazon in the Atlantic.}  
+  category={Humanity, south america, amazon}  
+}  
+% Early on the encounter the San Rafael falls. When I googled them, I discovered that the falls _were_ the highest in Ecuador --- they collapsed and disappeared a few years ago: https://en.wikipedia.org/wiki/San_Rafael_Falls  
+  
+
 @article{eska2011women,  
   title={Women and slavery in the early Irish laws},  
   author={Eska, Charlene M},  
