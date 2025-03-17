@@ -46,9 +46,25 @@ article{herbert2024thirtypercent,
 % One other interesting note: Vienna is surprisingly far more diverse than I would have guessed, with a foreign-born population slightly higher than NYC's. (total pop: around 2m)  
 % "Vienna has succeeded in curbing the craving to own. It has done it by driving down the price of land through rezonings and rent control."  
 % It's not clear to me that all of this couldn't be achieved simply through a strict rent-control program. What is "limited-profit" housing except a method of rent control? (It is, in fact, the same as Mitchell-Lama, the primary driver of affordability for those buildings being that they are rent-stabilized.) What is massive public housing other than a means of taking housing out of the capitalist market system? She doesn't deny this in the article, but as usual NYC's rent stabilization is left entirely unmentioned, even while there is much detail about NYC public housing. Nobody ever seems to want to talk about rent control/stabilization in NYC because it WORKS, even though it goes against the econ 101 supply/demand curve.   
-% See also this argument for rent caps: \url{https://ctmirror.org/2023/02/21/ct-capping-rents-save-ct-economy/}  
+% See also this argument for rent caps / rent stabilization: \url{https://ctmirror.org/2023/02/21/ct-capping-rents-save-ct-economy/}  
   
+
+@techreport{NBERw33576,  
+ title = "Supply Constraints do not Explain House Price and Quantity Growth Across U.S. Cities",  
+ author = "Louie, Schuyler and Mondragon, John A and Wieland, Johannes",  
+ institution = "National Bureau of Economic Research",  
+ type = "Working Paper",  
+ series = "Working Paper Series",  
+ number = "33576",  
+ year = "2025",  
+ month = "March",  
+ doi = {10.3386/w33576},  
+ URL = "http://www.nber.org/papers/w33576",  
+ abstract = {The standard view of housing markets holds that the flexibility of local housing supply–shaped by factors like geography and regulation–strongly affects the response of house prices, house quantities and population to rising housing demand. However, from 2000 to 2020, we find that higher income growth predicts the same growth in house prices, housing quantity, and population regardless of a city's estimated housing supply elasticity. We find the same pattern when we expand the sample to 1980 to 2020, use different elasticity measures, and when we instrument for local housing demand. Using a general demand-and-supply framework, we show that our findings imply that constrained housing supply is relatively unimportant in explaining differences in rising house prices among U.S. cities. These results challenge the prevailing view of local housing and labor markets and suggest that easing housing supply constraints may not yield the anticipated improvements in housing affordability.},  
+}  
+% Is this _finally_ the academic research that shows that supply/demand is a stupidly simple rule to apply to housing markets and has no bearing in real life? Once again common sense comes out on top: increasing income has much more to do with increasing housing prices than supply. (stupid Glaeser)  
   
+
 @article{dougherty2021cahousing,  
   Author={Dougherty, Conor},  
   url={https://www.nytimes.com/2021/10/08/business/economy/california-housing.html},  
