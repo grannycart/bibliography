@@ -17,6 +17,7 @@ title: Humanity
   category={Humanity, south america, amazon}  
 }  
 % Early on the encounter the San Rafael falls. When I googled them, I discovered that the falls _were_ the highest in Ecuador --- they collapsed and disappeared a few years ago: https://en.wikipedia.org/wiki/San_Rafael_Falls  
+% The epilogue has a description of Aguire the Wrath of God's jouney down the Amazon later after Orellana.  
   
 
 @article{eska2011women,  
