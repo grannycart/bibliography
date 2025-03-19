@@ -1089,7 +1089,7 @@ Potato potato.
   
 @article{lipsyteali2016,  
   Author={Lipsyte, Robert},  
-  url={http://www.nytimes.com/2016/06/04/sports/muhammad-ali-dies.html?_r=0},  
+  url={http://www.nytimes.com/2016/06/04/sports/muhammad-ali-dies.html},  
   Title={Muhammad Ali Dies at 74: Titan of Boxing and the 20th Century},  
   journal={The New York Times},  
   date={2016-06-04},  

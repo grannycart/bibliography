@@ -2842,9 +2842,11 @@ category={trees, Science},
   Title={The Apollo 11 Telemetry Data Recordings: A Final Report},  
   journal={NASA},  
   date={2009-11-02},  
-  comment = {Report about the lost Apollo 11 moon landing tapes. Even the smartest people on the planet can drop the ball - somehow that's really reassuring. But finally claims that there is no way the missing tapes could have been considered historical and worth preserving at the time. },  
+  comment = {Report about NASA losing the priceless Apollo 11 moon landing video tapes. But finally claims that there is no way the missing tapes could have been considered historical and worth preserving at the time.},  
   category = {Science, space, nasa, moon landing tapes}  
 }  
+% Even the smartest people on the planet can drop the ball - somehow that's really reassuring.   
+  
   
 @article{fortin2017moonbag,  
   Author={Fortin, Jacey},  
