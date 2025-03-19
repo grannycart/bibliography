@@ -2845,7 +2845,7 @@ category={trees, Science},
   comment = {Report about NASA losing the priceless Apollo 11 moon landing video tapes. But finally claims that there is no way the missing tapes could have been considered historical and worth preserving at the time.},  
   category = {Science, space, nasa, moon landing tapes}  
 }  
-% Even the smartest people on the planet can drop the ball - somehow that's really reassuring.   
+% Here you have the smartest most competent people in the world at the time, working for one of the most respected government agencies, _still_ both lacking foresight and screwing up in a pretty human way. I find that oddly reassuring. I love that there's an effort to preserve special human things, and we should. But I also love it when things disappear forever, after all cultural artifacts have to "die" / disappear / have an end / get deleted from the simulator sometime too. I think we fall for a fallacy that those things could have a kind of immortality, and relative to the short span of a human lifetime, for all intents and purposes they do. But that's still a fallacy, and it feels like something special to witness the disappearance of one of those things. (Though destroying them for the sake of war seems stupid and wasteful.) The reverse happens too of course: something important is dug up. This, I guess, has no correlation with human mortality (that we know of... until the Duke is unfroze. (that's not true, BTW, he was creamated.) Sometimes new artifacts just come up out of the ground, and Dwarf Fortress has the right sense of these things: history happens and leaves behind odd little things (and occasioanlly monsters?) to dig up.   
   
   
 @article{fortin2017moonbag,  
