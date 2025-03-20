@@ -5,6 +5,22 @@ title: Tech
 
 --------------------------------------------------------------------------------
 
+@book{doctorow2015information,  
+  title={Information Doesn't Want to Be Free: Laws for the Internet Age},  
+  author={Doctorow, C. and Gaiman, N. and Palmer, A.},  
+  isbn={9781940450469},  
+  lccn={2016295678},  
+  url={https://books.google.com/books?id=oGv-sgEACAAJ},  
+  year={2015},  
+  publisher={McSweeney's Publishing},   
+  comment={Almost a self-help book on how to make a living as a creative person on the internet, but with a subtext of why open content is good.},  
+  category={Tech, Economics, Criticality}  
+}  
+% Page 42: The internet is one giant copy machine, everything is a copy: "The difference between 'streaming' and 'downloading' is whether your program gives you a 'Save as' button."  
+% Page 51: Any service on the internet that allows people to have conversations with each other is going to result in social conversation --- even though the early internet was built to talk science, it rapidly also included discussions of Star Trek. Social conversation exists all over the internet _alongside_ "content".  
+    % This page finally tipped off what I didn't understand about tiktok: tiktok finally (after years of trying) enabled people to have social conversations on the internet via video rather than text. I don't think this will ever kill off text conversations on the internet (reddit is going strong, and I think anyone who fully engages in a video sharing platform vs text will eventually come to understand that a video platform will _always_ require much more work than text --- just because there's never going to be a way to make video editing as easy as text, mostly, you are just always going to have to do multiple takes of video if you want the quality to be reasonably high. But the power of video content is real, and the more people who consume it, the more people are going to want to make it. I'm wayyyy behind on understanding this.  
+  
+  
 @article{metz2025deepseek,  
   Author={Metz, Cade and Tobin, Meaghan},  
   url={https://www.nytimes.com/2025/01/23/technology/deepseek-china-ai-chips.html},  
