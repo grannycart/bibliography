@@ -5,6 +5,16 @@ title: Health
 
 --------------------------------------------------------------------------------
 
+@article{Mandavilli2025birdflu,  
+  Author={Mandavilli, Apoorva},  
+  url={https://www.nytimes.com/2025/03/18/health/kennedy-bird-flu.html},  
+  Title={Kennedy’s Alarming Prescription for Bird Flu on Poultry Farms},  
+  journal={The New York Times},  
+  date={2025-02-18},  
+  comment={Robert F. Kennedy suggests letting bird flu run rampant to find the birds who are immune to it and breed them. Scientists point out that this would allow the virus to mutate far more and greatly increae the rise of a mutation that allows it to jump to humans. Also the birds, being factory farmed, are essenentially all genetically the same.},  
+  category={Heath, Criticality, bird flur, rfk, chickens}  
+}  
+% Here you have both the stupidity of factory farming, where the bad conditions and dependency on anti-biotics and genetically bred chickens has created ideal conditions for the spread of bird flu. And, at the same time, the idiocy of the alt health people thinking that "letting nature take its course" could solve this problem.  
 
 @article{mitchell2024fooddeserts,  
   Author={Mitchell, Stacy},  
