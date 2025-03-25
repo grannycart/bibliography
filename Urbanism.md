@@ -5,6 +5,24 @@ title: Urbanism
 
 
 --------------------------------------------------------------------------------
+
+@techreport{NBERw33597,  
+ title = "Sewers and Urbanization in the Developing World",  
+ author = "McCulloch, Sean E and Schaelling, Matthew P and Turner, Matthew and Kitagawa, Toru",  
+ institution = "National Bureau of Economic Research",  
+ type = "Working Paper",  
+ series = "Working Paper Series",  
+ number = "33597",  
+ year = "2025",  
+ month = "March",  
+ doi = {10.3386/w33597},
+ URL = "http://www.nber.org/papers/w33597",  
+ abstract = {We investigate the effects of sewer access on neighborhood characteristics in developing world cities. Because it is more difficult to move sewage uphill than downhill, otherwise similar neighborhoods on opposite sides of drainage basin divides may face different costs of sewer access. We exploit this intuition to identify the effect of sewer access by comparing outcomes for neighborhoods on opposite sides of drainage basin divides. We estimate the effect of sewer access on census tract population density, literacy, and income for Brazil, Colombia, South Africa, Jordan, and Tanzania. On average, sewer access has a large effect on population density and almost none on demographics. These estimates imply that sewer networks are often as important for the economic geography of cities as transportation networks.},  
+ comment = {Sewers are just as important for cities as transportation networks.},  
+ category = {Urbanism, sewers}  
+}
+
+
 @article{vartabedian2024ca,  
   Author={Vartabedian, Ralph},  
   url={https://www.nytimes.com/2024/08/29/us/california-corruption-huizar.html},  
