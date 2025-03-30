@@ -5,7 +5,34 @@ title: Humanity
 
 --------------------------------------------------------------------------------
 
+@book{terkel1974working,  
+  title={Working: People Talk about what They Do All Day and how They Feel about what They Do},  
+  author={Terkel, S.},  
+  number={v. 318},  
+  isbn={9780394478845},  
+  lccn={lc73018037},  
+  series={Studs Terkel},  
+  url={https://books.google.com/books?id=Jao3Y_ZmIWkC},  
+  year={1974},  
+  publisher={Pantheon Books},  
+  comment={Stud's oral history of working folks, and a few famous people.},  
+  category={Humanity}
+}  
+% So much of this book, from 1972, seems unchanged today.  
+% Page Preface I: The book opens with laborer Mike Lefevre, and you can see why: this guy has powerful stuff to say.  
+    % p. xxxi: "You can't take pride any more" Can't point to a house or a bridge built.  
+    % p. xxxii: "Somebody built the pyramids." Like to see a building like the Empire State Building with the name of every person who worked on it etched on the side.  
+    % "Working is bad enough, don't bug me." "You can't sock General Motors. You can't sock anybody in Washington. You can't sock a system." So you sock the guy sitting next to you at the bar.  
+    % "I want my kid to be an effete snob. I want him to be able to quote Walk Whitman, to be proud of it."  
+    % p. xxxiii: "Automation? Depends how it's applied. It frightens me if it puts me out on the street. It doesn't frighten me if it shortens my work week."  
+    % p. xxxiv: "It isn't that the average working guy is dumb. He's tired, that's all."  
+    % p. xxxvii: "I'd like to run a bookstore and tavern. I would like to have a place where college kids came and a steelworker could sit down and talk. Where a workingman could not be ashamed of Walt Whitman and where a college professor could not be ashamed that he painted his house over the weekend."   
+    % p. xxxviii: putting a little dent in a work piece as a kind of signature, make it unique. A mistake, mine. A whole building of bricks, with just one the wrong color.  
+% Carl Murray Bates, (stonemason) p. xivii: "All my dreams, it seems like it's got to have a piece of rock mixed in it."  
+% Roberto Acuna p. 7: This account by this organizer of migrant field workers sounds like things have barely changed since then.  
 
+  
+   
 @book{levy2022river,  
   title={River of Darkness: Francisco Orellana and the Deadly First Voyage through the Amazon},  
   author={Levy, B.},  
