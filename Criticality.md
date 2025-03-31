@@ -5,6 +5,17 @@ title: Criticality
 
 --------------------------------------------------------------------------------
 
+@article{principe2025reppressedmemories,  
+  Author={Principe, Gabrielle},  
+  url={https://theconversation.com/rethinking-repression-why-memory-researchers-reject-the-idea-of-recovered-memories-of-trauma-237419},  
+  Title={Rethinking repression − why memory researchers reject the idea of recovered memories of trauma},  
+  journal={The Conversation},  
+  date={2025-03-24},  
+  comment={There is no scientific evidence for repressed memories.},  
+  category={Criticality, repressed memories}  
+}  
+
+
 @article{jacobs2025mdma,  
   Author={Jacobs, Andrew and Nuwer, Rachel},  
   url={https://www.nytimes.com/2025/02/04/health/fda-mdma-psychedelic-therapy-psymposia.html},  

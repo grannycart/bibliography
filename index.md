@@ -77,7 +77,7 @@ value of mine or anyone else's.
   url={},  
   Title={},  
   journal={},  
-  date={2025-02-dd},  
+  date={2025-04-dd},  
   comment={},  
   category={}  
 }  
@@ -89,7 +89,7 @@ value of mine or anyone else's.
   url={},  
   Title={},  
   journal={The New York Times},  
-  date={2025-02-dd},  
+  date={2025-04-dd},  
   comment={},  
   category={}  
 }  
