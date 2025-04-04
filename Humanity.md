@@ -31,6 +31,7 @@ title: Humanity
 % Carl Murray Bates, (stonemason) p. xivii: "All my dreams, it seems like it's got to have a piece of rock mixed in it."  
 % Roberto Acuna p. 7: This account by this organizer of migrant field workers sounds like things have barely changed since then.  
 % Sharon Atkins, p. 29: You're read through all these miners and brick layers and heavy equipment aerator men, and then you hit this receptionist and it's just devastating. The work is so soul-sucking, a monkey could do it, she says. Having a college degree didn't let her find something better. She talks about how she would like to be a clock maker.  
+% Terry Mason, p. 41: Stewardess. Once again, women's work is devastating: she learns at stew school to not tell men to stop touching them, how to put on makeup, always smile. They get weighed in, told what to wear, have their hair cut. And this is the job for women that everyone _admires_ in the 70s...   
   
    
 @book{levy2022river,  
