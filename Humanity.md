@@ -32,6 +32,8 @@ title: Humanity
 % Roberto Acuna p. 7: This account by this organizer of migrant field workers sounds like things have barely changed since then.  
 % Sharon Atkins, p. 29: You're read through all these miners and brick layers and heavy equipment aerator men, and then you hit this receptionist and it's just devastating. The work is so soul-sucking, a monkey could do it, she says. Having a college degree didn't let her find something better. She talks about how she would like to be a clock maker.  
 % Terry Mason, p. 41: Stewardess. Once again, women's work is devastating: she learns at stew school to not tell men to stop touching them, how to put on makeup, always smile. They get weighed in, told what to wear, have their hair cut. And this is the job for women that everyone _admires_ in the 70s...   
+% Beryl Simpson, p. 49: airline preservationist talking about how they brought in the Sabre airline booking software, and her job became just the worst.  
+% Jill Torrance, p. 50: model. The misery of being "on call". p. 54: would join women's lib, but thinks they wouldn't have her because she's a model and wears makeup and is involved in advertising. (shades of the roots of third wave feminism there.) Feels guilty that she isn't doing something she really likes doing, because she doesn't do anything really well. Brings gifts home to her people, "like a guilty father who brings gifts for his children."  
   
    
 @book{levy2022river,  
