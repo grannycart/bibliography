@@ -319,6 +319,10 @@ See notes in germs on Muzak
 * Planned Parenthood is broken:
     * Eyal Press: https://www.newyorker.com/magazine/2023/05/15/the-problem-with-planned-parenthood
     * https://www.nytimes.com/2025/02/15/us/planned-parenthood-clinics.html
+* ADHD reserch is bunk.
+    * https://www.nytimes.com/2025/04/13/magazine/adhd-medication-treatment-research.html
+    * super long article to say there's basically no way to "test" for ADHD and there never will be. And that only treatments we haave are methamphetamines (adderall and ritalin) that make you able to focus on a task, but not actually THINK about the task. Oh and they only work for 6 months to a year, but will make kids who take them shorter over the long run.
+
 
 
 
