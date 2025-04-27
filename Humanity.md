@@ -45,8 +45,9 @@ title: Humanity
     % While it's possible that this is just the 'proper' attitude for middle-management, I think there's something deeper in this sentiment. I think it probably used to be a generally held feeling, but now is not. And in that lies the rise of individualism on the one hand, and on the other this the mistrust of experts, elites, and "top management." There was a time where workers far down the line were willing to trust top management, trust the chain of command, trust that even if they had to eat it, the people at the top knew what they were doing. Now we know that the people at the top have no idea what they are doing. Both because of a long history of top-management deliberately screwing people over and because of more transparency revealing that even if top management did have the best interests of everyone at a company in mind, they still didn't know much more than anyone else. Pair that with individualism, and there is no way (or even any reason really) to trust anyone with any kind of power. The left might say that explicitly, but the right feels it intuitively.
 % Frank Decker, long haul truck driver. p. 209: Truckers daydream while they drive. Then come into a truck stop full of wild ideas which they start telling, but peter off as they realize how crazy the ideas were.  
 	% Page 210: If you talk to them truckers are for everything liberal, but they want a conservative label on it. It's a strange paradox.  
+% Edward and Hazel Zimmer, hair stylists. p. 237. Jackie Kennedy fired white house staff when she found out they were gay because she didn't want her boys to grow up to be hairdressers. (I can't find any reference online to this being true.) (This must be the book: https://en.wikipedia.org/wiki/My_Life_with_Jacqueline_Kennedy)  
+     
   
-   
 @book{levy2022river,  
   title={River of Darkness: Francisco Orellana and the Deadly First Voyage through the Amazon},  
   author={Levy, B.},  
