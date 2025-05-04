@@ -4,6 +4,16 @@ title: Criticality
 ---
 
 --------------------------------------------------------------------------------
+@article{french2025govtaccountability,  
+  Author={French, David},  
+  url={https://www.nytimes.com/2025/05/04/opinion/supreme-court-police-accountability.html},  
+  Title={Another Reason People Fear the Government},  
+  journal={The New York Times},  
+  date={2025-05-04},  
+  comment={There are many many legal carveouts for wrongful government actions. So much so, that basically unless your clear constitutional rights were violated you are unlikely to win any kind of civil suit againt any government action that does harm to you.},  
+  category={Crticality, government, Politics}  
+}  
+
 
 @article{principe2025reppressedmemories,  
   Author={Principe, Gabrielle},  
