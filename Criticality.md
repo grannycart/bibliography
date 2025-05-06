@@ -4,6 +4,21 @@ title: Criticality
 ---
 
 --------------------------------------------------------------------------------
+
+@article{yamane2025guns,  
+  Author={Yamane, David},  
+  url={https://theconversation.com/guns-in-america-a-liberal-gun-owning-sociologist-offers-5-observations-to-understand-americas-culture-of-firearms-251084},  
+  Title={Guns in America: A liberal gun-owning sociologist offers 5 observations to understand America’s culture of firearms},  
+  journal={The New York Times},  
+  date={2025-05-01},  
+  comment={Gun ownership in America is normal, diverse, and there's one gun death per ~8500 guns -- most guns are never involved in a fatality. And most gun deaths (by far) are suicides.},  
+  category={Criticality, guns}  
+}  
+% There's some question in my mind about his calculations about the number of guns vs deaths -- first that it's counting _deaths_ not injuries. And also that it's per-year. I would be interested to see what the total danger over the lifetime of an individual weapon is.  
+% Still, the bigger point that guns are everywhere, and most people who own one are unlikely to ever see an injury from one does give clues as to why so many people would be pissed off at limitations on them. Statistics mean nothing compared to lived experience, and many many people's lived experience of guns is danger+fun with no bad consequences. This makes limitations feel like nanny-state interference.  
+    % (Though you would think that it would be easy to convince people that there should be limitations because while _they_ might be responsible with their gun, _obviously_ there's lots of crazy people out there who wouldn't be. It always seems like it's easy to convince people that everyone else is a nut. I don't understand why this can't be applied to guns.)   
+  
+  
 @article{french2025govtaccountability,  
   Author={French, David},  
   url={https://www.nytimes.com/2025/05/04/opinion/supreme-court-police-accountability.html},  
