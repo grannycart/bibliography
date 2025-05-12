@@ -46,6 +46,8 @@ title: Humanity
 % Frank Decker, long haul truck driver. p. 209: Truckers daydream while they drive. Then come into a truck stop full of wild ideas which they start telling, but peter off as they realize how crazy the ideas were.  
 	% Page 210: If you talk to them truckers are for everything liberal, but they want a conservative label on it. It's a strange paradox.  
 % Edward and Hazel Zimmer, hair stylists. p. 237. Jackie Kennedy fired white house staff when she found out they were gay because she didn't want her boys to grow up to be hairdressers. (I can't find any reference online to this being true.) (This must be the book: https://en.wikipedia.org/wiki/My_Life_with_Jacqueline_Kennedy)  
+% Dave Bender, machine builder. p. 393. This guy is the archetype for _By Sound Alone_. He runs a machine shop where he builds machines to make things like pinball machine parts or cut straws to length. He has shots of whisky with Studs when he meets him. He took apart and reassembled a Model T when he was 13. He has a swear buddy who all they do is swear at each other. The dude's name is Bender!  
+    % Mostly in this book I note how similar all the things workers complain about are from 50 years ago to today. Not this guy. He seems very much from an older time that no longer exists, as I describe in my preface to BSA.  
      
   
 @book{levy2022river,  
