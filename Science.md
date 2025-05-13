@@ -5,6 +5,16 @@ title: Science
 
 --------------------------------------------------------------------------------
 
+@article{kligannon2025flesheatingbugs,  
+  Author={Kilgannon, Corey},  
+  url={https://www.nytimes.com/2025/05/13/nyregion/american-museum-natural-history-beetles.html?unlocked_article_code=1.G08.-qmT.NVhWA8Li_ia9&smid=url-share},  
+  Title={Behind a Museum Door, These Beetles Are Eating Flesh for Science},  
+  journal={The New York Times},  
+  date={2025-05-13},  
+  comment={A tour of AMNH's flesh-eating bug room.},  
+  category={Science, bugs, beetles, flesh-eating bugs, carcass, carrion, american museum of natural history}  
+}  
+
 @article{zimmer2024chirality,  
   Author={Zimmer, Carl},  
   url={https://www.nytimes.com/2024/12/12/science/mirror-life-microbes-research.html},  
