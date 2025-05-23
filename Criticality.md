@@ -5,6 +5,19 @@ title: Criticality
 
 --------------------------------------------------------------------------------
 
+
+@article{reich2018geneticsrace,  
+  Author={Reich, David},  
+  url={https://www.nytimes.com/2018/03/23/opinion/sunday/genetics-race.html},  
+  Title={How Genetics Is Changing Our Understanding of ‘Race’},  
+  journal={The New York Times},  
+  date={2025-05-23},  
+  comment={Despite the common claim that there is no significant genetic differences between races, scientists are discovering more and more average differences between groups of people that overlap with the construct of 'race'. Reich argues that we should be addressing this face on, otherwise science will undermine the position of well-meaning people insisting that there is no difference at all. He points out that it is widely accepted that there are average genetic differences between males and females (much larger differences than between any two groups of humans) and that the same applies to a lesser degree to groups of humans. It is as ignorant to deny this as it is to claim that stereotypes about race are true because of genetics. He closes with the appeal that all individuals should be empowered regardless of their genetic background.},  
+  category={Criticality, Science, race, genetics}  
+}  
+% An interesting entry in the don't-go-against-the-common-sense-of-large-groups-of-humans-without-strong-evidence conundrum: one the one hand, _of course_ the sense that we all have that there are genetic differences between race has to be correct. On the other, the risk of the amplficatin of negative sterotypes that come with this 'common sense' is so bad (and almost certainly just _incorrect_)that you can't just say: well, you should have trusted the general gut sense more on this.  
+  
+  
 @article{yamane2025guns,  
   Author={Yamane, David},  
   url={https://theconversation.com/guns-in-america-a-liberal-gun-owning-sociologist-offers-5-observations-to-understand-americas-culture-of-firearms-251084},  
