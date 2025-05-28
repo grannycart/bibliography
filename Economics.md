@@ -5,6 +5,22 @@ title: Economics
 
 --------------------------------------------------------------------------------
   
+
+@article{10.1257/jep.14.3.95,  
+  Author = {Siegfried, John J. and Zimbalist, Andrew},  
+  Title = {The Economics of Sports Facilities and Their Communities},  
+  Journal = {Journal of Economic Perspectives},  
+  Volume = {14},  
+  Number = {3},  
+  Year = {2000},  
+  Month = {September},  
+  Pages = {95–114},  
+  DOI = {10.1257/jep.14.3.95},  
+  URL = {https://www.aeaweb.org/articles?id=10.1257/jep.14.3.95},   
+  comment = {There is no doubt that sports stadiums are bad economic investments for cities. This is the classi/definitive paper on the subject.},  
+}  
+% See also: \url{https://www.nytimes.com/2025/05/28/opinion/stadiums-sports-nfl-commanders.html} that points out that while cities seem to struggle to build anything else (housing, transit, infrastructure) they have no problem building 1b dollar stadiums that are used 20 days a year.  
+  
   
 @article{beam2024pricing,  
   Author={Beam, Christopher},  
