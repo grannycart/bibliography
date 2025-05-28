@@ -5,6 +5,15 @@ title: Transportation
 
 --------------------------------------------------------------------------------
 
+@article{penn2025electriccars,  
+  Author={Penn, Ivan},  
+  url={https://www.nytimes.com/2025/05/26/business/electric-vehicles-history.html},  
+  Title={Electric Vehicles Died a Century Ago. Could That Happen Again?},  
+  journal={The New York Times},  
+  date={2025-05-26},  
+  comment={A history of electric cars, how they were strong competitors for gas cars in the 19th century and seen as effeminate because they were quiet.},  
+  category={Transportation, electric cars}  
+}  
 
 @article{rosenwald2025shoup,  
   Author={Rosenwald, Michael S.},  
