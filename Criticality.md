@@ -6,6 +6,18 @@ title: Criticality
 --------------------------------------------------------------------------------
 
 
+
+@article{frances2025autism,  
+  Author={Frances, Allen},  
+  url={https://www.nytimes.com/2025/06/23/opinion/why-autism-rates-increased.html},  
+  Title={Autism Rates Have Increased 60-Fold. I Played a Role in That.},  
+  journal={The New York Times},  
+  date={2025-06-23},  
+  comment={From the person who chaired the task force that created the DSM-IV, which added Asperger's (who was a Nazi collaborater) a diagnosis intended for people who have signs of autism but didn't meet the strict standards for it. (With DSM-III, autism was rare and reserved for Rain Man style disability.) Despite "careful studies" that said included Autism would only lead to modest further diagnosis, the number of diagnoses ballooned. Frances argues here that this entirely accounts for the "rise" in autism number.},  
+  category={Criticality, Health, autism}  
+}  
+  
+
 @article{reich2018geneticsrace,  
   Author={Reich, David},  
   url={https://www.nytimes.com/2018/03/23/opinion/sunday/genetics-race.html},  
