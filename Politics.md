@@ -5,6 +5,15 @@ title: Politics and Public Policy
 
 --------------------------------------------------------------------------------
 
+@article{cohn2025ifeveryonevoted,  
+  Author={Cohn, Nate},  
+  url={https://www.nytimes.com/2020/01/23/us/september-11-attacks-saudi-arabia.html},  
+  Title={If Everyone Had Voted, Harris Still Would Have Lost},  
+  journal={The New York Times},  
+  date={2025-06-26},  
+  comment={More complete election data now available shows that if everyone had voted, Kamala Harris still would have lost. This disproves the theory that Democrats could have won if they just mobilizd better turnout: those voters who didn't vote were swing voters who would have voted for Trump anyway. "In the end, Democrats alienated voters whose longtime support they might have taken for granted." Howevver, this does not suggest a clear strategy of moving towards the center: the voters who stayed home weren't as much middle-class white centrists as young and people of color, alienated from the party. Whether moving to the center or not would win those people back is a wide open question.},  
+  category={Criticality, Politics, kamala harris, trump 2024 election}  
+}  
 
 @article{sasso2023jan6,  
   Author={Sasso, James},  
