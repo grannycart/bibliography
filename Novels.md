@@ -5,6 +5,22 @@ title: Novels
 
 --------------------------------------------------------------------------------
 
+@book{faulkner1991sound,  
+  title={The Sound and the Fury: The Complete, Definitive Edition},  
+  author={Faulkner, W. and Cep, C.},  
+  isbn={9780679732242},  
+  lccn={84042626},  
+  series={Vintage International},  
+  year={1991},  
+  publisher={Knopf Doubleday Publishing Group},  
+  comment={One of Faulkner's classics, challenging in its abstraction and use of different narrative styles including stream of consciousness.},   
+  category={Novels}  
+}  
+% Definitely not my favorite of Faulkner's novels. The abstraction, I think, is _too_ abstract --- hard reading for nothing more than the sake of hard reading. As further evidence for this, apparently Faulkner couldn't be bothered to re-read his own novel when he later wrote an Appendix to it to try to help clear it up. Its four sections get progressively less abstracted, starting first with the perspective of mentally handicapped Benjamin, then moving to Quentin who has a tendency to wander off into the barely-coherent, then to Jason who is not abstracted, but is a dick, and finally to third-person narrative that reads like other Faulkner. So, the book gets better as it goes along, but isn't ever as good as some other Faulkner.  
+% chap 2: “When the shadow of the sash appeared on the curtains it was between seven and eight o' clock and then I was in time again, hearing the watch. It was Grandfather's and when Father gave it to me he said I give you the mausoleum of all hope and desire; it's rather excruciating-ly apt that you will use it to gain the reducto absurdum of all human experience which can fit your individual needs no better than it fitted his or his father's. I give it to you not that you may remember time, but that you might forget it now and then for a moment and not spend all your breath trying to conquer it. Because no battle is ever won he said. They are not even fought. The field only reveals to man his own folly and despair, and victory is an illusion of philosophers and fools.”  
+% chap 4: “Then Ben wailed again, hopeless and prolonged. It was nothing. Just sound. It might have been all time and injustice and sorrow become vocal for an instant by a conjunction of planets.”   
+  
+
 @book{wharton2021ghosts,  
   title={Ghosts},  
   author={Wharton, E.},  
@@ -13,8 +29,8 @@ title: Novels
   url={https://books.google.com/books?id=oTFMEAAAQBAJ},  
   year={2021},  
   publisher={New York Review Books},  
-  category={Novels},  
-  comment=(Wharton's collection of ghost stories, as selected and put in order by her.)  
+  comment=(Wharton's collection of ghost stories, as selected and put in order by her.),  
+  category={Novels}  
 }  
 % A couple of these have extremely ambiguous endings (The Eyes, The Lady's Maid's Bell), and I thought I was just being dumb and missing something, but googling on line it seems like they are just ambiguous and confusing.  
 % Kerfol is a story with ghost dogs.  
