@@ -6,6 +6,20 @@ title: Urbanism
 
 --------------------------------------------------------------------------------
 
+@book{moss2017vanishing,  
+  title={Vanishing New York: how a great city lost its soul},  
+  author={Moss, Jeremiah},  
+  journal={(No Title)},  
+  year={2017},  
+  comment={A critique of the loss to "hyper-gentrification" of "old New York" with its old immigrant culture, (particularly businesses) artists, and weirdos.},  
+  category={Criticality, Urbanism, nyc},  
+}  
+% So far, this book suffers from being not about "New York City", but in fact about Manhattan. The primary problem with that being that as time has gone on and Manhattan has been lost to the yuppies, it is not clear that New York City's creative scene isn't thriving more than ever in the outter boroughs. And it's _clear_ that NYC's immigrant culture is thriving in the outter boroughs.  
+    % The secondary problem is that it doesn't look like he is going to address the fact that artists were/are used as a tool (over and over again) to _help_ gentrify neighborhoods. I think Moss takes a very simplistic stance on gentrification because it makes it easier to manage. But unfortunately gentrification is _extremely_ complex, (and not the simple tool for exploitation that either its critics or promoters think it is / want it to be.)  
+% page 5: "It's not easy for me to conjure romance for Flushing" (Has he _been_ to Flushing recently? It's an amazing place!)  
+% page 45: about the Red Square development on the Lower East Side, designed by Tibor Kalman. He cites some yuppie girl who cherishes her view of the Lenin statue that was in Red Square. Moss seems to be mocking that. (According to the internet, the statue was both absorbed as part of the quirky culture of the LES, and also removed in 2016 -- before this book was published.)    
+
+
 @techreport{NBERw33597,  
  title = "Sewers and Urbanization in the Developing World",  
  author = "McCulloch, Sean E and Schaelling, Matthew P and Turner, Matthew and Kitagawa, Toru",  
